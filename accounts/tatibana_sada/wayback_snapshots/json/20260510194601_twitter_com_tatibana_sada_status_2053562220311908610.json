@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2053275480120520767",
+    "created_at": "2026-05-10T19:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053562220311908610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4621959314",
+          "start": 0,
+          "username": "Labelray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053562220311908610",
+    "in_reply_to_user_id": "4621959314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053275480120520767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Labelray 你得绷住，装体面，不然就会变成一个什么时候都会被trigger到的人并被别人一眼看出永远有一个y染色体。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053275475053854720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6zKnSbQAAOODs.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2053275480120520767",
+        "created_at": "2026-05-10T19:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053562220311908610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4621959314",
+              "start": 0,
+              "username": "Labelray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053562220311908610",
+        "in_reply_to_user_id": "4621959314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053275480120520767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Labelray 你得绷住，装体面，不然就会变成一个什么时候都会被trigger到的人并被别人一眼看出永远有一个y染色体。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053275475053854720"
+          ]
+        },
+        "author_id": "4621959314",
+        "conversation_id": "2053275480120520767",
+        "created_at": "2026-05-10T00:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053275480120520767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XWh7Ej3gzQ",
+              "end": 31,
+              "expanded_url": "https://x.com/Labelray/status/2053275480120520767/photo/1",
+              "media_key": "3_2053275475053854720",
+              "start": 8,
+              "url": "https://t.co/XWh7Ej3gzQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053275480120520767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3719,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨父权制社会 https://t.co/XWh7Ej3gzQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 1040,
+          "like_count": 7535,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2493
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-21T13:15:35.000Z",
+        "description": "虽然常常自称为狗但其实是猫系人类",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/labelray",
+                "end": 23,
+                "expanded_url": "http://t.me/labelray",
+                "start": 0,
+                "url": "https://t.co/FtE3Z3zIA5"
+              }
+            ]
+          }
+        },
+        "id": "4621959314",
+        "location": "Seattle, WA",
+        "name": "Labelray",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768507802836664320/WQw1TZQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2909,
+          "following_count": 493,
+          "like_count": 9620,
+          "listed_count": 17,
+          "media_count": 501,
+          "tweet_count": 11870
+        },
+        "url": "https://t.co/FtE3Z3zIA5",
+        "username": "Labelray",
+        "verified": false
+      }
+    ]
+  }
+}

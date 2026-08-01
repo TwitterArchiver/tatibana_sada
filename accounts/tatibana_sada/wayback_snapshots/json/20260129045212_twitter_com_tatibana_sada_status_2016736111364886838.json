@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2016736111364886838",
+    "created_at": "2026-01-29T04:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974082673095118848",
+          "start": 3,
+          "username": "tuzhilaoye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016736111364886838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016497267713200292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuzhilaoye: 可以说，女性是国家的狗腿子。\n是进一步剥削想要“躺平”的年轻人的工具。\n她们的舒适和地位的提高，是以牺牲社会的健康为代价的，是注定不长久的。\n\n等到下一次国家要杀她们来取悦男性的时候，比如要打台湾，那时候就没有人会同情女性的悲惨了。而是旁观和嘲笑…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974082673095118848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2016496531327594738",
+        "created_at": "2026-01-28T13:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "entities": {},
+        "geo": {},
+        "id": "2016497267713200292",
+        "in_reply_to_user_id": "1974082673095118848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 514,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016496531327594738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以说，女性是国家的狗腿子。\n是进一步剥削想要“躺平”的年轻人的工具。\n她们的舒适和地位的提高，是以牺牲社会的健康为代价的，是注定不长久的。\n\n等到下一次国家要杀她们来取悦男性的时候，比如要打台湾，那时候就没有人会同情女性的悲惨了。而是旁观和嘲笑她们曾经的短视和愚蠢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 995,
+          "like_count": 7041,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2419
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T12:02:49.000Z",
+        "description": "文洁· 秽土转生版 继续不定期普及#反出生主义 思想。",
+        "id": "1974082673095118848",
+        "name": "叶文洁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974083039274688513/PqtChwQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 427,
+          "like_count": 12600,
+          "listed_count": 12,
+          "media_count": 55,
+          "tweet_count": 2596
+        },
+        "username": "tuzhilaoye",
+        "verified": false
+      }
+    ]
+  }
+}

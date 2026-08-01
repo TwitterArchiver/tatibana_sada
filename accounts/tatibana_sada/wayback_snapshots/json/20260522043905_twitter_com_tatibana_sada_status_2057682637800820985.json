@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057682637800820985",
+    "created_at": "2026-05-22T04:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T05:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057682637800820985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1989886231027806208",
+          "start": 3,
+          "username": "Yin_Sakajen"
+        },
+        {
+          "end": 26,
+          "id": "1280001743162609664",
+          "start": 17,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057682637800820985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057517488741687504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yin_Sakajen: @Poca2381 你骚不过他，你信不信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057682637800820985",
+        "created_at": "2026-05-22T04:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057682637800820985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1989886231027806208",
+              "start": 3,
+              "username": "Yin_Sakajen"
+            },
+            {
+              "end": 26,
+              "id": "1280001743162609664",
+              "start": 17,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057682637800820985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057517488741687504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yin_Sakajen: @Poca2381 你骚不过他，你信不信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989886231027806208",
+        "conversation_id": "2057485515612701076",
+        "created_at": "2026-05-21T17:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057517488741687504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057517488741687504",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59900,
+          "like_count": 791,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057485515612701076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 你骚不过他，你信不信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 1165,
+          "like_count": 8263,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2720
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T02:41:17.000Z",
+        "description": "",
+        "id": "1989886231027806208",
+        "name": "尹芸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055003062184644608/dm38rQ03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 235,
+          "like_count": 2132,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 394
+        },
+        "username": "Yin_Sakajen",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20752,
+          "following_count": 8269,
+          "like_count": 150946,
+          "listed_count": 50,
+          "media_count": 4285,
+          "tweet_count": 49000
+        },
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

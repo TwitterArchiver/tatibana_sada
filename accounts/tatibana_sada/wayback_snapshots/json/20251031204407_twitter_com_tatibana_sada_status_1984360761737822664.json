@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "1984360761737822664",
+    "created_at": "2025-10-31T20:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T21:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984360761737822664"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "拆牆運動"
+        },
+        {
+          "end": 125,
+          "start": 119,
+          "tag": "網絡防火牆"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1794106744819351552",
+          "start": 3,
+          "username": "BanGFW0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984360761737822664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983813532467466548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BanGFW0: #拆牆運動 網站被中共黑客攻擊完全癱瘓（狀況無法修復，很多數據被攻擊丟失）；\n經過幾個月現已經重新搭建，請廣大對拆牆愛好者在網站留言，投稿；\n拆牆運動簽署行動已再次啟動，可在網站直接簽署。\n望廣大網友參與，中共 #網絡防火牆 的倒塌需要大家的參與和支持…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1385,
+        "media_key": "3_1983813528629686272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4fr5MKWMAAaVY-.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1984360761737822664",
+        "created_at": "2025-10-31T20:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T21:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984360761737822664"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "拆牆運動"
+            },
+            {
+              "end": 125,
+              "start": 119,
+              "tag": "網絡防火牆"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794106744819351552",
+              "start": 3,
+              "username": "BanGFW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984360761737822664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983813532467466548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BanGFW0: #拆牆運動 網站被中共黑客攻擊完全癱瘓（狀況無法修復，很多數據被攻擊丟失）；\n經過幾個月現已經重新搭建，請廣大對拆牆愛好者在網站留言，投稿；\n拆牆運動簽署行動已再次啟動，可在網站直接簽署。\n望廣大網友參與，中共 #網絡防火牆 的倒塌需要大家的參與和支持…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983813528629686272"
+          ]
+        },
+        "author_id": "1794106744819351552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1983813532467466548",
+        "created_at": "2025-10-30T08:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T09:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983813532467466548"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "拆牆運動"
+            },
+            {
+              "end": 112,
+              "start": 106,
+              "tag": "網絡防火牆"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ban-gfw.com/category/%e5%b…",
+              "end": 154,
+              "expanded_url": "https://ban-gfw.com/category/%e5%bb%ba%e5%a2%bb%e6%83%a1%e4%ba%ba%e6%a6%9c/",
+              "start": 131,
+              "status": 200,
+              "title": "建墻惡人榜 – 拆墻運動",
+              "unwound_url": "https://ban-gfw.com/category/%e5%bb%ba%e5%a2%bb%e6%83%a1%e4%ba%ba%e6%a6%9c/",
+              "url": "https://t.co/sSlQm558IZ"
+            },
+            {
+              "display_url": "pic.x.com/i9YLqlFTEF",
+              "end": 178,
+              "expanded_url": "https://x.com/BanGFW0/status/1983813532467466548/photo/1",
+              "media_key": "3_1983813528629686272",
+              "start": 155,
+              "url": "https://t.co/i9YLqlFTEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983813532467466548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 973,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#拆牆運動 網站被中共黑客攻擊完全癱瘓（狀況無法修復，很多數據被攻擊丟失）；\n經過幾個月現已經重新搭建，請廣大對拆牆愛好者在網站留言，投稿；\n拆牆運動簽署行動已再次啟動，可在網站直接簽署。\n望廣大網友參與，中共 #網絡防火牆 的倒塌需要大家的參與和支持！\n網址：https://t.co/sSlQm558IZ https://t.co/i9YLqlFTEF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 666,
+          "like_count": 3896,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1649
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T20:42:57.000Z",
+        "description": "如果世界不帮助中国人拆掉中共 #网络防火墙，中共一定把灾难送给世界；从发起 #拆墙运动 以来被中共势力举报导致多个账户被封；建墙嫌疑人博客：https://t.co/RMlGddqzyU，拆墙运动博客：https://t.co/tC29urdY1W。支持中华民国台湾是独立的国家!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 15,
+                "tag": "网络防火墙"
+              },
+              {
+                "end": 43,
+                "start": 38,
+                "tag": "拆墙运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "safechat.com/u/ban_great.wa…",
+                "end": 93,
+                "expanded_url": "https://safechat.com/u/ban_great.wall",
+                "start": 70,
+                "url": "https://t.co/RMlGddqzyU"
+              },
+              {
+                "display_url": "bangfw23.blogspot.com",
+                "end": 124,
+                "expanded_url": "https://bangfw23.blogspot.com",
+                "start": 101,
+                "url": "https://t.co/tC29urdY1W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ban-gfw.com",
+                "end": 23,
+                "expanded_url": "https://ban-gfw.com",
+                "start": 0,
+                "url": "https://t.co/0zsEUAv6gm"
+              }
+            ]
+          }
+        },
+        "id": "1794106744819351552",
+        "location": "瑞典",
+        "name": "Ban_GFW Offcial 拆墙运动公号1.",
+        "pinned_tweet_id": "1983813532467466548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854263190948839431/Erx3YGhE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 371,
+          "like_count": 1569,
+          "listed_count": 5,
+          "media_count": 282,
+          "tweet_count": 2926
+        },
+        "url": "https://t.co/0zsEUAv6gm",
+        "username": "BanGFW0",
+        "verified": false
+      }
+    ]
+  }
+}

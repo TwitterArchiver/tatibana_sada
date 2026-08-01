@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1992220024002793490",
+    "created_at": "2025-11-22T13:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T14:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992220024002793490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/langheying/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/langheying/status/1991930655908012280",
+          "start": 24,
+          "url": "https://t.co/bIYrcyR5MR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992220024002793490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991930655908012280",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要宣布他老人家要成为不膜拜犹太人的平沢巡了。 https://t.co/bIYrcyR5MR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 376,
+        "media_key": "3_1991930653966057472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6TCYEbbwAAGZf0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992220024002793490",
+        "created_at": "2025-11-22T13:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992220024002793490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/langheying/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/langheying/status/1991930655908012280",
+              "start": 24,
+              "url": "https://t.co/bIYrcyR5MR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992220024002793490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991930655908012280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要宣布他老人家要成为不膜拜犹太人的平沢巡了。 https://t.co/bIYrcyR5MR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991930653966057472"
+          ]
+        },
+        "author_id": "1706612962168070144",
+        "conversation_id": "1991930655908012280",
+        "created_at": "2025-11-21T18:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T19:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991930655908012280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBoLhyC04Z",
+              "end": 28,
+              "expanded_url": "https://x.com/langheying/status/1991930655908012280/photo/1",
+              "media_key": "3_1991930653966057472",
+              "start": 5,
+              "url": "https://t.co/FBoLhyC04Z"
+            },
+            {
+              "display_url": "x.com/limo_0829/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/limo_0829/status/1991790423740964990",
+              "start": 29,
+              "url": "https://t.co/ANieKeLLoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991930655908012280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5250,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991790423740964990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回顾经典 https://t.co/FBoLhyC04Z https://t.co/ANieKeLLoo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 901,
+          "like_count": 5933,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 2148
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T10:13:39.000Z",
+        "description": "狼桜一生押し",
+        "id": "1706612962168070144",
+        "location": "Hong Kong",
+        "name": "リシャオラン🐻",
+        "pinned_tweet_id": "1959130278301245635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954197516884336640/mj-WM2By_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 1248,
+          "like_count": 3542,
+          "listed_count": 2,
+          "media_count": 905,
+          "tweet_count": 2789
+        },
+        "username": "langheying",
+        "verified": false
+      }
+    ]
+  }
+}

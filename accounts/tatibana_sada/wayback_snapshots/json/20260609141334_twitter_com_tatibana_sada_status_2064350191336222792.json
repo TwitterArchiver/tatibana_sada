@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2064286422983725551",
+    "created_at": "2026-06-09T14:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064350191336222792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261560609214087168",
+          "start": 0,
+          "username": "Cathy_eko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064350191336222792",
+    "in_reply_to_user_id": "1261560609214087168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064286422983725551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cathy_eko 你都在自由世界了怎么还指三道四的，不排华行吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2064286416377667584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXRjwLa4AA1s_d.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064286422983725551",
+        "created_at": "2026-06-09T14:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064350191336222792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261560609214087168",
+              "start": 0,
+              "username": "Cathy_eko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064350191336222792",
+        "in_reply_to_user_id": "1261560609214087168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064286422983725551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cathy_eko 你都在自由世界了怎么还指三道四的，不排华行吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064286416377667584"
+          ]
+        },
+        "author_id": "1261560609214087168",
+        "conversation_id": "2064286422983725551",
+        "created_at": "2026-06-09T10:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064286422983725551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNd9xhHxPN",
+              "end": 112,
+              "expanded_url": "https://x.com/Cathy_eko/status/2064286422983725551/photo/1",
+              "media_key": "3_2064286416377667584",
+              "start": 89,
+              "url": "https://t.co/LNd9xhHxPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064286422983725551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 906,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大城市有大城市的好，我想去大城市了。真心劝告来澳洲不缺钱体验人生还是去悉尼墨尔本布里斯班吧，大城市生活真的丰富多了，其他地方跟坐牢一样，幸好我这离大城市不算太远80km🙂‍↔️ https://t.co/LNd9xhHxPN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1292,
+          "like_count": 9172,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3164
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "备用号@Cathylp1984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Cathylp1984"
+              }
+            ]
+          }
+        },
+        "id": "1261560609214087168",
+        "location": "弓張",
+        "name": "布洛芬重度依赖",
+        "pinned_tweet_id": "2054898564535595010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053372636898725888/9buW95xv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5083,
+          "following_count": 1421,
+          "like_count": 167476,
+          "listed_count": 58,
+          "media_count": 6139,
+          "tweet_count": 65899
+        },
+        "username": "Cathy_eko",
+        "verified": false
+      }
+    ]
+  }
+}

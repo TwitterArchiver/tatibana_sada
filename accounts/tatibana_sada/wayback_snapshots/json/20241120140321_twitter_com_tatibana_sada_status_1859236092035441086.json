@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1859215651895963901",
+    "created_at": "2024-11-20T14:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T15:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859236092035441086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859236092035441086",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859215651895963901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 宝宝我爱你💕💕💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1859215651895963901",
+        "created_at": "2024-11-20T14:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T15:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859236092035441086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859236092035441086",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859215651895963901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 宝宝我爱你💕💕💕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859215648913756160"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1859215651895963901",
+        "created_at": "2024-11-20T12:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T13:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859215651895963901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxv2NnS7wd",
+              "end": 132,
+              "expanded_url": "https://x.com/amecandy_x/status/1859215651895963901/photo/1",
+              "media_key": "3_1859215648913756160",
+              "start": 109,
+              "url": "https://t.co/kxv2NnS7wd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859215651895963901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1452,
+          "like_count": 37,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "（转发+评论+点赞抽8个9.9元\n想说的：\n1600fo啦我真的很感谢很感激大家……我经常会发一些奇怪的话我的爱好也很小众可是大家还是会喜欢我我好开心🥺👉👈我没有生活我只是在我的小家里od完对着屏幕哭……真的感谢…… https://t.co/kxv2NnS7wd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 510,
+          "like_count": 2770,
+          "listed_count": 1,
+          "tweet_count": 1438
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "可以叫我 Rain 哦我是双相重抑重焦并且喜欢 od 的小女孩/\n\n我发的是碎碎念和发疯。我很孤独，所以我希望被所有人看见和喜欢🥺/\n\n17岁 初三休学至今 药物和休学导致知识缺失 可能导致的表达失误提前致歉/\n\n佐匹克隆唯粉 推文大量负能量和幻觉描写警告⚠️ 需要互 fo 请私信/\n\n不要对我键政因为你水平没我高啦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/CwKoKqRk8n"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "我的网站，oc小说连载处→",
+        "name": "超絕最可愛 Rain 💙🧬",
+        "pinned_tweet_id": "1859234572786896949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772147307787739136/uXU9kK7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 983,
+          "like_count": 12647,
+          "listed_count": 6,
+          "tweet_count": 4016
+        },
+        "url": "https://t.co/CwKoKqRk8n",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

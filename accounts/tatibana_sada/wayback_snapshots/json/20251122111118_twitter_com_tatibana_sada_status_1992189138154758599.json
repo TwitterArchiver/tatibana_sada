@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1992189138154758599",
+    "created_at": "2025-11-22T11:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T12:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992189138154758599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1707741005490049024",
+          "start": 3,
+          "username": "tatibana_sada"
+        },
+        {
+          "end": 29,
+          "id": "1863439189909618688",
+          "start": 19,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992189138154758599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992189119259382132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatibana_sada: @hsn8086xe 采子哥MTF论要变显学了？记得当初我不是第一个搓出来的人也是最初几个开始讲这个的人了。\n其实推论很简单。父名父性的秩序最为强健的时候，是能保证所有人各安其份的。能够提出尖锐的进攻的人必须一开始就自觉到缺少了什么。父亲死…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992189138154758599",
+        "created_at": "2025-11-22T11:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992189138154758599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1707741005490049024",
+              "start": 3,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 29,
+              "id": "1863439189909618688",
+              "start": 19,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992189138154758599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992189119259382132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatibana_sada: @hsn8086xe 采子哥MTF论要变显学了？记得当初我不是第一个搓出来的人也是最初几个开始讲这个的人了。\n其实推论很简单。父名父性的秩序最为强健的时候，是能保证所有人各安其份的。能够提出尖锐的进攻的人必须一开始就自觉到缺少了什么。父亲死…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992095033869382107",
+        "created_at": "2025-11-22T11:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992189119259382132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992189119259382132",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992095033869382107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 采子哥MTF论要变显学了？记得当初我不是第一个搓出来的人也是最初几个开始讲这个的人了。\n其实推论很简单。父名父性的秩序最为强健的时候，是能保证所有人各安其份的。能够提出尖锐的进攻的人必须一开始就自觉到缺少了什么。父亲死了-天父死了-上帝死了。我一直都觉得采子哥不是超人导师而是超人梦女。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 897,
+          "like_count": 5920,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 2145
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1946867029245624703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27720,
+          "following_count": 362,
+          "like_count": 60,
+          "listed_count": 78,
+          "media_count": 8210,
+          "tweet_count": 8239
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

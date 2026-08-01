@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057835174772326627",
+    "created_at": "2026-05-22T20:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T21:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057928083349578162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2000383206445719552",
+          "start": 0,
+          "username": "PRC_Arba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057928083349578162",
+    "in_reply_to_user_id": "2000383206445719552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057835174772326627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRC_Arba 右边的会让中国人觉得人死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 906,
+        "media_key": "3_2057835082799529984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7mGtyaQAAH9BQ.jpg",
+        "width": 906
+      },
+      {
+        "height": 1444,
+        "media_key": "3_2057835084821192704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7mG1UaYAAeACu.jpg",
+        "width": 1130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057835174772326627",
+        "created_at": "2026-05-22T20:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T21:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057928083349578162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2000383206445719552",
+              "start": 0,
+              "username": "PRC_Arba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057928083349578162",
+        "in_reply_to_user_id": "2000383206445719552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057835174772326627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRC_Arba 右边的会让中国人觉得人死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057835082799529984",
+            "3_2057835084821192704"
+          ]
+        },
+        "author_id": "2000383206445719552",
+        "conversation_id": "2057835174772326627",
+        "created_at": "2026-05-22T14:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057835174772326627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p2yUgjYeCm",
+              "end": 32,
+              "expanded_url": "https://x.com/PRC_Arba/status/2057835174772326627/photo/1",
+              "media_key": "3_2057835082799529984",
+              "start": 9,
+              "url": "https://t.co/p2yUgjYeCm"
+            },
+            {
+              "display_url": "pic.x.com/p2yUgjYeCm",
+              "end": 32,
+              "expanded_url": "https://x.com/PRC_Arba/status/2057835174772326627/photo/1",
+              "media_key": "3_2057835084821192704",
+              "start": 9,
+              "url": "https://t.co/p2yUgjYeCm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057835174772326627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14521,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "感觉风格差异好大 https://t.co/p2yUgjYeCm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 1178,
+          "like_count": 8322,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2743
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T01:51:45.000Z",
+        "description": "PRC🇨🇳|前期本土自由派中期网左|目前为左翼改良建制派|左翼民族主义|亲欧反美|反独促统、一国一制|对本土自由派/毛左友好|理性拥护习近平|不拉黑屏蔽任何人\n台湾朋友：@whitelate0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 85,
+                "username": "whitelate0001"
+              }
+            ]
+          }
+        },
+        "id": "2000383206445719552",
+        "location": "THE PEOPLE'S REPUBLIC OF CHINA",
+        "name": "Arba🇨🇳",
+        "pinned_tweet_id": "2006763449796407599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050950185015296001/squunr_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 131,
+          "like_count": 2246,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 1089
+        },
+        "username": "PRC_Arba",
+        "verified": false
+      }
+    ]
+  }
+}

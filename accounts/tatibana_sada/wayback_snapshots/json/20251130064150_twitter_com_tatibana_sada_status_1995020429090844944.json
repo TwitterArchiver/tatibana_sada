@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1994719115945414768",
+    "created_at": "2025-11-30T06:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T07:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995020429090844944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1590924203242528768",
+          "start": 0,
+          "username": "Taiwancanhelp4U"
+        },
+        {
+          "end": 28,
+          "id": "868887840230330368",
+          "start": 17,
+          "username": "momoGZ0412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995020429090844944",
+    "in_reply_to_user_id": "1590924203242528768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994840698982731867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taiwancanhelp4U @momoGZ0412 北佬能不能冷静一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1994719115945414768",
+        "created_at": "2025-11-30T06:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995020429090844944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1590924203242528768",
+              "start": 0,
+              "username": "Taiwancanhelp4U"
+            },
+            {
+              "end": 28,
+              "id": "868887840230330368",
+              "start": 17,
+              "username": "momoGZ0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995020429090844944",
+        "in_reply_to_user_id": "1590924203242528768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994840698982731867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taiwancanhelp4U @momoGZ0412 北佬能不能冷静一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590924203242528768",
+        "conversation_id": "1994719115945414768",
+        "created_at": "2025-11-29T18:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T19:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994840698982731867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "868887840230330368",
+              "start": 0,
+              "username": "momoGZ0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994840698982731867",
+        "in_reply_to_user_id": "868887840230330368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3721,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994719115945414768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoGZ0412 广东独立？不用中央出手广东佬都能干死你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 967,
+          "like_count": 6574,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2335
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T04:28:08.000Z",
+        "description": "",
+        "id": "1590924203242528768",
+        "name": "蟹道人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659677339679174656/sI2i_TLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 129,
+          "like_count": 20167,
+          "listed_count": 8,
+          "media_count": 363,
+          "tweet_count": 10955
+        },
+        "username": "Taiwancanhelp4U",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T17:52:59.000Z",
+        "description": "别人都假装正经，我只有假装不正经。",
+        "id": "868887840230330368",
+        "location": "Tokyo-to, Japan",
+        "name": "默默",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982926007377051648/8MORCvIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53183,
+          "following_count": 3904,
+          "like_count": 132182,
+          "listed_count": 164,
+          "media_count": 6220,
+          "tweet_count": 16186
+        },
+        "username": "momoGZ0412",
+        "verified": true
+      }
+    ]
+  }
+}

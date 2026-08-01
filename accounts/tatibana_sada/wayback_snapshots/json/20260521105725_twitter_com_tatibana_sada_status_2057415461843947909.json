@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057412683625013518",
+    "created_at": "2026-05-21T10:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T11:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057415461843947909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1275342867850883072",
+          "start": 0,
+          "username": "KazuKazu525252"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057415461843947909",
+    "in_reply_to_user_id": "1275342867850883072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057414989317857529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KazuKazu525252 这就是我预料的典型日本人会说的话👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057412683625013518",
+        "created_at": "2026-05-21T10:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057415461843947909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1275342867850883072",
+              "start": 0,
+              "username": "KazuKazu525252"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057415461843947909",
+        "in_reply_to_user_id": "1275342867850883072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057414989317857529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KazuKazu525252 这就是我预料的典型日本人会说的话👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1275342867850883072",
+        "conversation_id": "2057412683625013518",
+        "created_at": "2026-05-21T10:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057414989317857529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057414989317857529",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057412683625013518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 支那は肉まんの具材にダンボールを入れ、ドブの水に浮いている油を食用に使用する\n日本人には全く理解できない支那人の思考回路だ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 1162,
+          "like_count": 8257,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2707
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-23T08:20:50.000Z",
+        "description": "何でも垢/ 東京住み/かずって呼んでね",
+        "id": "1275342867850883072",
+        "name": "かず505",
+        "pinned_tweet_id": "1522777374642688000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953343365875113984/YGIjmqQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 968,
+          "like_count": 99955,
+          "listed_count": 33,
+          "media_count": 300,
+          "tweet_count": 33853
+        },
+        "username": "KazuKazu525252",
+        "verified": false
+      }
+    ]
+  }
+}

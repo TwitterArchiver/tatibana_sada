@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1989139202248962511",
+    "created_at": "2025-11-15T00:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T01:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989493290513866925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554424317483655175",
+          "start": 0,
+          "username": "yuu00401"
+        },
+        {
+          "end": 25,
+          "id": "1709911435906850816",
+          "start": 10,
+          "username": "Hsinking151019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989493290513866925",
+    "in_reply_to_user_id": "1554424317483655175",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989139202248962511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuu00401 @Hsinking151019"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_1989139189980377088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rXjeuWsAAd1qJ.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1989139202248962511",
+        "created_at": "2025-11-15T00:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T01:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989493290513866925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554424317483655175",
+              "start": 0,
+              "username": "yuu00401"
+            },
+            {
+              "end": 25,
+              "id": "1709911435906850816",
+              "start": 10,
+              "username": "Hsinking151019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989493290513866925",
+        "in_reply_to_user_id": "1554424317483655175",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989139202248962511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuu00401 @Hsinking151019"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989139189980377088"
+          ]
+        },
+        "author_id": "1554424317483655175",
+        "conversation_id": "1989139202248962511",
+        "created_at": "2025-11-14T01:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T02:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989139202248962511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mY6QrYZG3L",
+              "end": 43,
+              "expanded_url": "https://x.com/yuu00401/status/1989139202248962511/photo/1",
+              "media_key": "3_1989139189980377088",
+              "start": 20,
+              "url": "https://t.co/mY6QrYZG3L"
+            },
+            {
+              "display_url": "x.com/lidangzzz/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/lidangzzz/status/1988939544214032858",
+              "start": 44,
+              "url": "https://t.co/AaQOFsfIbQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989139202248962511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3624,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988939544214032858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有肃清两百万小资产阶级动摇分子导致的 https://t.co/mY6QrYZG3L https://t.co/AaQOFsfIbQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 852,
+          "like_count": 5495,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1978
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "原来我走了那么远，远到那些无话不谈，渐渐听不清了",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "pinned_tweet_id": "1979443587306647701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931386075710365696/hZ7z3fLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3732,
+          "following_count": 749,
+          "like_count": 70428,
+          "listed_count": 6,
+          "media_count": 2173,
+          "tweet_count": 32847
+        },
+        "username": "yuu00401",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T12:40:45.000Z",
+        "description": "「现在 素 丧尸叻希望的 历史\n\n森活 素 丧尸叻意义的 杯具」\n\n孙宇晨-周受资-安平儿主义者\n\nStand with Manchoukuo, Formosa, Jordan\n\n击毙一个马斯克，这是一举两得；即同时清除一个匪谍和一个费拉，留下一个自由人和一个死人。",
+        "id": "1709911435906850816",
+        "name": "還是沒有公開處決兩百萬小資產階級動搖分子導致的",
+        "pinned_tweet_id": "1985500569499525567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909587899257143296/AfifDm7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 1301,
+          "like_count": 14987,
+          "listed_count": 4,
+          "media_count": 55,
+          "tweet_count": 16773
+        },
+        "username": "Hsinking151019",
+        "verified": false
+      }
+    ]
+  }
+}

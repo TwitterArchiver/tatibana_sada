@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1966561406959919579",
+    "created_at": "2025-10-31T21:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T22:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984371811438743906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1932582465576841216",
+          "start": 0,
+          "username": "bird981665432"
+        },
+        {
+          "end": 26,
+          "id": "1153970326604144640",
+          "start": 15,
+          "username": "Ruters0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984371811438743906",
+    "in_reply_to_user_id": "1932582465576841216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966583000755249192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bird981665432 @Ruters0615 器官在说话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1966561406959919579",
+        "created_at": "2025-10-31T21:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T22:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984371811438743906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1932582465576841216",
+              "start": 0,
+              "username": "bird981665432"
+            },
+            {
+              "end": 26,
+              "id": "1153970326604144640",
+              "start": 15,
+              "username": "Ruters0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984371811438743906",
+        "in_reply_to_user_id": "1932582465576841216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966583000755249192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bird981665432 @Ruters0615 器官在说话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932582465576841216",
+        "conversation_id": "1966561406959919579",
+        "created_at": "2025-09-12T19:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T20:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966583000755249192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1153970326604144640",
+              "start": 0,
+              "username": "Ruters0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966583000755249192",
+        "in_reply_to_user_id": "1153970326604144640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2493,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966561406959919579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruters0615 万万没想到，对中国历史,现在，将来，最最最上心的不是国人，不是领导，不是国外专家，而是这批，倾家荡产，把所有财富无偿献给国家的，一无所有的跑到没身份，没地位，没工作，没钱，没性生活，没交配权，背着一身案底的民运傻逼，这些是什么品种啊？想不明白"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 670,
+          "like_count": 3926,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1651
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T23:35:46.000Z",
+        "description": "",
+        "id": "1932582465576841216",
+        "name": "bird1992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932582568878374912/0PpS0mlH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 41,
+          "like_count": 46,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 1284
+        },
+        "username": "bird981665432",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292423,
+          "following_count": 2388,
+          "like_count": 2311,
+          "listed_count": 919,
+          "media_count": 2251,
+          "tweet_count": 2991
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

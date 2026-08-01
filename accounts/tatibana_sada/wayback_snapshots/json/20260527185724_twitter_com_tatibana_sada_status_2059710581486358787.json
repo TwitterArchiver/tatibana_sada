@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059710581486358787",
+    "created_at": "2026-05-27T18:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059710581486358787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Oksii33/status…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/Oksii33/status/2059652609124757716",
+          "start": 33,
+          "url": "https://t.co/TPZh2W7kEt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059710581486358787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059652609124757716",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我早跟你们说大西洋正道人已经发日本文明世界籍了，要跟老中血战宝岛 https://t.co/TPZh2W7kEt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2059652606532689921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVbIhUWoAEVlBV.jpg",
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059710581486358787",
+        "created_at": "2026-05-27T18:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059710581486358787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Oksii33/status…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Oksii33/status/2059652609124757716",
+              "start": 33,
+              "url": "https://t.co/TPZh2W7kEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059710581486358787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059652609124757716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我早跟你们说大西洋正道人已经发日本文明世界籍了，要跟老中血战宝岛 https://t.co/TPZh2W7kEt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059652606532689921"
+          ]
+        },
+        "author_id": "1234790374952009733",
+        "conversation_id": "2059652609124757716",
+        "created_at": "2026-05-27T15:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059652609124757716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5BzHSM5pni",
+              "end": 23,
+              "expanded_url": "https://x.com/Oksii33/status/2059652609124757716/photo/1",
+              "media_key": "3_2059652606532689921",
+              "start": 0,
+              "url": "https://t.co/5BzHSM5pni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059652609124757716",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 14201,
+          "like_count": 1343,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5BzHSM5pni"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 1236,
+          "like_count": 8833,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2966
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-03T10:39:17.000Z",
+        "description": "Spicy Ukrainian and ungrateful bitch 🌚 Volunteer with the charity organization „Angels of Donbas“",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/reportsOksii33",
+                "end": 23,
+                "expanded_url": "https://t.me/reportsOksii33",
+                "start": 0,
+                "url": "https://t.co/LQAp6716Zc"
+              }
+            ]
+          }
+        },
+        "id": "1234790374952009733",
+        "name": "Oksii ✚ 🇺🇦",
+        "pinned_tweet_id": "2059341777778200824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670739976613421056/Jz__JB16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29931,
+          "following_count": 1837,
+          "like_count": 522842,
+          "listed_count": 200,
+          "media_count": 26857,
+          "tweet_count": 85042
+        },
+        "url": "https://t.co/LQAp6716Zc",
+        "username": "Oksii33",
+        "verified": true
+      }
+    ]
+  }
+}

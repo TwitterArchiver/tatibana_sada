@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980462538023420377",
+    "created_at": "2025-10-21T02:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980462538023420377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Zealots2022/st…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/Zealots2022/status/1980185454818533886",
+          "start": 26,
+          "url": "https://t.co/Y5qzO4f7xZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980462538023420377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980185454818533886",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自由反对民主已经登堂入室成了可以看到的公域思潮了。 https://t.co/Y5qzO4f7xZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 295,
+        "media_key": "3_1980181862648578048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sE6aHXAAAWsLI.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980462538023420377",
+        "created_at": "2025-10-21T02:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980462538023420377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zealots2022/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Zealots2022/status/1980185454818533886",
+              "start": 26,
+              "url": "https://t.co/Y5qzO4f7xZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980462538023420377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980185454818533886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自由反对民主已经登堂入室成了可以看到的公域思潮了。 https://t.co/Y5qzO4f7xZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980181862648578048"
+          ]
+        },
+        "author_id": "1516262944534892549",
+        "conversation_id": "1980185454818533886",
+        "created_at": "2025-10-20T08:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T08:58:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980181865106645117",
+          "1980185454818533886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8GhTLHSGen",
+              "end": 115,
+              "expanded_url": "https://x.com/Zealots2022/status/1980185454818533886/photo/1",
+              "media_key": "3_1980181862648578048",
+              "start": 92,
+              "url": "https://t.co/8GhTLHSGen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980185454818533886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 8866,
+          "like_count": 209,
+          "quote_count": 6,
+          "reply_count": 102,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "支猪群体应该理解不了：\n\n国王统治可能是自由的，民主制度可能是专制的。\n\n民主与专制并不矛盾，国王与自由并不矛盾。\n\n人应该追求的是自由政体，而非民主政体。至于有没有国王，并非关键。 https://t.co/8GhTLHSGen"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 575,
+          "like_count": 3171,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1528
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T03:50:41.000Z",
+        "description": "Uber 司机\n\n油管频道：https://t.co/eZbJ6SM8Zo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCwgaZ…",
+                "end": 37,
+                "expanded_url": "https://www.youtube.com/channel/UCwgaZCW7xEySsKyvcv5mu0w",
+                "start": 14,
+                "url": "https://t.co/eZbJ6SM8Zo"
+              }
+            ]
+          }
+        },
+        "id": "1516262944534892549",
+        "name": "徐思远 | God wills it",
+        "pinned_tweet_id": "1977772029781725326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972491218161414144/cy0zWp73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29326,
+          "following_count": 712,
+          "like_count": 32333,
+          "listed_count": 188,
+          "media_count": 12235,
+          "tweet_count": 37460
+        },
+        "username": "Zealots2022",
+        "verified": true
+      }
+    ]
+  }
+}

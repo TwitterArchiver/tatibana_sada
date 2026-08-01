@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2056020365516652648",
+    "created_at": "2026-05-17T19:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T20:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056094979974631868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1645361982973919233",
+          "start": 0,
+          "username": "grinoldy"
+        },
+        {
+          "end": 24,
+          "id": "1937434730968023045",
+          "start": 10,
+          "username": "suslikeamogus"
+        },
+        {
+          "end": 39,
+          "id": "1991363191033769984",
+          "start": 25,
+          "username": "WiggerWarlord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056094979974631868",
+    "in_reply_to_user_id": "1645361982973919233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056090882869195176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grinoldy @suslikeamogus @WiggerWarlord 😅😅😅傻逼你鉴赏一下你鬼哭神嚎天地变色的伟大容颜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2056020365516652648",
+        "created_at": "2026-05-17T19:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056094979974631868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1645361982973919233",
+              "start": 0,
+              "username": "grinoldy"
+            },
+            {
+              "end": 24,
+              "id": "1937434730968023045",
+              "start": 10,
+              "username": "suslikeamogus"
+            },
+            {
+              "end": 39,
+              "id": "1991363191033769984",
+              "start": 25,
+              "username": "WiggerWarlord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056094979974631868",
+        "in_reply_to_user_id": "1645361982973919233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056090882869195176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grinoldy @suslikeamogus @WiggerWarlord 😅😅😅傻逼你鉴赏一下你鬼哭神嚎天地变色的伟大容颜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645361982973919233",
+        "conversation_id": "2056020365516652648",
+        "created_at": "2026-05-17T19:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056090882869195176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937434730968023045",
+              "start": 0,
+              "username": "suslikeamogus"
+            },
+            {
+              "end": 29,
+              "id": "1991363191033769984",
+              "start": 15,
+              "username": "WiggerWarlord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056090882869195176",
+        "in_reply_to_user_id": "1937434730968023045",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056087702634721563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suslikeamogus @WiggerWarlord Chinese bigots deserve the rape coming to them"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1125,
+          "like_count": 7895,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2592
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T09:44:06.000Z",
+        "description": "Creator of the Grinoldy Lifestyle | Founder of GRINOLDY GAMES | pfp by @ky00nnie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "ky00nnie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grinoldy.xyz",
+                "end": 23,
+                "expanded_url": "http://grinoldy.xyz",
+                "start": 0,
+                "url": "https://t.co/t8ftl7gHUe"
+              }
+            ]
+          }
+        },
+        "id": "1645361982973919233",
+        "location": "Little Pad, Hawaii",
+        "name": "Grinoldy",
+        "pinned_tweet_id": "2053456341583245725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054638581826703361/N8ut8-DO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 382,
+          "like_count": 20108,
+          "listed_count": 1,
+          "media_count": 2262,
+          "tweet_count": 19475
+        },
+        "url": "https://t.co/t8ftl7gHUe",
+        "username": "grinoldy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T08:57:00.000Z",
+        "description": "only a spoonful of smegma, my favorite gun is the IDF defender if that matters\n\nfollowing ≠ endorsement",
+        "id": "1937434730968023045",
+        "location": "Ω",
+        "name": "omeg",
+        "pinned_tweet_id": "1949492680490459143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054050831935156224/RsAxPqe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 466,
+          "like_count": 62403,
+          "listed_count": 23,
+          "media_count": 4766,
+          "tweet_count": 10843
+        },
+        "username": "suslikeamogus",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T04:29:41.000Z",
+        "description": "6’2 | Ultra-Hyper-Rapist-Nationalist | Make America Hyperthyroid Again | Alchemically Purifying Myself | Voluntary Incel | 16",
+        "id": "1991363191033769984",
+        "location": "Raped Hell",
+        "name": "☀️VITRIOL Fascist 🦁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049611341959151616/3tU0curS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 77,
+          "like_count": 2163,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 964
+        },
+        "username": "WiggerWarlord",
+        "verified": false
+      }
+    ]
+  }
+}

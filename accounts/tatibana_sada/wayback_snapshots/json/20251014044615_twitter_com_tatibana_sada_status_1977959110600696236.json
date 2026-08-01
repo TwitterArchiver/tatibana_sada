@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1977780924063596671",
+    "created_at": "2025-10-14T04:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T05:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977959110600696236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1686063963111374859",
+          "start": 0,
+          "username": "mo_chen6191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977959110600696236",
+    "in_reply_to_user_id": "1686063963111374859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977780924063596671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo_chen6191 社会主义：分配给老干部，接受阴道深处闹革命的无产阶级改造"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1977780924063596671",
+        "created_at": "2025-10-14T04:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T05:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977959110600696236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1686063963111374859",
+              "start": 0,
+              "username": "mo_chen6191"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977959110600696236",
+        "in_reply_to_user_id": "1686063963111374859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977780924063596671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo_chen6191 社会主义：分配给老干部，接受阴道深处闹革命的无产阶级改造"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686063963111374859",
+        "conversation_id": "1977780924063596671",
+        "created_at": "2025-10-13T16:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T17:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977780924063596671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iMoeAya/status…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/iMoeAya/status/1977630534059819491",
+              "start": 49,
+              "url": "https://t.co/umLmioeWAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977780924063596671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2661,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977630534059819491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当前问题：女性在卖淫\n社会主义的平权：根除卖淫，性工作者参与社会劳动\n资本主义的平权：男的也去卖 https://t.co/umLmioeWAP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 548,
+          "like_count": 2874,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1455
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T17:19:22.000Z",
+        "description": "路人。逃生舱@yedeng1919",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "yedeng1919"
+              }
+            ]
+          }
+        },
+        "id": "1686063963111374859",
+        "location": "Central Region, Singapore",
+        "name": "陈",
+        "pinned_tweet_id": "1916975337134821752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974141021534760967/dQhGKk6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 992,
+          "like_count": 32824,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 7659
+        },
+        "username": "mo_chen6191",
+        "verified": false
+      }
+    ]
+  }
+}

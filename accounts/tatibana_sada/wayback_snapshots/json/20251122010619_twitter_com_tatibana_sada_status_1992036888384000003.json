@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1992036888384000003",
+    "created_at": "2025-11-22T01:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T02:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992036888384000003"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 111,
+          "start": 103,
+          "tag": "frieren"
+        },
+        {
+          "end": 137,
+          "start": 112,
+          "tag": "FrierenBeyondJourneysEnd"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1335197106517110784",
+          "start": 3,
+          "username": "Naofaroo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992036888384000003",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29350
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991373895090442622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Naofaroo: Frieren timelapse I made recently.\n\nCheck my bio if you're interested for commission!  \n\n#frieren #FrierenBeyondJourneysEnd h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 98833,
+        "height": 1280,
+        "media_key": "13_1991372708219846656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991372708219846656/img/diNDEF8G5B7O4dL9.jpg",
+        "public_metrics": {
+          "view_count": 3830666
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991372708219846656/vid/avc1/320x428/MuiJysII_WlRNuQ4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991372708219846656/vid/avc1/480x642/lxEuv4qpeM3p3qsb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991372708219846656/vid/avc1/720x964/Rqt4pE8bldJax2iQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991372708219846656/pl/Y-QfuvJRMWlI9aSG.m3u8?tag=14"
+          }
+        ],
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992036888384000003",
+        "created_at": "2025-11-22T01:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T02:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992036888384000003"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 103,
+              "tag": "frieren"
+            },
+            {
+              "end": 137,
+              "start": 112,
+              "tag": "FrierenBeyondJourneysEnd"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1335197106517110784",
+              "start": 3,
+              "username": "Naofaroo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992036888384000003",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29350
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991373895090442622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Naofaroo: Frieren timelapse I made recently.\n\nCheck my bio if you're interested for commission!  \n\n#frieren #FrierenBeyondJourneysEnd h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991372708219846656"
+          ]
+        },
+        "author_id": "1335197106517110784",
+        "conversation_id": "1991373895090442622",
+        "created_at": "2025-11-20T05:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T06:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991373895090442622"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Frieren",
+              "probability": 0.5141,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 89,
+              "tag": "frieren"
+            },
+            {
+              "end": 123,
+              "start": 98,
+              "tag": "FrierenBeyondJourneysEnd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8EOswu74KN",
+              "end": 147,
+              "expanded_url": "https://x.com/Naofaroo/status/1991373895090442622/video/1",
+              "media_key": "13_1991372708219846656",
+              "start": 124,
+              "url": "https://t.co/8EOswu74KN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991373895090442622",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29286,
+          "impression_count": 10153282,
+          "like_count": 204418,
+          "quote_count": 5219,
+          "reply_count": 1879,
+          "retweet_count": 29350
+        },
+        "reply_settings": "everyone",
+        "text": "Frieren timelapse I made recently.\n\nCheck my bio if you're interested for commission!  \n\n#frieren #FrierenBeyondJourneysEnd https://t.co/8EOswu74KN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 896,
+          "like_count": 5907,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 2140
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-05T12:19:42.000Z",
+        "description": "Freelance Illustrator \n2nd acc: @RociMello\nCommission open : https://t.co/LKnYZKeDEA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "RociMello"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vgen.co/Naofaro",
+                "end": 84,
+                "expanded_url": "https://vgen.co/Naofaro",
+                "start": 61,
+                "url": "https://t.co/LKnYZKeDEA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/Naofaro/portfo…",
+                "end": 23,
+                "expanded_url": "https://vgen.co/Naofaro/portfolio",
+                "start": 0,
+                "url": "https://t.co/6CKVVkqbRt"
+              }
+            ]
+          }
+        },
+        "id": "1335197106517110784",
+        "name": "Naofaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742437493453312000/KAmRhkeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12067,
+          "following_count": 447,
+          "like_count": 4084,
+          "listed_count": 47,
+          "media_count": 170,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/6CKVVkqbRt",
+        "username": "Naofaroo",
+        "verified": false
+      }
+    ]
+  }
+}

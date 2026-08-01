@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064199698882371584",
+        "3_2064199698882449408"
+      ],
+      "media_source_tweet_id": [
+        "2064199707782775179",
+        "2064199707782775179"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2064438391903772761",
+    "created_at": "2026-06-09T20:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T21:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064438391903772761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "8956502",
+          "start": 3,
+          "username": "StarKnight"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fsj7KLzKxy",
+          "end": 82,
+          "expanded_url": "https://x.com/StarKnight/status/2064199707782775179/photo/1",
+          "media_key": "3_2064199698882371584",
+          "start": 59,
+          "url": "https://t.co/Fsj7KLzKxy"
+        },
+        {
+          "display_url": "pic.x.com/Fsj7KLzKxy",
+          "end": 82,
+          "expanded_url": "https://x.com/StarKnight/status/2064199707782775179/photo/1",
+          "media_key": "3_2064199698882449408",
+          "start": 59,
+          "url": "https://t.co/Fsj7KLzKxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064438391903772761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064199707782775179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarKnight: 提到对外国元首的欢迎仪式，最具创意的当属印度。2019年这一回过于抽象，印象深刻…… https://t.co/Fsj7KLzKxy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_2064199698882371584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWCsIVaIAAIo60.jpg",
+        "width": 1061
+      },
+      {
+        "height": 437,
+        "media_key": "3_2064199698882449408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWCsIVbUAARHDI.jpg",
+        "width": 702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064199698882371584",
+            "3_2064199698882449408"
+          ],
+          "media_source_tweet_id": [
+            "2064199707782775179",
+            "2064199707782775179"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064438391903772761",
+        "created_at": "2026-06-09T20:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T21:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064438391903772761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "8956502",
+              "start": 3,
+              "username": "StarKnight"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fsj7KLzKxy",
+              "end": 82,
+              "expanded_url": "https://x.com/StarKnight/status/2064199707782775179/photo/1",
+              "media_key": "3_2064199698882371584",
+              "start": 59,
+              "url": "https://t.co/Fsj7KLzKxy"
+            },
+            {
+              "display_url": "pic.x.com/Fsj7KLzKxy",
+              "end": 82,
+              "expanded_url": "https://x.com/StarKnight/status/2064199707782775179/photo/1",
+              "media_key": "3_2064199698882449408",
+              "start": 59,
+              "url": "https://t.co/Fsj7KLzKxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064438391903772761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064199707782775179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarKnight: 提到对外国元首的欢迎仪式，最具创意的当属印度。2019年这一回过于抽象，印象深刻…… https://t.co/Fsj7KLzKxy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064199698882371584",
+            "3_2064199698882449408"
+          ]
+        },
+        "author_id": "8956502",
+        "conversation_id": "2064199707782775179",
+        "created_at": "2026-06-09T04:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064199707782775179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fsj7KLzKxy",
+              "end": 66,
+              "expanded_url": "https://x.com/StarKnight/status/2064199707782775179/photo/1",
+              "media_key": "3_2064199698882371584",
+              "start": 43,
+              "url": "https://t.co/Fsj7KLzKxy"
+            },
+            {
+              "display_url": "pic.x.com/Fsj7KLzKxy",
+              "end": 66,
+              "expanded_url": "https://x.com/StarKnight/status/2064199707782775179/photo/1",
+              "media_key": "3_2064199698882449408",
+              "start": 43,
+              "url": "https://t.co/Fsj7KLzKxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064199707782775179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 367,
+          "impression_count": 364797,
+          "like_count": 1451,
+          "quote_count": 12,
+          "reply_count": 144,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "提到对外国元首的欢迎仪式，最具创意的当属印度。2019年这一回过于抽象，印象深刻…… https://t.co/Fsj7KLzKxy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1303,
+          "like_count": 9241,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3198
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2007-09-18T17:50:58.000Z",
+        "description": "人们对我说：你不过是尘与土。可是他们忘了告诉我，那其实是星星的尘埃。時々日本語。两个小朋友的爸爸。",
+        "id": "8956502",
+        "name": "StarKnight",
+        "pinned_tweet_id": "2058920377263542308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014879396814061569/D9PxYnO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91487,
+          "following_count": 3083,
+          "like_count": 33921,
+          "listed_count": 682,
+          "media_count": 9358,
+          "tweet_count": 85833
+        },
+        "username": "StarKnight",
+        "verified": true
+      }
+    ]
+  }
+}

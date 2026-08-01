@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986111793039876451",
+    "created_at": "2025-11-05T16:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T17:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986111793039876451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ebba1359340/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Ebba1359340/status/1985999415019241765",
+          "start": 31,
+          "url": "https://t.co/3mBOqpPcio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986111793039876451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985999415019241765",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "受不了了，奶子越大越反动，我这次这么说是有史以来最真心实意的 https://t.co/3mBOqpPcio"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_1985999302498635776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-v1-Wa0AAzlNz.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986111793039876451",
+        "created_at": "2025-11-05T16:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986111793039876451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ebba1359340/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Ebba1359340/status/1985999415019241765",
+              "start": 31,
+              "url": "https://t.co/3mBOqpPcio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986111793039876451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985999415019241765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "受不了了，奶子越大越反动，我这次这么说是有史以来最真心实意的 https://t.co/3mBOqpPcio"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985999302498635776"
+          ]
+        },
+        "author_id": "1857190848493916160",
+        "conversation_id": "1985999415019241765",
+        "created_at": "2025-11-05T09:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T10:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985999415019241765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZPF9V85Ce",
+              "end": 42,
+              "expanded_url": "https://x.com/Ebba1359340/status/1985999415019241765/photo/1",
+              "media_key": "3_1985999302498635776",
+              "start": 19,
+              "url": "https://t.co/YZPF9V85Ce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985999415019241765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2693,
+          "impression_count": 398497,
+          "like_count": 13136,
+          "quote_count": 38,
+          "reply_count": 115,
+          "retweet_count": 333
+        },
+        "reply_settings": "everyone",
+        "text": "一緒に歩くの恥ずかしいって言われた… https://t.co/YZPF9V85Ce"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 752,
+          "like_count": 4775,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1806
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T22:36:31.000Z",
+        "description": "デカ乳地雷系女子やらせてもろてますぅ🤩\nやばいのこっち載せる！@DistlerFab16318",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "DistlerFab16318"
+              }
+            ]
+          }
+        },
+        "id": "1857190848493916160",
+        "name": "めるてゃ♥",
+        "pinned_tweet_id": "1950012336271716826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936592712087621632/gLFG_u8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14878,
+          "following_count": 157,
+          "like_count": 14,
+          "listed_count": 52,
+          "media_count": 28,
+          "tweet_count": 233
+        },
+        "username": "Ebba1359340",
+        "verified": false
+      }
+    ]
+  }
+}

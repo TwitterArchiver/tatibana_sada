@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1977623809864929349",
+    "created_at": "2025-10-14T11:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T12:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978061769458282621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1654297647518466048",
+          "start": 0,
+          "username": "AngeloMcna6787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978061769458282621",
+    "in_reply_to_user_id": "1654297647518466048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977623809864929349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngeloMcna6787 美国是爹，是神，是万物之主，我当跨性别激素人妖的至高追求就是当美利坚太君的慰安妇。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1977623809864929349",
+        "created_at": "2025-10-14T11:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T12:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978061769458282621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654297647518466048",
+              "start": 0,
+              "username": "AngeloMcna6787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978061769458282621",
+        "in_reply_to_user_id": "1654297647518466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977623809864929349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngeloMcna6787 美国是爹，是神，是万物之主，我当跨性别激素人妖的至高追求就是当美利坚太君的慰安妇。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654297647518466048",
+        "conversation_id": "1977623809864929349",
+        "created_at": "2025-10-13T06:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T07:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977623809864929349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977623809864929349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 581,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个事实：自昨天的争论开始，真的有一堆人跑来跟我论证“当美国人狗”的优越性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 550,
+          "like_count": 2895,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1459
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T01:31:17.000Z",
+        "description": "康米",
+        "id": "1654297647518466048",
+        "location": "？",
+        "name": "Jamie Hume二代目",
+        "pinned_tweet_id": "1889948565918863379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660967912289751041/T6cHfnhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2233,
+          "following_count": 166,
+          "like_count": 11657,
+          "listed_count": 21,
+          "media_count": 1349,
+          "tweet_count": 20717
+        },
+        "username": "AngeloMcna6787",
+        "verified": false
+      }
+    ]
+  }
+}

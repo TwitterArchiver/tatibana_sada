@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059554210450907315",
+    "created_at": "2026-05-27T18:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059697018382242274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1668693781791784961",
+          "start": 0,
+          "username": "yifu0753"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059697018382242274",
+    "in_reply_to_user_id": "1668693781791784961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059554210450907315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yifu0753 这是真的挺热闹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059554210450907315",
+        "created_at": "2026-05-27T18:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059697018382242274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059697018382242274",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059554210450907315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 这是真的挺热闹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059554210450907315",
+        "created_at": "2026-05-27T08:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059554210450907315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059554210450907315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2467,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Twitter连环自杀案"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 1235,
+          "like_count": 8819,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2954
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "亚硝酸钠中毒，碳酸钡氯化钡中毒。低钾血症 插管洗胃 静脉补钾 各肌瘫痪麻痹 ICU 药物中毒 重度抑郁 | 二氧化碳好死喵 | 快死了",
+        "id": "1668693781791784961",
+        "location": "深圳市南山区",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826729996905578500/L5nnbRQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 1193,
+          "like_count": 7385,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1913
+        },
+        "username": "yifu0753",
+        "verified": true
+      }
+    ]
+  }
+}

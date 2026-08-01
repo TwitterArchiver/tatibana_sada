@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073922824994222080"
+      ],
+      "media_source_tweet_id": [
+        "2073922830769811818"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2074413055098970521",
+    "created_at": "2026-07-07T08:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074413055098970521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1771883266796388352",
+          "start": 3,
+          "username": "shuyan0926"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cJaK1PXHhg",
+          "end": 62,
+          "expanded_url": "https://x.com/shuyan0926/status/2073922830769811818/photo/1",
+          "media_key": "3_2073922824994222080",
+          "start": 39,
+          "url": "https://t.co/cJaK1PXHhg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074413055098970521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073922830769811818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuyan0926: 因為那邊沒有你們所以我要發在這邊，留友看不完 https://t.co/cJaK1PXHhg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2073922824994222080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgN0jta8AAZyKK.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073922824994222080"
+          ],
+          "media_source_tweet_id": [
+            "2073922830769811818"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2074413055098970521",
+        "created_at": "2026-07-07T08:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074413055098970521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1771883266796388352",
+              "start": 3,
+              "username": "shuyan0926"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJaK1PXHhg",
+              "end": 62,
+              "expanded_url": "https://x.com/shuyan0926/status/2073922830769811818/photo/1",
+              "media_key": "3_2073922824994222080",
+              "start": 39,
+              "url": "https://t.co/cJaK1PXHhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074413055098970521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073922830769811818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuyan0926: 因為那邊沒有你們所以我要發在這邊，留友看不完 https://t.co/cJaK1PXHhg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073922824994222080"
+          ]
+        },
+        "author_id": "1771883266796388352",
+        "conversation_id": "2073922830769811818",
+        "created_at": "2026-07-06T00:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073922830769811818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJaK1PXHhg",
+              "end": 46,
+              "expanded_url": "https://x.com/shuyan0926/status/2073922830769811818/photo/1",
+              "media_key": "3_2073922824994222080",
+              "start": 23,
+              "url": "https://t.co/cJaK1PXHhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073922830769811818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 26995,
+          "like_count": 319,
+          "quote_count": 5,
+          "reply_count": 83,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "因為那邊沒有你們所以我要發在這邊，留友看不完 https://t.co/cJaK1PXHhg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 1405,
+          "like_count": 9762,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3326
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T12:54:42.000Z",
+        "description": "木羽|書硯|臺灣|INTP|雙性戀|什麼都可以聊|碎唸|@muyuxu1017 小帳，@muyuxu10 裡帳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "muyuxu1017"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "muyuxu10"
+              }
+            ]
+          }
+        },
+        "id": "1771883266796388352",
+        "name": "書硯",
+        "pinned_tweet_id": "2039955952271843624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020485350989385730/HAETY6UG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 493,
+          "like_count": 42060,
+          "listed_count": 1,
+          "media_count": 960,
+          "tweet_count": 9287
+        },
+        "url": "",
+        "username": "shuyan0926",
+        "verified": false
+      }
+    ]
+  }
+}

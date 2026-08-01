@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2054768433859010859",
+    "created_at": "2026-05-15T18:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T19:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055348869127709025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1555546576134684672",
+          "start": 0,
+          "username": "alcohol100per"
+        },
+        {
+          "end": 23,
+          "id": "1303714686068686851",
+          "start": 15,
+          "username": "Lee_424"
+        },
+        {
+          "end": 36,
+          "id": "1994068075218653189",
+          "start": 24,
+          "username": "Yasuko_Ragi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055348869127709025",
+    "in_reply_to_user_id": "1555546576134684672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055323809675432016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alcohol100per @Lee_424 @Yasuko_Ragi anyway actually we Chinese don't care very much about who is jp's pm.\nif takaichisan is seen as an embarrassment—— japanese got embarrassed not chinese. to respect you, i use your 宗主国の言語, are you ready to say arigatou?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2054768433859010859",
+        "created_at": "2026-05-15T18:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055348869127709025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1555546576134684672",
+              "start": 0,
+              "username": "alcohol100per"
+            },
+            {
+              "end": 23,
+              "id": "1303714686068686851",
+              "start": 15,
+              "username": "Lee_424"
+            },
+            {
+              "end": 36,
+              "id": "1994068075218653189",
+              "start": 24,
+              "username": "Yasuko_Ragi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055348869127709025",
+        "in_reply_to_user_id": "1555546576134684672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055323809675432016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alcohol100per @Lee_424 @Yasuko_Ragi anyway actually we Chinese don't care very much about who is jp's pm.\nif takaichisan is seen as an embarrassment—— japanese got embarrassed not chinese. to respect you, i use your 宗主国の言語, are you ready to say arigatou?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555546576134684672",
+        "conversation_id": "2054768433859010859",
+        "created_at": "2026-05-15T16:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055323809675432016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1303714686068686851",
+              "start": 0,
+              "username": "Lee_424"
+            },
+            {
+              "end": 21,
+              "id": "1994068075218653189",
+              "start": 9,
+              "username": "Yasuko_Ragi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055323809675432016",
+        "in_reply_to_user_id": "1303714686068686851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054840906495447432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lee_424 @Yasuko_Ragi 首相を変えた方がいいと思っているなら、そんな発言はしない方がいいだろうね。\n日本は「支那政府もしくは共産主義者が嫌いな人間」がものすごく多いんだよ。\n君が支那語でそれを書くだけでも、「僕たちが嫌いな支那人が高市氏を嫌うなら、高市氏は僕たちの味方だ」と思う人までいるよ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 1079,
+          "like_count": 7731,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2545
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T13:30:00.000Z",
+        "description": "",
+        "id": "1555546576134684672",
+        "name": "脳内アルコール度数100%",
+        "pinned_tweet_id": "2038251111405252670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559123355294261248/EGZZpUBu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 98,
+          "like_count": 8101,
+          "listed_count": 5,
+          "media_count": 466,
+          "tweet_count": 12056
+        },
+        "username": "alcohol100per",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-09T15:19:51.000Z",
+        "description": "",
+        "id": "1303714686068686851",
+        "name": "Leo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1303716019697934342/bOgNaJH3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 146,
+          "like_count": 220,
+          "listed_count": 13,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "Lee_424",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T15:37:56.000Z",
+        "description": "いろんな所にリプを残していきます。\n💢：高市政権 超絶“不”支持\n📮：固定ポスト是非見てね\n🎨：Designer based in Japan.",
+        "id": "1994068075218653189",
+        "name": "やすこ | As Is 🐰",
+        "pinned_tweet_id": "2015413207083712702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054125751994347520/rARe7J4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3075,
+          "following_count": 1718,
+          "like_count": 28363,
+          "listed_count": 71,
+          "media_count": 346,
+          "tweet_count": 7616
+        },
+        "username": "Yasuko_Ragi",
+        "verified": true
+      }
+    ]
+  }
+}

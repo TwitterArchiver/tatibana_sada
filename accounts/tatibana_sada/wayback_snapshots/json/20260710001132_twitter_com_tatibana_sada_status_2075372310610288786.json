@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075258111225438209"
+      ],
+      "media_source_tweet_id": [
+        "2075258235347431616"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "TIME Magazine",
+          "id": "1065660607825817600",
+          "name": "TIME Magazine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "TIME Magazine",
+          "id": "1065660607825817600",
+          "name": "TIME Magazine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "2075372310610288786",
+    "created_at": "2026-07-10T00:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T01:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075372310610288786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "722848046321508352",
+          "start": 3,
+          "username": "woyongdehuawei"
+        },
+        {
+          "end": 25,
+          "id": "14293310",
+          "start": 20,
+          "username": "TIME"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6FlxvANh7V",
+          "end": 82,
+          "expanded_url": "https://x.com/woyongdehuawei/status/2075258235347431616/photo/1",
+          "media_key": "3_2075258111225438209",
+          "start": 59,
+          "url": "https://t.co/6FlxvANh7V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075372310610288786",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075258235347431616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woyongdehuawei: @TIME Don't worry, I found him for you https://t.co/6FlxvANh7V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2075258111225438209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzMQcjXIAEpxNx.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075258111225438209"
+          ],
+          "media_source_tweet_id": [
+            "2075258235347431616"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "TIME Magazine",
+              "id": "1065660607825817600",
+              "name": "TIME Magazine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TIME Magazine",
+              "id": "1065660607825817600",
+              "name": "TIME Magazine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2075372310610288786",
+        "created_at": "2026-07-10T00:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T01:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075372310610288786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "722848046321508352",
+              "start": 3,
+              "username": "woyongdehuawei"
+            },
+            {
+              "end": 25,
+              "id": "14293310",
+              "start": 20,
+              "username": "TIME"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6FlxvANh7V",
+              "end": 82,
+              "expanded_url": "https://x.com/woyongdehuawei/status/2075258235347431616/photo/1",
+              "media_key": "3_2075258111225438209",
+              "start": 59,
+              "url": "https://t.co/6FlxvANh7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075372310610288786",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075258235347431616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woyongdehuawei: @TIME Don't worry, I found him for you https://t.co/6FlxvANh7V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075258111225438209"
+          ]
+        },
+        "author_id": "722848046321508352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "TIME Magazine",
+              "id": "1065660607825817600",
+              "name": "TIME Magazine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TIME Magazine",
+              "id": "1065660607825817600",
+              "name": "TIME Magazine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2075189104053248446",
+        "created_at": "2026-07-09T16:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075258235347431616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "14293310",
+              "start": 0,
+              "username": "TIME"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6FlxvANh7V",
+              "end": 62,
+              "expanded_url": "https://x.com/woyongdehuawei/status/2075258235347431616/photo/1",
+              "media_key": "3_2075258111225438209",
+              "start": 39,
+              "url": "https://t.co/6FlxvANh7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075258235347431616",
+        "in_reply_to_user_id": "14293310",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 863,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075189104053248446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TIME Don't worry, I found him for you https://t.co/6FlxvANh7V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1420,
+          "like_count": 9881,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3366
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-20T18:02:58.000Z",
+        "description": "Christian/British Patriot/Conservatives/中国叛逃公职人员/YT：https://t.co/GrFL00hmWI USDT捐助: TCWbpsL4cwoUAUwzYVZspUrRBmzqbFF4FX 投稿邮箱:lundunbagong@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@woyongdehuawei",
+                "end": 75,
+                "expanded_url": "http://www.youtube.com/@woyongdehuawei",
+                "start": 52,
+                "url": "https://t.co/GrFL00hmWI"
+              }
+            ]
+          }
+        },
+        "id": "722848046321508352",
+        "location": "London, England",
+        "name": "清丝老师谈治国理政",
+        "pinned_tweet_id": "1744308099131871366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829410849577938944/lduE7qLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80028,
+          "following_count": 817,
+          "like_count": 24827,
+          "listed_count": 375,
+          "media_count": 7091,
+          "tweet_count": 29073
+        },
+        "url": "",
+        "username": "woyongdehuawei",
+        "verified": true
+      },
+      {
+        "created_at": "2008-04-03T13:54:30.000Z",
+        "description": "News and current events from around the globe. Since 1923. \nSubscribe: https://t.co/yT0dueLEm0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ti.me/subscribe",
+                "end": 94,
+                "expanded_url": "http://ti.me/subscribe",
+                "start": 71,
+                "url": "https://t.co/yT0dueLEm0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "time.com",
+                "end": 23,
+                "expanded_url": "https://www.time.com",
+                "start": 0,
+                "url": "https://t.co/vl89LXOvyB"
+              }
+            ]
+          }
+        },
+        "id": "14293310",
+        "name": "TIME",
+        "pinned_tweet_id": "2075189104053248446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821984581915987968/cv44xY5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18523632,
+          "following_count": 473,
+          "like_count": 560,
+          "listed_count": 100725,
+          "media_count": 32031,
+          "tweet_count": 440392
+        },
+        "url": "https://t.co/vl89LXOvyB",
+        "username": "TIME",
+        "verified": true
+      }
+    ]
+  }
+}

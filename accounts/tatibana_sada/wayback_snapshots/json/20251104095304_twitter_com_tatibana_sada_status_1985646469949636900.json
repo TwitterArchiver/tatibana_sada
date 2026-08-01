@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985521971459719168"
+      ],
+      "media_source_tweet_id": [
+        "1985521975276515464"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1985646469949636900",
+    "created_at": "2025-11-04T09:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T10:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985646469949636900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866688501036544000",
+          "start": 3,
+          "username": "snuffjak"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bCZp4RopSg",
+          "end": 53,
+          "expanded_url": "https://x.com/snuffjak/status/1985521975276515464/photo/1",
+          "media_key": "3_1985521971459719168",
+          "start": 30,
+          "url": "https://t.co/bCZp4RopSg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985646469949636900",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 337
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985521975276515464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snuffjak: teach 'em young https://t.co/bCZp4RopSg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985521971459719168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G439tpqXAAAX8uW.jpg",
+        "width": 1808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985521971459719168"
+          ],
+          "media_source_tweet_id": [
+            "1985521975276515464"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985646469949636900",
+        "created_at": "2025-11-04T09:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T10:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985646469949636900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866688501036544000",
+              "start": 3,
+              "username": "snuffjak"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCZp4RopSg",
+              "end": 53,
+              "expanded_url": "https://x.com/snuffjak/status/1985521975276515464/photo/1",
+              "media_key": "3_1985521971459719168",
+              "start": 30,
+              "url": "https://t.co/bCZp4RopSg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985646469949636900",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 337
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985521975276515464",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snuffjak: teach 'em young https://t.co/bCZp4RopSg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985521971459719168"
+          ]
+        },
+        "author_id": "1866688501036544000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985521975276515464",
+        "created_at": "2025-11-04T01:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T02:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985521975276515464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCZp4RopSg",
+              "end": 39,
+              "expanded_url": "https://x.com/snuffjak/status/1985521975276515464/photo/1",
+              "media_key": "3_1985521971459719168",
+              "start": 16,
+              "url": "https://t.co/bCZp4RopSg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985521975276515464",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 720,
+          "impression_count": 33898,
+          "like_count": 4049,
+          "quote_count": 25,
+          "reply_count": 27,
+          "retweet_count": 337
+        },
+        "reply_settings": "everyone",
+        "text": "teach 'em young https://t.co/bCZp4RopSg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1982595504287699299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 725,
+          "like_count": 4575,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1729
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T03:37:21.000Z",
+        "description": "Alt @snuffjak2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "snuffjak2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "snuffjak.straw.page",
+                "end": 23,
+                "expanded_url": "https://snuffjak.straw.page/",
+                "start": 0,
+                "url": "https://t.co/PvtIkBvB9C"
+              }
+            ]
+          }
+        },
+        "id": "1866688501036544000",
+        "name": "ego",
+        "pinned_tweet_id": "1961909321333153835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985516723156422656/hNfhrFva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12055,
+          "following_count": 403,
+          "like_count": 2790,
+          "listed_count": 16,
+          "media_count": 34,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/PvtIkBvB9C",
+        "username": "snuffjak",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057650813473108149",
+    "created_at": "2026-05-23T02:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058013009117860182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1268175209837654017",
+          "start": 0,
+          "username": "LangClear"
+        },
+        {
+          "end": 20,
+          "id": "1476192642564120576",
+          "start": 11,
+          "username": "suanguaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058013009117860182",
+    "in_reply_to_user_id": "1268175209837654017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057975615987531825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LangClear @suanguaa 程序员会叫这个屎山"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057650813473108149",
+        "created_at": "2026-05-23T02:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058013009117860182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1268175209837654017",
+              "start": 0,
+              "username": "LangClear"
+            },
+            {
+              "end": 20,
+              "id": "1476192642564120576",
+              "start": 11,
+              "username": "suanguaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058013009117860182",
+        "in_reply_to_user_id": "1268175209837654017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057975615987531825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LangClear @suanguaa 程序员会叫这个屎山"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1268175209837654017",
+        "conversation_id": "2057650813473108149",
+        "created_at": "2026-05-23T00:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T01:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057975615987531825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476192642564120576",
+              "start": 0,
+              "username": "suanguaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057975615987531825",
+        "in_reply_to_user_id": "1476192642564120576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057650813473108149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suanguaa 产生这种情况的原因是英文的这些相关词是从不同来源借用的，例如古英语，拉丁语，法语等等。虽然不容易学，但说明英语是一种非常包容而且不断进化的语言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 1181,
+          "like_count": 8361,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2755
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-03T13:38:33.000Z",
+        "description": "hi world",
+        "id": "1268175209837654017",
+        "name": "LangClear",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1268175506119131141/isjhbgjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 3970,
+          "like_count": 8777,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 5231
+        },
+        "username": "LangClear",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:05:41.000Z",
+        "description": "资深易学顾问，玄学运筹转运！  叩泰玄都省天师大教主张真人府下拜受太上正一盟威经籙依格 奏充玉局治祭酒上清司命玉府左卿五雷斩 邪使兼领点校城隍司 鬼神功过同知雷霆都司事",
+        "id": "1476192642564120576",
+        "name": "玄门上品",
+        "pinned_tweet_id": "1962808981937889378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888158439890923520/skwX3Zfo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41958,
+          "following_count": 700,
+          "like_count": 3077,
+          "listed_count": 132,
+          "media_count": 4637,
+          "tweet_count": 12177
+        },
+        "username": "suanguaa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,611 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074842730472013824"
+      ],
+      "media_source_tweet_id": [
+        "2074842799258701977"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+          "id": "1836137739353292800",
+          "name": "2024 US Election"
+        }
+      }
+    ],
+    "conversation_id": "2074942830825664550",
+    "created_at": "2026-07-08T19:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T20:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074942830825664550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3247652319",
+          "start": 3,
+          "username": "clashreport"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DpxVXvxrr3",
+          "end": 109,
+          "expanded_url": "https://x.com/clashreport/status/2074842799258701977/video/1",
+          "media_key": "13_2074842730472013824",
+          "start": 86,
+          "url": "https://t.co/DpxVXvxrr3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074942830825664550",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1578
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074842799258701977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clashreport: Trump:\n\nThe Islamic Republic of Japan attacked our aircraft carrier. https://t.co/DpxVXvxrr3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10033,
+        "height": 1080,
+        "media_key": "13_2074842730472013824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074842730472013824/img/hGJX30BWzLlRcrcV.jpg",
+        "public_metrics": {
+          "view_count": 1113951
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074842730472013824/vid/avc1/1920x1080/G46mYwEQACdp1k8c.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074842730472013824/vid/avc1/640x360/0c0tLnzO9yNO4HAs.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074842730472013824/vid/avc1/480x270/Bd4bdGcmKWAYScRY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074842730472013824/vid/avc1/1280x720/2R2MtIP3GN0qFHJd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074842730472013824/pl/q-bQF6xDoXhNaxC6.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074842730472013824"
+          ],
+          "media_source_tweet_id": [
+            "2074842799258701977"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2074942830825664550",
+        "created_at": "2026-07-08T19:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T20:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074942830825664550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3247652319",
+              "start": 3,
+              "username": "clashreport"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DpxVXvxrr3",
+              "end": 109,
+              "expanded_url": "https://x.com/clashreport/status/2074842799258701977/video/1",
+              "media_key": "13_2074842730472013824",
+              "start": 86,
+              "url": "https://t.co/DpxVXvxrr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074942830825664550",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1578
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074842799258701977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clashreport: Trump:\n\nThe Islamic Republic of Japan attacked our aircraft carrier. https://t.co/DpxVXvxrr3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074842730472013824"
+          ]
+        },
+        "author_id": "3247652319",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2074842799258701977",
+        "created_at": "2026-07-08T13:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074842799258701977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DpxVXvxrr3",
+              "end": 92,
+              "expanded_url": "https://x.com/clashreport/status/2074842799258701977/video/1",
+              "media_key": "13_2074842730472013824",
+              "start": 69,
+              "url": "https://t.co/DpxVXvxrr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074842799258701977",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3158,
+          "impression_count": 3445753,
+          "like_count": 11332,
+          "quote_count": 1343,
+          "reply_count": 587,
+          "retweet_count": 1578
+        },
+        "reply_settings": "everyone",
+        "text": "Trump:\n\nThe Islamic Republic of Japan attacked our aircraft carrier. https://t.co/DpxVXvxrr3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 1408,
+          "like_count": 9791,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 3334
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-12T11:23:40.000Z",
+        "description": "Breaking news, reports, and opinions from ongoing clashes of the world.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "clashreport.com",
+                "end": 23,
+                "expanded_url": "https://clashreport.com/",
+                "start": 0,
+                "url": "https://t.co/6Wod25TCux"
+              }
+            ]
+          }
+        },
+        "id": "3247652319",
+        "name": "Clash Report",
+        "pinned_tweet_id": "2053812363984273654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942576646457868288/gOMYVVRf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868428,
+          "following_count": 2,
+          "like_count": 71,
+          "listed_count": 6235,
+          "media_count": 61419,
+          "tweet_count": 87022
+        },
+        "url": "https://t.co/6Wod25TCux",
+        "username": "clashreport",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "AE"
+          ]
+        }
+      }
+    ]
+  }
+}

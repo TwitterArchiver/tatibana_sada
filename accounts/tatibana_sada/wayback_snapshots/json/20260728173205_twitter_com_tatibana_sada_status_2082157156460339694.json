@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2082157156460339694",
+    "created_at": "2026-07-28T17:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082157156460339694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thctroche/stat…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/thctroche/status/2082064472550633571",
+          "start": 145,
+          "url": "https://t.co/CefCGdvK9l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082157156460339694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082064472550633571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你没政治意识，这本身就很糟糕。不是所有移民都是罪犯，但这话你不能跟maga说，即使他们私下会同意，不是所有投特朗普的人都是白人至上主义，但这话你别跟dem说，即使他们私下会同意。\n一切话语都是政治话语……不是因为话语本身，而是语境被政治化了。请试想和日本人解释广岛死的人里至少有一个该死。 https://t.co/CefCGdvK9l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2082157156460339694",
+        "created_at": "2026-07-28T17:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082157156460339694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thctroche/stat…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/thctroche/status/2082064472550633571",
+              "start": 145,
+              "url": "https://t.co/CefCGdvK9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082157156460339694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082064472550633571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你没政治意识，这本身就很糟糕。不是所有移民都是罪犯，但这话你不能跟maga说，即使他们私下会同意，不是所有投特朗普的人都是白人至上主义，但这话你别跟dem说，即使他们私下会同意。\n一切话语都是政治话语……不是因为话语本身，而是语境被政治化了。请试想和日本人解释广岛死的人里至少有一个该死。 https://t.co/CefCGdvK9l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948035186584670209",
+        "conversation_id": "2082064472550633571",
+        "created_at": "2026-07-28T11:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082064472550633571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thctroche/stat…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/thctroche/status/2081860187606942032",
+              "start": 36,
+              "url": "https://t.co/khAd0oLDks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082064472550633571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1922,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081860187606942032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说这么一句被互关单取了，事实就是这样啊，小时候侵犯我的人就不是恋童癖。 https://t.co/khAd0oLDks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 1447,
+          "like_count": 10235,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3424
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T15:01:34.000Z",
+        "description": "我只是个爱情的骗徒，是爱情的小坏蛋。Queer poly pan 🍳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shianbey",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shianbey",
+                "start": 0,
+                "url": "https://t.co/Ml7rVTPl25"
+              }
+            ]
+          }
+        },
+        "id": "1948035186584670209",
+        "location": "Pennsylvania, USA",
+        "name": "大麻軟糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074265713225728000/_GkUdFFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 316,
+          "like_count": 3088,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 1902
+        },
+        "url": "https://t.co/Ml7rVTPl25",
+        "username": "thctroche",
+        "verified": false
+      }
+    ]
+  }
+}

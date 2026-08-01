@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1992905287867814271",
+    "created_at": "2025-11-25T15:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T16:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993348457361555682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1723967055345360897",
+          "start": 0,
+          "username": "SaorsaOne"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Nostraman6000/…",
+          "end": 34,
+          "expanded_url": "https://x.com/Nostraman6000/status/1993104432633196597?s=19",
+          "start": 11,
+          "url": "https://t.co/qcO4clSIs9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993348457361555682",
+    "in_reply_to_user_id": "1707741005490049024",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993104432633196597",
+        "type": "quoted"
+      },
+      {
+        "id": "1993342185199354372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaorsaOne https://t.co/qcO4clSIs9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992905287867814271",
+        "created_at": "2025-11-25T15:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993348457361555682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1723967055345360897",
+              "start": 0,
+              "username": "SaorsaOne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Nostraman6000/…",
+              "end": 34,
+              "expanded_url": "https://x.com/Nostraman6000/status/1993104432633196597?s=19",
+              "start": 11,
+              "url": "https://t.co/qcO4clSIs9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993348457361555682",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993104432633196597",
+            "type": "quoted"
+          },
+          {
+            "id": "1993342185199354372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaorsaOne https://t.co/qcO4clSIs9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969691175574769664",
+        "conversation_id": "1992905287867814271",
+        "created_at": "2025-11-24T23:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T00:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993104432633196597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1723967055345360897",
+              "start": 0,
+              "username": "SaorsaOne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993104432633196597",
+        "in_reply_to_user_id": "1723967055345360897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992905287867814271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaorsaOne 谁告诉你我们共产主义者为文革招魂的？我们绝对反对无产阶级文化大革命，因为这场革命既不彻底，亦受官僚集团的控制，我们要的，是真正的，俱有能不妥协政治动能的无产阶级大革命！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992905287867814271",
+        "created_at": "2025-11-25T15:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993342185199354372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1723967055345360897",
+              "start": 0,
+              "username": "SaorsaOne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993342185199354372",
+        "in_reply_to_user_id": "1723967055345360897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992905287867814271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaorsaOne 谁告诉你我们资本主义者不为文革招魂的？我们绝对支持毛匪泽东文化大革命，因为这场革命既打击了黄鹅匪谍列宁党，又放出了各地小老板自谋生路开厂，我们要的，是更激烈的，具有不妥协政治动能的反共救国大革命！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 939,
+          "like_count": 6219,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2251
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T07:32:36.000Z",
+        "description": "不键政，全职性骚扰薄熙来中。",
+        "id": "1723967055345360897",
+        "location": "秦城监狱",
+        "name": "白雪楼",
+        "pinned_tweet_id": "1993156768135102762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991516792141852672/6yo1za_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 134,
+          "like_count": 884,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 1269
+        },
+        "username": "SaorsaOne",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T09:12:35.000Z",
+        "description": "大号：@LXL1165188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "LXL1165188"
+              }
+            ]
+          }
+        },
+        "id": "1969691175574769664",
+        "location": "SC",
+        "name": "MALVER",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974877727288377345/062SeFOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 222,
+          "like_count": 325,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1721
+        },
+        "username": "Nostraman6000",
+        "verified": false
+      }
+    ]
+  }
+}

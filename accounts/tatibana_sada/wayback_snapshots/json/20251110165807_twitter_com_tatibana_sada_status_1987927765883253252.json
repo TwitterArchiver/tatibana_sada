@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987927765883253252",
+    "created_at": "2025-11-10T16:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T17:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987927765883253252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iLIc5147/statu…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/iLIc5147/status/1987854736557814011",
+          "start": 67,
+          "url": "https://t.co/2AR6i2xqfp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987927765883253252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987854736557814011",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看文化大革命搞得不错，党国制度威风扫地，政权机构完全瘫痪，张献忠民主也受重视，如果加上诸夏爱国者的领导，就是我们理想的剿匪复国事业 https://t.co/2AR6i2xqfp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987927765883253252",
+        "created_at": "2025-11-10T16:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T17:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987927765883253252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iLIc5147/statu…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/iLIc5147/status/1987854736557814011",
+              "start": 67,
+              "url": "https://t.co/2AR6i2xqfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987927765883253252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987854736557814011",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看文化大革命搞得不错，党国制度威风扫地，政权机构完全瘫痪，张献忠民主也受重视，如果加上诸夏爱国者的领导，就是我们理想的剿匪复国事业 https://t.co/2AR6i2xqfp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690100855653965824",
+        "conversation_id": "1987854736557814011",
+        "created_at": "2025-11-10T12:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987854736557814011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987854736557814011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 80,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简中推特上的言论自由，让所有人都拥有了大鸣大放大字报的权利，不仅没有任何限制，甚至不需要为自己的言论负责\n\n我们现在比文化大革命时期自由多了，当然仅限于墙外\n\n所以实际上，键政辩经就是第二次文化大革命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 793,
+          "like_count": 4976,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1833
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-11T20:40:59.000Z",
+        "description": "芝士伍伊斯基5147🐱我的立场和身份会随着我正在看的书而改变，不必惊慌，5147会永远站在你的这一边😸缘分未到，时机未熟",
+        "id": "1690100855653965824",
+        "location": "我的立场随时变，？？立场为根基",
+        "name": "洪文斯基✴️",
+        "pinned_tweet_id": "1987398447637668066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986113236182437888/QvEONH5Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 547,
+          "like_count": 23830,
+          "listed_count": 7,
+          "media_count": 917,
+          "tweet_count": 12087
+        },
+        "username": "iLIc5147",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986077028534329745",
+    "created_at": "2025-11-05T14:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T15:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986077028534329745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1183608954296946688",
+          "start": 3,
+          "username": "tuiburen"
+        },
+        {
+          "end": 30,
+          "id": "1183663051079176193",
+          "start": 14,
+          "username": "Willoug60125499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986077028534329745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985656571670774264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuiburen: @Willoug60125499 讲道理，出于人种多样性研究的目的，Groyper 就该和radfem 配对生孩子，看会下出来什么种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986077028534329745",
+        "created_at": "2025-11-05T14:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T15:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986077028534329745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1183608954296946688",
+              "start": 3,
+              "username": "tuiburen"
+            },
+            {
+              "end": 30,
+              "id": "1183663051079176193",
+              "start": 14,
+              "username": "Willoug60125499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986077028534329745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985656571670774264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuiburen: @Willoug60125499 讲道理，出于人种多样性研究的目的，Groyper 就该和radfem 配对生孩子，看会下出来什么种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1183608954296946688",
+        "conversation_id": "1985589323451023448",
+        "created_at": "2025-11-04T10:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985656571670774264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1183663051079176193",
+              "start": 0,
+              "username": "Willoug60125499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985656571670774264",
+        "in_reply_to_user_id": "1183663051079176193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 603,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985651796732498221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Willoug60125499 讲道理，出于人种多样性研究的目的，Groyper 就该和radfem 配对生孩子，看会下出来什么种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 748,
+          "like_count": 4749,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1794
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-14T05:02:29.000Z",
+        "description": "冥顽不化的退步分子；人性尽失的黄皮纳粹；屡教不改的愚昧红脖；随波逐流的乌合之众；逼瘾难解的小吊处男；内心变态的反俄畜生",
+        "id": "1183608954296946688",
+        "name": "被迫上分",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507774412212215813/YtdLHvg2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6852,
+          "following_count": 1046,
+          "like_count": 82499,
+          "listed_count": 52,
+          "media_count": 231,
+          "tweet_count": 7839
+        },
+        "username": "tuiburen",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-14T08:37:27.000Z",
+        "description": "Ἀνερρίφθω κύβος",
+        "id": "1183663051079176193",
+        "location": "Melbourne, Victoria",
+        "name": "三日月やよい",
+        "pinned_tweet_id": "1972274764912918927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1315532216240283650/frozxgSE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14467,
+          "following_count": 1201,
+          "like_count": 77409,
+          "listed_count": 131,
+          "media_count": 2209,
+          "tweet_count": 29159
+        },
+        "username": "Willoug60125499",
+        "verified": false
+      }
+    ]
+  }
+}

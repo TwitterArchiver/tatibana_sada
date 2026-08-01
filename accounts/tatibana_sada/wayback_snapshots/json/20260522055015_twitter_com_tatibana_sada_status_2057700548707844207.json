@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057685775924507110",
+    "created_at": "2026-05-22T05:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057700548707844207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1604181895721504771",
+          "start": 0,
+          "username": "mengtunwudaimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057700548707844207",
+    "in_reply_to_user_id": "1604181895721504771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057685775924507110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengtunwudaimu 可以卖给日本人，40日元能吃上这个不比150日元的加盐饭团好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_2057685772728479744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5eTubbMAAAx0y.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057685775924507110",
+        "created_at": "2026-05-22T05:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057700548707844207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604181895721504771",
+              "start": 0,
+              "username": "mengtunwudaimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057700548707844207",
+        "in_reply_to_user_id": "1604181895721504771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057685775924507110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengtunwudaimu 可以卖给日本人，40日元能吃上这个不比150日元的加盐饭团好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057685772728479744"
+          ]
+        },
+        "author_id": "1604181895721504771",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057685775924507110",
+        "created_at": "2026-05-22T04:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057685775924507110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/crFGhFXjBm",
+              "end": 43,
+              "expanded_url": "https://x.com/mengtunwudaimu/status/2057685775924507110/photo/1",
+              "media_key": "3_2057685772728479744",
+              "start": 20,
+              "url": "https://t.co/crFGhFXjBm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057685775924507110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1841,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小粉红来看看，中国人这是什么生活水平？ https://t.co/crFGhFXjBm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 1165,
+          "like_count": 8272,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2725
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "我们终将在没有黑暗的地方相会",
+        "id": "1604181895721504771",
+        "location": "IP属地：南京",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011343699327000576/ngvpFLui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14196,
+          "following_count": 3052,
+          "like_count": 29456,
+          "listed_count": 159,
+          "media_count": 2665,
+          "tweet_count": 16754
+        },
+        "username": "mengtunwudaimu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      }
+    ],
+    "conversation_id": "1991595923391283705",
+    "created_at": "2025-11-20T19:54:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T20:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991595923391283705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/1991509029265502546",
+          "start": 139,
+          "url": "https://t.co/DWA39pody5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991595923391283705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991509029265502546",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从根底上说没有不被意识形态中介而被认知的自然，从技术上说没有拥有广泛于现存部落而具有代表性的「自然」。所以我最终是这样子主张的——如奈子言，保守主义不是无条件的继承一切存在过的观念和立场，而是将其视为材料，把自己所欲求的，以自己为「临在」，横空创造出一个立于当下的语境和世界。 https://t.co/DWA39pody5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "1991595923391283705",
+        "created_at": "2025-11-20T19:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T20:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991595923391283705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/1991509029265502546",
+              "start": 139,
+              "url": "https://t.co/DWA39pody5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991595923391283705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991509029265502546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从根底上说没有不被意识形态中介而被认知的自然，从技术上说没有拥有广泛于现存部落而具有代表性的「自然」。所以我最终是这样子主张的——如奈子言，保守主义不是无条件的继承一切存在过的观念和立场，而是将其视为材料，把自己所欲求的，以自己为「临在」，横空创造出一个立于当下的语境和世界。 https://t.co/DWA39pody5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1991509029265502546",
+        "created_at": "2025-11-20T14:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T15:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991509029265502546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991509029265502546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 499,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我记得短发甚至寸头不是为了工业革命进厂干活方便和为了近现代职业军队打仗方便才流行起来的吗？鼓吹“自然女”概念的很多人流于形式要削发明志，反倒是堕入了最反自然的陷阱。如果目的是追求人类历史上的自然性，那不该是用超短发来对抗辛勤保养的长发，而该是选择随便地打理一下自然蓄长的头发就好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 880,
+          "like_count": 5797,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2088
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "自由、平等、博爱 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 很高兴遇见你，让我fumofumo你吧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 232,
+          "like_count": 60509,
+          "listed_count": 6,
+          "media_count": 770,
+          "tweet_count": 11491
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

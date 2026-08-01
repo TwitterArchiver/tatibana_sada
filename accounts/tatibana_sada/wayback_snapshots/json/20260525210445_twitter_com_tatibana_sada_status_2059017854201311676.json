@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2058910468329394675",
+    "created_at": "2026-05-25T21:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T22:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059017854201311676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1742234135446593536",
+          "start": 0,
+          "username": "laplandedtexas"
+        },
+        {
+          "end": 27,
+          "id": "1360522586317348865",
+          "start": 16,
+          "username": "nanami_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059017854201311676",
+    "in_reply_to_user_id": "1742234135446593536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059016260059570269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laplandedtexas @nanami_mua 善"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058910468329394675",
+        "created_at": "2026-05-25T21:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T22:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059017854201311676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1742234135446593536",
+              "start": 0,
+              "username": "laplandedtexas"
+            },
+            {
+              "end": 27,
+              "id": "1360522586317348865",
+              "start": 16,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059017854201311676",
+        "in_reply_to_user_id": "1742234135446593536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059016260059570269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laplandedtexas @nanami_mua 善"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742234135446593536",
+        "conversation_id": "2058910468329394675",
+        "created_at": "2026-05-25T20:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T21:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059016260059570269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 26,
+              "id": "1360522586317348865",
+              "start": 15,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059016260059570269",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058979795921502647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @nanami_mua 对，你妈死了你也别悼念，你的亲朋好友全家死光就是好似，像你这种脑残4000+就是好事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1213,
+          "like_count": 8647,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2890
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T17:19:46.000Z",
+        "description": "在这片大地有无数的人都在仰头看着\n我只是那茫茫人海中的其中之一\n星空其实很不真实\n因为我从未伸手触摸到过\n“祂”\n说实话我并不关心太多的事情\n一位无证含糖mtf\nhrt2023/12/14",
+        "id": "1742234135446593536",
+        "name": "栗子🌰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047248735697268736/3Dnuz2PT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 222,
+          "like_count": 3230,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 120
+        },
+        "username": "laplandedtexas",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX/小证🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2023776700212097110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 491,
+          "like_count": 85633,
+          "listed_count": 6,
+          "media_count": 828,
+          "tweet_count": 9649
+        },
+        "username": "nanami_mua",
+        "verified": false
+      }
+    ]
+  }
+}

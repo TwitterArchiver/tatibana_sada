@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2064323485602844875",
+    "created_at": "2026-06-09T12:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064323485602844875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ethereals68/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Ethereals68/status/2064303391401017399",
+          "start": 4,
+          "url": "https://t.co/RRcNv5Ruso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064323485602844875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064303391401017399",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁来了 https://t.co/RRcNv5Ruso"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2064303383964426240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXg_ZXWIAAp70N.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064323485602844875",
+        "created_at": "2026-06-09T12:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064323485602844875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ethereals68/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Ethereals68/status/2064303391401017399",
+              "start": 4,
+              "url": "https://t.co/RRcNv5Ruso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064323485602844875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064303391401017399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁来了 https://t.co/RRcNv5Ruso"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064303383964426240"
+          ]
+        },
+        "author_id": "1987462603174768640",
+        "conversation_id": "2064303391401017399",
+        "created_at": "2026-06-09T11:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064303391401017399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zpkp6uM5Cp",
+              "end": 303,
+              "expanded_url": "https://x.com/Ethereals68/status/2064303391401017399/photo/1",
+              "media_key": "3_2064303383964426240",
+              "start": 280,
+              "url": "https://t.co/Zpkp6uM5Cp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064303391401017399",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 144,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Our civilization is under threat from two evil forces: aliens who have occupied our lands and are destroying our culture with their barbarity, and tyrants who dream of splitting us apart, but we will not surrender. We will drive the aliens out of our land and destroy the tyrants https://t.co/Zpkp6uM5Cp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1289,
+          "like_count": 9146,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3144
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T10:10:23.000Z",
+        "description": "Far-Right Bipartisan Centrist | Homonationalist | Deep State Slut | Hawkish Wilsonian Idealist | Atheistic pagan | Halliburton Patriot",
+        "id": "1987462603174768640",
+        "name": "Blueboy UwU🏳️‍🌈🇪🇺🦅🌐🏛️",
+        "pinned_tweet_id": "2060423565166387559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057841603062935552/ANa8XJdy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 975,
+          "like_count": 26574,
+          "listed_count": 11,
+          "media_count": 1603,
+          "tweet_count": 4228
+        },
+        "username": "Ethereals68",
+        "verified": true
+      }
+    ]
+  }
+}

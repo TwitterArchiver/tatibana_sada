@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2064694290216104162",
+    "created_at": "2026-06-10T13:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064694290216104162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1707741005490049024",
+          "start": 3,
+          "username": "tatibana_sada"
+        },
+        {
+          "end": 31,
+          "id": "1913743387330752512",
+          "start": 19,
+          "username": "lishn237850"
+        },
+        {
+          "end": 42,
+          "id": "1982449259774656512",
+          "start": 32,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064694290216104162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064694268636373310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatibana_sada: @lishn237850 @smiroyama 我觉得挺绷的，艺术的学术-行业体系成啥样了你知道吗。\n水完我的作品是怎么怎么符合一下伟大的进步主义标准，然后跟prof勾搭一下，跟想洗白自己的新钱吹吹水。换句话说是糟糕又恶劣的纯粹兜售资产阶级…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064694290216104162",
+        "created_at": "2026-06-10T13:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064694290216104162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1707741005490049024",
+              "start": 3,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 31,
+              "id": "1913743387330752512",
+              "start": 19,
+              "username": "lishn237850"
+            },
+            {
+              "end": 42,
+              "id": "1982449259774656512",
+              "start": 32,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064694290216104162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064694268636373310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatibana_sada: @lishn237850 @smiroyama 我觉得挺绷的，艺术的学术-行业体系成啥样了你知道吗。\n水完我的作品是怎么怎么符合一下伟大的进步主义标准，然后跟prof勾搭一下，跟想洗白自己的新钱吹吹水。换句话说是糟糕又恶劣的纯粹兜售资产阶级…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064622773666992375",
+        "created_at": "2026-06-10T13:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064694268636373310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913743387330752512",
+              "start": 0,
+              "username": "lishn237850"
+            },
+            {
+              "end": 23,
+              "id": "1982449259774656512",
+              "start": 13,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064694268636373310",
+        "in_reply_to_user_id": "1913743387330752512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064641361958359236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lishn237850 @smiroyama 我觉得挺绷的，艺术的学术-行业体系成啥样了你知道吗。\n水完我的作品是怎么怎么符合一下伟大的进步主义标准，然后跟prof勾搭一下，跟想洗白自己的新钱吹吹水。换句话说是糟糕又恶劣的纯粹兜售资产阶级附庸风雅感的泡沫……人家当然不喜欢闹钟了，因为人家是有党性的民主党国际的文艺战线战士。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 1309,
+          "like_count": 9287,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3213
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T23:56:05.000Z",
+        "description": "奇怪的生物³\n等死 友跨 男的\n我應該去死",
+        "id": "1913743387330752512",
+        "location": "南投漁港",
+        "name": "未知❂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051117420857958400/g8uP14Eq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 467,
+          "like_count": 12140,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1826
+        },
+        "username": "lishn237850",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Developing https://t.co/pJ9VtduSxe | sister: @qianxunchan | friends: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 34,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 11,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062932840699084800/9M3agsOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6539,
+          "following_count": 2373,
+          "like_count": 12898,
+          "listed_count": 21,
+          "media_count": 2060,
+          "tweet_count": 7645
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

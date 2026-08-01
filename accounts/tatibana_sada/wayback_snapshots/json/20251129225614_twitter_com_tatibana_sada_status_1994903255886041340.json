@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1994903255886041340",
+    "created_at": "2025-11-29T22:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T23:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994903255886041340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/amber_toffee/status/1994784365315067938",
+          "start": 54,
+          "url": "https://t.co/DURPxzctiO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994903255886041340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994784365315067938",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依我看这是一个统计学问题。如果觉得「几乎找不到」不够四平八稳，我是很乐意把措辞修改成「能观察到的不多」的。 https://t.co/DURPxzctiO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1994903255886041340",
+        "created_at": "2025-11-29T22:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T23:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994903255886041340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1994784365315067938",
+              "start": 54,
+              "url": "https://t.co/DURPxzctiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994903255886041340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994784365315067938",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依我看这是一个统计学问题。如果觉得「几乎找不到」不够四平八稳，我是很乐意把措辞修改成「能观察到的不多」的。 https://t.co/DURPxzctiO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1994340787413246326",
+        "created_at": "2025-11-29T15:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994784365315067938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 27,
+              "id": "1736265610911428608",
+              "start": 15,
+              "username": "noname2095_"
+            },
+            {
+              "end": 36,
+              "id": "1795897776401797120",
+              "start": 28,
+              "username": "ExNieba"
+            },
+            {
+              "end": 49,
+              "id": "2885028194",
+              "start": 37,
+              "username": "MizukawaYui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994784365315067938",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994765571330904334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @noname2095_ @ExNieba @MizukawaYui 笑死 有人说跨女不玩乙游"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 961,
+          "like_count": 6499,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2316
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❦ @noaayoyaoaya・☭・ᴍᴛꜰ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "ʜɪᴄ ʀʜᴏᴅᴜꜱ, ʜɪᴄ ꜱᴀʟᴛᴀ",
+        "name": "amber ଳ⋆.ೃ࿔*･",
+        "pinned_tweet_id": "1946964550160355612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21028,
+          "following_count": 2435,
+          "like_count": 35006,
+          "listed_count": 68,
+          "media_count": 873,
+          "tweet_count": 18352
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

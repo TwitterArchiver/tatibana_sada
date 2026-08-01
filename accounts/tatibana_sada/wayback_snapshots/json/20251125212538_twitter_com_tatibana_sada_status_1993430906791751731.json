@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1993084239768674814",
+    "created_at": "2025-11-25T21:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T22:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993430906791751731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746657095741497344",
+          "start": 0,
+          "username": "TER956359932184"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993430906791751731",
+    "in_reply_to_user_id": "1746657095741497344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993084239768674814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TER956359932184 不过这不能够解释为什么黑非洲没多少，阿拉伯文化区很常见"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1154,
+        "media_key": "3_1993084232374038528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6jbjK4WMAAfCTC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 440,
+        "media_key": "3_1993084232378322944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6jbjK5XkAA5pQ7.jpg",
+        "width": 600
+      },
+      {
+        "height": 414,
+        "media_key": "3_1993084232374071296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6jbjK4WsAAnDVD.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1993084239768674814",
+        "created_at": "2025-11-25T21:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T22:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993430906791751731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1746657095741497344",
+              "start": 0,
+              "username": "TER956359932184"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993430906791751731",
+        "in_reply_to_user_id": "1746657095741497344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993084239768674814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TER956359932184 不过这不能够解释为什么黑非洲没多少，阿拉伯文化区很常见"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993084232374038528",
+            "3_1993084232378322944",
+            "3_1993084232374071296"
+          ]
+        },
+        "author_id": "1746657095741497344",
+        "conversation_id": "1993084239768674814",
+        "created_at": "2025-11-24T22:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T23:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993084239768674814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKsNwaNpZ4",
+              "end": 52,
+              "expanded_url": "https://x.com/TER956359932184/status/1993084239768674814/photo/1",
+              "media_key": "3_1993084232374038528",
+              "start": 29,
+              "url": "https://t.co/lKsNwaNpZ4"
+            },
+            {
+              "display_url": "pic.x.com/lKsNwaNpZ4",
+              "end": 52,
+              "expanded_url": "https://x.com/TER956359932184/status/1993084239768674814/photo/1",
+              "media_key": "3_1993084232378322944",
+              "start": 29,
+              "url": "https://t.co/lKsNwaNpZ4"
+            },
+            {
+              "display_url": "pic.x.com/lKsNwaNpZ4",
+              "end": 52,
+              "expanded_url": "https://x.com/TER956359932184/status/1993084239768674814/photo/1",
+              "media_key": "3_1993084232374071296",
+              "start": 29,
+              "url": "https://t.co/lKsNwaNpZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993084239768674814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1861,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "“地中海贫血”也可以证明中国南方人和非洲黑人基因高度挂钩 https://t.co/lKsNwaNpZ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 946,
+          "like_count": 6256,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2266
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T22:14:43.000Z",
+        "description": "Orthodox Christian, Manchurian, R1a-Z93, anti-American, anti-LGBT and neoliberal, pro-Russian, anti-democracy  东正教，俄统派，反民主。R1a-Z93。建党宗旨：保守、反动、退步。铁鸟凌空、东南尽毁。",
+        "id": "1746657095741497344",
+        "location": "Spain",
+        "name": "满洲清南党남만을제거하다☦️🇷🇺🇰🇵🇻🇪",
+        "pinned_tweet_id": "1883412771213295835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882843106153811968/z7y4JxNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 490,
+          "like_count": 22868,
+          "listed_count": 7,
+          "media_count": 917,
+          "tweet_count": 12379
+        },
+        "username": "TER956359932184",
+        "verified": false
+      }
+    ]
+  }
+}

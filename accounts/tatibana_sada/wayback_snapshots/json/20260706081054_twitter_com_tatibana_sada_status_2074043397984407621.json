@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2074043397984407621",
+    "created_at": "2026-07-06T08:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074043397984407621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Machiavelli959…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Machiavelli9595/status/2073949715624776060",
+          "start": 13,
+          "url": "https://t.co/o6TaiaSuNV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074043397984407621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073949715624776060",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是美国人，听美国人说 https://t.co/o6TaiaSuNV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2074043397984407621",
+        "created_at": "2026-07-06T08:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074043397984407621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Machiavelli959…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Machiavelli9595/status/2073949715624776060",
+              "start": 13,
+              "url": "https://t.co/o6TaiaSuNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074043397984407621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073949715624776060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是美国人，听美国人说 https://t.co/o6TaiaSuNV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1038609522980515840",
+        "conversation_id": "2073839009344762235",
+        "created_at": "2026-07-06T01:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073949715624776060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1618280263355666432",
+              "start": 0,
+              "username": "BaxterSaxster"
+            },
+            {
+              "end": 31,
+              "id": "1355721251180961792",
+              "start": 15,
+              "username": "GuntherEagleman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073949715624776060",
+        "in_reply_to_user_id": "1618280263355666432",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 473,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073839284629475453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaxterSaxster @GuntherEagleman Yes,  the world knows who the boss is.  We say when, we say where, we say shut the fuck up it Americas world.  We r the modern Romans"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1393,
+          "like_count": 9709,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3315
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-09T02:06:21.000Z",
+        "description": "R/E investor buy, fix, hold, rent long term for cash flow. Self managing properties. Travel connoisseur specializing in #aquaHikes",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 120,
+                "tag": "aquaHikes"
+              }
+            ]
+          }
+        },
+        "id": "1038609522980515840",
+        "location": "Urban Texan",
+        "name": "Britanius Americaus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1046497733438316544/EFZ7wUFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 608,
+          "like_count": 14349,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 16375
+        },
+        "url": "",
+        "username": "Machiavelli9595",
+        "verified": false
+      }
+    ]
+  }
+}

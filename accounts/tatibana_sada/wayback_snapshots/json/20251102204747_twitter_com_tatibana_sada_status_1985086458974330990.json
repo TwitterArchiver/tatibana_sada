@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1984778286233501702",
+    "created_at": "2025-11-02T20:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T21:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985086458974330990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1167765353415487488",
+          "start": 0,
+          "username": "miren_41319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985086458974330990",
+    "in_reply_to_user_id": "1167765353415487488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984778286233501702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miren_41319 我浦塩呢，浦塩是大日本帝国不可分割的一部分"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1724,
+        "media_key": "3_1984778278985744387",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4tZVDTbQAM58-c.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1984778286233501702",
+        "created_at": "2025-11-02T20:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T21:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985086458974330990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1167765353415487488",
+              "start": 0,
+              "username": "miren_41319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985086458974330990",
+        "in_reply_to_user_id": "1167765353415487488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984778286233501702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miren_41319 我浦塩呢，浦塩是大日本帝国不可分割的一部分"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984778278985744387"
+          ]
+        },
+        "author_id": "1167765353415487488",
+        "conversation_id": "1984778286233501702",
+        "created_at": "2025-11-02T00:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T01:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984778286233501702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4r4wj4LrZT",
+              "end": 40,
+              "expanded_url": "https://x.com/miren_41319/status/1984778286233501702/photo/1",
+              "media_key": "3_1984778278985744387",
+              "start": 17,
+              "url": "https://t.co/4r4wj4LrZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984778286233501702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 27043,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 45,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "日本人意淫的2050年的东亚…… https://t.co/4r4wj4LrZT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 701,
+          "like_count": 4194,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1681
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T11:45:52.000Z",
+        "description": "119",
+        "id": "1167765353415487488",
+        "location": "北京",
+        "name": "迷人的小红",
+        "pinned_tweet_id": "1984777406184636577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1396714942443655170/UO8JduEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216746,
+          "following_count": 6320,
+          "like_count": 198108,
+          "listed_count": 370,
+          "media_count": 13436,
+          "tweet_count": 146004
+        },
+        "username": "miren_41319",
+        "verified": false
+      }
+    ]
+  }
+}

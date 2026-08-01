@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2074429214141657481",
+    "created_at": "2026-07-07T09:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074429214141657481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mo.mbd.baidu.com/r/1Zbdbe4hvyg?…",
+          "end": 93,
+          "expanded_url": "https://mo.mbd.baidu.com/r/1Zbdbe4hvyg?f=cp&rs=3050889297&ruk=3mig_v20PTowiRpgEYL6ug&u=2967e3b0a2e5ce75",
+          "start": 70,
+          "unwound_url": "https://mbd.baidu.com/newspage/data/landingsuper?rs=3050889297&ruk=3mig_v20PTowiRpgEYL6ug&pageType=1&_refluxos=a0&context=%7B%22nid%22%3A%22news_9738159558508927321%22,%22ssid%22%3A%22b280gff4c01000000%22%7D",
+          "url": "https://t.co/rXc7x47h0B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074429214141657481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074398483277062301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 2026/7/6/\n光明网发文:\n《重庆多部门联合清理整治违规教育矫治类机构，已清理关停41家》\nhttps://t.co/rXc7x47h0B\n\n由重庆市网信、市场监管、教育、公安、民政、卫健等部门成立教育矫治类机构清理整治工作专班，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2074398455078813696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMm-Z32XgAAnX2g.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2412,
+        "media_key": "3_2074398470375358464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMm-aw1WQAADWra.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2074429214141657481",
+        "created_at": "2026-07-07T09:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074429214141657481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mo.mbd.baidu.com/r/1Zbdbe4hvyg?…",
+              "end": 93,
+              "expanded_url": "https://mo.mbd.baidu.com/r/1Zbdbe4hvyg?f=cp&rs=3050889297&ruk=3mig_v20PTowiRpgEYL6ug&u=2967e3b0a2e5ce75",
+              "start": 70,
+              "unwound_url": "https://mbd.baidu.com/newspage/data/landingsuper?rs=3050889297&ruk=3mig_v20PTowiRpgEYL6ug&pageType=1&_refluxos=a0&context=%7B%22nid%22%3A%22news_9738159558508927321%22,%22ssid%22%3A%22b280gff4c01000000%22%7D",
+              "url": "https://t.co/rXc7x47h0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074429214141657481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074398483277062301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 2026/7/6/\n光明网发文:\n《重庆多部门联合清理整治违规教育矫治类机构，已清理关停41家》\nhttps://t.co/rXc7x47h0B\n\n由重庆市网信、市场监管、教育、公安、民政、卫健等部门成立教育矫治类机构清理整治工作专班，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074398455078813696",
+            "3_2074398470375358464"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2074398483277062301",
+        "created_at": "2026-07-07T07:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074398483277062301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mo.mbd.baidu.com/r/1Zbdbe4hvyg?…",
+              "end": 72,
+              "expanded_url": "https://mo.mbd.baidu.com/r/1Zbdbe4hvyg?f=cp&rs=3050889297&ruk=3mig_v20PTowiRpgEYL6ug&u=2967e3b0a2e5ce75",
+              "start": 49,
+              "unwound_url": "https://mbd.baidu.com/newspage/data/landingsuper?rs=3050889297&ruk=3mig_v20PTowiRpgEYL6ug&pageType=1&_refluxos=a0&context=%7B%22nid%22%3A%22news_9738159558508927321%22,%22ssid%22%3A%22b280gff4c01000000%22%7D",
+              "url": "https://t.co/rXc7x47h0B"
+            },
+            {
+              "display_url": "pic.x.com/zX4V6DV1Bp",
+              "end": 186,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2074398483277062301/photo/1",
+              "media_key": "3_2074398455078813696",
+              "start": 163,
+              "url": "https://t.co/zX4V6DV1Bp"
+            },
+            {
+              "display_url": "pic.x.com/zX4V6DV1Bp",
+              "end": 186,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2074398483277062301/photo/1",
+              "media_key": "3_2074398470375358464",
+              "start": 163,
+              "url": "https://t.co/zX4V6DV1Bp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074398483277062301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "mo.mbd.baidu.com/r/1Zbdbe4hvyg?…",
+                "end": 72,
+                "expanded_url": "https://mo.mbd.baidu.com/r/1Zbdbe4hvyg?f=cp&rs=3050889297&ruk=3mig_v20PTowiRpgEYL6ug&u=2967e3b0a2e5ce75",
+                "start": 49,
+                "url": "https://t.co/JkzjTymlkz"
+              }
+            ]
+          },
+          "text": "2026/7/6/\n光明网发文:\n《重庆多部门联合清理整治违规教育矫治类机构，已清理关停41家》\nhttps://t.co/JkzjTymlkz\n\n由重庆市网信、市场监管、教育、公安、民政、卫健等部门成立教育矫治类机构清理整治工作专班，从4月30日至9月30日，开展为期5个月的清理整治工作\n\n目前以关停查出41家现在实体店\n我门最近在重庆这边也上了很多稿子\n还有内参报道做了很多工作\n这大概是什么概念呢\n平均一家二百个学员\n41家就是8200个孩子获救……\n\n当然我想说的是……这只是个开始接下来还是全国整顿\n扭转机构会彻底被打成过街老鼠\n还有更多孩子会被解放\n我也会更积极的配合工作\n我不骗人的\n当初留在国内说把这些机构干掉\n就要全都干掉"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1937,
+          "like_count": 49,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "2026/7/6/\n光明网发文:\n《重庆多部门联合清理整治违规教育矫治类机构，已清理关停41家》\nhttps://t.co/rXc7x47h0B\n\n由重庆市网信、市场监管、教育、公安、民政、卫健等部门成立教育矫治类机构清理整治工作专班，从4月30日至9月30日，开展为期5个月的清理整治工作\n\n目前以关停查出41家现在实体店 https://t.co/zX4V6DV1Bp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1405,
+          "like_count": 9764,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 3328
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6235,
+          "following_count": 3324,
+          "like_count": 3739,
+          "listed_count": 19,
+          "media_count": 489,
+          "tweet_count": 3363
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1990062733908230521",
+    "created_at": "2025-11-23T19:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T20:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992681705753489874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "ZJURsNvP5K25665"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992681705753489874",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990062733908230521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZJURsNvP5K25665 此処に。有難う。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1990062708545503232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54ffVebQAAsVJ9.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1990062733908230521",
+        "created_at": "2025-11-23T19:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T20:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992681705753489874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "ZJURsNvP5K25665"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992681705753489874",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990062733908230521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZJURsNvP5K25665 此処に。有難う。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990062708545503232"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "conversation_id": "1990062733908230521",
+        "created_at": "2025-11-16T14:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T15:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990062733908230521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4jkAcM3HgL",
+              "end": 54,
+              "expanded_url": "https://x.com/ZJURsNvP5K25665/status/1990062733908230521/photo/1",
+              "media_key": "3_1990062708545503232",
+              "start": 31,
+              "url": "https://t.co/4jkAcM3HgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990062733908230521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2193,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有无人要和我互fo🤓\n留言谢谢喵、    \n よろしくね！😋 https://t.co/4jkAcM3HgL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 916,
+          "like_count": 6055,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2204
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "很差劲的废柴阴湿宅\n生活键政什么都发  血图注意\n马列毛书籍阅读中  目前还是☭ 赤匪😡📕🚩\n反建制🇨🇳中修伪政权必亡！\n接纳各中、右立场  理性讨论谢谢\n友跨🏳️‍⚧️ 友同🏳️‍🌈多元性别无罪\n世界计划/术力口/蔚蓝档案/gal/HOI4…属性超杂随机掉落\n休学很无聊所以私信什么都行我睡醒了就会回",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "不/存在的第一共和国",
+        "pinned_tweet_id": "1990062733908230521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974874538384236544/06pl-pM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 751,
+          "like_count": 9090,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 855
+        },
+        "username": "ZJURsNvP5K25665",
+        "verified": false
+      }
+    ]
+  }
+}

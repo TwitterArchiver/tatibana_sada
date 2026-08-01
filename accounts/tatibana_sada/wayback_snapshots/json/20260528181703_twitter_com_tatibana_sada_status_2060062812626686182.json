@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2060062812626686182",
+    "created_at": "2026-05-28T18:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060062812626686182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1707741005490049024",
+          "start": 3,
+          "username": "tatibana_sada"
+        },
+        {
+          "end": 26,
+          "id": "1734893299801145344",
+          "start": 19,
+          "username": "_Kenir"
+        },
+        {
+          "end": 43,
+          "id": "2049181136375398400",
+          "start": 27,
+          "username": "RussRespublican"
+        },
+        {
+          "end": 57,
+          "id": "1705181120000847872",
+          "start": 44,
+          "username": "KRKShRomanov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060062812626686182",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060044425640947895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatibana_sada: @_Kenir @RussRespublican @KRKShRomanov No Manchu queue more!\n「汉官威仪」the stately grandeur of Han official robes and headdr…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060044407014146048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJa_eT2bwAAwhis.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2060062812626686182",
+        "created_at": "2026-05-28T18:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060062812626686182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1707741005490049024",
+              "start": 3,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 26,
+              "id": "1734893299801145344",
+              "start": 19,
+              "username": "_Kenir"
+            },
+            {
+              "end": 43,
+              "id": "2049181136375398400",
+              "start": 27,
+              "username": "RussRespublican"
+            },
+            {
+              "end": 57,
+              "id": "1705181120000847872",
+              "start": 44,
+              "username": "KRKShRomanov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060062812626686182",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060044425640947895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatibana_sada: @_Kenir @RussRespublican @KRKShRomanov No Manchu queue more!\n「汉官威仪」the stately grandeur of Han official robes and headdr…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060044407014146048"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059463210311565428",
+        "created_at": "2026-05-28T17:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060044425640947895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1734893299801145344",
+              "start": 0,
+              "username": "_Kenir"
+            },
+            {
+              "end": 24,
+              "id": "2049181136375398400",
+              "start": 8,
+              "username": "RussRespublican"
+            },
+            {
+              "end": 38,
+              "id": "1705181120000847872",
+              "start": 25,
+              "username": "KRKShRomanov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DoD6bcRM6I",
+              "end": 165,
+              "expanded_url": "https://x.com/tatibana_sada/status/2060044425640947895/photo/1",
+              "media_key": "3_2060044407014146048",
+              "start": 142,
+              "url": "https://t.co/DoD6bcRM6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060044425640947895",
+        "in_reply_to_user_id": "1734893299801145344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060038003066847533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Kenir @RussRespublican @KRKShRomanov No Manchu queue more!\n「汉官威仪」the stately grandeur of Han official robes and headdresses\nSo handsome 🥰🥰🥰 https://t.co/DoD6bcRM6I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 1246,
+          "like_count": 8915,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3020
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T11:10:09.000Z",
+        "description": "🇰🇵+🇰🇷 economic alliance\n🇰🇷🇷🇺🇺🇲🫸🇨🇳🇵🇰🇮🇳🇮🇱🏳️‍⚧️🇪🇺\ni like progress: eco, SF tech, yuri\ni hate woke liberal: gay, commie, trans, drag queen",
+        "id": "1734893299801145344",
+        "location": "Neo Baekje Empire 2050",
+        "name": "Anti-nafo🇰🇷🇷🇺🇺🇲☯☧👑🐍",
+        "pinned_tweet_id": "2054879834770432373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041553021193367552/zA1pHFaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 1868,
+          "like_count": 6819,
+          "listed_count": 0,
+          "media_count": 495,
+          "tweet_count": 7794
+        },
+        "username": "_Kenir",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T17:37:53.000Z",
+        "description": "",
+        "id": "2049181136375398400",
+        "name": "RussVolnobum🇷🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049183398871379969/bLwSQAcf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 66,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 469
+        },
+        "username": "RussRespublican",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T11:25:14.000Z",
+        "description": "Urla l'anima nell'inverno della piana\n​Alza il passo e va: ti consacrerà l'Aurora\n​🇷🇺🇺🇦🇧🇾🇱🇹🇱🇻🇪🇪🇵🇱🇫🇮🇲🇩🇬🇪🇦🇲🇦🇿🇰🇿🇹🇯🇰🇬🇺🇿🇹🇲\n2/4PT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/KRKShRomanov",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/KRKShRomanov",
+                "start": 0,
+                "url": "https://t.co/tkntVXGnid"
+              }
+            ]
+          }
+        },
+        "id": "1705181120000847872",
+        "location": "Leningrad, USSR in N Field",
+        "name": "✝️🏳️キラРомановы綺晶🇷🇺☦️🦋🔫",
+        "pinned_tweet_id": "2009667948399710432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798760468158484480/fCtOLj4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 406,
+          "like_count": 57398,
+          "listed_count": 3,
+          "media_count": 785,
+          "tweet_count": 15986
+        },
+        "url": "https://t.co/tkntVXGnid",
+        "username": "KRKShRomanov",
+        "verified": false
+      }
+    ]
+  }
+}

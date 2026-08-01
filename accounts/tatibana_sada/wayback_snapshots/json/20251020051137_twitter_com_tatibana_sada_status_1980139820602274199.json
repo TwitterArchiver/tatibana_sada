@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979937774875861184",
+    "created_at": "2025-10-20T05:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T06:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980139820602274199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1520962812930973696",
+          "start": 0,
+          "username": "I1IIlI1IllI1IlI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980139820602274199",
+    "in_reply_to_user_id": "1520962812930973696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980137113002885514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I1IIlI1IllI1IlI 我现在也是真心实意在这样说的哟。\n反奶子主义就是好就是好。\n最好是顺女人均自卑然后切奶子哇。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979937774875861184",
+        "created_at": "2025-10-20T05:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T06:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980139820602274199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520962812930973696",
+              "start": 0,
+              "username": "I1IIlI1IllI1IlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980139820602274199",
+        "in_reply_to_user_id": "1520962812930973696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980137113002885514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I1IIlI1IllI1IlI 我现在也是真心实意在这样说的哟。\n反奶子主义就是好就是好。\n最好是顺女人均自卑然后切奶子哇。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520962812930973696",
+        "conversation_id": "1979937774875861184",
+        "created_at": "2025-10-20T05:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T06:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980137113002885514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980137113002885514",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980135614214529266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 感觉像是两年前的你会说的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 564,
+          "like_count": 3116,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1515
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T03:06:28.000Z",
+        "description": "我真的变成人类了吗？",
+        "id": "1520962812930973696",
+        "name": "布鲁姆の花",
+        "pinned_tweet_id": "1552517150660653058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772790884226289665/fVIqqq7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 57,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "I1IIlI1IllI1IlI",
+        "verified": false
+      }
+    ]
+  }
+}

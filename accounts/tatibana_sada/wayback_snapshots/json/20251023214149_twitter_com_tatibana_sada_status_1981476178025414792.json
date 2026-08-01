@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979551215730966735",
+    "created_at": "2025-10-23T21:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T22:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981476178025414792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1368856141992779776",
+          "start": 0,
+          "username": "heyoux_2011"
+        },
+        {
+          "end": 21,
+          "id": "1120659303990304768",
+          "start": 13,
+          "username": "1923YCP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981476178025414792",
+    "in_reply_to_user_id": "1368856141992779776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979614295316168925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heyoux_2011 @1923YCP 器官在说话……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979551215730966735",
+        "created_at": "2025-10-23T21:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T22:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981476178025414792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1368856141992779776",
+              "start": 0,
+              "username": "heyoux_2011"
+            },
+            {
+              "end": 21,
+              "id": "1120659303990304768",
+              "start": 13,
+              "username": "1923YCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981476178025414792",
+        "in_reply_to_user_id": "1368856141992779776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979614295316168925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heyoux_2011 @1923YCP 器官在说话……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368856141992779776",
+        "conversation_id": "1979551215730966735",
+        "created_at": "2025-10-18T18:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T19:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979614295316168925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1120659303990304768",
+              "start": 0,
+              "username": "1923YCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979614295316168925",
+        "in_reply_to_user_id": "1120659303990304768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16639,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979551215730966735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1923YCP 臭傻逼台蛙，操你妈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 619,
+          "like_count": 3463,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1591
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T09:28:44.000Z",
+        "description": "invisible man",
+        "id": "1368856141992779776",
+        "name": "heyoux_2011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1492431713342922753/fG5iNJoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 140,
+          "like_count": 699,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 785
+        },
+        "username": "heyoux_2011",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-23T12:02:53.000Z",
+        "description": "🇹🇼慶祝中華民國114年雙十國慶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ycp.org.tw",
+                "end": 23,
+                "expanded_url": "http://www.ycp.org.tw",
+                "start": 0,
+                "url": "https://t.co/SMRSYeTaaU"
+              }
+            ]
+          }
+        },
+        "id": "1120659303990304768",
+        "name": "🇹🇼青天白日滿地紅捍衛者",
+        "pinned_tweet_id": "1976917720441798757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965962574014320640/vUYG4DTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16867,
+          "following_count": 274,
+          "like_count": 9076,
+          "listed_count": 18,
+          "media_count": 2705,
+          "tweet_count": 16038
+        },
+        "url": "https://t.co/SMRSYeTaaU",
+        "username": "1923YCP",
+        "verified": false
+      }
+    ]
+  }
+}

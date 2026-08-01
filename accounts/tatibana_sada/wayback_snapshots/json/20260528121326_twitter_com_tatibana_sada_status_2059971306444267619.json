@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059971306444267619",
+    "created_at": "2026-05-28T12:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059971306444267619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1707741005490049024",
+          "start": 3,
+          "username": "tatibana_sada"
+        },
+        {
+          "end": 29,
+          "id": "858927366269157377",
+          "start": 19,
+          "username": "gzg040234"
+        },
+        {
+          "end": 41,
+          "id": "1597468568290873344",
+          "start": 30,
+          "username": "jingzhny11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059971306444267619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059966423565574568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatibana_sada: @gzg040234 @jingzhny11 反精神病学的核心论点了啊哟。就是说，其实很多会被诊断为精神病的心境——依靠自我疗愈或是别的什么非医学干预都能恢复好。而精神病学在这里的本质其实是镇压-治理体系的一环，把社会的不好在个体上暴露的症…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059971306444267619",
+        "created_at": "2026-05-28T12:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059971306444267619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1707741005490049024",
+              "start": 3,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 29,
+              "id": "858927366269157377",
+              "start": 19,
+              "username": "gzg040234"
+            },
+            {
+              "end": 41,
+              "id": "1597468568290873344",
+              "start": 30,
+              "username": "jingzhny11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059971306444267619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059966423565574568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatibana_sada: @gzg040234 @jingzhny11 反精神病学的核心论点了啊哟。就是说，其实很多会被诊断为精神病的心境——依靠自我疗愈或是别的什么非医学干预都能恢复好。而精神病学在这里的本质其实是镇压-治理体系的一环，把社会的不好在个体上暴露的症…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058910468329394675",
+        "created_at": "2026-05-28T11:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059966423565574568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "858927366269157377",
+              "start": 0,
+              "username": "gzg040234"
+            },
+            {
+              "end": 22,
+              "id": "1597468568290873344",
+              "start": 11,
+              "username": "jingzhny11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059966423565574568",
+        "in_reply_to_user_id": "858927366269157377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059817145685651557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gzg040234 @jingzhny11 反精神病学的核心论点了啊哟。就是说，其实很多会被诊断为精神病的心境——依靠自我疗愈或是别的什么非医学干预都能恢复好。而精神病学在这里的本质其实是镇压-治理体系的一环，把社会的不好在个体上暴露的症状诊断成是这个个体没有适应社会，然后给几个药丸再告诉说要积极一点不要总抱怨社会。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 1242,
+          "like_count": 8894,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 3009
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-01T06:13:37.000Z",
+        "description": "P主出道锐意准备中/ᐠ｡ꞈ｡ᐟ\\",
+        "id": "858927366269157377",
+        "location": "中华人民共和国",
+        "name": "千夜一夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051337269106364421/JrE9WV58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 4014,
+          "like_count": 14685,
+          "listed_count": 15,
+          "media_count": 130,
+          "tweet_count": 759
+        },
+        "username": "gzg040234",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5379,
+          "following_count": 2018,
+          "like_count": 125443,
+          "listed_count": 22,
+          "media_count": 260,
+          "tweet_count": 18704
+        },
+        "username": "jingzhny11",
+        "verified": false
+      }
+    ]
+  }
+}

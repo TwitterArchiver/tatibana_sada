@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2054869221788598289",
+    "created_at": "2026-05-15T07:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055190235227865228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1342208248393445376",
+          "start": 0,
+          "username": "michaelkohls1"
+        },
+        {
+          "end": 24,
+          "id": "1471191011028316164",
+          "start": 15,
+          "username": "eichof01"
+        },
+        {
+          "end": 37,
+          "id": "1680902644884205569",
+          "start": 25,
+          "username": "AllwhichIam"
+        },
+        {
+          "end": 48,
+          "id": "132339474",
+          "start": 38,
+          "username": "EdKrassen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055190235227865228",
+    "in_reply_to_user_id": "1342208248393445376",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055078663620567236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@michaelkohls1 @eichof01 @AllwhichIam @EdKrassen no. before Epsteinfury china get 12% from Iran. And china already has the most huge and advanced coal chemical industry to make some stuffs not from oil but from coal.Once it was seen as unprofitable. but now it makes china robust. If there's a country will collapse. it's japan."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2054869221788598289",
+        "created_at": "2026-05-15T07:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055190235227865228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1342208248393445376",
+              "start": 0,
+              "username": "michaelkohls1"
+            },
+            {
+              "end": 24,
+              "id": "1471191011028316164",
+              "start": 15,
+              "username": "eichof01"
+            },
+            {
+              "end": 37,
+              "id": "1680902644884205569",
+              "start": 25,
+              "username": "AllwhichIam"
+            },
+            {
+              "end": 48,
+              "id": "132339474",
+              "start": 38,
+              "username": "EdKrassen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055190235227865228",
+        "in_reply_to_user_id": "1342208248393445376",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055078663620567236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@michaelkohls1 @eichof01 @AllwhichIam @EdKrassen no. before Epsteinfury china get 12% from Iran. And china already has the most huge and advanced coal chemical industry to make some stuffs not from oil but from coal.Once it was seen as unprofitable. but now it makes china robust. If there's a country will collapse. it's japan."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342208248393445376",
+        "conversation_id": "2054869221788598289",
+        "created_at": "2026-05-15T00:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055078663620567236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1471191011028316164",
+              "start": 0,
+              "username": "eichof01"
+            },
+            {
+              "end": 22,
+              "id": "1680902644884205569",
+              "start": 10,
+              "username": "AllwhichIam"
+            },
+            {
+              "end": 33,
+              "id": "132339474",
+              "start": 23,
+              "username": "EdKrassen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055078663620567236",
+        "in_reply_to_user_id": "1471191011028316164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054894619578548385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eichof01 @AllwhichIam @EdKrassen They get 50% from Iran."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 1069,
+          "like_count": 7692,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2533
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-24T20:39:47.000Z",
+        "description": "",
+        "id": "1342208248393445376",
+        "name": "michael kohls",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 96,
+          "like_count": 314,
+          "listed_count": 1,
+          "media_count": 1546,
+          "tweet_count": 5183
+        },
+        "username": "michaelkohls1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T18:50:58.000Z",
+        "description": "keine",
+        "id": "1471191011028316164",
+        "name": "eichof01",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698183038021017600/XA-e5Ttq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 19,
+          "like_count": 57548,
+          "listed_count": 5,
+          "media_count": 4866,
+          "tweet_count": 47787
+        },
+        "username": "eichof01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T11:30:04.000Z",
+        "description": "Atheist | SocDem | Pro abortion | Trump hater | AOC 2028",
+        "id": "1680902644884205569",
+        "name": "Another",
+        "pinned_tweet_id": "1722815398989504999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916559474799599618/7QVsIiOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 1347,
+          "like_count": 160213,
+          "listed_count": 34,
+          "media_count": 2408,
+          "tweet_count": 38429
+        },
+        "username": "AllwhichIam",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-13T00:00:13.000Z",
+        "description": "Standing for the future of America. Creator of @KrassenCast. Subscribe for additional content. Follow my twin: @Krassenstein.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "KrassenCast"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "Krassenstein"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/krassensteins",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/krassensteins",
+                "start": 0,
+                "url": "https://t.co/1IhKb1jS7C"
+              }
+            ]
+          }
+        },
+        "id": "132339474",
+        "name": "Ed Krassenstein",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700155431757193216/4iMzq_Tk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100677,
+          "following_count": 521779,
+          "like_count": 51341,
+          "listed_count": 8344,
+          "media_count": 11290,
+          "tweet_count": 101521
+        },
+        "url": "https://t.co/1IhKb1jS7C",
+        "username": "EdKrassen",
+        "verified": true
+      }
+    ]
+  }
+}

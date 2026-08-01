@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979767872877711504",
+    "created_at": "2025-10-19T09:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T10:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979849569602310369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1313307135766392833",
+          "start": 0,
+          "username": "NailoongBlair"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979849569602310369",
+    "in_reply_to_user_id": "1313307135766392833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979767872877711504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NailoongBlair 哇哇哇，基督教沙龙左派？belike巴迪欧论圣保罗之普世主义？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979767872877711504",
+        "created_at": "2025-10-19T09:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T10:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979849569602310369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1313307135766392833",
+              "start": 0,
+              "username": "NailoongBlair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979849569602310369",
+        "in_reply_to_user_id": "1313307135766392833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979767872877711504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NailoongBlair 哇哇哇，基督教沙龙左派？belike巴迪欧论圣保罗之普世主义？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313307135766392833",
+        "conversation_id": "1979767872877711504",
+        "created_at": "2025-10-19T04:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979767872877711504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NailoongBlair/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/NailoongBlair/status/1979767422786973989",
+              "start": 28,
+              "url": "https://t.co/Pb6IJ4ruPJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979767872877711504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 91,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979767422786973989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "圣经的例子只是通俗比喻，作为基督徒我无意诋毁自己的宗教 https://t.co/Pb6IJ4ruPJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 563,
+          "like_count": 3070,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1496
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T02:36:47.000Z",
+        "description": "Democratic Socialist/Marxist🌹👊，Unionist ⚙️，Lutheran Christian✝️，Anti-LINO，Vive la Mai 68！definitely KOP（#YNWA） #我是麻酱\n，阿尔都塞-后结构-拉康精神分析，不擅长好好说话，暴脾气请见谅。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "YNWA"
+              },
+              {
+                "end": 116,
+                "start": 111,
+                "tag": "我是麻酱"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.whotwi.com/ShinoharaBlair",
+                "end": 23,
+                "expanded_url": "https://en.whotwi.com/ShinoharaBlair",
+                "start": 0,
+                "url": "https://t.co/Q9UcPnwpkx"
+              }
+            ]
+          }
+        },
+        "id": "1313307135766392833",
+        "location": "推特大街114514号",
+        "name": "AnonTokyo 奶龙布莱尔✝️👊🌹",
+        "pinned_tweet_id": "1978844718051020999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943261006546767873/HRZ-GVab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 2554,
+          "like_count": 184343,
+          "listed_count": 22,
+          "media_count": 2147,
+          "tweet_count": 42565
+        },
+        "url": "https://t.co/Q9UcPnwpkx",
+        "username": "NailoongBlair",
+        "verified": false
+      }
+    ]
+  }
+}

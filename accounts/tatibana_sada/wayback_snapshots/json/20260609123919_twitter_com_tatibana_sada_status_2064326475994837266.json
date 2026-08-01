@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2064165587538878801",
+    "created_at": "2026-06-09T12:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064326475994837266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1082608585362690048",
+          "start": 0,
+          "username": "Cittttta"
+        },
+        {
+          "end": 26,
+          "id": "1694900877591715840",
+          "start": 10,
+          "username": "lynre_AndreLynn"
+        },
+        {
+          "end": 42,
+          "id": "1260553941714186241",
+          "start": 27,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064326475994837266",
+    "in_reply_to_user_id": "1082608585362690048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064269070581850562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cittttta @lynre_AndreLynn @whyyoutouzhele 这个不是好例子，asian可以回自己国家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064165587538878801",
+        "created_at": "2026-06-09T12:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064326475994837266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1082608585362690048",
+              "start": 0,
+              "username": "Cittttta"
+            },
+            {
+              "end": 26,
+              "id": "1694900877591715840",
+              "start": 10,
+              "username": "lynre_AndreLynn"
+            },
+            {
+              "end": 42,
+              "id": "1260553941714186241",
+              "start": 27,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064326475994837266",
+        "in_reply_to_user_id": "1082608585362690048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064269070581850562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cittttta @lynre_AndreLynn @whyyoutouzhele 这个不是好例子，asian可以回自己国家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1082608585362690048",
+        "conversation_id": "2064165587538878801",
+        "created_at": "2026-06-09T08:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064269070581850562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064269070581850562",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 874,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064165587538878801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 假如一个红脖子白男声称“我不反对不支持也不讨厌黄种人，但他们最好不要跳出来到我面前，更不要搞什么黄种人人权运动，整天幻想自己是主流，自己偷着乐就完事了”\n你是否觉得他的话充满歧视意味？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1290,
+          "like_count": 9151,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3149
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T12:02:55.000Z",
+        "description": "塔西特.txt的赛博日记 / Studying in Melbourne / 长沙&墨尔本 / 喜欢听各种杂谈和冷知识/不那么典型的INFP/爱好很杂但我真的热爱生活🏃🎮💐✏️📖",
+        "id": "1082608585362690048",
+        "location": "Melbourne, Victoria",
+        "name": "Citta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887139520568832000/J1D9YyPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 1563,
+          "like_count": 7776,
+          "listed_count": 6,
+          "media_count": 69,
+          "tweet_count": 2185
+        },
+        "username": "Cittttta",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T02:34:17.000Z",
+        "description": "正视世界的运转法则 @KagurazakaMiono\n\n准大学生/mtx/哈基米/热爱算法竞赛/女装coser/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaMiono"
+              }
+            ]
+          }
+        },
+        "id": "1694900877591715840",
+        "name": "林野Lynre",
+        "pinned_tweet_id": "2003816127844212878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912365546043068416/uGMLyb9a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 1413,
+          "like_count": 109617,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 2884
+        },
+        "username": "lynre_AndreLynn",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236122,
+          "following_count": 1070,
+          "like_count": 9651,
+          "listed_count": 8796,
+          "media_count": 48233,
+          "tweet_count": 55388
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

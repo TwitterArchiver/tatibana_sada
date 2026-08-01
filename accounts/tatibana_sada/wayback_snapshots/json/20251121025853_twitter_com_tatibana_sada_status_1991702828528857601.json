@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991702828528857601",
+    "created_at": "2025-11-21T02:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T03:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991702828528857601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1707741005490049024",
+          "start": 3,
+          "username": "tatibana_sada"
+        },
+        {
+          "end": 35,
+          "id": "2743741315",
+          "start": 19,
+          "username": "LightQuantumhah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991702828528857601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991702808400470298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatibana_sada: @LightQuantumhah 我看列指导搞得不错，人民的名义极被歌颂，盲动分子基本消灭，灌输论也受提倡。\n没有人是真正愚蠢的，如果你认为别人愚蠢，说明你隐秘的欲望是觉得他们的真理和共同体是你的仇敌，你非得消灭他们或是镇压他们才能感到快感…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991702828528857601",
+        "created_at": "2025-11-21T02:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T03:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991702828528857601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1707741005490049024",
+              "start": 3,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 35,
+              "id": "2743741315",
+              "start": 19,
+              "username": "LightQuantumhah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991702828528857601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991702808400470298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatibana_sada: @LightQuantumhah 我看列指导搞得不错，人民的名义极被歌颂，盲动分子基本消灭，灌输论也受提倡。\n没有人是真正愚蠢的，如果你认为别人愚蠢，说明你隐秘的欲望是觉得他们的真理和共同体是你的仇敌，你非得消灭他们或是镇压他们才能感到快感…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991384788570423393",
+        "created_at": "2025-11-21T02:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T03:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991702808400470298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2743741315",
+              "start": 0,
+              "username": "LightQuantumhah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991702808400470298",
+        "in_reply_to_user_id": "2743741315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991384788570423393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightQuantumhah 我看列指导搞得不错，人民的名义极被歌颂，盲动分子基本消灭，灌输论也受提倡。\n没有人是真正愚蠢的，如果你认为别人愚蠢，说明你隐秘的欲望是觉得他们的真理和共同体是你的仇敌，你非得消灭他们或是镇压他们才能感到快感。董苏鲁调查员被黄泛区职业铁链家吓晕，最后结论要用机枪和大炮教育农民。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 883,
+          "like_count": 5796,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2099
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-19T02:15:51.000Z",
+        "description": "CS PhD student @UofT | call-by-name | PLT/FP | zh-CN daily life | 生活推 | @Human_Dregs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 15,
+                "username": "UofT"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Human_Dregs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lightquantum.me",
+                "end": 23,
+                "expanded_url": "https://lightquantum.me",
+                "start": 0,
+                "url": "https://t.co/qX6S9Fuk2I"
+              }
+            ]
+          }
+        },
+        "id": "2743741315",
+        "location": "Toronto, Ontario",
+        "name": "LightQuantum",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775197881831690240/LRoMNrab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8364,
+          "following_count": 757,
+          "like_count": 29159,
+          "listed_count": 37,
+          "media_count": 902,
+          "tweet_count": 12046
+        },
+        "url": "https://t.co/qX6S9Fuk2I",
+        "username": "LightQuantumhah",
+        "verified": false
+      }
+    ]
+  }
+}

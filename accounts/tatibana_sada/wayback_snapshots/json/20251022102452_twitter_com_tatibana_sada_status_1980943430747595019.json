@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980727528936599909",
+    "created_at": "2025-10-22T10:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T11:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980943430747595019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1575296413289750528",
+          "start": 0,
+          "username": "Yaochen64034657"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980943430747595019",
+    "in_reply_to_user_id": "1575296413289750528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980727528936599909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yaochen64034657 突发消息：毛泽东复活，被选举为中共中央党主席，宣布第二次文化大革命开始"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980727528936599909",
+        "created_at": "2025-10-22T10:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980943430747595019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575296413289750528",
+              "start": 0,
+              "username": "Yaochen64034657"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980943430747595019",
+        "in_reply_to_user_id": "1575296413289750528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980727528936599909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yaochen64034657 突发消息：毛泽东复活，被选举为中共中央党主席，宣布第二次文化大革命开始"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575296413289750528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1980727528936599909",
+        "created_at": "2025-10-21T20:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T21:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980727528936599909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980727528936599909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 714138,
+          "like_count": 757,
+          "quote_count": 30,
+          "reply_count": 674,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "突发消息：四中全会全体军队中央委员、候补委员集体提出议案，要求罢免习近平中央军委主席职务。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 594,
+          "like_count": 3281,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1555
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-29T01:30:37.000Z",
+        "description": "祖籍合肥，出生于芜湖，原中共海军航空兵部中校参谋，因执行中共仿制反潜直升机任务，从境外弄进了一架俄制卡-28反潜直升机，引起了俄方强烈反应，为维持中俄间武器贸易关系，中共将其作为替罪羊判处有期徒刑七年；出狱后任中国妇权大陆负责人，从事妇女儿童维权，又被判处一年十个月。现居洛杉矶，从事军事研究，倡导推动军队国家化。",
+        "id": "1575296413289750528",
+        "location": "Los Angeles, CA",
+        "name": "💎姚诚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815878470381232133/g4SUAS-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43348,
+          "following_count": 446,
+          "like_count": 22,
+          "listed_count": 150,
+          "media_count": 182,
+          "tweet_count": 6830
+        },
+        "username": "Yaochen64034657",
+        "verified": true
+      }
+    ]
+  }
+}

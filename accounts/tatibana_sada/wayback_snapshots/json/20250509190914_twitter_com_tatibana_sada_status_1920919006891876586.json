@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1920919006891876586",
+    "created_at": "2025-05-09T19:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T20:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920919006891876586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tatibana_sada/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/tatibana_sada/status/1920906278731202884",
+          "start": 6,
+          "url": "https://t.co/vZjDQkltEU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920919006891876586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920906278731202884",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "意志の勝利 https://t.co/vZjDQkltEU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1920919006891876586",
+        "created_at": "2025-05-09T19:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T20:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920919006891876586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatibana_sada/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/tatibana_sada/status/1920906278731202884",
+              "start": 6,
+              "url": "https://t.co/vZjDQkltEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920919006891876586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920906278731202884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "意志の勝利 https://t.co/vZjDQkltEU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1920906278731202884",
+        "created_at": "2025-05-09T18:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T19:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920906278731202884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920906278731202884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢你们，我爱你们。\n如果不说这会被误认为是自杀预告，也必定太轻易的判断了。\n无论如何，是携带着彻底的整理自己的决断和策略的心意这样说的。如果能持续的记录，那么也似乎是极好的。\n请让我握紧梦游者的自信上路吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 497,
+          "like_count": 2672,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1439
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985984691858780593",
+    "created_at": "2025-11-05T16:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T17:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986114154516926822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977858284964159488",
+          "start": 0,
+          "username": "Quinnnankoku"
+        },
+        {
+          "end": 26,
+          "id": "1942422285044047873",
+          "start": 14,
+          "username": "Hakonootoko"
+        },
+        {
+          "end": 40,
+          "id": "1436967591910645767",
+          "start": 27,
+          "username": "asahikokura1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986114154516926822",
+    "in_reply_to_user_id": "1977858284964159488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986113109103436108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quinnnankoku @Hakonootoko @asahikokura1 特批你小人家调入我老人家的文工团，天天和我交流😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985984691858780593",
+        "created_at": "2025-11-05T16:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986114154516926822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977858284964159488",
+              "start": 0,
+              "username": "Quinnnankoku"
+            },
+            {
+              "end": 26,
+              "id": "1942422285044047873",
+              "start": 14,
+              "username": "Hakonootoko"
+            },
+            {
+              "end": 40,
+              "id": "1436967591910645767",
+              "start": 27,
+              "username": "asahikokura1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986114154516926822",
+        "in_reply_to_user_id": "1977858284964159488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986113109103436108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quinnnankoku @Hakonootoko @asahikokura1 特批你小人家调入我老人家的文工团，天天和我交流😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977858284964159488",
+        "conversation_id": "1985984691858780593",
+        "created_at": "2025-11-05T16:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986113109103436108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 27,
+              "id": "1942422285044047873",
+              "start": 15,
+              "username": "Hakonootoko"
+            },
+            {
+              "end": 41,
+              "id": "1436967591910645767",
+              "start": 28,
+              "username": "asahikokura1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986113109103436108",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986111200732848281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @Hakonootoko @asahikokura1 到incel之前我以为你在说我🥲🥲💔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 754,
+          "like_count": 4777,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1807
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T22:07:36.000Z",
+        "description": "炸号了@v5Family_ 推友找回中🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "v5Family_"
+              }
+            ]
+          }
+        },
+        "id": "1977858284964159488",
+        "name": "芥末苔藓💮",
+        "pinned_tweet_id": "1983385615346573455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984083700955693056/h05ilBTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 280,
+          "like_count": 5379,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2418
+        },
+        "username": "Quinnnankoku",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T03:15:47.000Z",
+        "description": "⚠混 乱 中 立 ⚠ \n☢无视一切道德法规传统习俗人文信仰政治立场的免责发言人。 \n☠️地狱梗・🤬高能脏话过敏者请慎重关注。\n工作日没空刷推，业余时间会分享读书笔记。 \n偶尔写小作文、讲墙内轶事、聊原生家庭，大多时间玩抽象。 \n别问，问就是金与正本人。 \n现流亡日本，组建临时政府中，与独裁国贼金正恩不共戴天。",
+        "id": "1942422285044047873",
+        "location": "女权市出生",
+        "name": "流亡公主•金與正•김여정（尊習討金）",
+        "pinned_tweet_id": "1959164596050436604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985109816225792/KNlXC_-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 518,
+          "like_count": 16724,
+          "listed_count": 31,
+          "media_count": 403,
+          "tweet_count": 11918
+        },
+        "username": "Hakonootoko",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-12T08:19:21.000Z",
+        "description": "碎碎念兼記錄生活 \n近月委員會/地球🌍貓貓教\n@L080_0 里賬戶啟用 認識的人會通過",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "L080_0"
+              }
+            ]
+          }
+        },
+        "id": "1436967591910645767",
+        "location": "George Town",
+        "name": "小倉朝日🇬🇧&地球🌍貓貓教",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574668202637869056/lLJe6t7q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 438,
+          "like_count": 57503,
+          "listed_count": 2,
+          "media_count": 642,
+          "tweet_count": 14939
+        },
+        "username": "asahikokura1",
+        "verified": false
+      }
+    ]
+  }
+}

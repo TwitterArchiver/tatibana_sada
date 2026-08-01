@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2075070832494387572",
+    "created_at": "2026-07-09T04:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075070832494387572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ABC13067637/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ABC13067637/status/2075032998727303283",
+          "start": 4,
+          "url": "https://t.co/W5KsrQgbrV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075070832494387572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075032998727303283",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "挺热闹 https://t.co/W5KsrQgbrV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075032995694612480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMv_g_2XkAAlHdp.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2075070832494387572",
+        "created_at": "2026-07-09T04:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075070832494387572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ABC13067637/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ABC13067637/status/2075032998727303283",
+              "start": 4,
+              "url": "https://t.co/W5KsrQgbrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075070832494387572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075032998727303283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "挺热闹 https://t.co/W5KsrQgbrV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075032995694612480"
+          ]
+        },
+        "author_id": "1486225700793495552",
+        "conversation_id": "2075032998727303283",
+        "created_at": "2026-07-09T01:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075032998727303283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NysNAyz4FE",
+              "end": 55,
+              "expanded_url": "https://x.com/ABC13067637/status/2075032998727303283/photo/1",
+              "media_key": "3_2075032995694612480",
+              "start": 32,
+              "url": "https://t.co/NysNAyz4FE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075032998727303283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 579,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近抖音怎么总给我推男性力量，男性觉醒的视频😳我不行了🤦‍♀️ https://t.co/NysNAyz4FE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1412,
+          "like_count": 9825,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 3352
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T06:33:27.000Z",
+        "description": "🏳️‍⚧️|INFP | 软件开发｜喜欢可爱的东西｜同类互fo 喵",
+        "id": "1486225700793495552",
+        "name": "Mizuki酱🍥",
+        "pinned_tweet_id": "2070438545823826325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486227103024844803/BTrXNcAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 593,
+          "like_count": 3923,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1761
+        },
+        "url": "",
+        "username": "ABC13067637",
+        "verified": false
+      }
+    ]
+  }
+}

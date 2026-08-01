@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980054922839380360",
+    "created_at": "2025-10-20T00:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980071365513482646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851426160703651840",
+          "start": 0,
+          "username": "YueAn68970"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980071365513482646",
+    "in_reply_to_user_id": "1851426160703651840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980054922839380360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YueAn68970 最好是政治局里塞满女人哇。真心实意也是这样子想了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980054922839380360",
+        "created_at": "2025-10-20T00:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980071365513482646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851426160703651840",
+              "start": 0,
+              "username": "YueAn68970"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980071365513482646",
+        "in_reply_to_user_id": "1851426160703651840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980054922839380360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YueAn68970 最好是政治局里塞满女人哇。真心实意也是这样子想了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851426160703651840",
+        "conversation_id": "1980054922839380360",
+        "created_at": "2025-10-19T23:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T00:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980054922839380360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Colubro21/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Colubro21/status/1979889394493665535",
+              "start": 24,
+              "url": "https://t.co/1ONSPljz1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980054922839380360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979889394493665535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "彭丽媛上台都行，单纯想看女人上台国难会有多破防 https://t.co/1ONSPljz1O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 563,
+          "like_count": 3097,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1507
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T00:49:42.000Z",
+        "description": "无存在感小号，愿望是全世界腐驴灭绝\n\nY染评论我会霉运缠身⭐病大礼包",
+        "id": "1851426160703651840",
+        "location": "Auckland, New Zealand",
+        "name": "冰柜侠（重生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979701291736518656/ck3xNtKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 166,
+          "like_count": 15678,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 444
+        },
+        "username": "YueAn68970",
+        "verified": false
+      }
+    ]
+  }
+}

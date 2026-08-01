@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2056725028532888053",
+    "created_at": "2026-05-24T12:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058528346112446783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1732042465149071361",
+          "start": 0,
+          "username": "sndinzhngy94346"
+        },
+        {
+          "end": 32,
+          "id": "1978352432301387776",
+          "start": 17,
+          "username": "zhngjing322708"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058528346112446783",
+    "in_reply_to_user_id": "1732042465149071361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057000398330954238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sndinzhngy94346 @zhngjing322708 虽然周天子的确是不言自明的合法汉人君主，但时代已经过去了。\n孔子以春秋当新王，上黜杞，下新周而故宋。假鲁以立王法，所谓春秋之鲁也，以鲁当新王，故新周。合宋、周、春秋为三统。以春秋当新王，不能见之空言，故托之于鲁。托王于鲁，非以鲁为王。\n而以宪法当新王是新时代条件下的以春秋当新王。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1262,
+        "media_key": "3_2057000395634028544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvu9hyasAA7YZN.jpg",
+        "width": 831
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2056725028532888053",
+        "created_at": "2026-05-24T12:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058528346112446783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732042465149071361",
+              "start": 0,
+              "username": "sndinzhngy94346"
+            },
+            {
+              "end": 32,
+              "id": "1978352432301387776",
+              "start": 17,
+              "username": "zhngjing322708"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058528346112446783",
+        "in_reply_to_user_id": "1732042465149071361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057000398330954238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sndinzhngy94346 @zhngjing322708 虽然周天子的确是不言自明的合法汉人君主，但时代已经过去了。\n孔子以春秋当新王，上黜杞，下新周而故宋。假鲁以立王法，所谓春秋之鲁也，以鲁当新王，故新周。合宋、周、春秋为三统。以春秋当新王，不能见之空言，故托之于鲁。托王于鲁，非以鲁为王。\n而以宪法当新王是新时代条件下的以春秋当新王。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057000395634028544"
+          ]
+        },
+        "author_id": "1732042465149071361",
+        "conversation_id": "2056725028532888053",
+        "created_at": "2026-05-20T07:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057000398330954238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1978352432301387776",
+              "start": 0,
+              "username": "zhngjing322708"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3hbsEchfgU",
+              "end": 50,
+              "expanded_url": "https://x.com/sndinzhngy94346/status/2057000398330954238/photo/1",
+              "media_key": "3_2057000395634028544",
+              "start": 27,
+              "url": "https://t.co/3hbsEchfgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057000398330954238",
+        "in_reply_to_user_id": "1978352432301387776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 417,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056725028532888053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngjing322708 😂还有汉地行周版本的 https://t.co/3hbsEchfgU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 1199,
+          "like_count": 8504,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2822
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T14:21:32.000Z",
+        "description": "",
+        "id": "1732042465149071361",
+        "location": "宝兴西路",
+        "name": "三点钟饮茶了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057000497266282498/rUUzHZ6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 54,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 103
+        },
+        "username": "sndinzhngy94346",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T06:49:29.000Z",
+        "description": "自由若沒有社會主義，就是特權與不公；社會主義若沒有自由，就是奴役與野蠻.中國共產黨新左派|左翼|自由意志社會主義|民主社會主義|共產主義|Liberté· Égalité· Fraternité🇫🇷|王粉，或許是夢女|妹妹@Zhmgws19120101",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 111,
+                "username": "Zhmgws19120101"
+              }
+            ]
+          }
+        },
+        "id": "1978352432301387776",
+        "name": "征酱☭❂🇹🇼🇨🇳🇨🇵",
+        "pinned_tweet_id": "2057599852926955851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048333279439527936/OofHnm3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 253,
+          "like_count": 10310,
+          "listed_count": 6,
+          "media_count": 1220,
+          "tweet_count": 3914
+        },
+        "username": "zhngjing322708",
+        "verified": false
+      }
+    ]
+  }
+}

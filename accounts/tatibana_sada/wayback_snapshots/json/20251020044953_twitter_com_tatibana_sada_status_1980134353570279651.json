@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979877643354005966",
+    "created_at": "2025-10-20T04:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T05:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980134353570279651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1890099653624107009",
+          "start": 0,
+          "username": "MajutahC"
+        },
+        {
+          "end": 21,
+          "id": "1933596840907194368",
+          "start": 10,
+          "username": "Skyrshzone"
+        },
+        {
+          "end": 32,
+          "id": "1892197607109476352",
+          "start": 22,
+          "username": "lianshufa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980134353570279651",
+    "in_reply_to_user_id": "1890099653624107009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980116472056942677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MajutahC @Skyrshzone @lianshufa 真的也是被广泛使用的，所以我们完全可以理解terf和neonazi的合流。这是在澳大利亚发生的事情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979877643354005966",
+        "created_at": "2025-10-20T04:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T05:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980134353570279651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1890099653624107009",
+              "start": 0,
+              "username": "MajutahC"
+            },
+            {
+              "end": 21,
+              "id": "1933596840907194368",
+              "start": 10,
+              "username": "Skyrshzone"
+            },
+            {
+              "end": 32,
+              "id": "1892197607109476352",
+              "start": 22,
+              "username": "lianshufa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980134353570279651",
+        "in_reply_to_user_id": "1890099653624107009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980116472056942677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MajutahC @Skyrshzone @lianshufa 真的也是被广泛使用的，所以我们完全可以理解terf和neonazi的合流。这是在澳大利亚发生的事情。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890099653624107009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "1979877643354005966",
+        "created_at": "2025-10-20T03:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980116472056942677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933596840907194368",
+              "start": 0,
+              "username": "Skyrshzone"
+            },
+            {
+              "end": 22,
+              "id": "1892197607109476352",
+              "start": 12,
+              "username": "lianshufa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980116472056942677",
+        "in_reply_to_user_id": "1933596840907194368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979909861191086537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Skyrshzone @lianshufa 但是你也說了是「激女」，政治光譜從來都不是一個點，事實上包容Trans的女權主義者並不少見。mtf搶占女性生存空間可不只是Terf常用語，同樣也被諸如Trump這樣的Altright/Maga廣泛使用喔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 564,
+          "like_count": 3111,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1512
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T18:04:28.000Z",
+        "description": "NTU MEngR 在读 全栈开发者/嵌入式相关爱好者 失败学 5年级 关注技术及金融趋势 理性中立 只关注技术 不爱好扯皮 LGBT 友善 现居坡坡 可以互Fo 中文/日语/英语均极其熟练/母语者水平 半个语言爱好者",
+        "id": "1890099653624107009",
+        "location": "Delft, the Netherlands",
+        "name": "Majutah Chang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890099915218644995/CFEwFwoX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 254,
+          "like_count": 1950,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 463
+        },
+        "username": "MajutahC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T18:46:41.000Z",
+        "description": "I LOVE HOURAISAN KAGUYA💕｜⚧丨我真他妈受够了",
+        "id": "1933596840907194368",
+        "location": "月之都",
+        "name": "冷川緒🏳️‍⚧️",
+        "pinned_tweet_id": "1956397876436689164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979228355267383296/RPfVQO8r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 114,
+          "like_count": 22472,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1052
+        },
+        "username": "Skyrshzone",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T13:01:39.000Z",
+        "description": "生日2009.10.02｜MtF🏳️‍⚧️｜家长党｜HRT开始🍥2025.06.19｜弹电吉他🎸｜个人主页:https://t.co/zZum0Dq72C｜X:@lianshufa｜QQ:2486603997｜小红书号:26722717701｜抖音号:lianshufa_｜B站UID:1228742038",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "lianshufa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 77,
+                "expanded_url": "http://lsfself.top",
+                "start": 54,
+                "url": "https://t.co/zZum0Dq72C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 23,
+                "expanded_url": "http://lsfself.top",
+                "start": 0,
+                "url": "https://t.co/zZum0Dq72C"
+              }
+            ]
+          }
+        },
+        "id": "1892197607109476352",
+        "location": "北京回龙观医院门诊2层13诊室",
+        "name": "lsf🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1975014921810395142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955825900051947522/QKOlNb9-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2934,
+          "following_count": 1791,
+          "like_count": 1819,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/zZum0Dq72C",
+        "username": "lianshufa",
+        "verified": false
+      }
+    ]
+  }
+}

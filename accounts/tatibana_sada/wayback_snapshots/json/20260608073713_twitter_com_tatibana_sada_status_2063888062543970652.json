@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2063826854201712962",
+    "created_at": "2026-06-08T07:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T08:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063888062543970652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957812160421400576",
+          "start": 0,
+          "username": "canton_ss"
+        },
+        {
+          "end": 26,
+          "id": "1894236197389508608",
+          "start": 11,
+          "username": "DanieZhanghaha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063888062543970652",
+    "in_reply_to_user_id": "1957812160421400576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063879801883287808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canton_ss @DanieZhanghaha hakka怎么你了😟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2063826854201712962",
+        "created_at": "2026-06-08T07:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063888062543970652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957812160421400576",
+              "start": 0,
+              "username": "canton_ss"
+            },
+            {
+              "end": 26,
+              "id": "1894236197389508608",
+              "start": 11,
+              "username": "DanieZhanghaha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063888062543970652",
+        "in_reply_to_user_id": "1957812160421400576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063879801883287808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canton_ss @DanieZhanghaha hakka怎么你了😟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957812160421400576",
+        "conversation_id": "2063826854201712962",
+        "created_at": "2026-06-08T07:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063879801883287808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894236197389508608",
+              "start": 0,
+              "username": "DanieZhanghaha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063879801883287808",
+        "in_reply_to_user_id": "1894236197389508608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063826854201712962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanieZhanghaha 你先讓東baby和山哈蠻獠滾出廣東和香港，那麼廣府人就不會搞地域歧視了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1267,
+          "like_count": 9047,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3082
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T14:29:36.000Z",
+        "description": "Cantonese \nFirst Worldist, Traditionalist, Tridemist\nRevolt against the Global Zimbabwe \n最愛@Jocelynfloresjk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "Jocelynfloresjk"
+              }
+            ]
+          }
+        },
+        "id": "1957812160421400576",
+        "name": "宋岑臨",
+        "pinned_tweet_id": "2005304782421135680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060353828915175424/qoeYdfng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 792,
+          "like_count": 60848,
+          "listed_count": 10,
+          "media_count": 692,
+          "tweet_count": 9952
+        },
+        "username": "canton_ss",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T04:01:30.000Z",
+        "description": "看见得多，体验也好。越来越喜欢中国了，不服的来。（互fo 100%回关）",
+        "id": "1894236197389508608",
+        "name": "Ly Gbao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963129139608829952/gz-dacxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 2268,
+          "like_count": 3391,
+          "listed_count": 0,
+          "media_count": 375,
+          "tweet_count": 830
+        },
+        "username": "DanieZhanghaha",
+        "verified": false
+      }
+    ]
+  }
+}

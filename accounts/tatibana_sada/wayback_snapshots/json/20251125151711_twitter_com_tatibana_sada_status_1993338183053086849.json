@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1993230148389273780",
+    "created_at": "2025-11-25T15:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T16:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993338183053086849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580793584424321025",
+          "start": 0,
+          "username": "red_without"
+        },
+        {
+          "end": 29,
+          "id": "1105857295429177351",
+          "start": 13,
+          "username": "Glory_and_Dream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993338183053086849",
+    "in_reply_to_user_id": "1580793584424321025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993286694842556581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@red_without @Glory_and_Dream 苦命鸳鸯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1993230148389273780",
+        "created_at": "2025-11-25T15:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993338183053086849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1580793584424321025",
+              "start": 0,
+              "username": "red_without"
+            },
+            {
+              "end": 29,
+              "id": "1105857295429177351",
+              "start": 13,
+              "username": "Glory_and_Dream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993338183053086849",
+        "in_reply_to_user_id": "1580793584424321025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993286694842556581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@red_without @Glory_and_Dream 苦命鸳鸯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580793584424321025",
+        "conversation_id": "1993230148389273780",
+        "created_at": "2025-11-25T11:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T12:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993286694842556581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1105857295429177351",
+              "start": 0,
+              "username": "Glory_and_Dream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993286694842556581",
+        "in_reply_to_user_id": "1105857295429177351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 680,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993230148389273780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glory_and_Dream 不觉得“我们听到特警在远处喊话让我们投降”有一种穷途末路的文艺感么\n就像是bonnie and clyde, 苦命鸳鸯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 938,
+          "like_count": 6206,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2248
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T05:32:32.000Z",
+        "description": "人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/人/我是人",
+        "id": "1580793584424321025",
+        "name": "红笔没有盖",
+        "pinned_tweet_id": "1688409082137595904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688183586732871680/rXjEFfM4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 668,
+          "like_count": 3103,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 505
+        },
+        "username": "red_without",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-13T15:44:59.000Z",
+        "description": "#precure fan / #yuri enjoyer / #MiaSanMia\n \nprivate yuri-fever account: @Tokini_Ai_wa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "precure"
+              },
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "yuri"
+              },
+              {
+                "end": 41,
+                "start": 31,
+                "tag": "MiaSanMia"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "Tokini_Ai_wa"
+              }
+            ]
+          }
+        },
+        "id": "1105857295429177351",
+        "name": "光荣与梦想",
+        "pinned_tweet_id": "1477190543293640707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933797651016822784/e__5dHhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 3183,
+          "like_count": 50046,
+          "listed_count": 25,
+          "media_count": 1240,
+          "tweet_count": 18169
+        },
+        "username": "Glory_and_Dream",
+        "verified": false
+      }
+    ]
+  }
+}

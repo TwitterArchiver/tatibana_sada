@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2054880715066724732",
+    "created_at": "2026-05-14T11:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T12:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054880715066724732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nytchinese/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/nytchinese/status/2054849201473798608",
+          "start": 22,
+          "url": "https://t.co/dyl8fHiF25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054880715066724732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054849201473798608",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们说这个b话总让我感觉是请了表圈妹来上班 https://t.co/dyl8fHiF25"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2054880715066724732",
+        "created_at": "2026-05-14T11:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054880715066724732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nytchinese/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/nytchinese/status/2054849201473798608",
+              "start": 22,
+              "url": "https://t.co/dyl8fHiF25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054880715066724732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054849201473798608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们说这个b话总让我感觉是请了表圈妹来上班 https://t.co/dyl8fHiF25"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "620632841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2054849201473798608",
+        "created_at": "2026-05-14T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054849201473798608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "习近平以盛大仪式款待特朗普，但在公开的热情表象之下，两人正处于21世纪最重大的地缘政治竞争中心。他们的关系既充满客套，也同样充斥着不信任与对抗。",
+              "display_url": "cn.nytimes.com/world/20260514…",
+              "end": 125,
+              "expanded_url": "https://cn.nytimes.com/world/20260514/trump-xi-rivalry/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/2054763786662211584/Ou8Px7zp?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054763786662211584/Ou8Px7zp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "热情表象下，习近平与特朗普之间的对抗与博弈",
+              "unwound_url": "https://cn.nytimes.com/world/20260514/trump-xi-rivalry/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "url": "https://t.co/BKGwqeQjEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054849201473798608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 14803,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "“特朗普似乎认为他可以吸引习近平，”大西洋理事会全球中国中心高级主任韩美妮说。“但习不是一个注重关系的人。习近平真正将美国视为中国在系统层面上的主要竞争对手。特朗普非常希望习近平喜欢他，而习根本不在乎。”https://t.co/BKGwqeQjEc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 1063,
+          "like_count": 7643,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2525
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-28T04:25:01.000Z",
+        "description": "纽约时报中文网官方推特。Official Twitter Account of The New York Times Chinese Website.\niPhone & iPad app: https://t.co/hzbwaOOxA6\nAndroid app: https://t.co/NIusFpRU2S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "apple.co/2aLBQZl",
+                "end": 118,
+                "expanded_url": "http://apple.co/2aLBQZl",
+                "start": 95,
+                "url": "https://t.co/hzbwaOOxA6"
+              },
+              {
+                "display_url": "bit.ly/2qbAFH4",
+                "end": 155,
+                "expanded_url": "http://bit.ly/2qbAFH4",
+                "start": 132,
+                "url": "https://t.co/NIusFpRU2S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.nytimes.com",
+                "end": 23,
+                "expanded_url": "http://cn.nytimes.com",
+                "start": 0,
+                "url": "https://t.co/iOfk7hg4wi"
+              }
+            ]
+          }
+        },
+        "id": "620632841",
+        "name": "纽约时报中文网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/963709224466374656/W7eiSwd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3816081,
+          "following_count": 368,
+          "like_count": 1101,
+          "listed_count": 9218,
+          "media_count": 12927,
+          "tweet_count": 74386
+        },
+        "url": "https://t.co/iOfk7hg4wi",
+        "username": "nytchinese",
+        "verified": true
+      }
+    ]
+  }
+}

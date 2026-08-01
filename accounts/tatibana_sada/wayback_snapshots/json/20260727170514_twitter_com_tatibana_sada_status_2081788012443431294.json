@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2081788012443431294",
+    "created_at": "2026-07-27T17:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081788012443431294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1978695312823693312",
+          "start": 3,
+          "username": "iltarusko_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081788012443431294",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081345742283649265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iltarusko_: A long time ago(3 months ago), the Chinese civil war became a trend on Twitter\n\nAfter that, with the TADC finale, Gooseworx…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Left KMT ",
+        "height": 933,
+        "media_key": "3_2081342356251414528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJp2HhXEAAvDlJ.jpg",
+        "width": 1048
+      },
+      {
+        "alt_text": "Right KMT",
+        "height": 933,
+        "media_key": "3_2081342489177296896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJp92tXEAALFUs.jpg",
+        "width": 1048
+      },
+      {
+        "alt_text": "CCP/PLA",
+        "height": 933,
+        "media_key": "3_2081342684736724992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJqJPOXIAADiOp.jpg",
+        "width": 1048
+      },
+      {
+        "alt_text": "Empire of Japan",
+        "height": 933,
+        "media_key": "3_2081342849577074688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJqS1TXQAAVy4V.jpg",
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2081788012443431294",
+        "created_at": "2026-07-27T17:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081788012443431294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1978695312823693312",
+              "start": 3,
+              "username": "iltarusko_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081788012443431294",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081345742283649265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iltarusko_: A long time ago(3 months ago), the Chinese civil war became a trend on Twitter\n\nAfter that, with the TADC finale, Gooseworx…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081342356251414528",
+            "3_2081342489177296896",
+            "3_2081342684736724992",
+            "3_2081342849577074688"
+          ]
+        },
+        "author_id": "1978695312823693312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2081345742283649265",
+        "created_at": "2026-07-26T11:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081345742283649265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBvzG5ryE8",
+              "end": 304,
+              "expanded_url": "https://x.com/iltarusko_/status/2081345742283649265/photo/1",
+              "media_key": "3_2081342356251414528",
+              "start": 281,
+              "url": "https://t.co/GBvzG5ryE8"
+            },
+            {
+              "display_url": "pic.x.com/GBvzG5ryE8",
+              "end": 304,
+              "expanded_url": "https://x.com/iltarusko_/status/2081345742283649265/photo/1",
+              "media_key": "3_2081342489177296896",
+              "start": 281,
+              "url": "https://t.co/GBvzG5ryE8"
+            },
+            {
+              "display_url": "pic.x.com/GBvzG5ryE8",
+              "end": 304,
+              "expanded_url": "https://x.com/iltarusko_/status/2081345742283649265/photo/1",
+              "media_key": "3_2081342684736724992",
+              "start": 281,
+              "url": "https://t.co/GBvzG5ryE8"
+            },
+            {
+              "display_url": "pic.x.com/GBvzG5ryE8",
+              "end": 304,
+              "expanded_url": "https://x.com/iltarusko_/status/2081345742283649265/photo/1",
+              "media_key": "3_2081342849577074688",
+              "start": 281,
+              "url": "https://t.co/GBvzG5ryE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081345742283649265",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 17251,
+          "like_count": 116,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "A long time ago(3 months ago), the Chinese civil war became a trend on Twitter\n\nAfter that, with the TADC finale, Gooseworx's tfem Jax drawing became a trend; so a question came to my mind: what would have happened if we had combined these two trends?\n\nChoose your Civil War Jax:3 https://t.co/GBvzG5ryE8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 1447,
+          "like_count": 10192,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3414
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-16T05:32:06.000Z",
+        "description": "Black Guard of the Left Kuomintang Government ❤️💙❤️\n\nSocial Tridemism/Bakunin-Sun Yat-sen-Wang Jingwei Thought\n\n///MY POSTS ARE NOT SERIOUS///\n\n💛@aamurusko_🩷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 145,
+                "username": "aamurusko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/PanBloomingRosa",
+                "end": 23,
+                "expanded_url": "https://x.com/PanBloomingRosa",
+                "start": 0,
+                "url": "https://t.co/zpwnyRqN0i"
+              }
+            ]
+          }
+        },
+        "id": "1978695312823693312",
+        "location": "Shey/Shem",
+        "name": "Just Era ☭❂",
+        "pinned_tweet_id": "2078154264669491530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081348639226503168/qSa_aPKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 1062,
+          "like_count": 18671,
+          "listed_count": 4,
+          "media_count": 1064,
+          "tweet_count": 7335
+        },
+        "url": "https://t.co/zpwnyRqN0i",
+        "username": "iltarusko_",
+        "verified": false
+      }
+    ]
+  }
+}

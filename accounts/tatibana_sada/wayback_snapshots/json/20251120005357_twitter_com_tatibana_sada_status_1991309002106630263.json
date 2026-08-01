@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991309002106630263",
+    "created_at": "2025-11-20T00:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T01:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991309002106630263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiecaoji/statu…",
+          "end": 137,
+          "expanded_url": "https://twitter.com/jiecaoji/status/1989373075650117813",
+          "start": 114,
+          "url": "https://t.co/lE3sgBFd4E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991309002106630263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989373075650117813",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是如此严肃悲伤的想到了under horizon的这句话。\n「被市民社会抛弃所致的疯狂、失业焦虑、把自己和各种叙事捆绑的求生渴望、只有在进食中才能恢复的尊严，如果在下一次大的中死的人却不够多，我们就辜负了这些人的伟大情感。」 https://t.co/lE3sgBFd4E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991309002106630263",
+        "created_at": "2025-11-20T00:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T01:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991309002106630263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiecaoji/statu…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/jiecaoji/status/1989373075650117813",
+              "start": 114,
+              "url": "https://t.co/lE3sgBFd4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991309002106630263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989373075650117813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是如此严肃悲伤的想到了under horizon的这句话。\n「被市民社会抛弃所致的疯狂、失业焦虑、把自己和各种叙事捆绑的求生渴望、只有在进食中才能恢复的尊严，如果在下一次大的中死的人却不够多，我们就辜负了这些人的伟大情感。」 https://t.co/lE3sgBFd4E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2697899238",
+        "conversation_id": "1989373075650117813",
+        "created_at": "2025-11-14T16:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T17:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989373075650117813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989373075650117813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果末日不是一声巨响，而是一代人的唔咽怎么办？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 868,
+          "like_count": 5660,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2031
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-01T10:20:31.000Z",
+        "description": "ed进食障碍（假的）/性别/成分非常杂/\n\n有点地雷/后现代行者/\n\n头像和背景是 @sebonelong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "sebonelong"
+              }
+            ]
+          }
+        },
+        "id": "2697899238",
+        "location": "火星",
+        "name": "朊鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983933801622319104/PWxf2Sx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 150,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 142
+        },
+        "username": "jiecaoji",
+        "verified": false
+      }
+    ]
+  }
+}

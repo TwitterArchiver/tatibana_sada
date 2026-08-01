@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057486217735012525",
+    "created_at": "2026-05-22T05:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057702880359088183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1516967434355232768",
+          "start": 0,
+          "username": "yxcogcoyco66744"
+        },
+        {
+          "end": 29,
+          "id": "1991741079092375552",
+          "start": 17,
+          "username": "bigboss4654"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057702880359088183",
+    "in_reply_to_user_id": "1516967434355232768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057493417975013436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxcogcoyco66744 @bigboss4654 点进主页\n香港民族\n破案"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057486217735012525",
+        "created_at": "2026-05-22T05:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057702880359088183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516967434355232768",
+              "start": 0,
+              "username": "yxcogcoyco66744"
+            },
+            {
+              "end": 29,
+              "id": "1991741079092375552",
+              "start": 17,
+              "username": "bigboss4654"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057702880359088183",
+        "in_reply_to_user_id": "1516967434355232768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057493417975013436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxcogcoyco66744 @bigboss4654 点进主页\n香港民族\n破案"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516967434355232768",
+        "conversation_id": "2057486217735012525",
+        "created_at": "2026-05-21T16:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057493417975013436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991741079092375552",
+              "start": 0,
+              "username": "bigboss4654"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057493417975013436",
+        "in_reply_to_user_id": "1991741079092375552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057486217735012525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigboss4654 我知道你和他也是性別錯亂的墮落者,被西方白左墮落思想洗腦而不自知,所以才會替那個墮落者說話\n\n就你這也配成為漢民族和中華民族的一員,你這個被西方思想污染了的東西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 1165,
+          "like_count": 8278,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2726
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T02:30:08.000Z",
+        "description": "自由的美夢在那東方古老而邪惡的專制之下是虛幻且容易破滅的|The secret to happiness is freedom. And the secret to freedom is courage|香港民族",
+        "id": "1516967434355232768",
+        "name": "世界都會的末人⬜🟦",
+        "pinned_tweet_id": "1587716959130759168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544995656359522305/ArnPjnnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 347,
+          "like_count": 34194,
+          "listed_count": 7,
+          "media_count": 897,
+          "tweet_count": 19646
+        },
+        "username": "yxcogcoyco66744",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T05:31:04.000Z",
+        "description": "贾革命，甄反动",
+        "id": "1991741079092375552",
+        "location": "黎巴嫩，贝卡谷地",
+        "name": "甄反动",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054847254813663232/9y0AKaVg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 97,
+          "like_count": 887,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 142
+        },
+        "username": "bigboss4654",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979064758012620928",
+    "created_at": "2025-10-17T08:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T09:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979101936260649134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1935975585186271232",
+          "start": 0,
+          "username": "hahahabzd123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979101936260649134",
+    "in_reply_to_user_id": "1935975585186271232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979064758012620928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahahabzd123 浅薄的小资产阶级多愁善感。\n杀人有什么不好的，宜多杀，大张旗鼓的杀，镇压反革命的时候你这个右派是要进夹边沟的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979064758012620928",
+        "created_at": "2025-10-17T08:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979101936260649134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935975585186271232",
+              "start": 0,
+              "username": "hahahabzd123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979101936260649134",
+        "in_reply_to_user_id": "1935975585186271232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979064758012620928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahahabzd123 浅薄的小资产阶级多愁善感。\n杀人有什么不好的，宜多杀，大张旗鼓的杀，镇压反革命的时候你这个右派是要进夹边沟的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935975585186271232",
+        "conversation_id": "1979064758012620928",
+        "created_at": "2025-10-17T05:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T06:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979064758012620928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hsinking151019…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/Hsinking151019/status/1979056516968726986",
+              "start": 109,
+              "url": "https://t.co/zu97O8OIfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979064758012620928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979056516968726986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得用一场更大的屠杀，去衬托一场较小屠杀的仁慈。对解决问题没有任何帮助。当我们开始计算积血的深度，并为那个不那么深的血泊而感到庆幸时，我们就已经背叛了每一滴血背后那个具体的、死去的冤魂。痛苦是绝对的，它不能被比较。 https://t.co/zu97O8OIfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 552,
+          "like_count": 2927,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1468
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T08:19:11.000Z",
+        "description": "De gustibus non est disputandum.",
+        "id": "1935975585186271232",
+        "name": "Rollo Thomas",
+        "pinned_tweet_id": "1975006226309345518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961048554644099072/rgcQl03l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 123,
+          "like_count": 355,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 750
+        },
+        "username": "hahahabzd123",
+        "verified": false
+      }
+    ]
+  }
+}

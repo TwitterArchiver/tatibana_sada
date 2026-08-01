@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2055249332136473052",
+    "created_at": "2026-05-15T21:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T22:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055400990761972116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639816523190763521",
+          "start": 0,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055400990761972116",
+    "in_reply_to_user_id": "1639816523190763521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055249332136473052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdxfulan 如果你说的是弟子规那一套，那就是时代背景下内卷出来的社会规范，不是要被扔进垃圾堆，是已经被扔进去了。时移世易。\n而学术化的儒家，其本身就是中国人的定义里不可缺少的要素，是胡适说的Siniticism的主干。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2055249332136473052",
+        "created_at": "2026-05-15T21:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T22:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055400990761972116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055400990761972116",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055249332136473052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 如果你说的是弟子规那一套，那就是时代背景下内卷出来的社会规范，不是要被扔进垃圾堆，是已经被扔进去了。时移世易。\n而学术化的儒家，其本身就是中国人的定义里不可缺少的要素，是胡适说的Siniticism的主干。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "2055249332136473052",
+        "created_at": "2026-05-15T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055249332136473052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055249332136473052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1725,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "儒家思想这个看门狗被从奴隶制时期一直用到了现在，居然还在用，不知道是没活了还是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1085,
+          "like_count": 7749,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2554
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰\n药娘1 纯1哦",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2039230799497547970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17883,
+          "following_count": 505,
+          "like_count": 36476,
+          "listed_count": 31,
+          "media_count": 3790,
+          "tweet_count": 11712
+        },
+        "username": "ggdxfulan",
+        "verified": true
+      }
+    ]
+  }
+}

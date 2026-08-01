@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      }
+    ],
+    "conversation_id": "1992983749273997521",
+    "created_at": "2025-11-24T15:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T16:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992983749273997521"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lawyu68/status…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/lawyu68/status/1992980637796761644",
+          "start": 129,
+          "url": "https://t.co/aHvFQRikah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992983749273997521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992980637796761644",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇哦，不得了。判决主客体区别的死刑，那等于是把笛卡尔的康德的传统，整个德古都拉下船了。你还是应该读读后现代法左的——即使结论相反，逻辑却趋同。母子共同体何时成立的呢？也许会是卵子受精？那么，拥有子宫的人拒绝受精，岂不是她/他的自由吗？这正是我唯独要维护的。 https://t.co/aHvFQRikah"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "1992983749273997521",
+        "created_at": "2025-11-24T15:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992983749273997521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lawyu68/status…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/lawyu68/status/1992980637796761644",
+              "start": 129,
+              "url": "https://t.co/aHvFQRikah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992983749273997521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992980637796761644",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇哦，不得了。判决主客体区别的死刑，那等于是把笛卡尔的康德的传统，整个德古都拉下船了。你还是应该读读后现代法左的——即使结论相反，逻辑却趋同。母子共同体何时成立的呢？也许会是卵子受精？那么，拥有子宫的人拒绝受精，岂不是她/他的自由吗？这正是我唯独要维护的。 https://t.co/aHvFQRikah"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643917285097349121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "1992980637796761644",
+        "created_at": "2025-11-24T15:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992980637796761644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatibana_sada/…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/tatibana_sada/status/1992953487425253623",
+              "start": 139,
+              "url": "https://t.co/wJssNKdMmK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992980637796761644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992953487425253623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所谓主体客体，是马克思主义女性主义专用语言陷阱。\n母子一体，相互依存，缺一不可，你们却把亲子关系对立起来，和把马列主义的阶级斗争理论引入政治生活有何区别？所以你们就是极左。\n同样，男女一体，本就没主体和客体之分，是波伏娃和上野千鹤子，引入阶级斗争理论，教唆性别仇恨及不婚不育。 https://t.co/wJssNKdMmK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 930,
+          "like_count": 6166,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2229
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T10:03:26.000Z",
+        "description": "Fight for law of nature & humanity\n为自然法和人性而战\n Ethical conservative \n伦理保守主义\nEthics lead Freedom\n自由止于伦理\nTell the  historical truth\n昭史",
+        "id": "1643917285097349121",
+        "location": "lawyu",
+        "name": "lawyu",
+        "pinned_tweet_id": "1697426804699775168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644982758148820993/soBdeINk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 352,
+          "like_count": 255,
+          "listed_count": 23,
+          "media_count": 613,
+          "tweet_count": 9419
+        },
+        "username": "lawyu68",
+        "verified": false
+      }
+    ]
+  }
+}

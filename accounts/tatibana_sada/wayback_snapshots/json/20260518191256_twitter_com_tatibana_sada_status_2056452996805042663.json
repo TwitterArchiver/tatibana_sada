@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2056452996805042663",
+    "created_at": "2026-05-18T19:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T20:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056452996805042663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2054413452542689517",
+          "start": 26,
+          "url": "https://t.co/Kcv6W4h9mr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056452996805042663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054413452542689517",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像我初中的时候的支老师…字面意义的支老师，姓氏是支 https://t.co/Kcv6W4h9mr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054413448889466880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIK-JaLXgAA4gqZ.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054413448918777857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIK-JaSWwAEnc3m.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2056452996805042663",
+        "created_at": "2026-05-18T19:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056452996805042663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2054413452542689517",
+              "start": 26,
+              "url": "https://t.co/Kcv6W4h9mr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056452996805042663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054413452542689517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像我初中的时候的支老师…字面意义的支老师，姓氏是支 https://t.co/Kcv6W4h9mr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054413448889466880",
+            "3_2054413448918777857"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2054413452542689517",
+        "created_at": "2026-05-13T04:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T05:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054413452542689517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7n6JFsacp",
+              "end": 36,
+              "expanded_url": "https://x.com/amber_digit2/status/2054413452542689517/photo/1",
+              "media_key": "3_2054413448889466880",
+              "start": 13,
+              "url": "https://t.co/C7n6JFsacp"
+            },
+            {
+              "display_url": "pic.x.com/C7n6JFsacp",
+              "end": 36,
+              "expanded_url": "https://x.com/amber_digit2/status/2054413452542689517/photo/1",
+              "media_key": "3_2054413448918777857",
+              "start": 13,
+              "url": "https://t.co/C7n6JFsacp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054413452542689517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1785,
+          "like_count": 113,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "打语音电话时的素颜营业照 https://t.co/C7n6JFsacp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1134,
+          "like_count": 8022,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2642
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 321,
+          "like_count": 302,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 508
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

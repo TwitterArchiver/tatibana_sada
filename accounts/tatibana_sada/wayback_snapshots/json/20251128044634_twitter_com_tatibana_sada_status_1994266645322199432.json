@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994225696885846016",
+        "3_1994225696885874688",
+        "3_1994225696894341120",
+        "3_1994225696890032129"
+      ],
+      "media_source_tweet_id": [
+        "1994225702090985597",
+        "1994225702090985597",
+        "1994225702090985597",
+        "1994225702090985597"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1994266645322199432",
+    "created_at": "2025-11-28T04:46:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T05:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994266645322199432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YBoxvQkQ36",
+          "end": 90,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1994225702090985597/photo/1",
+          "media_key": "3_1994225696885846016",
+          "start": 67,
+          "url": "https://t.co/YBoxvQkQ36"
+        },
+        {
+          "display_url": "pic.x.com/YBoxvQkQ36",
+          "end": 90,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1994225702090985597/photo/1",
+          "media_key": "3_1994225696885874688",
+          "start": 67,
+          "url": "https://t.co/YBoxvQkQ36"
+        },
+        {
+          "display_url": "pic.x.com/YBoxvQkQ36",
+          "end": 90,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1994225702090985597/photo/1",
+          "media_key": "3_1994225696894341120",
+          "start": 67,
+          "url": "https://t.co/YBoxvQkQ36"
+        },
+        {
+          "display_url": "pic.x.com/YBoxvQkQ36",
+          "end": 90,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1994225702090985597/photo/1",
+          "media_key": "3_1994225696890032129",
+          "start": 67,
+          "url": "https://t.co/YBoxvQkQ36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994266645322199432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994225702090985597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 11月28日凌晨，人民网在B站发布视频《今晚吃叉烧》，随后评论区网民集体借机嘲讽香港火灾逝者 https://t.co/YBoxvQkQ36"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994266645322199432].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994266645322199432",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994266645322199432"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994225696885846016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6zptJjWMAAthzl.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994225696885874688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6zptJjWoAAiGMN.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994225696894341120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6zptJlX0AAcrJr.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994225696890032129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6zptJkWEAE7l6-.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994225696885846016",
+            "3_1994225696885874688",
+            "3_1994225696894341120",
+            "3_1994225696890032129"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1994225702090985597",
+        "created_at": "2025-11-28T02:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T03:02:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994225318177976597",
+          "1994225702090985597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YBoxvQkQ36",
+              "end": 70,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1994225702090985597/photo/1",
+              "media_key": "3_1994225696885846016",
+              "start": 47,
+              "url": "https://t.co/YBoxvQkQ36"
+            },
+            {
+              "display_url": "pic.x.com/YBoxvQkQ36",
+              "end": 70,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1994225702090985597/photo/1",
+              "media_key": "3_1994225696885874688",
+              "start": 47,
+              "url": "https://t.co/YBoxvQkQ36"
+            },
+            {
+              "display_url": "pic.x.com/YBoxvQkQ36",
+              "end": 70,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1994225702090985597/photo/1",
+              "media_key": "3_1994225696894341120",
+              "start": 47,
+              "url": "https://t.co/YBoxvQkQ36"
+            },
+            {
+              "display_url": "pic.x.com/YBoxvQkQ36",
+              "end": 70,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1994225702090985597/photo/1",
+              "media_key": "3_1994225696890032129",
+              "start": 47,
+              "url": "https://t.co/YBoxvQkQ36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994225702090985597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 250458,
+          "like_count": 1230,
+          "quote_count": 67,
+          "reply_count": 268,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "11月28日凌晨，人民网在B站发布视频《今晚吃叉烧》，随后评论区网民集体借机嘲讽香港火灾逝者 https://t.co/YBoxvQkQ36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 958,
+          "like_count": 6435,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2299
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2145536,
+          "following_count": 981,
+          "like_count": 8369,
+          "listed_count": 8427,
+          "media_count": 37752,
+          "tweet_count": 44628
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

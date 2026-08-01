@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988082282100650038",
+    "created_at": "2025-11-12T12:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988580237031231933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818119930329608192",
+          "start": 0,
+          "username": "KarlRitt3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988580237031231933",
+    "in_reply_to_user_id": "1818119930329608192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988082282100650038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarlRitt3r 「如果我今天作为一个革命者站在这里，那就是一场反对这场革命的革命」\n倒行逆施的革命家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988082282100650038",
+        "created_at": "2025-11-12T12:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988580237031231933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818119930329608192",
+              "start": 0,
+              "username": "KarlRitt3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988580237031231933",
+        "in_reply_to_user_id": "1818119930329608192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988082282100650038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarlRitt3r 「如果我今天作为一个革命者站在这里，那就是一场反对这场革命的革命」\n倒行逆施的革命家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818119930329608192",
+        "conversation_id": "1988082282100650038",
+        "created_at": "2025-11-11T03:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T04:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988082282100650038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sola_nubes/sta…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/sola_nubes/status/1987960476656169222",
+              "start": 137,
+              "url": "https://t.co/z3GXHcQW7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988082282100650038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1329,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987960476656169222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和你想的恰恰相反，社会民主主义才是真正意义上一潭死水一样的意识形态。它存在的意义就是不断的改良，以不掀起任何波纹的形式去追求所谓的进步理想，通过赋予主要群体罪责来给予少数边缘群体好处。\n中国真正需要的不是什么狗屁改良，而是真正的革命。我们需要一场保守革命去撕裂无力的过往。 https://t.co/z3GXHcQW7c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 809,
+          "like_count": 5197,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1914
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T03:02:40.000Z",
+        "description": "得福不知今日享，神宗皇帝太平年",
+        "id": "1818119930329608192",
+        "name": "王佐Jünger",
+        "pinned_tweet_id": "1987557493581746338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981968920572465152/ZK8I-jX8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 63,
+          "like_count": 1039,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 2092
+        },
+        "username": "KarlRitt3r",
+        "verified": false
+      }
+    ]
+  }
+}

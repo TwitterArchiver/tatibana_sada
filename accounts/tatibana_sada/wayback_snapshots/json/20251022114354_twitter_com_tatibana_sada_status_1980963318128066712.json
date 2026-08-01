@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980941154725306446",
+    "created_at": "2025-10-22T11:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T12:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980963318128066712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1551775232733499398",
+          "start": 0,
+          "username": "zuoalian1010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980963318128066712",
+    "in_reply_to_user_id": "1551775232733499398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980941154725306446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuoalian1010 伟大的拉康同志英明的指出「女人不存在」。\n因此我务实的说，现在来讨论各阶级各阶层各法人团体的资产阶级议会里，能不能放进男权政党和女权政党吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980941154725306446",
+        "created_at": "2025-10-22T11:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T12:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980963318128066712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1551775232733499398",
+              "start": 0,
+              "username": "zuoalian1010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980963318128066712",
+        "in_reply_to_user_id": "1551775232733499398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980941154725306446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuoalian1010 伟大的拉康同志英明的指出「女人不存在」。\n因此我务实的说，现在来讨论各阶级各阶层各法人团体的资产阶级议会里，能不能放进男权政党和女权政党吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551775232733499398",
+        "conversation_id": "1980941154725306446",
+        "created_at": "2025-10-22T10:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980941154725306446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/premierzhou/st…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/premierzhou/status/1980698753960186190",
+              "start": 51,
+              "url": "https://t.co/NXS4RYrM3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980941154725306446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980698753960186190",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她们渴望的也是男人的飞乐思 也在追求飞乐思享乐。真正的女性 完整的女性根本不存在 解放女性从何说起呢 https://t.co/NXS4RYrM3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 594,
+          "like_count": 3290,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1561
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T03:43:49.000Z",
+        "description": "力争活到150",
+        "id": "1551775232733499398",
+        "name": "郡望昌黎",
+        "pinned_tweet_id": "1957217600326566054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874147651803111429/3jCgxwHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 399,
+          "like_count": 4257,
+          "listed_count": 7,
+          "media_count": 204,
+          "tweet_count": 2328
+        },
+        "username": "zuoalian1010",
+        "verified": false
+      }
+    ]
+  }
+}

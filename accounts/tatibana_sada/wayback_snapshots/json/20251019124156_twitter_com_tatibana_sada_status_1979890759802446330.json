@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979890759802446330",
+    "created_at": "2025-10-19T12:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T13:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979890759802446330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tuitenvwang/st…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/tuitenvwang/status/1979541385582690421",
+          "start": 51,
+          "url": "https://t.co/fTAAT1T2kx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979890759802446330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979541385582690421",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的道德感就是，宁可我被出轨一千次，也不能我出轨一次。\n唯独是基于这个立场，我便坚决不进入亲密关系。 https://t.co/fTAAT1T2kx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979890759802446330",
+        "created_at": "2025-10-19T12:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T13:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979890759802446330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tuitenvwang/st…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/tuitenvwang/status/1979541385582690421",
+              "start": 51,
+              "url": "https://t.co/fTAAT1T2kx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979890759802446330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979541385582690421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的道德感就是，宁可我被出轨一千次，也不能我出轨一次。\n唯独是基于这个立场，我便坚决不进入亲密关系。 https://t.co/fTAAT1T2kx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821431905071570944",
+        "conversation_id": "1979541385582690421",
+        "created_at": "2025-10-18T13:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979541385582690421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979541385582690421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 221588,
+          "like_count": 1734,
+          "quote_count": 19,
+          "reply_count": 53,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "别人出轨，妈的真贱\n朋友出轨，我草牛逼\n自己出轨，有些事说不清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 563,
+          "like_count": 3085,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1505
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T06:23:12.000Z",
+        "description": "想起我了就捡起地上的小卡片打给我",
+        "id": "1821431905071570944",
+        "location": "香港",
+        "name": "坟场宝宝",
+        "pinned_tweet_id": "1979853092293423425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821432537660772352/3ctFRoG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11717,
+          "following_count": 313,
+          "like_count": 3707,
+          "listed_count": 11,
+          "media_count": 322,
+          "tweet_count": 2084
+        },
+        "username": "tuitenvwang",
+        "verified": false
+      }
+    ]
+  }
+}

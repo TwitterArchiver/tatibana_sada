@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1985839494743068672"
+      ],
+      "media_source_tweet_id": [
+        "1985839550435115420"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986030837167800377",
+    "created_at": "2025-11-05T11:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T12:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986030837167800377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1589643415674757121",
+          "start": 3,
+          "username": "smak_art"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cTepjzd6Vy",
+          "end": 49,
+          "expanded_url": "https://x.com/smak_art/status/1985839550435115420/video/1",
+          "media_key": "13_1985839494743068672",
+          "start": 26,
+          "url": "https://t.co/cTepjzd6Vy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986030837167800377",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985839550435115420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smak_art: おは𓈒𓏸︎︎︎︎ 寒… https://t.co/cTepjzd6Vy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8248,
+        "height": 916,
+        "media_key": "13_1985839494743068672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985839494743068672/img/6iJtQxvR3-P9eqfr.jpg",
+        "public_metrics": {
+          "view_count": 1320
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985839494743068672/vid/avc1/416x360/mFjp0fObfaOB9Gin.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985839494743068672/vid/avc1/1062x916/udxYswwsNUk28ZWE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985839494743068672/pl/-o5dAMbDK47vPD3Y.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985839494743068672/vid/avc1/312x270/KbphHez-GssGxbjE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985839494743068672/vid/avc1/834x720/-Y4R2-iwnvJ7NJPm.mp4"
+          }
+        ],
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985839494743068672"
+          ],
+          "media_source_tweet_id": [
+            "1985839550435115420"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986030837167800377",
+        "created_at": "2025-11-05T11:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T12:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986030837167800377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1589643415674757121",
+              "start": 3,
+              "username": "smak_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTepjzd6Vy",
+              "end": 49,
+              "expanded_url": "https://x.com/smak_art/status/1985839550435115420/video/1",
+              "media_key": "13_1985839494743068672",
+              "start": 26,
+              "url": "https://t.co/cTepjzd6Vy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986030837167800377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985839550435115420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smak_art: おは𓈒𓏸︎︎︎︎ 寒… https://t.co/cTepjzd6Vy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985839494743068672"
+          ]
+        },
+        "author_id": "1589643415674757121",
+        "conversation_id": "1985839550435115420",
+        "created_at": "2025-11-04T22:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T23:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985839550435115420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTepjzd6Vy",
+              "end": 35,
+              "expanded_url": "https://x.com/smak_art/status/1985839550435115420/video/1",
+              "media_key": "13_1985839494743068672",
+              "start": 12,
+              "url": "https://t.co/cTepjzd6Vy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985839550435115420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 3904,
+          "like_count": 454,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "おは𓈒𓏸︎︎︎︎ 寒… https://t.co/cTepjzd6Vy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 738,
+          "like_count": 4693,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1777
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T15:38:30.000Z",
+        "description": "メイド概念のバイト中🍷🚬💊🐈‍⬛ ⋮📷@akina_646",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "akina_646"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/meidomika",
+                "end": 23,
+                "expanded_url": "https://lit.link/meidomika",
+                "start": 0,
+                "url": "https://t.co/JwTrMmAI49"
+              }
+            ]
+          }
+        },
+        "id": "1589643415674757121",
+        "location": "投稿画像の転載、pfp使用、AI学習禁止",
+        "name": "メイド概念@ミカ🐾",
+        "pinned_tweet_id": "1974086229953294394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831301773174394881/7I7KlHGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43429,
+          "following_count": 3,
+          "like_count": 946,
+          "listed_count": 155,
+          "media_count": 218,
+          "tweet_count": 1061
+        },
+        "url": "https://t.co/JwTrMmAI49",
+        "username": "smak_art",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1994653687160213649",
+    "created_at": "2025-11-30T04:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T05:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994984287264018848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490629241783816194",
+          "start": 0,
+          "username": "Asimov53006169"
+        },
+        {
+          "end": 30,
+          "id": "1650781530158141442",
+          "start": 16,
+          "username": "I_love_PolPol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994984287264018848",
+    "in_reply_to_user_id": "1490629241783816194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994840984983883847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asimov53006169 @I_love_PolPol 剿匪先于主义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1994653687160213649",
+        "created_at": "2025-11-30T04:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T05:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994984287264018848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490629241783816194",
+              "start": 0,
+              "username": "Asimov53006169"
+            },
+            {
+              "end": 30,
+              "id": "1650781530158141442",
+              "start": 16,
+              "username": "I_love_PolPol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994984287264018848",
+        "in_reply_to_user_id": "1490629241783816194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994840984983883847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asimov53006169 @I_love_PolPol 剿匪先于主义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490629241783816194",
+        "conversation_id": "1994653687160213649",
+        "created_at": "2025-11-29T18:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T19:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994840984983883847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650781530158141442",
+              "start": 0,
+              "username": "I_love_PolPol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994840984983883847",
+        "in_reply_to_user_id": "1650781530158141442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994653687160213649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I_love_PolPol 古典自由主义最大的问题就是无法让自己获胜，将异见者视为单纯的辩论对手而不是敌我划分，评价是施密特得多学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 964,
+          "like_count": 6558,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2332
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T10:12:25.000Z",
+        "description": "旧式自由意志主义 奥地利学派 孤立主义\n传统文化享受者",
+        "id": "1490629241783816194",
+        "name": "Asimov",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777404556785438720/m7VSIcA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 289,
+          "like_count": 12058,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 2790
+        },
+        "username": "Asimov53006169",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T08:39:29.000Z",
+        "description": "我愛毛沢東習近平主席也爱列宁斯大林同志，但我最愛伟大的波尔布特同志：誰屠左比他厉害?——\n\n過🚪598，998解鎖日常号，5200限定位富哥専属，不線下\n\n中文很好，母語水平，歓迎互動",
+        "id": "1650781530158141442",
+        "location": "鯊魚之家",
+        "name": "習近平主席最忠誠的战士",
+        "pinned_tweet_id": "1657027283163529222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650795555625521152/-GkcHjXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 251,
+          "like_count": 228,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 705
+        },
+        "username": "I_love_PolPol",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,564 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058581170812825600"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "#GOPDebate is happening! Explore the latest Tweets, must-see highlights, and the can’t-miss moments right here.\n\n",
+          "id": "1722429172528611328",
+          "name": "3rd US Republican Primary Debate 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "#GOPDebate is happening! Explore the latest Tweets, must-see highlights, and the can’t-miss moments right here.\n\n",
+          "id": "1729551200817717248",
+          "name": "4th US Republican Primary Debate 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Former US President Barack Obama",
+          "id": "10038764303",
+          "name": "Barack Obama"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Former US President Barack Obama",
+          "id": "10038764303",
+          "name": "Barack Obama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Former US President Barack Obama",
+          "id": "10038764303",
+          "name": "Barack Obama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2058581173685915769",
+    "created_at": "2026-05-24T16:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058581173685915769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R6nvnutx65",
+          "end": 23,
+          "expanded_url": "https://x.com/tatibana_sada/status/2058581173685915769/photo/1",
+          "media_key": "3_2058581170812825600",
+          "start": 0,
+          "url": "https://t.co/R6nvnutx65"
+        },
+        {
+          "display_url": "x.com/TrumpTruthOnX/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/TrumpTruthOnX/status/2058551439035879544",
+          "start": 24,
+          "url": "https://t.co/VRLlvwU099"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058581173685915769",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058551439035879544",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/R6nvnutx65 https://t.co/VRLlvwU099"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 405,
+        "media_key": "3_2058581170812825600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGMqwObMAAThvI.jpg",
+        "width": 540
+      },
+      {
+        "height": 2108,
+        "media_key": "3_2058551434858414080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFxn5KbQAAAEZt.png",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058581170812825600"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "#GOPDebate is happening! Explore the latest Tweets, must-see highlights, and the can’t-miss moments right here.\n\n",
+              "id": "1722429172528611328",
+              "name": "3rd US Republican Primary Debate 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "#GOPDebate is happening! Explore the latest Tweets, must-see highlights, and the can’t-miss moments right here.\n\n",
+              "id": "1729551200817717248",
+              "name": "4th US Republican Primary Debate 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former US President Barack Obama",
+              "id": "10038764303",
+              "name": "Barack Obama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former US President Barack Obama",
+              "id": "10038764303",
+              "name": "Barack Obama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former US President Barack Obama",
+              "id": "10038764303",
+              "name": "Barack Obama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2058581173685915769",
+        "created_at": "2026-05-24T16:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058581173685915769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R6nvnutx65",
+              "end": 23,
+              "expanded_url": "https://x.com/tatibana_sada/status/2058581173685915769/photo/1",
+              "media_key": "3_2058581170812825600",
+              "start": 0,
+              "url": "https://t.co/R6nvnutx65"
+            },
+            {
+              "display_url": "x.com/TrumpTruthOnX/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/TrumpTruthOnX/status/2058551439035879544",
+              "start": 24,
+              "url": "https://t.co/VRLlvwU099"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058581173685915769",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058551439035879544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/R6nvnutx65 https://t.co/VRLlvwU099"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058551434858414080"
+          ]
+        },
+        "author_id": "1922803520019013632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "#GOPDebate is happening! Explore the latest Tweets, must-see highlights, and the can’t-miss moments right here.\n\n",
+              "id": "1722429172528611328",
+              "name": "3rd US Republican Primary Debate 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "#GOPDebate is happening! Explore the latest Tweets, must-see highlights, and the can’t-miss moments right here.\n\n",
+              "id": "1729551200817717248",
+              "name": "4th US Republican Primary Debate 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former US President Barack Obama",
+              "id": "10038764303",
+              "name": "Barack Obama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former US President Barack Obama",
+              "id": "10038764303",
+              "name": "Barack Obama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former US President Barack Obama",
+              "id": "10038764303",
+              "name": "Barack Obama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2058551439035879544",
+        "created_at": "2026-05-24T14:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058551439035879544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NV7kha0dUq",
+              "end": 295,
+              "expanded_url": "https://x.com/TrumpTruthOnX/status/2058551439035879544/photo/1",
+              "media_key": "3_2058551434858414080",
+              "start": 272,
+              "url": "https://t.co/NV7kha0dUq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058551439035879544",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "One of the worst deals ever made by our Country was the Iran Nuclear Deal, put forth and signed into existence by Barack Hussein Obama and the rank amateurs of the Obama Administration. It was a direct path to Iran developing a Nuclear Weapon. Not so with the transaction currently being negotiated with Iran by the Trump Administration - THE EXACT OPPOSITE, in fact! The negotiations are proceeding in an orderly and constructive manner, and I have informed my representatives not to rush into a deal in that time is on our side. The Blockade will remain in full force and effect until an agreement is reached, certified, and signed. Both sides must take their time and get it right. There can be no mistakes! Our relationship with Iran is becoming a much more professional and productive one. They must understand, however, that they cannot develop or procure a Nuclear Weapon or Bomb. I would like to thank, thus far, all of the countries of the Middle East for their support and cooperation, which will be further enhanced and strengthened by their joining the Nations of the historic Abraham Accords and, who knows, perhaps the Islamic Republic of Iran would like to join, as well! Thank you for your attention to this matter. President DONALD J. TRUMP\n\n( TruthSocial: May 24 2026, 10:10 AM ET )​​​‍​​‌‍​​‌‍​​​​​​​‌‍​​​​​​​‌‍​​​‌‍​​​​​​​​​​‌‍​​​​​​​​​​‌‍​​​​​​‌‍​​​‌‍​​​​​​​​​​‌‍​​​​​​​​‌‍​​​​‌‍​​​​‌‍​‌‍​​‌‍​​​​​​​​‌‍​​​​​​​‌‍"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 32245,
+          "like_count": 207,
+          "quote_count": 11,
+          "reply_count": 70,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "One of the worst deals ever made by our Country was the Iran Nuclear Deal, put forth and signed into existence by Barack Hussein Obama and the rank amateurs of the Obama Administration. It was a direct path to Iran developing a Nuclear Weapon. Not so with the transaction https://t.co/NV7kha0dUq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 1198,
+          "like_count": 8509,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2832
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T23:57:49.000Z",
+        "description": "Trump Truth Posts On X, along with breaking news stories and highlights. Independent, Commentary. Not associated with President Donald J. Trump",
+        "id": "1922803520019013632",
+        "location": "Washington, DC",
+        "name": "Commentary Donald J Trump Truth Social Posts On X",
+        "pinned_tweet_id": "2058010815740187050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982191767685382144/NcPvdHQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558200,
+          "following_count": 0,
+          "like_count": 10,
+          "listed_count": 944,
+          "media_count": 5374,
+          "tweet_count": 8867
+        },
+        "username": "TrumpTruthOnX",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1990388616011436441",
+    "created_at": "2025-11-20T00:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T01:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991307825151357255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1575765089030139905",
+          "start": 0,
+          "username": "wodanggangqiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991307825151357255",
+    "in_reply_to_user_id": "1575765089030139905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990388616011436441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wodanggangqiang 根据半新不旧女性主义理论成果，战争的主要目的和成果是消耗男性。红丸人士正严肃谴责这种厚颜无耻的学术剽窃。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1810,
+        "media_key": "3_1990388604582109184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59H4-0aIAA9PmV.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1990388616011436441",
+        "created_at": "2025-11-20T00:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T01:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991307825151357255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575765089030139905",
+              "start": 0,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991307825151357255",
+        "in_reply_to_user_id": "1575765089030139905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990388616011436441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wodanggangqiang 根据半新不旧女性主义理论成果，战争的主要目的和成果是消耗男性。红丸人士正严肃谴责这种厚颜无耻的学术剽窃。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990388604582109184"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "1990388616011436441",
+        "created_at": "2025-11-17T11:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T12:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990388616011436441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HebnitAnKO",
+              "end": 42,
+              "expanded_url": "https://x.com/wodanggangqiang/status/1990388616011436441/photo/1",
+              "media_key": "3_1990388604582109184",
+              "start": 19,
+              "url": "https://t.co/HebnitAnKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990388616011436441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 72820,
+          "like_count": 748,
+          "quote_count": 7,
+          "reply_count": 77,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "原来有些男的喜欢打仗是等着分女人啊。 https://t.co/HebnitAnKO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 868,
+          "like_count": 5659,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2030
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24977,
+          "following_count": 526,
+          "like_count": 29516,
+          "listed_count": 85,
+          "media_count": 8885,
+          "tweet_count": 23591
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

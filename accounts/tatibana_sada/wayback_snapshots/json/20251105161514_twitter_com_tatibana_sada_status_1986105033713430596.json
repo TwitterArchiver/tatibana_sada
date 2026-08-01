@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985990454819926017"
+      ],
+      "media_source_tweet_id": [
+        "1986018402578956794"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986105033713430596",
+    "created_at": "2025-11-05T16:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T17:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986105033713430596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1879647482",
+          "start": 3,
+          "username": "ksb_x4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vIfrPAvBsl",
+          "end": 47,
+          "expanded_url": "https://x.com/ksb_x4/status/1986018402578956794/photo/1",
+          "media_key": "3_1985990454819926017",
+          "start": 24,
+          "url": "https://t.co/vIfrPAvBsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986105033713430596",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986018402578956794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ksb_x4: 猫耳うるにゃん(再掲) https://t.co/vIfrPAvBsl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3277,
+        "media_key": "3_1985990454819926017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-ny-LbsAEb10Y.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985990454819926017"
+          ],
+          "media_source_tweet_id": [
+            "1986018402578956794"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986105033713430596",
+        "created_at": "2025-11-05T16:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986105033713430596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1879647482",
+              "start": 3,
+              "username": "ksb_x4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIfrPAvBsl",
+              "end": 47,
+              "expanded_url": "https://x.com/ksb_x4/status/1986018402578956794/photo/1",
+              "media_key": "3_1985990454819926017",
+              "start": 24,
+              "url": "https://t.co/vIfrPAvBsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986105033713430596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986018402578956794",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ksb_x4: 猫耳うるにゃん(再掲) https://t.co/vIfrPAvBsl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985990454819926017"
+          ]
+        },
+        "author_id": "1879647482",
+        "conversation_id": "1986018402578956794",
+        "created_at": "2025-11-05T10:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T11:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986018402578956794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIfrPAvBsl",
+              "end": 35,
+              "expanded_url": "https://x.com/ksb_x4/status/1986018402578956794/photo/1",
+              "media_key": "3_1985990454819926017",
+              "start": 12,
+              "url": "https://t.co/vIfrPAvBsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986018402578956794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 17472,
+          "like_count": 1913,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "猫耳うるにゃん(再掲) https://t.co/vIfrPAvBsl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 749,
+          "like_count": 4764,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1802
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-18T14:17:54.000Z",
+        "description": "ジョイネットのお絵描きマン。ぱっつんとジト目と中性が好き。だれかの性癖に刺さりたい。／DMお返事×無断転載×／comicPOOL「おとなしそうな男子のとんでもない秘密を知ってしまった｣単行本①、②巻発売中 隔週金曜連載中https://t.co/NfaXltswZ2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "comic.pixiv.net/works/9978",
+                "end": 133,
+                "expanded_url": "http://comic.pixiv.net/works/9978",
+                "start": 110,
+                "url": "https://t.co/NfaXltswZ2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kashiba-official.com",
+                "end": 23,
+                "expanded_url": "https://kashiba-official.com/",
+                "start": 0,
+                "url": "https://t.co/XOR598WeFs"
+              }
+            ]
+          }
+        },
+        "id": "1879647482",
+        "location": "お仕事はＨＰ✉️から→",
+        "name": "カシバ@10/31コラボカフェ",
+        "pinned_tweet_id": "1981661562881605943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943775616043556864/u9oCERgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125794,
+          "following_count": 751,
+          "like_count": 81175,
+          "listed_count": 778,
+          "media_count": 2411,
+          "tweet_count": 87896
+        },
+        "url": "https://t.co/XOR598WeFs",
+        "username": "ksb_x4",
+        "verified": true
+      }
+    ]
+  }
+}

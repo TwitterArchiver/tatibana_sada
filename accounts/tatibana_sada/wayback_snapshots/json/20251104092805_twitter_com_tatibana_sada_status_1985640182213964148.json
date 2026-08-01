@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985640182213964148",
+    "created_at": "2025-11-04T09:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T10:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985640182213964148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/REALWiLLiEMMA0…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/REALWiLLiEMMA00/status/1953303731489128529",
+          "start": 17,
+          "url": "https://t.co/AcZxN9qAcI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985640182213964148",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953303731489128529",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok it's true? https://t.co/AcZxN9qAcI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953303728053993472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxuHZEEawAA-DtQ.jpg",
+        "width": 1594
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985640182213964148",
+        "created_at": "2025-11-04T09:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T10:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985640182213964148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/REALWiLLiEMMA0…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/REALWiLLiEMMA00/status/1953303731489128529",
+              "start": 17,
+              "url": "https://t.co/AcZxN9qAcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985640182213964148",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953303731489128529",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok it's true? https://t.co/AcZxN9qAcI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953303728053993472"
+          ]
+        },
+        "author_id": "1400115361647792128",
+        "conversation_id": "1953303731489128529",
+        "created_at": "2025-08-07T03:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T04:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953303731489128529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4EdEiS1Mzu",
+              "end": 168,
+              "expanded_url": "https://x.com/REALWiLLiEMMA00/status/1953303731489128529/photo/1",
+              "media_key": "3_1953303728053993472",
+              "start": 145,
+              "url": "https://t.co/4EdEiS1Mzu"
+            },
+            {
+              "display_url": "x.com/Supercali8964/…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/Supercali8964/status/1953228594475614713",
+              "start": 169,
+              "url": "https://t.co/iDTNDgjfHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953303731489128529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 40326,
+          "like_count": 59,
+          "quote_count": 11,
+          "reply_count": 11,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953228594475614713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像刘仲敬这种高智商高智慧的理工科猥琐蔫男,都有一些稀奇古怪的不为人知的性癖好\n\n比如躲在房间内脱光了下体用手去抠玩自己的屁眼儿,不断刺激肠壁后的前列腺获得高潮快感\n\n这位刘先生百分百是一个被捆绑侮辱抽打辱骂的下贱骚浪M\n\n倒不是说其本人是同性恋,是他奇怪大脑的一种特殊体现的宣泄方式\n\n🐎 https://t.co/4EdEiS1Mzu https://t.co/iDTNDgjfHm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1982595504287699299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 723,
+          "like_count": 4567,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1726
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6569436,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5195,
+          "media_count": 2711215,
+          "tweet_count": 63239115
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-02T15:41:37.000Z",
+        "description": "Sartaqtai = Chagatai(Zagatian)Khan = Tajik lion = Arslan of Karluk一 鞑靼利亚,成吉思汗蒙古斯坦在中亚粟 特河中,阿富汗草原,喀喇昆仑,兴都库什.今蒙古不是历史上鞑靼:完全不同人种,不同语言(真蒙古粟特语),不同地方,真蒙古R1a,R1b父系雅利安洋人",
+        "id": "1400115361647792128",
+        "location": "United States",
+        "name": "铁匠一Wilhelm Roshan Ma",
+        "pinned_tweet_id": "1460060093248987139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946361666821586944/rotWbuJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5473,
+          "following_count": 63,
+          "like_count": 39,
+          "listed_count": 22,
+          "media_count": 275,
+          "tweet_count": 308
+        },
+        "username": "REALWiLLiEMMA00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986139092187553880",
+    "created_at": "2025-11-05T18:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T19:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986139092187553880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1395658814402162689",
+          "start": 3,
+          "username": "8964tou12345678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986139092187553880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986090752829800482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964tou12345678: 所谓性压抑有学术名词的，性剥夺性焦虑\n竞争激烈，密度高社会，当事人觉得自己是失败者，情感满足和稳定关系的可能性较低，道德水平下降，没自由意志的人容易被摆布\n然后找策略应对，比如倾向降低标准；偏向短期交配；非传统伴侣形式；去做LGBT降低…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986139092187553880",
+        "created_at": "2025-11-05T18:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T19:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986139092187553880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1395658814402162689",
+              "start": 3,
+              "username": "8964tou12345678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986139092187553880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986090752829800482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964tou12345678: 所谓性压抑有学术名词的，性剥夺性焦虑\n竞争激烈，密度高社会，当事人觉得自己是失败者，情感满足和稳定关系的可能性较低，道德水平下降，没自由意志的人容易被摆布\n然后找策略应对，比如倾向降低标准；偏向短期交配；非传统伴侣形式；去做LGBT降低…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395658814402162689",
+        "conversation_id": "1986090752829800482",
+        "created_at": "2025-11-05T15:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T16:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986090752829800482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fxxkapexlegend…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/fxxkapexlegend/status/1985885630652645671",
+              "start": 144,
+              "url": "https://t.co/TwdhKl46FW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986090752829800482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 974,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985885630652645671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所谓性压抑有学术名词的，性剥夺性焦虑\n竞争激烈，密度高社会，当事人觉得自己是失败者，情感满足和稳定关系的可能性较低，道德水平下降，没自由意志的人容易被摆布\n然后找策略应对，比如倾向降低标准；偏向短期交配；非传统伴侣形式；去做LGBT降低竞争；甚至机会主义，如乱伦，家人是接触成本最低异性 https://t.co/TwdhKl46FW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 757,
+          "like_count": 4793,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1818
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10001,
+          "following_count": 7590,
+          "like_count": 263799,
+          "listed_count": 60,
+          "media_count": 2238,
+          "tweet_count": 44221
+        },
+        "username": "8964tou12345678",
+        "verified": false
+      }
+    ]
+  }
+}

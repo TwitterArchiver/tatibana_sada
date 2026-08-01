@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1992029828695134351",
+    "created_at": "2025-11-22T13:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T14:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992218915582472296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1970097517149970432",
+          "start": 0,
+          "username": "steal_shopping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992218915582472296",
+    "in_reply_to_user_id": "1970097517149970432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992029828695134351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@steal_shopping 那我看，省无联多半能加上一个胡斯的名衔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992029828695134351",
+        "created_at": "2025-11-22T13:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992218915582472296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1970097517149970432",
+              "start": 0,
+              "username": "steal_shopping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992218915582472296",
+        "in_reply_to_user_id": "1970097517149970432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992029828695134351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@steal_shopping 那我看，省无联多半能加上一个胡斯的名衔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970097517149970432",
+        "conversation_id": "1992029828695134351",
+        "created_at": "2025-11-22T00:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T01:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992029828695134351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992029828695134351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 992,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "腊左就像基督徒\n马列就是耶和华上帝\n马列的著作是圣经旧约\n毛泽东是耶稣\n毛泽东及毛泽东后被蜡油认可的人的著作就是圣经新约\n现在老教会“中国共产党”对圣经的解读出现了问题，需要蜡油们发起宗教改革，建立新教。\n注：考虑到某些蜡油还没有学到世界历史，我说下，宗教改革是欧洲文艺复兴时期的真实事件"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 901,
+          "like_count": 5933,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 2147
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T12:07:48.000Z",
+        "description": "鄧小平，男，四川廣安人，原正國級領導人。1981-1989任中央軍委主席、1983-1990國家軍委主席，也曾擔任過中共中央顧問委員會主任、全國政協主席等職務，實際成為中華人民共和國黨、政、軍第二代最高領導人「改革開放的總設計師」_我愛自由民主！❤️🇺🇳Freedom and Democracy!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "https://x.com",
+                "start": 0,
+                "url": "https://t.co/gnysYSBnJz"
+              }
+            ]
+          }
+        },
+        "id": "1970097517149970432",
+        "location": "中南海Middle Southern Sea🇨🇳",
+        "name": "四川孫笑川-稻笑貧☭ 🇨🇳🇺🇳🏴🚩",
+        "pinned_tweet_id": "1984257988186837383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992041173071147008/nV8kawmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 162,
+          "like_count": 1202,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/gnysYSBnJz",
+        "username": "steal_shopping",
+        "verified": false
+      }
+    ]
+  }
+}

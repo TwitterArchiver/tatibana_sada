@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2055203222332100635",
+    "created_at": "2026-05-15T19:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T20:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055366876423983248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009795936319655936",
+          "start": 0,
+          "username": "rzetelnik_pl"
+        },
+        {
+          "end": 23,
+          "id": "1891490382",
+          "start": 14,
+          "username": "nexta_tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055366876423983248",
+    "in_reply_to_user_id": "2009795936319655936",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055231359891722587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rzetelnik_pl @nexta_tv When will they marry"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1055,
+        "media_key": "3_2055231350118989824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWmBhsWwAApiNq.jpg",
+        "width": 1491
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2055203222332100635",
+        "created_at": "2026-05-15T19:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055366876423983248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009795936319655936",
+              "start": 0,
+              "username": "rzetelnik_pl"
+            },
+            {
+              "end": 23,
+              "id": "1891490382",
+              "start": 14,
+              "username": "nexta_tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055366876423983248",
+        "in_reply_to_user_id": "2009795936319655936",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055231359891722587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rzetelnik_pl @nexta_tv When will they marry"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055231350118989824"
+          ]
+        },
+        "author_id": "2009795936319655936",
+        "conversation_id": "2055203222332100635",
+        "created_at": "2026-05-15T10:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055231359891722587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891490382",
+              "start": 0,
+              "username": "nexta_tv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nJ5Co8ZKBe",
+              "end": 33,
+              "expanded_url": "https://x.com/rzetelnik_pl/status/2055231359891722587/photo/1",
+              "media_key": "3_2055231350118989824",
+              "start": 10,
+              "url": "https://t.co/nJ5Co8ZKBe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055231359891722587",
+        "in_reply_to_user_id": "1891490382",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13777,
+          "like_count": 91,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055203222332100635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nexta_tv https://t.co/nJ5Co8ZKBe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 1081,
+          "like_count": 7738,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2546
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T01:14:36.000Z",
+        "description": "https://t.co/VkkJHGa71k | co się dzieje? | (geo)polityka | skróty i kontekst | polityczny ranking | oceny polityków",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rzetelnik.pl",
+                "end": 23,
+                "expanded_url": "https://rzetelnik.pl",
+                "start": 0,
+                "url": "https://t.co/VkkJHGa71k"
+              }
+            ]
+          }
+        },
+        "id": "2009795936319655936",
+        "location": "Poland",
+        "name": "rzetelnik.pl",
+        "pinned_tweet_id": "2054102965007356126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048501282303078400/Nxt1J5yD_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 19,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 671
+        },
+        "username": "rzetelnik_pl",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-21T21:24:04.000Z",
+        "description": "The largest Eastern European media. To let the world know.\nOur YouTube: https://t.co/n63zDXn9Mn\nSupport us: https://t.co/AfUDiu1T1y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@NEXTA_Global",
+                "end": 95,
+                "expanded_url": "https://youtube.com/@NEXTA_Global",
+                "start": 72,
+                "url": "https://t.co/n63zDXn9Mn"
+              },
+              {
+                "display_url": "nexta.tv/support",
+                "end": 131,
+                "expanded_url": "https://nexta.tv/support",
+                "start": 108,
+                "url": "https://t.co/AfUDiu1T1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@nexta_global",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@nexta_global",
+                "start": 0,
+                "url": "https://t.co/VeiDbtgdmw"
+              }
+            ]
+          }
+        },
+        "id": "1891490382",
+        "location": "Warsaw, Poland",
+        "name": "NEXTA",
+        "pinned_tweet_id": "2054942572175331670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514923008707768321/hL4PN7Hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318222,
+          "following_count": 223,
+          "like_count": 10194,
+          "listed_count": 10983,
+          "media_count": 59872,
+          "tweet_count": 66492
+        },
+        "url": "https://t.co/VeiDbtgdmw",
+        "username": "nexta_tv",
+        "verified": true
+      }
+    ]
+  }
+}

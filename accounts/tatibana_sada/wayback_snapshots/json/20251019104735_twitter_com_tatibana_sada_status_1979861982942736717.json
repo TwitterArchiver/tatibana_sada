@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979600856292131288",
+    "created_at": "2025-10-19T10:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T11:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979861982942736717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1313307135766392833",
+          "start": 0,
+          "username": "NailoongBlair"
+        },
+        {
+          "end": 27,
+          "id": "1870313420807163904",
+          "start": 15,
+          "username": "IzayoiMarin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979861982942736717",
+    "in_reply_to_user_id": "1313307135766392833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979861303176139122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NailoongBlair @IzayoiMarin 宝宝\n我和你的私信是不是被列入垃圾邮件了 你看看🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_1979861290207109120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nhWotXYAATD2L.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979600856292131288",
+        "created_at": "2025-10-19T10:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T11:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979861982942736717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1313307135766392833",
+              "start": 0,
+              "username": "NailoongBlair"
+            },
+            {
+              "end": 27,
+              "id": "1870313420807163904",
+              "start": 15,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979861982942736717",
+        "in_reply_to_user_id": "1313307135766392833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979861303176139122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NailoongBlair @IzayoiMarin 宝宝\n我和你的私信是不是被列入垃圾邮件了 你看看🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979861290207109120"
+          ]
+        },
+        "author_id": "1313307135766392833",
+        "conversation_id": "1979600856292131288",
+        "created_at": "2025-10-19T10:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T11:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979861303176139122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ELL2RFAtQJ",
+              "end": 43,
+              "expanded_url": "https://x.com/NailoongBlair/status/1979861303176139122/photo/1",
+              "media_key": "3_1979861290207109120",
+              "start": 20,
+              "url": "https://t.co/ELL2RFAtQJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979861303176139122",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979600856292131288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin 我是草帽小子 https://t.co/ELL2RFAtQJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 563,
+          "like_count": 3080,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1503
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T02:36:47.000Z",
+        "description": "Democratic Socialist/Marxist🌹👊，Unionist ⚙️，Lutheran Christian✝️，Anti-LINO，Vive la Mai 68！definitely KOP（#YNWA） #我是麻酱\n，阿尔都塞-后结构-拉康精神分析，不擅长好好说话，暴脾气请见谅。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "YNWA"
+              },
+              {
+                "end": 116,
+                "start": 111,
+                "tag": "我是麻酱"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.whotwi.com/ShinoharaBlair",
+                "end": 23,
+                "expanded_url": "https://en.whotwi.com/ShinoharaBlair",
+                "start": 0,
+                "url": "https://t.co/Q9UcPnwpkx"
+              }
+            ]
+          }
+        },
+        "id": "1313307135766392833",
+        "location": "推特大街114514号",
+        "name": "AnonTokyo 奶龙布莱尔✝️👊🌹",
+        "pinned_tweet_id": "1978844718051020999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943261006546767873/HRZ-GVab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 2554,
+          "like_count": 184365,
+          "listed_count": 22,
+          "media_count": 2149,
+          "tweet_count": 42573
+        },
+        "url": "https://t.co/Q9UcPnwpkx",
+        "username": "NailoongBlair",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "09/高二（上学白天不在）/物化生/生理性别女/坐标山东/尸体/国籍：🇨🇳/🇯🇵好き/中国語OK/日本語下手/ちんこ165cm/不爱鉴证/互fo/フォローバ99.9%/音ゲー/二次元/アニメ/JPOP/纯爱butクズ女/不爱看私信/碎碎念/各种吐槽/mktdaisuki/被喜欢的人block中很容易碎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "ダーリン、頑張って",
+        "name": "まりん（死体）",
+        "pinned_tweet_id": "1979491123120001213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979839146601426944/LBpfTPIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 1499,
+          "like_count": 23700,
+          "listed_count": 3,
+          "media_count": 907,
+          "tweet_count": 10913
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

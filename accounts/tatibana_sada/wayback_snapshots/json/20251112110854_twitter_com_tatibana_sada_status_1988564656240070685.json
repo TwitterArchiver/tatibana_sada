@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988564653841276928"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988486930540229035",
+    "created_at": "2025-11-12T11:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T12:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988564656240070685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974930349328330752",
+          "start": 0,
+          "username": "Vivian4qbuC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0NIzDqh0oF",
+          "end": 74,
+          "expanded_url": "https://x.com/tatibana_sada/status/1988564656240070685/photo/1",
+          "media_key": "3_1988564653841276928",
+          "start": 51,
+          "url": "https://t.co/0NIzDqh0oF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988564656240070685",
+    "in_reply_to_user_id": "1974930349328330752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988563361424974146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vivian4qbuC 你和你师傅关系真的蛮好的所以我开玩笑给师傅买钻戒（\n开玩笑而已啦不要太在乎 https://t.co/0NIzDqh0oF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1988564653841276928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jNBE0bYAArdJ0.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988564653841276928"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988486930540229035",
+        "created_at": "2025-11-12T11:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988564656240070685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974930349328330752",
+              "start": 0,
+              "username": "Vivian4qbuC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0NIzDqh0oF",
+              "end": 74,
+              "expanded_url": "https://x.com/tatibana_sada/status/1988564656240070685/photo/1",
+              "media_key": "3_1988564653841276928",
+              "start": 51,
+              "url": "https://t.co/0NIzDqh0oF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988564656240070685",
+        "in_reply_to_user_id": "1974930349328330752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988563361424974146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vivian4qbuC 你和你师傅关系真的蛮好的所以我开玩笑给师傅买钻戒（\n开玩笑而已啦不要太在乎 https://t.co/0NIzDqh0oF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974930349328330752",
+        "conversation_id": "1988486930540229035",
+        "created_at": "2025-11-12T11:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988563361424974146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988563361424974146",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988560245946478763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 为什么有这样的问题？我还没有未婚妻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 806,
+          "like_count": 5181,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1906
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T20:11:21.000Z",
+        "description": "我是Vivia\n可能算coser，偶尔搞型月，赛马娘，明日方舟，邦多利\n流落街头键盘手 已被两支乐队收养() 我玩前卫，迷幻\n本人苦练十五年，精通乐理编曲，除了键盘其它乐器是会，但只一点点\n我是意大利🇮🇹迁华🇨🇳留学，喜欢足球\n互关聊天都行 骚扰也行 我挺无聊\n中文很好用，可以把我的话都塞到简介里面",
+        "id": "1974930349328330752",
+        "location": "Central & Western District",
+        "name": "𝖂.𝖁𝖎𝖛𝖎𝖆.𝕯🇮🇹🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977070896033796096/8ABmqHJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 273,
+          "like_count": 1296,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 803
+        },
+        "username": "Vivian4qbuC",
+        "verified": false
+      }
+    ]
+  }
+}

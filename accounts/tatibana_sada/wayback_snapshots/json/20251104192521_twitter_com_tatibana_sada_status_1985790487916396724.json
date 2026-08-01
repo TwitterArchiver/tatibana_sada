@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985682226848411648"
+      ],
+      "media_source_tweet_id": [
+        "1985682235375435852"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985790487916396724",
+    "created_at": "2025-11-04T19:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T20:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985790487916396724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1589643415674757121",
+          "start": 3,
+          "username": "smak_art"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qLFkZvkdw0",
+          "end": 39,
+          "expanded_url": "https://x.com/smak_art/status/1985682235375435852/photo/1",
+          "media_key": "3_1985682226848411648",
+          "start": 16,
+          "url": "https://t.co/qLFkZvkdw0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985790487916396724",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985682235375435852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smak_art: 💘 https://t.co/qLFkZvkdw0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1961,
+        "media_key": "3_1985682226848411648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46PdvgbMAAoqj0.jpg",
+        "width": 2749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985682226848411648"
+          ],
+          "media_source_tweet_id": [
+            "1985682235375435852"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985790487916396724",
+        "created_at": "2025-11-04T19:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T20:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985790487916396724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1589643415674757121",
+              "start": 3,
+              "username": "smak_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLFkZvkdw0",
+              "end": 39,
+              "expanded_url": "https://x.com/smak_art/status/1985682235375435852/photo/1",
+              "media_key": "3_1985682226848411648",
+              "start": 16,
+              "url": "https://t.co/qLFkZvkdw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985790487916396724",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985682235375435852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smak_art: 💘 https://t.co/qLFkZvkdw0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985682226848411648"
+          ]
+        },
+        "author_id": "1589643415674757121",
+        "conversation_id": "1985682235375435852",
+        "created_at": "2025-11-04T12:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T13:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985682235375435852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLFkZvkdw0",
+              "end": 25,
+              "expanded_url": "https://x.com/smak_art/status/1985682235375435852/photo/1",
+              "media_key": "3_1985682226848411648",
+              "start": 2,
+              "url": "https://t.co/qLFkZvkdw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985682235375435852",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 4519,
+          "like_count": 467,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "💘 https://t.co/qLFkZvkdw0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1982595504287699299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 728,
+          "like_count": 4614,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1737
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T15:38:30.000Z",
+        "description": "メイド概念のバイト中🍷🚬💊🐈‍⬛ ⋮📷@akina_646",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "akina_646"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/meidomika",
+                "end": 23,
+                "expanded_url": "https://lit.link/meidomika",
+                "start": 0,
+                "url": "https://t.co/JwTrMmAI49"
+              }
+            ]
+          }
+        },
+        "id": "1589643415674757121",
+        "location": "投稿画像の転載、pfp使用、AI学習禁止",
+        "name": "メイド概念@ミカ🐾",
+        "pinned_tweet_id": "1974086229953294394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831301773174394881/7I7KlHGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43433,
+          "following_count": 3,
+          "like_count": 942,
+          "listed_count": 155,
+          "media_count": 217,
+          "tweet_count": 1055
+        },
+        "url": "https://t.co/JwTrMmAI49",
+        "username": "smak_art",
+        "verified": true
+      }
+    ]
+  }
+}

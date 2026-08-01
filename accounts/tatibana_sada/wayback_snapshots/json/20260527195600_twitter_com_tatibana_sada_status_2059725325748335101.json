@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059228787573678373",
+    "created_at": "2026-05-27T19:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059725325748335101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1893176084189061120",
+          "start": 0,
+          "username": "EDGAR_UA224"
+        },
+        {
+          "end": 27,
+          "id": "1997013141268705280",
+          "start": 13,
+          "username": "minowagin2952"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059725325748335101",
+    "in_reply_to_user_id": "1893176084189061120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059236747876143425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EDGAR_UA224 @minowagin2952 牢川是真的里外不是人了，这一边骂他为了以色列打伊朗轻开边衅，zog太坏了，那一边又说他怎么又taco了，对得起被镇压的伊朗人民和以色列吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059228787573678373",
+        "created_at": "2026-05-27T19:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059725325748335101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1893176084189061120",
+              "start": 0,
+              "username": "EDGAR_UA224"
+            },
+            {
+              "end": 27,
+              "id": "1997013141268705280",
+              "start": 13,
+              "username": "minowagin2952"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059725325748335101",
+        "in_reply_to_user_id": "1893176084189061120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059236747876143425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EDGAR_UA224 @minowagin2952 牢川是真的里外不是人了，这一边骂他为了以色列打伊朗轻开边衅，zog太坏了，那一边又说他怎么又taco了，对得起被镇压的伊朗人民和以色列吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893176084189061120",
+        "conversation_id": "2059228787573678373",
+        "created_at": "2026-05-26T11:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059236747876143425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997013141268705280",
+              "start": 0,
+              "username": "minowagin2952"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059236747876143425",
+        "in_reply_to_user_id": "1997013141268705280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 545,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059228787573678373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minowagin2952 川畜最近的TACO协议就是在出卖以色列，他这是自己打自己脸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 1236,
+          "like_count": 8852,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2974
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T05:49:19.000Z",
+        "description": "Freedom Is Not Free./新自由主义/兴趣方向：时政-军事-科技/INFP-T/互fo/ID:110101195306153019/🚫People's Re-fucking of Zina",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freedom.gov",
+                "end": 23,
+                "expanded_url": "http://freedom.gov",
+                "start": 0,
+                "url": "https://t.co/cjdEPyDqdr"
+              }
+            ]
+          }
+        },
+        "id": "1893176084189061120",
+        "location": "KYIV",
+        "name": "𝑬𝑫𝑮𝑨𝑹|🇺🇦🇮🇱🇹🇼",
+        "pinned_tweet_id": "2054939432994931080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047534270990999552/hT-2tfHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 2061,
+          "like_count": 69444,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 833
+        },
+        "url": "https://t.co/cjdEPyDqdr",
+        "username": "EDGAR_UA224",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T18:40:29.000Z",
+        "description": "就这样，专制胜利了。在人民的时代里我们都是叛徒\n—————\n欢迎投稿，欢迎收看 #川粉TV #NAFO\n本人是：黄左，左逼，👊🇺🇸🔥， 殖人/殖畜/大殖子/反贼/支黑\n灵感来自 @NmsleseResearch 在此表示感谢\n————————",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "川粉TV"
+              },
+              {
+                "end": 51,
+                "start": 46,
+                "tag": "NAFO"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "NmsleseResearch"
+              }
+            ]
+          }
+        },
+        "id": "1997013141268705280",
+        "name": "🇺🇦8964fella川粉迷惑行为bot",
+        "pinned_tweet_id": "2044532625771987273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049690115681714176/Q5NYCz_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 1748,
+          "like_count": 19126,
+          "listed_count": 6,
+          "media_count": 440,
+          "tweet_count": 8466
+        },
+        "username": "minowagin2952",
+        "verified": false
+      }
+    ]
+  }
+}

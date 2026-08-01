@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075426801791401984"
+      ],
+      "media_source_tweet_id": [
+        "2075427541779877894"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2075713992887325046",
+    "created_at": "2026-07-10T22:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T23:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075713992887325046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XHWmoVrrjv",
+          "end": 49,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2075427541779877894/photo/1",
+          "media_key": "3_2075426801791401984",
+          "start": 26,
+          "url": "https://t.co/XHWmoVrrjv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075713992887325046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075427541779877894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 你说什么？ https://t.co/XHWmoVrrjv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1622,
+        "media_key": "3_2075426801791401984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1lrh4aAAA3hdt.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075426801791401984"
+          ],
+          "media_source_tweet_id": [
+            "2075427541779877894"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2075713992887325046",
+        "created_at": "2026-07-10T22:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T23:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075713992887325046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHWmoVrrjv",
+              "end": 49,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2075427541779877894/photo/1",
+              "media_key": "3_2075426801791401984",
+              "start": 26,
+              "url": "https://t.co/XHWmoVrrjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075713992887325046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075427541779877894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 你说什么？ https://t.co/XHWmoVrrjv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075426801791401984"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2075427541779877894",
+        "created_at": "2026-07-10T03:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075427541779877894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHWmoVrrjv",
+              "end": 29,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2075427541779877894/photo/1",
+              "media_key": "3_2075426801791401984",
+              "start": 6,
+              "url": "https://t.co/XHWmoVrrjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075427541779877894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 373447,
+          "like_count": 1583,
+          "quote_count": 9,
+          "reply_count": 357,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "你说什么？ https://t.co/XHWmoVrrjv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 1421,
+          "like_count": 9918,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3373
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9639,
+          "following_count": 882,
+          "like_count": 30367,
+          "listed_count": 13,
+          "media_count": 1989,
+          "tweet_count": 10076
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

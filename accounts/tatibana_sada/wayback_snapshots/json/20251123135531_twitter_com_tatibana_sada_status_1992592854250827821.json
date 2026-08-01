@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1992592854250827821",
+    "created_at": "2025-11-23T13:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T14:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992592854250827821"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1992592854250827821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真跟贵推煮虾爱好者聊不来。你们搞诸夏是因为你们是自恨的中国人，我搞诸夏是因为想吃掉广西海南还有闽西赣南客家县，南沙寸土不让的大粤爱国主义者，我们不一样，谢谢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992592854250827821",
+        "created_at": "2025-11-23T13:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992592854250827821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992592854250827821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真跟贵推煮虾爱好者聊不来。你们搞诸夏是因为你们是自恨的中国人，我搞诸夏是因为想吃掉广西海南还有闽西赣南客家县，南沙寸土不让的大粤爱国主义者，我们不一样，谢谢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 910,
+          "like_count": 6015,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2182
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

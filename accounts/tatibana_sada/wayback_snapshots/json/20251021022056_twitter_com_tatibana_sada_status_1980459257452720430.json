@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980236786464137529",
+    "created_at": "2025-10-21T02:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980459257452720430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1313307135766392833",
+          "start": 0,
+          "username": "NailoongBlair"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980459257452720430",
+    "in_reply_to_user_id": "1313307135766392833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980236786464137529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NailoongBlair 宝宝我爱你，我每天都会想你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1980236786464137529].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1980236786464137529",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1980236786464137529"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980236786464137529",
+        "created_at": "2025-10-21T02:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980459257452720430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1313307135766392833",
+              "start": 0,
+              "username": "NailoongBlair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980459257452720430",
+        "in_reply_to_user_id": "1313307135766392833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980236786464137529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NailoongBlair 宝宝我爱你，我每天都会想你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 574,
+          "like_count": 3168,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1525
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T02:36:47.000Z",
+        "description": "Democratic Socialist/Marxist🌹👊，Unionist ⚙️，Lutheran Christian✝️，Anti-LINO，Vive la Mai 68！definitely KOP（#YNWA） #我是麻酱\n，阿尔都塞-后结构-拉康精神分析，不擅长好好说话，暴脾气请见谅。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "YNWA"
+              },
+              {
+                "end": 116,
+                "start": 111,
+                "tag": "我是麻酱"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.whotwi.com/ShinoharaBlair",
+                "end": 23,
+                "expanded_url": "https://en.whotwi.com/ShinoharaBlair",
+                "start": 0,
+                "url": "https://t.co/Q9UcPnwpkx"
+              }
+            ]
+          }
+        },
+        "id": "1313307135766392833",
+        "location": "推特大街114514号",
+        "name": "AnonTokyo 奶龙布莱尔✝️👊🌹",
+        "pinned_tweet_id": "1978844718051020999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943261006546767873/HRZ-GVab_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 2555,
+          "like_count": 184467,
+          "listed_count": 22,
+          "media_count": 2152,
+          "tweet_count": 42644
+        },
+        "url": "https://t.co/Q9UcPnwpkx",
+        "username": "NailoongBlair",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1994784824037679300",
+    "created_at": "2025-11-30T03:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T04:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994979477362020522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1622346900824522752",
+          "start": 0,
+          "username": "Miatta_Leon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994979477362020522",
+    "in_reply_to_user_id": "1622346900824522752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994784824037679300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miatta_Leon 「佯狂难免假成真」的真正左派。我非常确信他是自以为在串的假串。\n贵左圈才是真串。尤其你们连自己其实在串都搞不清楚，愈发串了。换句话说是搞不清楚自己想要的东西是如何与自己拒斥的东西勾连。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1994784824037679300",
+        "created_at": "2025-11-30T03:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994979477362020522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1622346900824522752",
+              "start": 0,
+              "username": "Miatta_Leon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994979477362020522",
+        "in_reply_to_user_id": "1622346900824522752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994784824037679300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miatta_Leon 「佯狂难免假成真」的真正左派。我非常确信他是自以为在串的假串。\n贵左圈才是真串。尤其你们连自己其实在串都搞不清楚，愈发串了。换句话说是搞不清楚自己想要的东西是如何与自己拒斥的东西勾连。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622346900824522752",
+        "conversation_id": "1994784824037679300",
+        "created_at": "2025-11-29T15:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994784824037679300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/revo_revi/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/revo_revi/status/1994783066947297431",
+              "start": 11,
+              "url": "https://t.co/61c5WRRwqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994784824037679300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 624,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994783066947297431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這位到底是什麼立場？ https://t.co/61c5WRRwqO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 963,
+          "like_count": 6548,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2331
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T21:30:30.000Z",
+        "description": "02年MtF-X/筹备hrt中，祝自己come out顺利/留学香港/INFP-T兼谱系障碍兼轻度焦虑性抑郁，负能量警告/不键政，不发黄",
+        "id": "1622346900824522752",
+        "location": "香港",
+        "name": "MiattaLeon🌹🏳️‍⚧️🌳🌺🌊",
+        "pinned_tweet_id": "1666442104552275969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625844243708403713/DHBDCWDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2447,
+          "following_count": 4822,
+          "like_count": 250569,
+          "listed_count": 15,
+          "media_count": 629,
+          "tweet_count": 40148
+        },
+        "username": "Miatta_Leon",
+        "verified": false
+      }
+    ]
+  }
+}

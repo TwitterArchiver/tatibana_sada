@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1993936295262068855",
+    "created_at": "2025-11-27T22:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T23:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994167462028566754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753055795535904768",
+          "start": 0,
+          "username": "ben_wei25656"
+        },
+        {
+          "end": 23,
+          "id": "2902474008",
+          "start": 14,
+          "username": "man81520"
+        },
+        {
+          "end": 40,
+          "id": "1519869093586751488",
+          "start": 24,
+          "username": "bugcat_capoo_tw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994167462028566754",
+    "in_reply_to_user_id": "1753055795535904768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994037528320733454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ben_wei25656 @man81520 @bugcat_capoo_tw 四等人跳脚了？感谢习总榨你们的钱交好友邦，你的地位永远比不上洋大爷😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1993936295262068855",
+        "created_at": "2025-11-27T22:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T23:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994167462028566754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753055795535904768",
+              "start": 0,
+              "username": "ben_wei25656"
+            },
+            {
+              "end": 23,
+              "id": "2902474008",
+              "start": 14,
+              "username": "man81520"
+            },
+            {
+              "end": 40,
+              "id": "1519869093586751488",
+              "start": 24,
+              "username": "bugcat_capoo_tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994167462028566754",
+        "in_reply_to_user_id": "1753055795535904768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994037528320733454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ben_wei25656 @man81520 @bugcat_capoo_tw 四等人跳脚了？感谢习总榨你们的钱交好友邦，你的地位永远比不上洋大爷😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753055795535904768",
+        "conversation_id": "1993936295262068855",
+        "created_at": "2025-11-27T13:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994037528320733454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2902474008",
+              "start": 0,
+              "username": "man81520"
+            },
+            {
+              "end": 26,
+              "id": "1519869093586751488",
+              "start": 10,
+              "username": "bugcat_capoo_tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994037528320733454",
+        "in_reply_to_user_id": "2902474008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1045,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994003180565471583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@man81520 @bugcat_capoo_tw 对台优惠没少吃，反动言论没少说\n这就是台湾，数典忘祖的地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 952,
+          "like_count": 6329,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2277
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T14:01:27.000Z",
+        "description": "你开心就好\n你说的都对\n你赢了\n大赢特赢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1me4Wz…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1me4WzhE8x/",
+                "start": 0,
+                "url": "https://t.co/pHNhCSLUM8"
+              }
+            ]
+          }
+        },
+        "id": "1753055795535904768",
+        "location": "朝鲜民主主义人民共和国🇰🇵",
+        "name": "David Farrell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993876275098996737/nWCejOnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 227,
+          "like_count": 22183,
+          "listed_count": 0,
+          "media_count": 563,
+          "tweet_count": 3207
+        },
+        "url": "https://t.co/pHNhCSLUM8",
+        "username": "ben_wei25656",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-17T08:16:02.000Z",
+        "description": "",
+        "id": "2902474008",
+        "name": "南無大慈大悲救世基督太上玄天伊邪星空主宰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994003664353271808/Ia07_rbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 424,
+          "like_count": 2873,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 115
+        },
+        "username": "man81520",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T02:40:18.000Z",
+        "description": "Strange creature that looks like a cat and a bug. From Taiwan.  猫と虫のように見える奇妙な生き物。台湾から",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/capoo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/capoo",
+                "start": 0,
+                "url": "https://t.co/XuFbWWyx7k"
+              }
+            ]
+          }
+        },
+        "id": "1519869093586751488",
+        "location": "Taichung City, Taiwan",
+        "name": "Bugcat Capoo",
+        "pinned_tweet_id": "1969605259820745073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519869339981152257/KbHAyq-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124411,
+          "following_count": 71,
+          "like_count": 99,
+          "listed_count": 265,
+          "media_count": 326,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/XuFbWWyx7k",
+        "username": "bugcat_capoo_tw",
+        "verified": true
+      }
+    ]
+  }
+}

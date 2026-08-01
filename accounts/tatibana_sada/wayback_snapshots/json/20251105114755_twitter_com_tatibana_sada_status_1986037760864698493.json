@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1984279785426882912",
+    "created_at": "2025-11-05T11:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T12:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986037760864698493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "44186175",
+          "start": 0,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986037760864698493",
+    "in_reply_to_user_id": "44186175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984279785426882912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojingcanxue 伟大的残障要建三百年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1984279785426882912",
+        "created_at": "2025-11-05T11:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T12:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986037760864698493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986037760864698493",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984279785426882912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 伟大的残障要建三百年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "44186175",
+        "conversation_id": "1984279785426882912",
+        "created_at": "2025-10-31T15:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984279785426882912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984279785426882912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 904758,
+          "like_count": 2225,
+          "quote_count": 16,
+          "reply_count": 274,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "因深圳机场登机“连滚带爬”事件，上网抱怨被喷。\n郑智化决定关闭微博，退出歌坛。\n\n爱了一辈子的国，最后成了50万。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 738,
+          "like_count": 4702,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1778
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235258,
+          "following_count": 1843,
+          "like_count": 191,
+          "listed_count": 1231,
+          "media_count": 26935,
+          "tweet_count": 34340
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

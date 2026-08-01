@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2082739917709516954",
+    "created_at": "2026-07-30T08:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082739917709516954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sui_aini/statu…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/Sui_aini/status/2082716524050083896",
+          "start": 142,
+          "url": "https://t.co/rEH07yKF42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082739917709516954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082716524050083896",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "台湾的福佬祖上在大陆也分漳泉，互相对立经常械斗，但是今天跟一个福佬说你漳州来的跟另一个说你泉州来的，人家只会「欸，真的吗？」\n这就是没有意义的样子，是怎样不是又怎样呢。\n传播学策略上我建议你最好根本不要提这件事情，次好则嘲笑他们呆脑瓜太落后。生气的抱怨会更加强化「这很重要」的观念。 https://t.co/rEH07yKF42"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2082739917709516954",
+        "created_at": "2026-07-30T08:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082739917709516954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sui_aini/statu…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/Sui_aini/status/2082716524050083896",
+              "start": 142,
+              "url": "https://t.co/rEH07yKF42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082739917709516954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082716524050083896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "台湾的福佬祖上在大陆也分漳泉，互相对立经常械斗，但是今天跟一个福佬说你漳州来的跟另一个说你泉州来的，人家只会「欸，真的吗？」\n这就是没有意义的样子，是怎样不是又怎样呢。\n传播学策略上我建议你最好根本不要提这件事情，次好则嘲笑他们呆脑瓜太落后。生气的抱怨会更加强化「这很重要」的观念。 https://t.co/rEH07yKF42"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2082170262934712499",
+        "created_at": "2026-07-30T06:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082716524050083896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082716524050083896",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082170262934712499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 谁知道这死人，被指派性别有意义吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 1455,
+          "like_count": 10286,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3433
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）｜超可愛い@Sattakom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "Sattakom"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2453,
+          "following_count": 840,
+          "like_count": 6271,
+          "listed_count": 4,
+          "media_count": 806,
+          "tweet_count": 6548
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      }
+    ]
+  }
+}

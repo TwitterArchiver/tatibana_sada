@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980873739261866482",
+    "created_at": "2025-10-22T12:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T13:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980979515540320642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1490941391962521602",
+          "start": 0,
+          "username": "atmc23"
+        },
+        {
+          "end": 17,
+          "id": "1790370144755351552",
+          "start": 8,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980979515540320642",
+    "in_reply_to_user_id": "1490941391962521602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980978610388492567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@atmc23 @FurinaDF “你真的？”是一种简洁反问，常用于口语，传递复杂情绪。其核心意味需结合语境判断：\n\n质疑确认：对对方言论或行为的真实性表示怀疑（如“你真要辞职？”）\n\n惊讶反问：收到意外信息时的本能反应（如“你中了彩票？真的？”）\n\n委婉否定：以疑问形式表达不认同（配以特定语气）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980873739261866482",
+        "created_at": "2025-10-22T12:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980979515540320642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1490941391962521602",
+              "start": 0,
+              "username": "atmc23"
+            },
+            {
+              "end": 17,
+              "id": "1790370144755351552",
+              "start": 8,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980979515540320642",
+        "in_reply_to_user_id": "1490941391962521602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980978610388492567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@atmc23 @FurinaDF “你真的？”是一种简洁反问，常用于口语，传递复杂情绪。其核心意味需结合语境判断：\n\n质疑确认：对对方言论或行为的真实性表示怀疑（如“你真要辞职？”）\n\n惊讶反问：收到意外信息时的本能反应（如“你中了彩票？真的？”）\n\n委婉否定：以疑问形式表达不认同（配以特定语气）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490941391962521602",
+        "conversation_id": "1980873739261866482",
+        "created_at": "2025-10-22T12:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980978610388492567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 24,
+              "id": "1790370144755351552",
+              "start": 15,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980978610388492567",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980962481242841092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @FurinaDF 你真的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 600,
+          "like_count": 3300,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1566
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T06:51:52.000Z",
+        "description": "无",
+        "id": "1490941391962521602",
+        "name": "atmc2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529346953921847296/XS9Leypi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 150,
+          "like_count": 393,
+          "listed_count": 9,
+          "media_count": 518,
+          "tweet_count": 8778
+        },
+        "username": "atmc23",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "希望咱发的东西，都在你的意料之外喵@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58521,
+          "following_count": 2368,
+          "like_count": 29528,
+          "listed_count": 168,
+          "media_count": 7348,
+          "tweet_count": 11881
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

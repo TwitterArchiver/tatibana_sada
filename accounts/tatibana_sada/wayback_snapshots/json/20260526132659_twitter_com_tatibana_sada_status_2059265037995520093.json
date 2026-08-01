@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059265037995520093",
+    "created_at": "2026-05-26T13:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059265037995520093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1707741005490049024",
+          "start": 3,
+          "username": "tatibana_sada"
+        },
+        {
+          "end": 29,
+          "id": "858927366269157377",
+          "start": 19,
+          "username": "gzg040234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059265037995520093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059264501518885357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatibana_sada: @gzg040234 我刚才见人的时候才意识到我处于一个很应激的状态。\n我应该在推特说过，至少也有一两次，我的一次失败的自杀导致至今无法跑步乃至久站。那几天的记忆几乎完全在我脑子里抹除了，但是当时确实经常看到那种谁自杀的消息。\n现在来说我确…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059265037995520093",
+        "created_at": "2026-05-26T13:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059265037995520093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1707741005490049024",
+              "start": 3,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 29,
+              "id": "858927366269157377",
+              "start": 19,
+              "username": "gzg040234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059265037995520093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059264501518885357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatibana_sada: @gzg040234 我刚才见人的时候才意识到我处于一个很应激的状态。\n我应该在推特说过，至少也有一两次，我的一次失败的自杀导致至今无法跑步乃至久站。那几天的记忆几乎完全在我脑子里抹除了，但是当时确实经常看到那种谁自杀的消息。\n现在来说我确…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058910468329394675",
+        "created_at": "2026-05-26T13:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059264501518885357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "858927366269157377",
+              "start": 0,
+              "username": "gzg040234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059264501518885357",
+        "in_reply_to_user_id": "858927366269157377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059175409493893425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gzg040234 我刚才见人的时候才意识到我处于一个很应激的状态。\n我应该在推特说过，至少也有一两次，我的一次失败的自杀导致至今无法跑步乃至久站。那几天的记忆几乎完全在我脑子里抹除了，但是当时确实经常看到那种谁自杀的消息。\n现在来说我确实有一些刻薄了。也许不是害怕又有别人死了——是很害怕自己的死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 1219,
+          "like_count": 8738,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2922
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-01T06:13:37.000Z",
+        "description": "P主出道锐意准备中/ᐠ｡ꞈ｡ᐟ\\",
+        "id": "858927366269157377",
+        "location": "中华人民共和国",
+        "name": "千夜一夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051337269106364421/JrE9WV58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 4007,
+          "like_count": 14635,
+          "listed_count": 15,
+          "media_count": 130,
+          "tweet_count": 722
+        },
+        "username": "gzg040234",
+        "verified": false
+      }
+    ]
+  }
+}

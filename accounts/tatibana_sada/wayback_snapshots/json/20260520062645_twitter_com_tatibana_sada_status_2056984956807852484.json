@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2056724776782352633",
+    "created_at": "2026-05-20T06:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056984956807852484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597784350178758656",
+          "start": 0,
+          "username": "Sicariomason"
+        },
+        {
+          "end": 22,
+          "id": "1575767611165798403",
+          "start": 14,
+          "username": "xzzzjpl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056984956807852484",
+    "in_reply_to_user_id": "1597784350178758656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056749654373798312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sicariomason @xzzzjpl 特朗普太强了。无惧台湾霸权封锁打压访问中国，让世界看到美国，美国是世界的美国！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2056724776782352633",
+        "created_at": "2026-05-20T06:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056984956807852484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597784350178758656",
+              "start": 0,
+              "username": "Sicariomason"
+            },
+            {
+              "end": 22,
+              "id": "1575767611165798403",
+              "start": 14,
+              "username": "xzzzjpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056984956807852484",
+        "in_reply_to_user_id": "1597784350178758656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056749654373798312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sicariomason @xzzzjpl 特朗普太强了。无惧台湾霸权封锁打压访问中国，让世界看到美国，美国是世界的美国！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597784350178758656",
+        "conversation_id": "2056724776782352633",
+        "created_at": "2026-05-19T14:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056749654373798312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1575767611165798403",
+              "start": 0,
+              "username": "xzzzjpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056749654373798312",
+        "in_reply_to_user_id": "1575767611165798403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10947,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056724776782352633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzzzjpl 必然是赖清德。因为只有他不怕习大帝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 1147,
+          "like_count": 8121,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2661
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T02:48:00.000Z",
+        "description": "",
+        "id": "1597784350178758656",
+        "name": "凯旋门之三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597784884579180544/krIHP3u3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 20,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 660
+        },
+        "username": "Sicariomason",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:41:01.000Z",
+        "description": "原“中日政经评论”，一个中间偏右的时政评论家。\n油管加会员链接：https://t.co/B9cQ4FiL8f\n国内加会员链接：https://t.co/j3uNCxlDKR\n请社长喝杯咖啡：https://t.co/WlmcbdgMO4\n投稿信箱：zrzjpl@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@zrzjpl/join",
+                "end": 55,
+                "expanded_url": "https://youtube.com/@zrzjpl/join",
+                "start": 32,
+                "url": "https://t.co/B9cQ4FiL8f"
+              },
+              {
+                "display_url": "patreon.com/zrzjpl",
+                "end": 87,
+                "expanded_url": "http://patreon.com/zrzjpl",
+                "start": 64,
+                "url": "https://t.co/j3uNCxlDKR"
+              },
+              {
+                "display_url": "ko-fi.com/zjlsz",
+                "end": 119,
+                "expanded_url": "http://ko-fi.com/zjlsz",
+                "start": 96,
+                "url": "https://t.co/WlmcbdgMO4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@zrzjpl",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@zrzjpl",
+                "start": 0,
+                "url": "https://t.co/lL4MO2ewyi"
+              }
+            ]
+          }
+        },
+        "id": "1575767611165798403",
+        "name": "政经鲁社长",
+        "pinned_tweet_id": "2017494422070694140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032816239811375105/xQkOZmeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676748,
+          "following_count": 299,
+          "like_count": 3277,
+          "listed_count": 2110,
+          "media_count": 3998,
+          "tweet_count": 15776
+        },
+        "url": "https://t.co/lL4MO2ewyi",
+        "username": "xzzzjpl",
+        "verified": true
+      }
+    ]
+  }
+}

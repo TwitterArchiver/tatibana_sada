@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1977944692554707108",
+    "created_at": "2025-10-14T11:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T12:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978063720300388626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1313307135766392833",
+          "start": 0,
+          "username": "NailoongBlair"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978063720300388626",
+    "in_reply_to_user_id": "1313307135766392833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977944692554707108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NailoongBlair 不是所有自由派blabla似乎也不是「真正的苏格兰人」。\n这样子说，有的想带路，有的不太乐意，都是自由派嘛。\n不过「确实为闹钟好」这句话就切割我咯。如果非要为闹钟好，那我当然不可能是自由派啦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1977944692554707108",
+        "created_at": "2025-10-14T11:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T12:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978063720300388626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1313307135766392833",
+              "start": 0,
+              "username": "NailoongBlair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978063720300388626",
+        "in_reply_to_user_id": "1313307135766392833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977944692554707108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NailoongBlair 不是所有自由派blabla似乎也不是「真正的苏格兰人」。\n这样子说，有的想带路，有的不太乐意，都是自由派嘛。\n不过「确实为闹钟好」这句话就切割我咯。如果非要为闹钟好，那我当然不可能是自由派啦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313307135766392833",
+        "conversation_id": "1977944692554707108",
+        "created_at": "2025-10-14T03:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T04:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977944692554707108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hahahabzd123/s…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/hahahabzd123/status/1977937598384624079",
+              "start": 144,
+              "url": "https://t.co/QBwe5gorov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977944692554707108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 369,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977937598384624079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“为什么排除的伦理有问题————我们也可以很简单的发现，这和所谓“真左”，“假左”没什么区别”\n\n我不否认存在自由派存在的确为闹钟好，但我懒得弄什么切割术。\n\n话语是述行的，虚伪的宣布是个人颁布，却实际上为群体勾勒了一种可供与背书与白嫖的纯洁无害性，这仍然是统计学和岁月史书发挥的场所。 https://t.co/QBwe5gorov"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 550,
+          "like_count": 2895,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1460
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T02:36:47.000Z",
+        "description": "Democratic Socialist/Marxist🌹👊，Unionist ⚙️，Lutheran Christian✝️，Anti-LINO，Vive la Mai 68！definitely KOP（#YNWA） #我是麻酱\n，阿尔都塞-后结构-拉康精神分析，不擅长好好说话，暴脾气请见谅。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "YNWA"
+              },
+              {
+                "end": 116,
+                "start": 111,
+                "tag": "我是麻酱"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.whotwi.com/ShinoharaBlair",
+                "end": 23,
+                "expanded_url": "https://en.whotwi.com/ShinoharaBlair",
+                "start": 0,
+                "url": "https://t.co/Q9UcPnwpkx"
+              }
+            ]
+          }
+        },
+        "id": "1313307135766392833",
+        "location": "推特大街114514号",
+        "name": "AnonTokyo 奶龙布莱尔✝️👊🌹",
+        "pinned_tweet_id": "1977676504797769740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943261006546767873/HRZ-GVab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2682,
+          "following_count": 2549,
+          "like_count": 183686,
+          "listed_count": 23,
+          "media_count": 2134,
+          "tweet_count": 42253
+        },
+        "url": "https://t.co/Q9UcPnwpkx",
+        "username": "NailoongBlair",
+        "verified": false
+      }
+    ]
+  }
+}

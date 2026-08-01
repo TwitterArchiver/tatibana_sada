@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991305154801565771",
+    "created_at": "2025-11-20T00:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T01:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991305154801565771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 3,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991305154801565771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991291743120290201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaDF: 我太喜欢去山东拜年了，各种各样的男人一起跪下去的那一刻，肥大的屁股勾勒出完美的弧线，若隐若现的屁股沟下是各种颜色的内裤。山东男人爱吃大葱，放的屁也跟打的嗝一样有股胃液发酵过犯浑的葱香味。过年时候吃的喝的都多，偶尔跪下去肚袋子里憋不住被大腿挤着蹦出几个…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991305154801565771].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991305154801565771",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991305154801565771"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1457,
+        "media_key": "3_1991291714196369414",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6J9Q4TacAYZDgX.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991291714196369414"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1991291743120290201",
+        "created_at": "2025-11-19T23:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T00:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991291743120290201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nis6xvU9fh",
+              "end": 152,
+              "expanded_url": "https://x.com/FurinaDF/status/1991291743120290201/photo/1",
+              "media_key": "3_1991291714196369414",
+              "start": 129,
+              "url": "https://t.co/nis6xvU9fh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991291743120290201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 660,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我太喜欢去山东拜年了，各种各样的男人一起跪下去的那一刻，肥大的屁股勾勒出完美的弧线，若隐若现的屁股沟下是各种颜色的内裤。山东男人爱吃大葱，放的屁也跟打的嗝一样有股胃液发酵过犯浑的葱香味。过年时候吃的喝的都多，偶尔跪下去肚袋子里憋不住被大腿挤着蹦出几个闷屁。 https://t.co/nis6xvU9fh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 867,
+          "like_count": 5659,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2029
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "你好呀@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61975,
+          "following_count": 2367,
+          "like_count": 29864,
+          "listed_count": 173,
+          "media_count": 7669,
+          "tweet_count": 12271
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

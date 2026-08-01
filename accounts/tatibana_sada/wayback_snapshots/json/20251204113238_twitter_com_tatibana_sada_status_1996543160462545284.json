@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1996543160462545284",
+    "created_at": "2025-12-04T11:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T12:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996543160462545284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1789184782825615360",
+          "start": 3,
+          "username": "nonsweetsuger"
+        },
+        {
+          "end": 32,
+          "id": "1873945013346066439",
+          "start": 19,
+          "username": "yumesame0571"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996543160462545284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996487343361208690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nonsweetsuger: @yumesame0571 作为认识这个人的我和你说一句，这个人B人的理由包括长得太好看引起她焦虑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1996543160462545284",
+        "created_at": "2025-12-04T11:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T12:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996543160462545284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1789184782825615360",
+              "start": 3,
+              "username": "nonsweetsuger"
+            },
+            {
+              "end": 32,
+              "id": "1873945013346066439",
+              "start": 19,
+              "username": "yumesame0571"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996543160462545284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996487343361208690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nonsweetsuger: @yumesame0571 作为认识这个人的我和你说一句，这个人B人的理由包括长得太好看引起她焦虑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789184782825615360",
+        "conversation_id": "1996459486761127942",
+        "created_at": "2025-12-04T07:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T08:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996487343361208690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1873945013346066439",
+              "start": 0,
+              "username": "yumesame0571"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996487343361208690",
+        "in_reply_to_user_id": "1873945013346066439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996459486761127942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumesame0571 作为认识这个人的我和你说一句，这个人B人的理由包括长得太好看引起她焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 990,
+          "like_count": 6716,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2357
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T06:44:59.000Z",
+        "description": "悲伤的设计狗/非二元有男友",
+        "id": "1789184782825615360",
+        "name": "不甜的某糖 nonsweetsuger 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1820497848582201477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790064536709730304/6xzaU-q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 664,
+          "like_count": 21643,
+          "listed_count": 2,
+          "media_count": 448,
+          "tweet_count": 9563
+        },
+        "username": "nonsweetsuger",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T04:11:31.000Z",
+        "description": "主流跨性别勿扰🥴",
+        "id": "1873945013346066439",
+        "name": "koeno",
+        "pinned_tweet_id": "1945882701187416234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992028522534297600/-WRqs0jM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 173,
+          "like_count": 1896,
+          "listed_count": 3,
+          "media_count": 357,
+          "tweet_count": 4691
+        },
+        "username": "yumesame0571",
+        "verified": false
+      }
+    ]
+  }
+}

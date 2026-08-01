@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2081349643821355016",
+    "created_at": "2026-07-26T12:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081349643821355016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1496755678735740930",
+          "start": 3,
+          "username": "JuiceLord117"
+        },
+        {
+          "end": 30,
+          "id": "1929015109579345920",
+          "start": 18,
+          "username": "Qwarz_Atarz"
+        },
+        {
+          "end": 39,
+          "id": "2041343393972862976",
+          "start": 31,
+          "username": "TiluMK2"
+        },
+        {
+          "end": 54,
+          "id": "158650448",
+          "start": 40,
+          "username": "KremlinRussia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081349643821355016",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081195018929479738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JuiceLord117: @Qwarz_Atarz @TiluMK2 @KremlinRussia Draft this nigga please"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2081349643821355016",
+        "created_at": "2026-07-26T12:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081349643821355016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1496755678735740930",
+              "start": 3,
+              "username": "JuiceLord117"
+            },
+            {
+              "end": 30,
+              "id": "1929015109579345920",
+              "start": 18,
+              "username": "Qwarz_Atarz"
+            },
+            {
+              "end": 39,
+              "id": "2041343393972862976",
+              "start": 31,
+              "username": "TiluMK2"
+            },
+            {
+              "end": 54,
+              "id": "158650448",
+              "start": 40,
+              "username": "KremlinRussia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081349643821355016",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081195018929479738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JuiceLord117: @Qwarz_Atarz @TiluMK2 @KremlinRussia Draft this nigga please"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496755678735740930",
+        "conversation_id": "2081027826795319388",
+        "created_at": "2026-07-26T01:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081195018929479738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929015109579345920",
+              "start": 0,
+              "username": "Qwarz_Atarz"
+            },
+            {
+              "end": 21,
+              "id": "2041343393972862976",
+              "start": 13,
+              "username": "TiluMK2"
+            },
+            {
+              "end": 36,
+              "id": "158650448",
+              "start": 22,
+              "username": "KremlinRussia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081195018929479738",
+        "in_reply_to_user_id": "1929015109579345920",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3196,
+          "like_count": 283,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081027826795319388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qwarz_Atarz @TiluMK2 @KremlinRussia Draft this nigga please"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 1446,
+          "like_count": 10164,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3408
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-24T07:55:44.000Z",
+        "description": "Firearms Enthusiast",
+        "id": "1496755678735740930",
+        "name": "JuiceLord",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834085444960817152/bQm5izww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 271,
+          "like_count": 65354,
+          "listed_count": 0,
+          "media_count": 434,
+          "tweet_count": 2147
+        },
+        "url": "",
+        "username": "JuiceLord117",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-01T03:20:51.000Z",
+        "description": "#1 ILLEGAL TRANSGENDER ALIEN \n🏳️‍⚧️👽🏳️‍⚧️ #DarkWoke 🩷🩵🤍 \n\nsupport meeeee :33333 https://t.co/UGCg3Pz0pt\n\n☆ Your Favourite Russian Femboy ☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 42,
+                "tag": "DarkWoke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/QwarzAtarz",
+                "end": 103,
+                "expanded_url": "http://patreon.com/QwarzAtarz",
+                "start": 80,
+                "url": "https://t.co/UGCg3Pz0pt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/qwarz/commissi…",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/qwarz/commissions",
+                "start": 0,
+                "url": "https://t.co/40nOqCg8ZF"
+              }
+            ]
+          }
+        },
+        "id": "1929015109579345920",
+        "name": "Qwarzu🏳️‍⚧️👽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943984352087425024/XbEOTqmZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17975,
+          "following_count": 100,
+          "like_count": 111548,
+          "listed_count": 235,
+          "media_count": 924,
+          "tweet_count": 2147
+        },
+        "url": "https://t.co/40nOqCg8ZF",
+        "username": "Qwarz_Atarz",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T02:32:54.000Z",
+        "description": "priv: @Izzonii_is_on_E , transfeminine object #01, not something you could kill, Marxism with bæddelist characteristics, men aren’t women but boys are girls",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "Izzonii_is_on_E"
+              }
+            ]
+          }
+        },
+        "id": "2041343393972862976",
+        "location": "HRT 24/10/1🇨🇳",
+        "name": "Reine, Bæddelmoder, insurrectionist",
+        "pinned_tweet_id": "2049532697647911276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049346885056598016/Kn5ubtYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 394,
+          "like_count": 5471,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2200
+        },
+        "url": "",
+        "username": "TiluMK2",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-23T07:02:23.000Z",
+        "description": "Кремль. Официальные новости\nОфициальный Telegram-канал: https://t.co/oBPtafNRu2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/news_kremlin",
+                "end": 79,
+                "expanded_url": "https://t.me/news_kremlin",
+                "start": 56,
+                "url": "https://t.co/oBPtafNRu2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kremlin.ru",
+                "end": 23,
+                "expanded_url": "http://kremlin.ru/",
+                "start": 0,
+                "url": "https://t.co/cQrQw1amok"
+              }
+            ]
+          }
+        },
+        "id": "158650448",
+        "location": "Москва, Россия",
+        "name": "Президент России",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/501717390225203201/PTS0XF2N_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3031891,
+          "following_count": 32,
+          "like_count": 0,
+          "listed_count": 7902,
+          "media_count": 3569,
+          "tweet_count": 12364
+        },
+        "url": "https://t.co/cQrQw1amok",
+        "username": "KremlinRussia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2060259355061289187",
+    "created_at": "2026-05-29T07:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060259355061289187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026283442259017729",
+          "start": 3,
+          "username": "jusirthree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060259355061289187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060176973830455725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jusirthree: 覚えておけよ。お前らが嘲笑したり馬鹿にしたりしてるのは、日本が俺たちの民族に残した血と涙の歴史なんだぞ。\n\n日本人は、広島と長崎に原子爆弾を落としたのが誰だったかなんて忘れてしまうかもしれないけど、中国人は南京大虐殺のことを絶対に忘れない。… h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_2060176910567804928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJc3_CDbEAAvj6Q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2060259355061289187",
+        "created_at": "2026-05-29T07:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060259355061289187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026283442259017729",
+              "start": 3,
+              "username": "jusirthree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060259355061289187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060176973830455725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jusirthree: 覚えておけよ。お前らが嘲笑したり馬鹿にしたりしてるのは、日本が俺たちの民族に残した血と涙の歴史なんだぞ。\n\n日本人は、広島と長崎に原子爆弾を落としたのが誰だったかなんて忘れてしまうかもしれないけど、中国人は南京大虐殺のことを絶対に忘れない。… h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060176910567804928"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2060176973830455725",
+        "created_at": "2026-05-29T01:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060176973830455725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cchwCxFkIB",
+              "end": 144,
+              "expanded_url": "https://x.com/jusirthree/status/2060176973830455725/photo/1",
+              "media_key": "3_2060176910567804928",
+              "start": 121,
+              "url": "https://t.co/cchwCxFkIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060176973830455725",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/TANAKAKAKUEI51…",
+                "end": 195,
+                "expanded_url": "https://x.com/TANAKAKAKUEI512/status/2060166497641881880?s=20",
+                "start": 172,
+                "url": "https://t.co/DCoPitv4KQ"
+              }
+            ]
+          },
+          "text": "覚えておけよ。お前らが嘲笑したり馬鹿にしたりしてるのは、日本が俺たちの民族に残した血と涙の歴史なんだぞ。\n\n日本人は、広島と長崎に原子爆弾を落としたのが誰だったかなんて忘れてしまうかもしれないけど、中国人は南京大虐殺のことを絶対に忘れない。\n\nお前たちがどれだけ歴史を歪曲して、デマを流して、軽く見ようとしても、俺たちは絶対にそれを忘れない。\nhttps://t.co/DCoPitv4KQ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1239,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "覚えておけよ。お前らが嘲笑したり馬鹿にしたりしてるのは、日本が俺たちの民族に残した血と涙の歴史なんだぞ。\n\n日本人は、広島と長崎に原子爆弾を落としたのが誰だったかなんて忘れてしまうかもしれないけど、中国人は南京大虐殺のことを絶対に忘れない。 https://t.co/cchwCxFkIB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 1248,
+          "like_count": 8934,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3036
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)",
+        "id": "2026283442259017729",
+        "name": "jusir",
+        "pinned_tweet_id": "2049539673614418049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 1148,
+          "like_count": 4269,
+          "listed_count": 8,
+          "media_count": 596,
+          "tweet_count": 2369
+        },
+        "username": "jusirthree",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2056771052202807493",
+    "created_at": "2026-05-19T16:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056771052202807493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1654297647518466048",
+          "start": 3,
+          "username": "AngeloMcna6787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056771052202807493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056712023854260428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngeloMcna6787: 民小话术东出日本（笑）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2056771052202807493",
+        "created_at": "2026-05-19T16:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056771052202807493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1654297647518466048",
+              "start": 3,
+              "username": "AngeloMcna6787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056771052202807493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056712023854260428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngeloMcna6787: 民小话术东出日本（笑）。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654297647518466048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2056712023854260428",
+        "created_at": "2026-05-19T12:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056712023854260428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cait_Sith_co/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Cait_Sith_co/status/2056263499345776873",
+              "start": 13,
+              "url": "https://t.co/saJJ9sEVvN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056712023854260428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056263499345776873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "民小话术东出日本（笑）。 https://t.co/saJJ9sEVvN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 1143,
+          "like_count": 8101,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2653
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T01:31:17.000Z",
+        "description": "康米",
+        "id": "1654297647518466048",
+        "location": "？",
+        "name": "Jamie Hume二代目",
+        "pinned_tweet_id": "2054321124281074074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660967912289751041/T6cHfnhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2363,
+          "following_count": 165,
+          "like_count": 11969,
+          "listed_count": 23,
+          "media_count": 1507,
+          "tweet_count": 23203
+        },
+        "username": "AngeloMcna6787",
+        "verified": false
+      }
+    ]
+  }
+}

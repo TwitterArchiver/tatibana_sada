@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987953124620071182",
+    "created_at": "2025-11-10T18:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T19:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987953124620071182"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LittleQiKitty/…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/LittleQiKitty/status/1987736765432778994",
+          "start": 45,
+          "url": "https://t.co/dmrMFS99Ny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987953124620071182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987736765432778994",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "反女权也有基本法的呀。\n前文好像是男性版，然后写了个对照的。\n我老实说这个写的蛮好玩的。 https://t.co/dmrMFS99Ny"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1987736758344425474",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5XcDNwbIAIOuDN.jpg",
+        "width": 527
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987953124620071182",
+        "created_at": "2025-11-10T18:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T19:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987953124620071182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LittleQiKitty/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/LittleQiKitty/status/1987736765432778994",
+              "start": 45,
+              "url": "https://t.co/dmrMFS99Ny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987953124620071182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987736765432778994",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反女权也有基本法的呀。\n前文好像是男性版，然后写了个对照的。\n我老实说这个写的蛮好玩的。 https://t.co/dmrMFS99Ny"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987736758344425474"
+          ]
+        },
+        "author_id": "1031743711737040897",
+        "conversation_id": "1987736765432778994",
+        "created_at": "2025-11-10T04:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T05:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987736765432778994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FIQAqNwFEJ",
+              "end": 23,
+              "expanded_url": "https://x.com/LittleQiKitty/status/1987736765432778994/photo/1",
+              "media_key": "3_1987736758344425474",
+              "start": 0,
+              "url": "https://t.co/FIQAqNwFEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987736765432778994",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 22620,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FIQAqNwFEJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 795,
+          "like_count": 5000,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1846
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-21T03:24:04.000Z",
+        "description": "互fo 无糖 随时翻车 可以找我聊天 ｜可叫我：祈 / Qee / Kiara ｜还有啥来着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2lZzGualXH40N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2lZzGualXH40NDQ9",
+                "start": 0,
+                "url": "https://t.co/6DDlaD4dyi"
+              }
+            ]
+          }
+        },
+        "id": "1031743711737040897",
+        "location": "💕Just by your side💕",
+        "name": "Qee Cat",
+        "pinned_tweet_id": "1980672369330122951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980420086692208640/EVNlcOqJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 482,
+          "like_count": 467,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 1873
+        },
+        "url": "https://t.co/6DDlaD4dyi",
+        "username": "LittleQiKitty",
+        "verified": false
+      }
+    ]
+  }
+}

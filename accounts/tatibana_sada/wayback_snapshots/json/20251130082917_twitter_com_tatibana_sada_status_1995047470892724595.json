@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1995047470892724595",
+    "created_at": "2025-11-30T08:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T09:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995047470892724595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/canton_ss/stat…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/canton_ss/status/1994989204569559303",
+          "start": 27,
+          "url": "https://t.co/MFLC0iFT3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995047470892724595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994989204569559303",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hakka怎么你了。\n盼我党压死贵广府马来千秋万代。 https://t.co/MFLC0iFT3O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1995047470892724595",
+        "created_at": "2025-11-30T08:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T09:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995047470892724595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/canton_ss/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/canton_ss/status/1994989204569559303",
+              "start": 27,
+              "url": "https://t.co/MFLC0iFT3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995047470892724595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994989204569559303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hakka怎么你了。\n盼我党压死贵广府马来千秋万代。 https://t.co/MFLC0iFT3O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957812160421400576",
+        "conversation_id": "1994719115945414768",
+        "created_at": "2025-11-30T04:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T05:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994989204569559303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "868887840230330368",
+              "start": 0,
+              "username": "momoGZ0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994989204569559303",
+        "in_reply_to_user_id": "868887840230330368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1035,
+          "like_count": 2,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994719115945414768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoGZ0412 good ending for 廣東： 全省只剩廣府人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 969,
+          "like_count": 6582,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2337
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T14:29:36.000Z",
+        "description": "廣府人 | 右翼 |Realist|  華統民國派| 廣東沙文主義、三民主義、蔣主義、一民主義、反共主義、泛亞主義、文化保守主義、法團主義、反馬克思主義| 堅守禮義廉恥和，四維八德|",
+        "id": "1957812160421400576",
+        "name": "宋岑臨▐┛ ❂⩩ ☭⃠",
+        "pinned_tweet_id": "1994747174195007581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993317510939394048/qtPujUoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 352,
+          "like_count": 9382,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 1528
+        },
+        "username": "canton_ss",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Investors and patents",
+          "id": "857878402157629440",
+          "name": "Investors and patents"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      }
+    ],
+    "conversation_id": "1990885443924107606",
+    "created_at": "2025-11-18T20:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T21:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990885443924107606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "768756228570906624",
+          "start": 3,
+          "username": "LiuZhongjing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990885443924107606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990717244406436023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LiuZhongjing: 淪陷區不方便參加應變會議的，可以認領一個軍政分府的特許狀。財政和人事獨立，不需要到應變會議登記。\n\n例如先調查本縣的南下幹部，查文史資料之類，根據發現的人物追縱其關係人，例如幹部子弟經商，公安子弟辦黑社會之類，各派系恩怨的情況會順便出來。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Investors and patents",
+              "id": "857878402157629440",
+              "name": "Investors and patents"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "1990885443924107606",
+        "created_at": "2025-11-18T20:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T21:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990885443924107606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "768756228570906624",
+              "start": 3,
+              "username": "LiuZhongjing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990885443924107606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990717244406436023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LiuZhongjing: 淪陷區不方便參加應變會議的，可以認領一個軍政分府的特許狀。財政和人事獨立，不需要到應變會議登記。\n\n例如先調查本縣的南下幹部，查文史資料之類，根據發現的人物追縱其關係人，例如幹部子弟經商，公安子弟辦黑社會之類，各派系恩怨的情況會順便出來。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "768756228570906624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Investors and patents",
+              "id": "857878402157629440",
+              "name": "Investors and patents"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "1990715620891983960",
+        "created_at": "2025-11-18T09:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990717244406436023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990717244406436023",
+        "in_reply_to_user_id": "768756228570906624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "淪陷區不方便參加應變會議的，可以認領一個軍政分府的特許狀。財政和人事獨立，不需要到應變會議登記。\n\n例如先調查本縣的南下幹部，查文史資料之類，根據發現的人物追縱其關係人，例如幹部子弟經商，公安子弟辦黑社會之類，各派系恩怨的情況會順便出來。\n前半部分跟寫論文一樣，後半部分就要隨機應變。沒有這套功夫，任何人在內地縣地做生意找工作都是死路一條。\n能力是隨著經驗增加的，直到遭遇天花板，但你遭遇天花板以前，也無法確定自己的天花板在哪裡。白崇禧所謂，自古未有學養子而後嫁者。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2148,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990715620891983960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "淪陷區不方便參加應變會議的，可以認領一個軍政分府的特許狀。財政和人事獨立，不需要到應變會議登記。\n\n例如先調查本縣的南下幹部，查文史資料之類，根據發現的人物追縱其關係人，例如幹部子弟經商，公安子弟辦黑社會之類，各派系恩怨的情況會順便出來。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 864,
+          "like_count": 5605,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2011
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-25T10:25:42.000Z",
+        "description": "大蜀民國流亡政府 https://t.co/pk36QtbpGF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "freebasuria.org",
+                "end": 32,
+                "expanded_url": "https://freebasuria.org/",
+                "start": 9,
+                "url": "https://t.co/pk36QtbpGF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "medium.com/@LiuZhongjing",
+                "end": 23,
+                "expanded_url": "http://medium.com/@LiuZhongjing",
+                "start": 0,
+                "url": "https://t.co/umc5N421fn"
+              }
+            ]
+          }
+        },
+        "id": "768756228570906624",
+        "location": "Anglosphere",
+        "name": "Zhongjing Liu | 劉仲敬",
+        "pinned_tweet_id": "1060767246518284289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/769078428150689792/tR-VKqUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85742,
+          "following_count": 244,
+          "like_count": 76558,
+          "listed_count": 593,
+          "media_count": 1012,
+          "tweet_count": 106998
+        },
+        "url": "https://t.co/umc5N421fn",
+        "username": "LiuZhongjing",
+        "verified": true
+      }
+    ]
+  }
+}

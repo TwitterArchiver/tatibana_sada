@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1993662578770551083",
+    "created_at": "2025-11-27T05:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T06:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993907774229762217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681902931564703744",
+          "start": 0,
+          "username": "aim20371231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993907774229762217",
+    "in_reply_to_user_id": "1681902931564703744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993662578770551083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aim20371231 依照正统霍布斯主义，主权之作为「暴力总收缴」——可谓太阁刀狩——即隐含主权来自人权意味。霍公尚留「抵抗权」后门，通入1776革命。\n而主权与人权孰大，此观之下亦非问题。无非不过说，此乃动用抵抗权以抵挡暴政之时。「被剥夺人权的人是如此获得了主权。」"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1993662573246566400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rpjChaUAAiBTI.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1993662578770551083",
+        "created_at": "2025-11-27T05:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T06:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993907774229762217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681902931564703744",
+              "start": 0,
+              "username": "aim20371231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993907774229762217",
+        "in_reply_to_user_id": "1681902931564703744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993662578770551083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aim20371231 依照正统霍布斯主义，主权之作为「暴力总收缴」——可谓太阁刀狩——即隐含主权来自人权意味。霍公尚留「抵抗权」后门，通入1776革命。\n而主权与人权孰大，此观之下亦非问题。无非不过说，此乃动用抵抗权以抵挡暴政之时。「被剥夺人权的人是如此获得了主权。」"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993662573246566400"
+          ]
+        },
+        "author_id": "1681902931564703744",
+        "conversation_id": "1993662578770551083",
+        "created_at": "2025-11-26T12:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993662578770551083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/liNm9CUcVc",
+              "end": 38,
+              "expanded_url": "https://x.com/aim20371231/status/1993662578770551083/photo/1",
+              "media_key": "3_1993662573246566400",
+              "start": 15,
+              "url": "https://t.co/liNm9CUcVc"
+            },
+            {
+              "display_url": "x.com/joeyjoe1931523…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/joeyjoe19315230/status/1993622839703089211",
+              "start": 39,
+              "url": "https://t.co/vEV3iAUzt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993662578770551083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1015,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993622839703089211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么叫做人权是主权赋予的…… https://t.co/liNm9CUcVc https://t.co/vEV3iAUzt8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 949,
+          "like_count": 6284,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2271
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T05:44:55.000Z",
+        "description": "天之道其犹张弓与？高者抑之，下者举之，有余者损之，不足者补之。天之道损有余而补不足，人之道则不然，损不足以奉有余。",
+        "id": "1681902931564703744",
+        "name": "川和工团安卡🚩🇦🇶🔥",
+        "pinned_tweet_id": "1833033560737112138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992538557588832256/6UUyCwoP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 1973,
+          "like_count": 152060,
+          "listed_count": 22,
+          "media_count": 2476,
+          "tweet_count": 48005
+        },
+        "username": "aim20371231",
+        "verified": false
+      }
+    ]
+  }
+}

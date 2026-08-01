@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985648260124758016"
+      ],
+      "media_source_tweet_id": [
+        "1985648265510141952"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985993910968283594",
+    "created_at": "2025-11-05T08:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T09:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985993910968283594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1093672211200655360",
+          "start": 3,
+          "username": "asno_ee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IYjLz9GPzK",
+          "end": 43,
+          "expanded_url": "https://x.com/asno_ee/status/1985648265510141952/photo/1",
+          "media_key": "3_1985648260124758016",
+          "start": 20,
+          "url": "https://t.co/IYjLz9GPzK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985993910968283594",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 527
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985648265510141952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asno_ee: 眩しい男の子 https://t.co/IYjLz9GPzK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1563,
+        "media_key": "3_1985648260124758016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G45wknmb0AAgTKm.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985648260124758016"
+          ],
+          "media_source_tweet_id": [
+            "1985648265510141952"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985993910968283594",
+        "created_at": "2025-11-05T08:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T09:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985993910968283594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1093672211200655360",
+              "start": 3,
+              "username": "asno_ee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYjLz9GPzK",
+              "end": 43,
+              "expanded_url": "https://x.com/asno_ee/status/1985648265510141952/photo/1",
+              "media_key": "3_1985648260124758016",
+              "start": 20,
+              "url": "https://t.co/IYjLz9GPzK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985993910968283594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 527
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985648265510141952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asno_ee: 眩しい男の子 https://t.co/IYjLz9GPzK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985648260124758016"
+          ]
+        },
+        "author_id": "1093672211200655360",
+        "conversation_id": "1985648265510141952",
+        "created_at": "2025-11-04T10:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985648265510141952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYjLz9GPzK",
+              "end": 30,
+              "expanded_url": "https://x.com/asno_ee/status/1985648265510141952/photo/1",
+              "media_key": "3_1985648260124758016",
+              "start": 7,
+              "url": "https://t.co/IYjLz9GPzK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985648265510141952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 624,
+          "impression_count": 150429,
+          "like_count": 6049,
+          "quote_count": 7,
+          "reply_count": 21,
+          "retweet_count": 527
+        },
+        "reply_settings": "everyone",
+        "text": "眩しい男の子 https://t.co/IYjLz9GPzK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 赐同驴权出身\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 734,
+          "like_count": 4671,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1758
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-08T00:45:49.000Z",
+        "description": "絵￤アイコンとヘッダーはやまささん(@yamasa_oekaki)￤サブ▶@asno_ken╎FANBOX▶https://t.co/42IL5MpPcX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "yamasa_oekaki"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "asno_ken"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "asno-ee.fanbox.cc",
+                "end": 77,
+                "expanded_url": "https://asno-ee.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/42IL5MpPcX"
+              }
+            ]
+          }
+        },
+        "id": "1093672211200655360",
+        "name": "有澄のえ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831277355307823104/JfGLvyj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209281,
+          "following_count": 924,
+          "like_count": 127329,
+          "listed_count": 785,
+          "media_count": 1988,
+          "tweet_count": 71397
+        },
+        "username": "asno_ee",
+        "verified": true
+      }
+    ]
+  }
+}

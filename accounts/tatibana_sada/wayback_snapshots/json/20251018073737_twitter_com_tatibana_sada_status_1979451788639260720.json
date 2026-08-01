@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1978965883633487942",
+    "created_at": "2025-10-18T07:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T08:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979451788639260720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1490941391962521602",
+          "start": 0,
+          "username": "atmc23"
+        },
+        {
+          "end": 20,
+          "id": "1553005983277801472",
+          "start": 8,
+          "username": "tungusia_pr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979451788639260720",
+    "in_reply_to_user_id": "1490941391962521602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979429839255015525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@atmc23 @tungusia_pr 我也是自愿的，谢谢，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 174,
+        "media_key": "3_1979428995474026496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3hYLxVWcAASM_B.jpg",
+        "width": 289
+      },
+      {
+        "height": 361,
+        "media_key": "3_1979429782426132480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3hY5k9WoAAe2-J.png",
+        "width": 275
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1978965883633487942",
+        "created_at": "2025-10-18T07:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T08:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979451788639260720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1490941391962521602",
+              "start": 0,
+              "username": "atmc23"
+            },
+            {
+              "end": 20,
+              "id": "1553005983277801472",
+              "start": 8,
+              "username": "tungusia_pr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979451788639260720",
+        "in_reply_to_user_id": "1490941391962521602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979429839255015525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@atmc23 @tungusia_pr 我也是自愿的，谢谢，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979428995474026496",
+            "3_1979429782426132480"
+          ]
+        },
+        "author_id": "1490941391962521602",
+        "conversation_id": "1978965883633487942",
+        "created_at": "2025-10-18T06:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T07:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979429839255015525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 27,
+              "id": "1553005983277801472",
+              "start": 15,
+              "username": "tungusia_pr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uzmw0QecFX",
+              "end": 80,
+              "expanded_url": "https://x.com/atmc23/status/1979429839255015525/photo/1",
+              "media_key": "3_1979428995474026496",
+              "start": 57,
+              "url": "https://t.co/Uzmw0QecFX"
+            },
+            {
+              "display_url": "pic.x.com/Uzmw0QecFX",
+              "end": 80,
+              "expanded_url": "https://x.com/atmc23/status/1979429839255015525/photo/1",
+              "media_key": "3_1979429782426132480",
+              "start": 57,
+              "url": "https://t.co/Uzmw0QecFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979429839255015525",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979361835896967569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @tungusia_pr 你妈都是自愿的，你领导给你的指示必须这样说，不然扣工钱。 https://t.co/Uzmw0QecFX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 559,
+          "like_count": 3011,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1482
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T06:51:52.000Z",
+        "description": "无",
+        "id": "1490941391962521602",
+        "name": "atmc2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529346953921847296/XS9Leypi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 149,
+          "like_count": 393,
+          "listed_count": 9,
+          "media_count": 514,
+          "tweet_count": 8761
+        },
+        "username": "atmc23",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T13:14:27.000Z",
+        "description": "Homeland of all Tungusic brothers and sisters! We are Turan warriors living in Northeastern Asia! Туңгуская Народная Республика/ᡨᡠ᠋ᡢᡤᡠᠰ ᡳᡵᡤᡝᠨ ᡤᡠᡵᡠᠨ💙🤍🖤 #NAFO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 156,
+                "start": 151,
+                "tag": "NAFO"
+              }
+            ]
+          }
+        },
+        "id": "1553005983277801472",
+        "location": "Lamunabka(Krasnoyarsk)Tungusia",
+        "name": "Tungusia People's Republic",
+        "pinned_tweet_id": "1784582131748135346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784580938124644352/Xy8qke6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 826,
+          "like_count": 4986,
+          "listed_count": 6,
+          "media_count": 994,
+          "tweet_count": 5617
+        },
+        "username": "tungusia_pr",
+        "verified": false
+      }
+    ]
+  }
+}

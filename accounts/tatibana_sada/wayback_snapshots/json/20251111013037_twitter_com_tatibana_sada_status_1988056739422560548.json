@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987869339719278769",
+    "created_at": "2025-11-11T01:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T02:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988056739422560548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1599225469257203712",
+          "start": 0,
+          "username": "Wangwenhaha0518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988056739422560548",
+    "in_reply_to_user_id": "1599225469257203712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987869339719278769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wangwenhaha0518 我不是想讨论观点怎么样。我只是觉得能不能转人工。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 399,
+        "media_key": "3_1987869332433735682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZUoCubEAISsxZ.jpg",
+        "width": 599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987869339719278769",
+        "created_at": "2025-11-11T01:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T02:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988056739422560548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1599225469257203712",
+              "start": 0,
+              "username": "Wangwenhaha0518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988056739422560548",
+        "in_reply_to_user_id": "1599225469257203712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987869339719278769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wangwenhaha0518 我不是想讨论观点怎么样。我只是觉得能不能转人工。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987869332433735682"
+          ]
+        },
+        "author_id": "1599225469257203712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "1987869339719278769",
+        "created_at": "2025-11-10T13:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987869339719278769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKKbYAyMMG",
+              "end": 172,
+              "expanded_url": "https://x.com/Wangwenhaha0518/status/1987869339719278769/photo/1",
+              "media_key": "3_1987869332433735682",
+              "start": 149,
+              "url": "https://t.co/dKKbYAyMMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987869339719278769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "🤣中共战狼这回又演砸了！\n\n🇨🇳🇯🇵 中共国外交官火力全开——东京冷酷回击\n\n“砍掉那颗肮脏的脖子。”\n\n这就是中共国驻大阪总领事在X上对日本新首相高市早苗（Sanae Takaichi）写的话——随后删得比北京说“丢脸”还快。\n\n日本的回应？冰冷刺骨：“极不恰当。”\n这才是外交愤怒的优雅伪装。\n\n华盛顿也跳出来，称其为“威胁”——因为当中共国使节引用处决幻想时，你可不能只是划过去。\n\n潜台词：高市一直在释放信号，如果北京对台湾动手，日本将挺身而出。这是她的红线。\n\n薛剑的帖子？直接从“战狼外交”剧本里掏出的数字军刀。\n\n但真正的紧张远不止一条推文。\n这是高市首相任期内的首次重大考验——一位以强硬立场和对中共“拍胸脯”零容忍闻名的女性。\n\n如果北京以为能吓倒她，那它一夜之间就把她捧成了民族主义偶像。\n\n下一步？别指望日本立刻驱逐他……暂时不会。他们会让北京在自己的公关灾难里慢慢炖。\n\n但如果“战狼外交”继续发疯，东京会反咬一口——悄无声息、精准致命，而且有美国撑腰。\n\n面具滑落。游戏开始。\n\n来源：路透社\n\n🔥评：中共的持续嚣张，对内还能引起一部分无脑粉红的民族主义骄傲，对外就会招致越来越多的反感！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8748,
+          "like_count": 81,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "🤣中共战狼这回又演砸了！\n\n🇨🇳🇯🇵 中共国外交官火力全开——东京冷酷回击\n\n“砍掉那颗肮脏的脖子。”\n\n这就是中共国驻大阪总领事在X上对日本新首相高市早苗（Sanae Takaichi）写的话——随后删得比北京说“丢脸”还快。\n\n日本的回应？冰冷刺骨：“极不恰当。”\n这才是外交愤怒的优雅伪装。 https://t.co/dKKbYAyMMG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 798,
+          "like_count": 5077,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1888
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T02:14:31.000Z",
+        "description": "消灭中共是正义的需要",
+        "id": "1599225469257203712",
+        "name": "量子·王文哈哈（新中国联邦）",
+        "pinned_tweet_id": "1898708299807359207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599226863125114885/zc8-KF0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4463,
+          "following_count": 3918,
+          "like_count": 7795,
+          "listed_count": 21,
+          "media_count": 3293,
+          "tweet_count": 6348
+        },
+        "username": "Wangwenhaha0518",
+        "verified": true
+      }
+    ]
+  }
+}

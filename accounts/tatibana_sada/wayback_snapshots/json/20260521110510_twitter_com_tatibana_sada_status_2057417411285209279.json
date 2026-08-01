@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057082663295426894",
+    "created_at": "2026-05-21T11:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057417411285209279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1275342867850883072",
+          "start": 0,
+          "username": "KazuKazu525252"
+        },
+        {
+          "end": 32,
+          "id": "1402277755",
+          "start": 16,
+          "username": "Sofia50020Sofia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057417411285209279",
+    "in_reply_to_user_id": "1275342867850883072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057358776769163602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KazuKazu525252 @Sofia50020Sofia 日本人魅力时刻之，因为性压抑导致互联网发情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057082663295426894",
+        "created_at": "2026-05-21T11:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057417411285209279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1275342867850883072",
+              "start": 0,
+              "username": "KazuKazu525252"
+            },
+            {
+              "end": 32,
+              "id": "1402277755",
+              "start": 16,
+              "username": "Sofia50020Sofia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057417411285209279",
+        "in_reply_to_user_id": "1275342867850883072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057358776769163602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KazuKazu525252 @Sofia50020Sofia 日本人魅力时刻之，因为性压抑导致互联网发情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1275342867850883072",
+        "conversation_id": "2057082663295426894",
+        "created_at": "2026-05-21T07:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057358776769163602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1402277755",
+              "start": 0,
+              "username": "Sofia50020Sofia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057358776769163602",
+        "in_reply_to_user_id": "1402277755",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057082663295426894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sofia50020Sofia I'm here"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 1162,
+          "like_count": 8257,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2709
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-23T08:20:50.000Z",
+        "description": "何でも垢/ 東京住み/かずって呼んでね",
+        "id": "1275342867850883072",
+        "name": "かず505",
+        "pinned_tweet_id": "1522777374642688000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953343365875113984/YGIjmqQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 968,
+          "like_count": 99956,
+          "listed_count": 33,
+          "media_count": 300,
+          "tweet_count": 33856
+        },
+        "username": "KazuKazu525252",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-04T12:58:55.000Z",
+        "description": "God, country 🇺🇸, keep an open mind, enjoy classic cars, sincere people, hate liars #patriots  🇺🇸 #classiccars",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 83,
+                "tag": "patriots"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "tag": "classiccars"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "finchrestorations.com.au",
+                "end": 23,
+                "expanded_url": "https://finchrestorations.com.au/",
+                "start": 0,
+                "url": "https://t.co/ufYtQjJPD4"
+              }
+            ]
+          }
+        },
+        "id": "1402277755",
+        "location": "Western US",
+        "name": "Sofia",
+        "pinned_tweet_id": "1907852392571469905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902551681939955712/sCjR9oWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24809,
+          "following_count": 338,
+          "like_count": 238456,
+          "listed_count": 44,
+          "media_count": 2099,
+          "tweet_count": 3800
+        },
+        "url": "https://t.co/ufYtQjJPD4",
+        "username": "Sofia50020Sofia",
+        "verified": true
+      }
+    ]
+  }
+}

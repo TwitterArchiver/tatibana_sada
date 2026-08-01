@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980459589129953328",
+    "created_at": "2025-10-22T08:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T09:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980916414312833220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842194704508796928",
+          "start": 0,
+          "username": "zongke1898"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980916414312833220",
+    "in_reply_to_user_id": "1842194704508796928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980459589129953328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zongke1898 但是，我们清醒一下头脑，以现在民小的标准，历史上根本没有一个独裁者，唯一能称的上独裁者的只有「超人红色之子」里的苏联超人。\n我也不会说员神是独裁者，更好是说，他是专制的僭主。也就是说，他的权力来自永久性的战争法权以及群众运动，而非各阶级各阶层各法人团体通过代表会议实现的授权。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 363,
+        "media_key": "3_1980459585707159552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3wBgBIXsAAlokh.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980459589129953328",
+        "created_at": "2025-10-22T08:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980916414312833220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842194704508796928",
+              "start": 0,
+              "username": "zongke1898"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980916414312833220",
+        "in_reply_to_user_id": "1842194704508796928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980459589129953328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zongke1898 但是，我们清醒一下头脑，以现在民小的标准，历史上根本没有一个独裁者，唯一能称的上独裁者的只有「超人红色之子」里的苏联超人。\n我也不会说员神是独裁者，更好是说，他是专制的僭主。也就是说，他的权力来自永久性的战争法权以及群众运动，而非各阶级各阶层各法人团体通过代表会议实现的授权。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980459585707159552"
+          ]
+        },
+        "author_id": "1842194704508796928",
+        "conversation_id": "1980459589129953328",
+        "created_at": "2025-10-21T02:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980459589129953328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aPAT02BU8v",
+              "end": 59,
+              "expanded_url": "https://x.com/zongke1898/status/1980459589129953328/photo/1",
+              "media_key": "3_1980459585707159552",
+              "start": 36,
+              "url": "https://t.co/aPAT02BU8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980459589129953328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 11920,
+          "like_count": 169,
+          "quote_count": 8,
+          "reply_count": 42,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "能说出毛泽东独裁的，对于近代中国共产党的历史及政治架构都属于文盲级别。 https://t.co/aPAT02BU8v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 592,
+          "like_count": 3275,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1550
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T13:27:07.000Z",
+        "description": "天下大乱，形势大好！     \n                             \n武攻文卫，天翻地覆！@luchishui1898\n        一切权力归劳动者！推翻中帝！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "luchishui1898"
+              }
+            ]
+          }
+        },
+        "id": "1842194704508796928",
+        "name": "康生.(Константин.)",
+        "pinned_tweet_id": "1844014253705211930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970197416638062594/dOdintF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2742,
+          "following_count": 152,
+          "like_count": 16283,
+          "listed_count": 21,
+          "media_count": 479,
+          "tweet_count": 4387
+        },
+        "username": "zongke1898",
+        "verified": false
+      }
+    ]
+  }
+}

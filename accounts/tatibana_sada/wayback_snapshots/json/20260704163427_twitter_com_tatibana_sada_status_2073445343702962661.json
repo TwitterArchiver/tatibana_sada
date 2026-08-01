@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2073445343702962661",
+    "created_at": "2026-07-04T16:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073445343702962661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2072284891278876672",
+          "start": 3,
+          "username": "TrumpsPortfolio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073445343702962661",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3865
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073246973050675445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TrumpsPortfolio: My profile is now unbanned. Thank you X for taking the time to look into this. Now back to the regular scheduled progr…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2073445343702962661",
+        "created_at": "2026-07-04T16:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073445343702962661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2072284891278876672",
+              "start": 3,
+              "username": "TrumpsPortfolio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073445343702962661",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3865
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073246973050675445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TrumpsPortfolio: My profile is now unbanned. Thank you X for taking the time to look into this. Now back to the regular scheduled progr…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072284891278876672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The Republican National Convention is about to convene in Milwaukee to nominate President Donald J. Trump! Tune in live on X starting July 15th at 6pm CT to watch LIVE as we unite for a stronger America!",
+              "id": "1811085126010281984",
+              "name": "2024 Republican National Convention"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2073246973050675445",
+        "created_at": "2026-07-04T03:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T04:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073246973050675445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073246973050675445",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2104,
+          "impression_count": 613041,
+          "like_count": 56519,
+          "quote_count": 58,
+          "reply_count": 186,
+          "retweet_count": 3865
+        },
+        "reply_settings": "everyone",
+        "text": "My profile is now unbanned. Thank you X for taking the time to look into this. Now back to the regular scheduled programming of covering Donald Trump’s Stock Portfolio. Follow along."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 1387,
+          "like_count": 9617,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3291
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T11:44:12.000Z",
+        "description": "Tracking all of Trumps trades so I can get filthy rich",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "trumpportfoliotracker.substack.com",
+                "end": 23,
+                "expanded_url": "https://trumpportfoliotracker.substack.com",
+                "start": 0,
+                "url": "https://t.co/ajnOZSnW1c"
+              }
+            ]
+          }
+        },
+        "id": "2072284891278876672",
+        "location": "White House",
+        "name": "Donald Trump Portfolio Tracker",
+        "pinned_tweet_id": "2072286294651117652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072285616058834944/_lDhjGNH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123788,
+          "following_count": 21,
+          "like_count": 82,
+          "listed_count": 249,
+          "media_count": 10,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/ajnOZSnW1c",
+        "username": "TrumpsPortfolio",
+        "verified": false
+      }
+    ]
+  }
+}

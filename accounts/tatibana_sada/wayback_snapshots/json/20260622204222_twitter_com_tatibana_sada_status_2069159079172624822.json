@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      }
+    ],
+    "conversation_id": "2069159079172624822",
+    "created_at": "2026-06-22T20:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T21:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069159079172624822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TrackAIPAC/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/TrackAIPAC/status/2069141553600454666",
+          "start": 5,
+          "url": "https://t.co/xbMc4GSCA5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069159079172624822",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069141553600454666",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像李在明 https://t.co/xbMc4GSCA5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2069141548672098304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcRRpaaIAAf67y.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          }
+        ],
+        "conversation_id": "2069159079172624822",
+        "created_at": "2026-06-22T20:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T21:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069159079172624822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TrackAIPAC/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/TrackAIPAC/status/2069141553600454666",
+              "start": 5,
+              "url": "https://t.co/xbMc4GSCA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069159079172624822",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069141553600454666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像李在明 https://t.co/xbMc4GSCA5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069141548672098304"
+          ]
+        },
+        "author_id": "1122623265673891840",
+        "conversation_id": "2069097385179910173",
+        "created_at": "2026-06-22T19:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069141553600454666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "776416297148096513",
+              "start": 0,
+              "username": "WeWill2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AvEssqaUa2",
+              "end": 35,
+              "expanded_url": "https://x.com/TrackAIPAC/status/2069141553600454666/photo/1",
+              "media_key": "3_2069141548672098304",
+              "start": 12,
+              "url": "https://t.co/AvEssqaUa2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069141553600454666",
+        "in_reply_to_user_id": "776416297148096513",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1451,
+          "like_count": 332,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069097385179910173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeWill2026 https://t.co/AvEssqaUa2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 1332,
+          "like_count": 9382,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3229
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-28T22:06:58.000Z",
+        "description": "Tracking AIPAC and the entire Israel lobby’s anti-democratic influence on the United States. Donate to our PAC: Citizens Against AIPAC Corruption 🇺🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "trackaipac.com",
+                "end": 23,
+                "expanded_url": "https://trackaipac.com",
+                "start": 0,
+                "url": "https://t.co/sU7smocaZl"
+              }
+            ]
+          }
+        },
+        "id": "1122623265673891840",
+        "location": "United States of America",
+        "name": "AIPAC Tracker",
+        "pinned_tweet_id": "2067294971477065801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013122141059678209/6Or1kQNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470948,
+          "following_count": 3223,
+          "like_count": 140719,
+          "listed_count": 988,
+          "media_count": 22555,
+          "tweet_count": 98200
+        },
+        "url": "https://t.co/sU7smocaZl",
+        "username": "TrackAIPAC",
+        "verified": true
+      }
+    ]
+  }
+}

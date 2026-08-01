@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073600661737164801"
+      ],
+      "media_source_tweet_id": [
+        "2073600670327058672"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2073669928008458476",
+    "created_at": "2026-07-05T07:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073669928008458476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "118653756",
+          "start": 3,
+          "username": "Wenlijie666"
+        },
+        {
+          "end": 26,
+          "id": "1351247152287256581",
+          "start": 17,
+          "username": "Zhina996"
+        },
+        {
+          "end": 33,
+          "id": "1785739165193166848",
+          "start": 27,
+          "username": "CYS4T"
+        },
+        {
+          "end": 45,
+          "id": "2065396556380180480",
+          "start": 34,
+          "username": "SamFarx1fr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J9IiqBlvVw",
+          "end": 76,
+          "expanded_url": "https://x.com/Wenlijie666/status/2073600670327058672/photo/1",
+          "media_key": "3_2073600661737164801",
+          "start": 53,
+          "url": "https://t.co/J9IiqBlvVw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073669928008458476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073600670327058672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wenlijie666: @Zhina996 @CYS4T @SamFarx1fr 瞎？还是蠢？ https://t.co/J9IiqBlvVw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2073600661737164801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbo0MDb0AE8xHp.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073600661737164801"
+          ],
+          "media_source_tweet_id": [
+            "2073600670327058672"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2073669928008458476",
+        "created_at": "2026-07-05T07:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073669928008458476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "118653756",
+              "start": 3,
+              "username": "Wenlijie666"
+            },
+            {
+              "end": 26,
+              "id": "1351247152287256581",
+              "start": 17,
+              "username": "Zhina996"
+            },
+            {
+              "end": 33,
+              "id": "1785739165193166848",
+              "start": 27,
+              "username": "CYS4T"
+            },
+            {
+              "end": 45,
+              "id": "2065396556380180480",
+              "start": 34,
+              "username": "SamFarx1fr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9IiqBlvVw",
+              "end": 76,
+              "expanded_url": "https://x.com/Wenlijie666/status/2073600670327058672/photo/1",
+              "media_key": "3_2073600661737164801",
+              "start": 53,
+              "url": "https://t.co/J9IiqBlvVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073669928008458476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073600670327058672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wenlijie666: @Zhina996 @CYS4T @SamFarx1fr 瞎？还是蠢？ https://t.co/J9IiqBlvVw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073600661737164801"
+          ]
+        },
+        "author_id": "118653756",
+        "conversation_id": "2073361055389241654",
+        "created_at": "2026-07-05T02:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073600670327058672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1351247152287256581",
+              "start": 0,
+              "username": "Zhina996"
+            },
+            {
+              "end": 16,
+              "id": "1785739165193166848",
+              "start": 10,
+              "username": "CYS4T"
+            },
+            {
+              "end": 28,
+              "id": "2065396556380180480",
+              "start": 17,
+              "username": "SamFarx1fr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9IiqBlvVw",
+              "end": 59,
+              "expanded_url": "https://x.com/Wenlijie666/status/2073600670327058672/photo/1",
+              "media_key": "3_2073600661737164801",
+              "start": 36,
+              "url": "https://t.co/J9IiqBlvVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073600670327058672",
+        "in_reply_to_user_id": "1351247152287256581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073530187497554377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhina996 @CYS4T @SamFarx1fr 瞎？还是蠢？ https://t.co/J9IiqBlvVw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 1392,
+          "like_count": 9671,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3300
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-01T10:38:42.000Z",
+        "description": "",
+        "id": "118653756",
+        "location": "People's Republic of China",
+        "name": "网恋被骗108万",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992618075301322752/Xgzi__dp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 3388,
+          "like_count": 688,
+          "listed_count": 7,
+          "media_count": 249,
+          "tweet_count": 7298
+        },
+        "url": "",
+        "username": "Wenlijie666",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-18T19:17:02.000Z",
+        "description": "中国问题专家，历史学者，人类学家（包括基因、面相、籍贯、姓氏），复旦教授。全职观察南宋人和太平天国人的日常生活和奇闻逸事。",
+        "id": "1351247152287256581",
+        "location": "支那本部",
+        "name": "996观察 Zhina Observer🪷",
+        "pinned_tweet_id": "2040094633556918306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067424940626714624/B1HJLu0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 1590,
+          "like_count": 64510,
+          "listed_count": 16,
+          "media_count": 374,
+          "tweet_count": 27086
+        },
+        "url": "",
+        "username": "Zhina996",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T18:36:54.000Z",
+        "description": "ChineseYouthStandForTibet རྒྱ་སྐད་གཞོན་ནུའི་བོད་དོན་རྒྱབ་སྐྱོར་མཐུན་ཚོགས། 我们是一群热爱藏文化的中文母语者，心系大藏区的一草一木。我将在这分享藏地的古与今。愿自由之风吹遍图博大地！扎西德勒🙏！愿你吉祥如牛粪 自由如牦牛 三宝护佑🦬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lhasaspring.org",
+                "end": 23,
+                "expanded_url": "http://lhasaspring.org",
+                "start": 0,
+                "url": "https://t.co/oqmEXZWH2c"
+              }
+            ]
+          }
+        },
+        "id": "1785739165193166848",
+        "location": "A Tibet Free From Fear",
+        "name": "华语青年挺藏会 Lhasa Spring",
+        "pinned_tweet_id": "2072971588694159721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785740245524254720/qEDRgfj5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5264,
+          "following_count": 423,
+          "like_count": 6752,
+          "listed_count": 35,
+          "media_count": 547,
+          "tweet_count": 1991
+        },
+        "url": "https://t.co/oqmEXZWH2c",
+        "username": "CYS4T",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-12T11:32:41.000Z",
+        "description": "I'm Chinese, and I'm proud of it. My country has 5,000 years of history and a civilization that has endured to this day.我是中国人，为此我感到自豪。我的国家拥有 5000 年的历史，其文明至今依然延续",
+        "id": "2065396556380180480",
+        "name": "泽坤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066703079601504256/voeOpWjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 30,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 528
+        },
+        "url": "",
+        "username": "SamFarx1fr",
+        "verified": false
+      }
+    ]
+  }
+}

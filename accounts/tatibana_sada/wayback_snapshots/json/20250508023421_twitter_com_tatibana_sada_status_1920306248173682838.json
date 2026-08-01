@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1920306248173682838",
+    "created_at": "2025-05-08T02:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T03:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920306248173682838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "931807368349810688",
+          "start": 3,
+          "username": "jike112_jike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920306248173682838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815958296630530185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jike112_jike: 妈的，每天光考虑今天吃什么就要考虑好久"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1920306248173682838",
+        "created_at": "2025-05-08T02:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T03:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920306248173682838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "931807368349810688",
+              "start": 3,
+              "username": "jike112_jike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920306248173682838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815958296630530185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jike112_jike: 妈的，每天光考虑今天吃什么就要考虑好久"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "931807368349810688",
+        "conversation_id": "1815958296630530185",
+        "created_at": "2024-07-24T03:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T04:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815958296630530185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1815958296630530185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1230,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "妈的，每天光考虑今天吃什么就要考虑好久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 494,
+          "like_count": 2672,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1438
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T08:52:43.000Z",
+        "description": "男性要学会保护自己",
+        "id": "931807368349810688",
+        "name": "jike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770473487389294594/AqsssmrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3405,
+          "following_count": 214,
+          "like_count": 5797,
+          "listed_count": 10,
+          "media_count": 493,
+          "tweet_count": 1887
+        },
+        "username": "jike112_jike",
+        "verified": false
+      }
+    ]
+  }
+}

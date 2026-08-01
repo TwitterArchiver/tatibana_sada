@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057868320347689423",
+    "created_at": "2026-05-23T10:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058137894863409605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "779361765691760640",
+          "start": 0,
+          "username": "xinyouan1160"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058137894863409605",
+    "in_reply_to_user_id": "779361765691760640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057868320347689423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinyouan1160 今日欢呼共产党，只缘老鼠又上桌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057868320347689423",
+        "created_at": "2026-05-23T10:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058137894863409605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "779361765691760640",
+              "start": 0,
+              "username": "xinyouan1160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058137894863409605",
+        "in_reply_to_user_id": "779361765691760640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057868320347689423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinyouan1160 今日欢呼共产党，只缘老鼠又上桌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "779361765691760640",
+        "conversation_id": "2057868320347689423",
+        "created_at": "2026-05-22T16:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057868320347689423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LastExeX01/sta…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/LastExeX01/status/2014580219672486368",
+              "start": 130,
+              "url": "https://t.co/r4SwL5naRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057868320347689423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 588,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014580219672486368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "与其让愚民上来谈民主和实践比独裁者更荒唐的闹剧，那确实不如让你党来操服所有人的\n\n只不过我不是出于某种对黑格尔恋父情结似的解读，因为我不是很理解能借助父亲的屌来射精是什么值得嘉奖的事情。\n而是出于人道主义来说，你党的统治确实维持了这个统治实体内所有人的安康。 https://t.co/r4SwL5naRS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 1186,
+          "like_count": 8397,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2781
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-23T16:48:19.000Z",
+        "description": "your mom fucker",
+        "id": "779361765691760640",
+        "location": "三千万",
+        "name": "xinyouan Ⅱ",
+        "pinned_tweet_id": "2057855631114281222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057868896171069440/Neg1LGvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 917,
+          "like_count": 35967,
+          "listed_count": 0,
+          "media_count": 824,
+          "tweet_count": 14348
+        },
+        "username": "xinyouan1160",
+        "verified": false
+      }
+    ]
+  }
+}

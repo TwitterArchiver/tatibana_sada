@@ -1,0 +1,604 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1070735153561911296",
+          "name": "Tetsuro Fukuyama"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1070735205281878017",
+          "name": "Kiyomi Tsujimoto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1070735215570542592",
+          "name": "Mizuho Fukushima"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1070735153561911296",
+          "name": "Tetsuro Fukuyama"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1070735205281878017",
+          "name": "Kiyomi Tsujimoto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1070735215570542592",
+          "name": "Mizuho Fukushima"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1070735153561911296",
+          "name": "Tetsuro Fukuyama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1070735205281878017",
+          "name": "Kiyomi Tsujimoto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1070735215570542592",
+          "name": "Mizuho Fukushima"
+        }
+      }
+    ],
+    "conversation_id": "2070885428878791131",
+    "created_at": "2026-06-27T15:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070885428878791131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/StrelitziaBuzz…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/StrelitziaBuzz/status/2069643592201830745",
+          "start": 4,
+          "url": "https://t.co/5bjukoLZTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070885428878791131",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069643592201830745",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何意味 https://t.co/5bjukoLZTW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735153561911296",
+              "name": "Tetsuro Fukuyama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735205281878017",
+              "name": "Kiyomi Tsujimoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735215570542592",
+              "name": "Mizuho Fukushima"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735153561911296",
+              "name": "Tetsuro Fukuyama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735205281878017",
+              "name": "Kiyomi Tsujimoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735215570542592",
+              "name": "Mizuho Fukushima"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735153561911296",
+              "name": "Tetsuro Fukuyama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735205281878017",
+              "name": "Kiyomi Tsujimoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735215570542592",
+              "name": "Mizuho Fukushima"
+            }
+          }
+        ],
+        "conversation_id": "2070885428878791131",
+        "created_at": "2026-06-27T15:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070885428878791131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/StrelitziaBuzz…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/StrelitziaBuzz/status/2069643592201830745",
+              "start": 4,
+              "url": "https://t.co/5bjukoLZTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070885428878791131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069643592201830745",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/5bjukoLZTW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823909378443108355",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735153561911296",
+              "name": "Tetsuro Fukuyama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735205281878017",
+              "name": "Kiyomi Tsujimoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735215570542592",
+              "name": "Mizuho Fukushima"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735153561911296",
+              "name": "Tetsuro Fukuyama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735205281878017",
+              "name": "Kiyomi Tsujimoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735215570542592",
+              "name": "Mizuho Fukushima"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735153561911296",
+              "name": "Tetsuro Fukuyama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735205281878017",
+              "name": "Kiyomi Tsujimoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735215570542592",
+              "name": "Mizuho Fukushima"
+            }
+          }
+        ],
+        "conversation_id": "2069527929613381769",
+        "created_at": "2026-06-24T04:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069643592201830745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "850188779314847744",
+              "start": 0,
+              "username": "weiwei2017888"
+            },
+            {
+              "end": 21,
+              "id": "42816371",
+              "start": 15,
+              "username": "asahi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069643592201830745",
+        "in_reply_to_user_id": "850188779314847744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069603114425151685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiwei2017888 @asahi 性格悪い幼稚な屁理屈で高市首相自民党へ八つ当たり責任転嫁し誹謗中傷\n嫌がらせ好き虚言癖中国人朝鮮人由来暴力的攻撃的被害妄想狂劣等遺伝子精神疾患\n中国共産党工作員🇨🇳言論統制\n福島瑞穂🇰🇵趙春花\n辻元清美🇰🇵朴貞子\n福山哲郎🇨🇳陳哲郎\n中国人民軍日本全土侵略攻撃爆撃日本人大虐殺大量殺戮日本国消滅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1362,
+          "like_count": 9470,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3256
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T02:28:06.000Z",
+        "description": "",
+        "id": "1823909378443108355",
+        "location": "Portland, OR",
+        "name": "津田大介蓮舫中国共産党工作員中国朝鮮由来攻撃的被害妄想狂劣等自殺遺伝子精神疾患仁藤夢乃藤井セイラ死ね",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890271155900264448/djlQRqgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 25,
+          "like_count": 3471,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 3525
+        },
+        "url": "",
+        "username": "StrelitziaBuzz",
+        "verified": false
+      }
+    ]
+  }
+}

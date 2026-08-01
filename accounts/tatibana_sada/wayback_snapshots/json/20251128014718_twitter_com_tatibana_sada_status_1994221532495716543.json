@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1993872519212786082",
+    "created_at": "2025-11-28T01:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T02:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994221532495716543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994221532495716543",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993872519212786082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 真的是蛮糟糕的事情。私域空间本就难以查证。那么必然是裁量上极度偏向口头证据（除非我们真的是想要监控进房间的1984神国）。要么对确实被侵害的人不公，要么对确实被诬告的人不公。那能有啥好说的呢，性别隔离，唯一出路。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1993872519212786082",
+        "created_at": "2025-11-28T01:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T02:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994221532495716543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994221532495716543",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993872519212786082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 真的是蛮糟糕的事情。私域空间本就难以查证。那么必然是裁量上极度偏向口头证据（除非我们真的是想要监控进房间的1984神国）。要么对确实被侵害的人不公，要么对确实被诬告的人不公。那能有啥好说的呢，性别隔离，唯一出路。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1993872519212786082",
+        "created_at": "2025-11-27T02:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:39:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993872288488509489",
+          "1993872519212786082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993872519212786082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1492,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得MeToo留下的遗产里最让人遗憾的就是「永远无条件相信受害者」「相信处于权力关系弱势一方」的这种叙事模式…它们本身没错也的确有意义，但它们的原始语境并不是社交媒体控诉而是幸存者之间的社群互助，完全不顾媒介差异简单地挪用相同的叙事模式往往会导致很灾难性的后果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 956,
+          "like_count": 6406,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2291
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❦ @noaayoyaoaya・☭・ᴍᴛꜰ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "ʜɪᴄ ʀʜᴏᴅᴜꜱ, ʜɪᴄ ꜱᴀʟᴛᴀ",
+        "name": "amber ଳ⋆.ೃ࿔*･",
+        "pinned_tweet_id": "1946964550160355612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21041,
+          "following_count": 2432,
+          "like_count": 34903,
+          "listed_count": 68,
+          "media_count": 871,
+          "tweet_count": 18291
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

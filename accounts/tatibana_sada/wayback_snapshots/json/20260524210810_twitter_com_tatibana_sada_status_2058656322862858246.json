@@ -1,0 +1,718 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Donald Trump Jr.",
+          "id": "884781076484202496",
+          "name": "Donald Trump Jr."
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Donald Trump Jr.",
+          "id": "884781076484202496",
+          "name": "Donald Trump Jr."
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2058570995422880135",
+    "created_at": "2026-05-24T21:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T22:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058656322862858246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1585418502147641344",
+          "start": 0,
+          "username": "RealFlashRiver"
+        },
+        {
+          "end": 31,
+          "id": "1495105990232051717",
+          "start": 16,
+          "username": "Deahh19420333H"
+        },
+        {
+          "end": 47,
+          "id": "39344374",
+          "start": 32,
+          "username": "DonaldJTrumpJr"
+        },
+        {
+          "end": 63,
+          "id": "499154896",
+          "start": 48,
+          "username": "alexbruesewitz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058656322862858246",
+    "in_reply_to_user_id": "1585418502147641344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058621512966365187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealFlashRiver @Deahh19420333H @DonaldJTrumpJr @alexbruesewitz 这就是美国人，听美国人说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 282,
+        "media_key": "16_2058621505605402624",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJGxWjCXAAAXgtU.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJGxWjCXAAAXgtU.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Donald Trump Jr.",
+              "id": "884781076484202496",
+              "name": "Donald Trump Jr."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Donald Trump Jr.",
+              "id": "884781076484202496",
+              "name": "Donald Trump Jr."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2058570995422880135",
+        "created_at": "2026-05-24T21:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T22:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058656322862858246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1585418502147641344",
+              "start": 0,
+              "username": "RealFlashRiver"
+            },
+            {
+              "end": 31,
+              "id": "1495105990232051717",
+              "start": 16,
+              "username": "Deahh19420333H"
+            },
+            {
+              "end": 47,
+              "id": "39344374",
+              "start": 32,
+              "username": "DonaldJTrumpJr"
+            },
+            {
+              "end": 63,
+              "id": "499154896",
+              "start": 48,
+              "username": "alexbruesewitz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058656322862858246",
+        "in_reply_to_user_id": "1585418502147641344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058621512966365187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealFlashRiver @Deahh19420333H @DonaldJTrumpJr @alexbruesewitz 这就是美国人，听美国人说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2058621505605402624"
+          ]
+        },
+        "author_id": "1585418502147641344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "US Military",
+              "id": "1088509400464031744",
+              "name": "US Military"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "US Military",
+              "id": "1088509400464031744",
+              "name": "US Military"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Military",
+              "id": "1088509400464031744",
+              "name": "US Military"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Donald Trump Jr.",
+              "id": "884781076484202496",
+              "name": "Donald Trump Jr."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Donald Trump Jr.",
+              "id": "884781076484202496",
+              "name": "Donald Trump Jr."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump ends oil waivers to Iran",
+              "id": "1120307801446699009",
+              "name": "President Trump ends oil waivers to Iran"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump said he’s imposing sanctions on Iran’s supreme leader, Ayatollah Ali Khamenei, and his office, “in response to Iran’s increasingly provocative actions.” The announcement comes after Iran shot down a US Navy drone last week.",
+              "id": "1143192051233644544",
+              "name": "President Trump announces ‘hard hitting’ sanctions on Iran"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2058570995422880135",
+        "created_at": "2026-05-24T18:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058621512966365187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495105990232051717",
+              "start": 0,
+              "username": "Deahh19420333H"
+            },
+            {
+              "end": 31,
+              "id": "39344374",
+              "start": 16,
+              "username": "DonaldJTrumpJr"
+            },
+            {
+              "end": 47,
+              "id": "499154896",
+              "start": 32,
+              "username": "alexbruesewitz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P186ZbcPoO",
+              "end": 349,
+              "expanded_url": "https://x.com/RealFlashRiver/status/2058621512966365187/photo/1",
+              "media_key": "16_2058621505605402624",
+              "start": 326,
+              "url": "https://t.co/P186ZbcPoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058621512966365187",
+        "in_reply_to_user_id": "1495105990232051717",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058579414506479841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deahh19420333H @DonaldJTrumpJr @alexbruesewitz For those who are so naïve to think this was about Iran, think again. Iran is China's proxy. Trump put China in check mate using Iran to show how weak they are and how the U.S. is in control, not China and how the U.S. can crush China economically along with the U.S. military. https://t.co/P186ZbcPoO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 1198,
+          "like_count": 8529,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2847
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T23:53:25.000Z",
+        "description": "𝐁𝐨𝐫𝐧 𝐅𝐫𝐞𝐞, 𝐈 𝐰𝐢𝐥𝐥 𝐃𝐢𝐞 𝐅𝐫𝐞𝐞! Actually, I was born a Slave in Sin, But King YESHUA, Set Me Free By His Blood and Holy Spirit.✝️💯%\n⧊ → 𝕏 → ⚖",
+        "id": "1585418502147641344",
+        "location": "Oklahoma City, Oklahoma",
+        "name": "Flash River",
+        "pinned_tweet_id": "2058072606801043901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867993212511567872/o_pzMNJi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13102,
+          "following_count": 14105,
+          "like_count": 62432,
+          "listed_count": 16,
+          "media_count": 7754,
+          "tweet_count": 38671
+        },
+        "username": "RealFlashRiver",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-19T18:40:37.000Z",
+        "description": "US Patriot, Former US Marine\n        Trust ZERO politicians, MAGA is America First\n                         Angry Christian!!",
+        "id": "1495105990232051717",
+        "location": "Texas",
+        "name": "USA Patriot....The Original Neanderthals'",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028329553949605888/lAjKrpgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 554,
+          "like_count": 6224,
+          "listed_count": 6,
+          "media_count": 2370,
+          "tweet_count": 9991
+        },
+        "username": "Deahh19420333H",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-11T21:18:33.000Z",
+        "description": "Co-Founder @worldlibertyfi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "worldlibertyfi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/donaldjtrumpjr",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/donaldjtrumpjr",
+                "start": 0,
+                "url": "https://t.co/ni5HwFvEjX"
+              }
+            ]
+          }
+        },
+        "id": "39344374",
+        "location": "Florida, USA",
+        "name": "Donald Trump Jr.",
+        "pinned_tweet_id": "2051277695183474751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16263607,
+          "following_count": 2329,
+          "like_count": 39594,
+          "listed_count": 25629,
+          "media_count": 3464,
+          "tweet_count": 52310
+        },
+        "url": "https://t.co/ni5HwFvEjX",
+        "username": "DonaldJTrumpJr",
+        "verified": true
+      },
+      {
+        "created_at": "2012-02-21T20:46:09.000Z",
+        "description": "Christian | Trump Advisor | CEO of @XStrategiesLLC | America First. Always 🇺🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "XStrategiesLLC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xstrategies.com",
+                "end": 23,
+                "expanded_url": "http://xstrategies.com",
+                "start": 0,
+                "url": "https://t.co/95qsfFbj19"
+              }
+            ]
+          }
+        },
+        "id": "499154896",
+        "name": "Alex Bruesewitz 🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046393386568200192/F4ICxq3S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675654,
+          "following_count": 2973,
+          "like_count": 77186,
+          "listed_count": 1837,
+          "media_count": 4097,
+          "tweet_count": 31497
+        },
+        "url": "https://t.co/95qsfFbj19",
+        "username": "alexbruesewitz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2064262973594759300",
+    "created_at": "2026-06-09T08:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064262973594759300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "95631742",
+          "start": 3,
+          "username": "shangguanluan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064262973594759300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064176336328089768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shangguanluan: 支黑在外国人眼中到底是什么形象呢？\n\n打个比方吧：\n\n如果一个印度人在我面前说：“我们印度世界第一，文化领先。”你肯定觉得这是个民族主义者，敬而远之。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064262973594759300",
+        "created_at": "2026-06-09T08:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064262973594759300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "95631742",
+              "start": 3,
+              "username": "shangguanluan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064262973594759300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064176336328089768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shangguanluan: 支黑在外国人眼中到底是什么形象呢？\n\n打个比方吧：\n\n如果一个印度人在我面前说：“我们印度世界第一，文化领先。”你肯定觉得这是个民族主义者，敬而远之。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "95631742",
+        "conversation_id": "2064176336328089768",
+        "created_at": "2026-06-09T02:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064176336328089768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064176336328089768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "支黑在外国人眼中到底是什么形象呢？\n\n打个比方吧：\n\n如果一个印度人在我面前说：“我们印度世界第一，文化领先。”你肯定觉得这是个民族主义者，敬而远之。\n\n如果一个印度人说：“我们国家还有很多问题，但是我们正在努力改变他，所以我们正在农村改造厕所和推广卫生巾。”你肯定会尊重他，甚至还想问哪里可以捐钱。\n\n如果一个印度人说：“我们印度是世界上最烂的国家，老B印都是垃圾，呼吁巴基斯坦核平我们！我们特别羡慕你们中国，我要成为中国人，我要融入中国。”那你只会觉得这人有病，肯定另有企图，离老子远点。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 18622,
+          "like_count": 237,
+          "quote_count": 2,
+          "reply_count": 38,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "支黑在外国人眼中到底是什么形象呢？\n\n打个比方吧：\n\n如果一个印度人在我面前说：“我们印度世界第一，文化领先。”你肯定觉得这是个民族主义者，敬而远之。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 1286,
+          "like_count": 9138,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3133
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-09T12:00:10.000Z",
+        "description": "不断不常。不一不异。",
+        "id": "95631742",
+        "location": "Taipei City, Taiwan",
+        "name": "上官亂",
+        "pinned_tweet_id": "1987084876647109104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905797066305277952/u8wAc85q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70858,
+          "following_count": 1428,
+          "like_count": 4027,
+          "listed_count": 390,
+          "media_count": 1681,
+          "tweet_count": 10756
+        },
+        "username": "shangguanluan",
+        "verified": true
+      }
+    ]
+  }
+}

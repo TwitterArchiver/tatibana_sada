@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1999026591813525632",
+    "created_at": "2025-12-11T23:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T00:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999258955298795619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1881256183828496385",
+          "start": 0,
+          "username": "Line_XII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999258955298795619",
+    "in_reply_to_user_id": "1881256183828496385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999026591813525632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Line_XII 这个评论区吵起来的原因是革命叙事的效力和正当性问题。\n革命因为什么？革命为了什么？革命可以怎么办？\n任何一个接受过起码的马克思列宁主义教育的人都能够坦荡的回答，革命是因为且为了历史的必然性，而革命者就是历史必然性的工具，因此革命的一切都是正义。没有这种认识的革命者，1933年就变节了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1999026591813525632",
+        "created_at": "2025-12-11T23:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T00:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999258955298795619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881256183828496385",
+              "start": 0,
+              "username": "Line_XII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999258955298795619",
+        "in_reply_to_user_id": "1881256183828496385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999026591813525632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Line_XII 这个评论区吵起来的原因是革命叙事的效力和正当性问题。\n革命因为什么？革命为了什么？革命可以怎么办？\n任何一个接受过起码的马克思列宁主义教育的人都能够坦荡的回答，革命是因为且为了历史的必然性，而革命者就是历史必然性的工具，因此革命的一切都是正义。没有这种认识的革命者，1933年就变节了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881256183828496385",
+        "conversation_id": "1999026591813525632",
+        "created_at": "2025-12-11T08:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T09:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999026591813525632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sapphirefoxx_i…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/sapphirefoxx_is/status/1999025968149835809",
+              "start": 92,
+              "url": "https://t.co/trrhgrljYy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999026591813525632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1358,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999025968149835809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于立宪会议问题我已经重复了114514遍了，议会制共和国相较于苏维埃共和国是一种退步，何况在当时立宪会议早已成为了资产阶级的反革命工具，诸如拒绝推行土地改革，为什么我还要重复解释？ https://t.co/trrhgrljYy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 999,
+          "like_count": 6962,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2397
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T08:24:25.000Z",
+        "description": "革命的マルクス主義者と1920年代の左翼反対派｜左派汎亜主義と中華未来主義｜プロレタリア独裁委員会共和国と社会主義計画経済｜革命政治経済学と反資本主義左派｜サイバー共産主義と参加型経済｜小林多喜二とプロレタリア文化派｜万国の労働者よ、団結せよ！",
+        "id": "1881256183828496385",
+        "location": "OTL",
+        "name": "☭転炉",
+        "pinned_tweet_id": "1963823432833155142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952609027118313472/gWfZa4zd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 355,
+          "like_count": 3802,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 1196
+        },
+        "username": "Line_XII",
+        "verified": false
+      }
+    ]
+  }
+}

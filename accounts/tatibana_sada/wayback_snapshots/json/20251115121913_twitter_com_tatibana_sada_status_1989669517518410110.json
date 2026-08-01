@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1989669517518410110",
+    "created_at": "2025-11-15T12:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T13:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989669517518410110"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tuzhilaoye/sta…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/tuzhilaoye/status/1989650534660542851",
+          "start": 43,
+          "url": "https://t.co/byt5E5w6tE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989669517518410110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989650534660542851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样子的吗？似乎尤其的感受到，我拥有充足的理由死于肺癌了。毕竟烟草喷雾我都在用嘛。 https://t.co/byt5E5w6tE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1989669517518410110",
+        "created_at": "2025-11-15T12:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989669517518410110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tuzhilaoye/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/tuzhilaoye/status/1989650534660542851",
+              "start": 43,
+              "url": "https://t.co/byt5E5w6tE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989669517518410110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989650534660542851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样子的吗？似乎尤其的感受到，我拥有充足的理由死于肺癌了。毕竟烟草喷雾我都在用嘛。 https://t.co/byt5E5w6tE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974082673095118848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1989604139081285994",
+        "created_at": "2025-11-15T11:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T12:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989650534660542851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1343441418619121666",
+              "start": 0,
+              "username": "zmt021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989650534660542851",
+        "in_reply_to_user_id": "1343441418619121666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989604139081285994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zmt021 定妆喷雾，还有防晒喷雾，都是对健康非常有害的东西。 \n男性基本不用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 861,
+          "like_count": 5599,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2007
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T12:02:49.000Z",
+        "description": "文洁· 秽土转生版 继续不定期普及#反出生主义 思想。",
+        "id": "1974082673095118848",
+        "name": "叶文洁",
+        "pinned_tweet_id": "1974108304533234084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974083039274688513/PqtChwQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 396,
+          "like_count": 6041,
+          "listed_count": 4,
+          "media_count": 28,
+          "tweet_count": 1360
+        },
+        "username": "tuzhilaoye",
+        "verified": false
+      }
+    ]
+  }
+}

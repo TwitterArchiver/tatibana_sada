@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985613963414159652",
+    "created_at": "2025-11-04T07:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T08:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985615934544130526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1011298125225422848",
+          "start": 0,
+          "username": "Tang_Shuoyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985615934544130526",
+    "in_reply_to_user_id": "1011298125225422848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985613963414159652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tang_Shuoyang 大乞丐观"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1802,
+        "media_key": "3_1985613961321201664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G45RYKmbQAAbo-F.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985613963414159652",
+        "created_at": "2025-11-04T07:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985615934544130526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1011298125225422848",
+              "start": 0,
+              "username": "Tang_Shuoyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985615934544130526",
+        "in_reply_to_user_id": "1011298125225422848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985613963414159652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tang_Shuoyang 大乞丐观"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985613961321201664"
+          ]
+        },
+        "author_id": "1011298125225422848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985613963414159652",
+        "created_at": "2025-11-04T07:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985613963414159652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/odu7n6XIkC",
+              "end": 28,
+              "expanded_url": "https://x.com/Tang_Shuoyang/status/1985613963414159652/photo/1",
+              "media_key": "3_1985613961321201664",
+              "start": 5,
+              "url": "https://t.co/odu7n6XIkC"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c5518704462595fe"
+        },
+        "id": "1985613963414159652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大借贷观 https://t.co/odu7n6XIkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1982595504287699299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 722,
+          "like_count": 4527,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1722
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-25T17:20:36.000Z",
+        "description": "吉林大学→BOCHK→名古屋大学(M2)/Political Phenomenology、政治過程論、西マ。\n絶対王政/神道文献訓詁（君主主義者役）左翼研究(本人) \n【不要以为到资本主义日本就没有儒了！😤👎】\n#ブルアカ #艦これ  (退役) #pjsk (通販)随缘フォロバ\n要回关请✉️🥺🌹",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 106,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 116,
+                "start": 112,
+                "tag": "艦これ"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "pjsk"
+              }
+            ]
+          }
+        },
+        "id": "1011298125225422848",
+        "location": "豊葦原中国",
+        "name": "Nicholas Don",
+        "pinned_tweet_id": "1648348923785003008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929953311429668867/2eZF6dcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 202,
+          "like_count": 32369,
+          "listed_count": 10,
+          "media_count": 951,
+          "tweet_count": 4071
+        },
+        "username": "Tang_Shuoyang",
+        "verified": false
+      }
+    ]
+  }
+}

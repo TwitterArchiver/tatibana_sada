@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979064758012620928",
+    "created_at": "2025-10-17T12:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T13:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979160767233474872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1935975585186271232",
+          "start": 0,
+          "username": "hahahabzd123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979160767233474872",
+    "in_reply_to_user_id": "1935975585186271232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979152430152716786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahahabzd123 不不不，不要这么列维纳斯，这里有一个非常关键的点在于，如果你要「伸张」你的正义，你怎么不会搞得别人哈气呢？对此唯一的和稀泥办法就是哈贝马斯。我忠实的把学理推到极致，图景就是，我的正义必须占有我来伸张他自己，在我的正义践踏别人前，我已经被我的正义践踏了。「哦，我的灵魂要迅速回应他」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979064758012620928",
+        "created_at": "2025-10-17T12:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979160767233474872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935975585186271232",
+              "start": 0,
+              "username": "hahahabzd123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979160767233474872",
+        "in_reply_to_user_id": "1935975585186271232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979152430152716786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahahabzd123 不不不，不要这么列维纳斯，这里有一个非常关键的点在于，如果你要「伸张」你的正义，你怎么不会搞得别人哈气呢？对此唯一的和稀泥办法就是哈贝马斯。我忠实的把学理推到极致，图景就是，我的正义必须占有我来伸张他自己，在我的正义践踏别人前，我已经被我的正义践踏了。「哦，我的灵魂要迅速回应他」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935975585186271232",
+        "conversation_id": "1979064758012620928",
+        "created_at": "2025-10-17T11:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979152430152716786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979152430152716786",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979142636121334135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 在我们学会任何概念（比如人这个词）之前，在我们被任何话语所塑造之前，我们首先是作为一个会感觉、会移动、会痛苦的肉身主体而存在的。而我们所有关于道德、政治和未来的讨论，其唯一的、有意义的起点，恰恰就在这里——就在于我们如何去回应那个正在疼痛的、具体的、他人的身体。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 554,
+          "like_count": 2970,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1474
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T08:19:11.000Z",
+        "description": "De gustibus non est disputandum.",
+        "id": "1935975585186271232",
+        "name": "Rollo Thomas",
+        "pinned_tweet_id": "1975006226309345518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961048554644099072/rgcQl03l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 123,
+          "like_count": 358,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 753
+        },
+        "username": "hahahabzd123",
+        "verified": false
+      }
+    ]
+  }
+}

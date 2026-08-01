@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000360882166288385"
+      ],
+      "media_source_tweet_id": [
+        "2000360892014465050"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2000377020736585934",
+    "created_at": "2025-12-15T01:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T02:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000377020736585934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "888086394710765568",
+          "start": 3,
+          "username": "MuskMomHunter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QICZYHWF73",
+          "end": 106,
+          "expanded_url": "https://x.com/MuskMomHunter/status/2000360892014465050/photo/1",
+          "media_key": "3_2000360882166288385",
+          "start": 83,
+          "url": "https://t.co/QICZYHWF73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000377020736585934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000360892014465050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MuskMomHunter: 我是小王，新号转生，🐎死克玩意批量封号，把我大号冻了，我还在申诉恢复中，现在我开始寻回旧推油，看到的人麻烦帮我转发一下，谢谢🙏 https://t.co/QICZYHWF73"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1355,
+        "media_key": "3_2000360882166288385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8K1n7wb0AEZ6AS.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000360882166288385"
+          ],
+          "media_source_tweet_id": [
+            "2000360892014465050"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2000377020736585934",
+        "created_at": "2025-12-15T01:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T02:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000377020736585934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "888086394710765568",
+              "start": 3,
+              "username": "MuskMomHunter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QICZYHWF73",
+              "end": 106,
+              "expanded_url": "https://x.com/MuskMomHunter/status/2000360892014465050/photo/1",
+              "media_key": "3_2000360882166288385",
+              "start": 83,
+              "url": "https://t.co/QICZYHWF73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000377020736585934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000360892014465050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MuskMomHunter: 我是小王，新号转生，🐎死克玩意批量封号，把我大号冻了，我还在申诉恢复中，现在我开始寻回旧推油，看到的人麻烦帮我转发一下，谢谢🙏 https://t.co/QICZYHWF73"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000360882166288385"
+          ]
+        },
+        "author_id": "888086394710765568",
+        "conversation_id": "2000360892014465050",
+        "created_at": "2025-12-15T00:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T01:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000360892014465050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QICZYHWF73",
+              "end": 87,
+              "expanded_url": "https://x.com/MuskMomHunter/status/2000360892014465050/photo/1",
+              "media_key": "3_2000360882166288385",
+              "start": 64,
+              "url": "https://t.co/QICZYHWF73"
+            },
+            {
+              "display_url": "x.com/MuskMomHunter/…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/MuskMomHunter/status/2000233655281779047",
+              "start": 88,
+              "url": "https://t.co/qagoVbZv9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000360892014465050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000233655281779047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是小王，新号转生，🐎死克玩意批量封号，把我大号冻了，我还在申诉恢复中，现在我开始寻回旧推油，看到的人麻烦帮我转发一下，谢谢🙏 https://t.co/QICZYHWF73 https://t.co/qagoVbZv9w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 1000,
+          "like_count": 6988,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2402
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T17:21:11.000Z",
+        "description": "天主教信仰，不断修行中，西北人，长于四海，数地漂泊十年，热爱布鲁斯乐的🎸玩家，平静平和低欲，记录分享生活。",
+        "id": "888086394710765568",
+        "location": "应许之地",
+        "name": "小王（推油寻回版）",
+        "pinned_tweet_id": "2000360892014465050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000155124250124289/0ux0OVaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 186,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 14
+        },
+        "username": "MuskMomHunter",
+        "verified": false
+      }
+    ]
+  }
+}

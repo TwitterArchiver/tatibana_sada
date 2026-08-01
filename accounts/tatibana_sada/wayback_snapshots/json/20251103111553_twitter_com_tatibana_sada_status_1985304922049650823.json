@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985304922049650823",
+    "created_at": "2025-11-03T11:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T12:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985304922049650823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1620612154998292480",
+          "start": 3,
+          "username": "choco03109005"
+        },
+        {
+          "end": 31,
+          "id": "1671099283624574977",
+          "start": 19,
+          "username": "sunyata1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985304922049650823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974331781727027237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @choco03109005: @sunyata1111 这明明是我这辈子第一次对男人说真话，却被你这样挂出来，害得我在姐妹们面前丢光了脸。我本来可以成为一个不压迫男性好好地对待男人的女人的，但是你毁了我浪女回头的机会，以后我要封心锁爱，狠狠地报复男人，不要怪我，要怪就怪…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985304922049650823",
+        "created_at": "2025-11-03T11:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T12:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985304922049650823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1620612154998292480",
+              "start": 3,
+              "username": "choco03109005"
+            },
+            {
+              "end": 31,
+              "id": "1671099283624574977",
+              "start": 19,
+              "username": "sunyata1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985304922049650823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974331781727027237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @choco03109005: @sunyata1111 这明明是我这辈子第一次对男人说真话，却被你这样挂出来，害得我在姐妹们面前丢光了脸。我本来可以成为一个不压迫男性好好地对待男人的女人的，但是你毁了我浪女回头的机会，以后我要封心锁爱，狠狠地报复男人，不要怪我，要怪就怪…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620612154998292480",
+        "conversation_id": "1974325957029998661",
+        "created_at": "2025-10-04T04:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T05:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974331781727027237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1671099283624574977",
+              "start": 0,
+              "username": "sunyata1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974331781727027237",
+        "in_reply_to_user_id": "1671099283624574977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974325957029998661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunyata1111 这明明是我这辈子第一次对男人说真话，却被你这样挂出来，害得我在姐妹们面前丢光了脸。我本来可以成为一个不压迫男性好好地对待男人的女人的，但是你毁了我浪女回头的机会，以后我要封心锁爱，狠狠地报复男人，不要怪我，要怪就怪你的兄弟们透支了信用，这都是你们男人自找的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 705,
+          "like_count": 4327,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1698
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T02:37:11.000Z",
+        "description": "我都上网了还虚与委蛇那不纯粹有病吗",
+        "id": "1620612154998292480",
+        "name": "Choco",
+        "pinned_tweet_id": "1945858602532737439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921087307412893713/UlJpngWR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 72,
+          "like_count": 6439,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 790
+        },
+        "username": "choco03109005",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T10:14:59.000Z",
+        "description": "未来佛",
+        "id": "1671099283624574977",
+        "name": "sunyata",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671099683610177537/wfiURmk1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 1162
+        },
+        "username": "sunyata1111",
+        "verified": false
+      }
+    ]
+  }
+}

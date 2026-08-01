@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055235279662030849"
+      ],
+      "media_source_tweet_id": [
+        "2055236749635236349"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2055266290579984841",
+    "created_at": "2026-05-15T12:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055266290579984841"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1703636516965429248",
+          "start": 3,
+          "username": "cocotte_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tzsfxT0qfA",
+          "end": 50,
+          "expanded_url": "https://x.com/cocotte_ai/status/2055236749635236349/photo/1",
+          "media_key": "3_2055235279662030849",
+          "start": 27,
+          "url": "https://t.co/tzsfxT0qfA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055266290579984841",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055236749635236349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocotte_ai: #重音テト ✨🤍❤… https://t.co/tzsfxT0qfA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2055235279662030849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWpmQYbIAEStxX.jpg",
+        "width": 836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055235279662030849"
+          ],
+          "media_source_tweet_id": [
+            "2055236749635236349"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2055266290579984841",
+        "created_at": "2026-05-15T12:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055266290579984841"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1703636516965429248",
+              "start": 3,
+              "username": "cocotte_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tzsfxT0qfA",
+              "end": 50,
+              "expanded_url": "https://x.com/cocotte_ai/status/2055236749635236349/photo/1",
+              "media_key": "3_2055235279662030849",
+              "start": 27,
+              "url": "https://t.co/tzsfxT0qfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055266290579984841",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055236749635236349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cocotte_ai: #重音テト ✨🤍❤… https://t.co/tzsfxT0qfA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055235279662030849"
+          ]
+        },
+        "author_id": "1703636516965429248",
+        "conversation_id": "2055236749635236349",
+        "created_at": "2026-05-15T10:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055236749635236349"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tzsfxT0qfA",
+              "end": 33,
+              "expanded_url": "https://x.com/cocotte_ai/status/2055236749635236349/photo/1",
+              "media_key": "3_2055235279662030849",
+              "start": 10,
+              "url": "https://t.co/tzsfxT0qfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055236749635236349",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "重音テト"
+              }
+            ]
+          },
+          "text": "#重音テト ✨🤍❤　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　SFW illustration"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 3591,
+          "like_count": 477,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト ✨🤍❤ https://t.co/tzsfxT0qfA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 1072,
+          "like_count": 7718,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2541
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-18T05:06:18.000Z",
+        "description": "ミクさん大好き💫The illustration posted is generated by nijijourney+Stable diffusion（AI）+Photoshop drawing、SFW ☆*。　Instagram→https://t.co/K8Gh9XHG5K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/CMKRc",
+                "end": 140,
+                "expanded_url": "https://x.gd/CMKRc",
+                "start": 117,
+                "url": "https://t.co/K8Gh9XHG5K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/cocotte_ai",
+                "end": 23,
+                "expanded_url": "https://lit.link/cocotte_ai",
+                "start": 0,
+                "url": "https://t.co/iyfkMFwUF1"
+              }
+            ]
+          }
+        },
+        "id": "1703636516965429248",
+        "name": "poco",
+        "pinned_tweet_id": "1992428721358487924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725631551776653312/HQUTj_70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141271,
+          "following_count": 199,
+          "like_count": 32133,
+          "listed_count": 775,
+          "media_count": 2521,
+          "tweet_count": 15434
+        },
+        "url": "https://t.co/iyfkMFwUF1",
+        "username": "cocotte_ai",
+        "verified": true
+      }
+    ]
+  }
+}

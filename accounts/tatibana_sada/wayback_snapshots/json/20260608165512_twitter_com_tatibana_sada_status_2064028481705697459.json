@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2063912104638455981",
+    "created_at": "2026-06-08T16:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T17:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064028481705697459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024876793216618496",
+          "start": 0,
+          "username": "FbVbd94716"
+        },
+        {
+          "end": 27,
+          "id": "1880612598590357504",
+          "start": 12,
+          "username": "taco_bell_sell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064028481705697459",
+    "in_reply_to_user_id": "2024876793216618496",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063972247279456737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FbVbd94716 @taco_bell_sell Who is the anime girl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_2063972234453241856",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKSzz9Ta0AA67p2.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKSzz9Ta0AA67p2.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2063912104638455981",
+        "created_at": "2026-06-08T16:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064028481705697459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024876793216618496",
+              "start": 0,
+              "username": "FbVbd94716"
+            },
+            {
+              "end": 27,
+              "id": "1880612598590357504",
+              "start": 12,
+              "username": "taco_bell_sell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064028481705697459",
+        "in_reply_to_user_id": "2024876793216618496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063972247279456737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FbVbd94716 @taco_bell_sell Who is the anime girl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2063972234453241856"
+          ]
+        },
+        "author_id": "2024876793216618496",
+        "conversation_id": "2063912104638455981",
+        "created_at": "2026-06-08T13:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063972247279456737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1880612598590357504",
+              "start": 0,
+              "username": "taco_bell_sell"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NDwoFdnfLM",
+              "end": 70,
+              "expanded_url": "https://x.com/FbVbd94716/status/2063972247279456737/photo/1",
+              "media_key": "16_2063972234453241856",
+              "start": 47,
+              "url": "https://t.co/NDwoFdnfLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063972247279456737",
+        "in_reply_to_user_id": "1880612598590357504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063912104638455981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taco_bell_sell Son......\nKill yourself....... https://t.co/NDwoFdnfLM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 1280,
+          "like_count": 9108,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3116
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T16:00:35.000Z",
+        "description": "🇵🇸",
+        "id": "2024876793216618496",
+        "name": "Bangladeshi fella",
+        "pinned_tweet_id": "2061391630951993772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049040058527997952/_GiXzMRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 183,
+          "like_count": 2695,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 1307
+        },
+        "username": "FbVbd94716",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T13:46:22.000Z",
+        "description": "half Bengali-half Anglo, Radfem, woman right advocate,  misogynist ,  depopulation advocate",
+        "id": "1880612598590357504",
+        "name": "Explaining Anglo-Bengal brutality",
+        "pinned_tweet_id": "2051759434289013043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041416089738092544/AHKIkWaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 200,
+          "like_count": 160,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 607
+        },
+        "username": "taco_bell_sell",
+        "verified": false
+      }
+    ]
+  }
+}

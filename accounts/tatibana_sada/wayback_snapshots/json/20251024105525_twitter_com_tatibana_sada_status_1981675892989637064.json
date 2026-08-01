@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1981675892989637064",
+    "created_at": "2025-10-24T10:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T11:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981675892989637064"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 0,
+          "tag": "真正的女权主义者"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/XShsNkUqqu8436…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/XShsNkUqqu84361/status/1981615374870446343",
+          "start": 10,
+          "url": "https://t.co/7nzTd9Vpvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981675892989637064",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981615374870446343",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#真正的女权主义者 https://t.co/7nzTd9Vpvn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1981675892989637064",
+        "created_at": "2025-10-24T10:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981675892989637064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "真正的女权主义者"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/XShsNkUqqu8436…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/XShsNkUqqu84361/status/1981615374870446343",
+              "start": 10,
+              "url": "https://t.co/7nzTd9Vpvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981675892989637064",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981615374870446343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#真正的女权主义者 https://t.co/7nzTd9Vpvn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971876598652751872",
+        "conversation_id": "1981544778534965701",
+        "created_at": "2025-10-24T06:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T07:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981615374870446343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786441389389266945",
+              "start": 0,
+              "username": "8964Liangx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981615374870446343",
+        "in_reply_to_user_id": "1786441389389266945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981544778534965701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964Liangx 支持贱驴自杀，宝宝自杀是你的权利也是你最后的自由😭😭🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 619,
+          "like_count": 3467,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1594
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T09:56:46.000Z",
+        "description": "随手小号",
+        "id": "1971876598652751872",
+        "name": "晏清",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971876662259408896/b4NOUX3R_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 40,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "XShsNkUqqu84361",
+        "verified": false
+      }
+    ]
+  }
+}

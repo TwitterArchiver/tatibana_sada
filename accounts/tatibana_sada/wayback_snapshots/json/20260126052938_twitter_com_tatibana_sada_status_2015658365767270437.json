@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2015400162810843298",
+    "created_at": "2026-01-26T05:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T06:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015658365767270437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1982839066120048640",
+          "start": 0,
+          "username": "nvdlaamdmag114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015658365767270437",
+    "in_reply_to_user_id": "1982839066120048640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015400162810843298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nvdlaamdmag114 这个主要还是没有油麦感的问题。中国有好新闻的时候我经常转发给我的神友朋友，「我支/大支已经崛起了，恨国党收到通知了吗」"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1773,
+        "media_key": "3_2015400152958423040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gjwtVa0AA8uah.jpg",
+        "width": 1419
+      },
+      {
+        "height": 319,
+        "media_key": "3_2015400152966832128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gjwtXbIAA0YPB.jpg",
+        "width": 460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2015400162810843298",
+        "created_at": "2026-01-26T05:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T06:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015658365767270437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1982839066120048640",
+              "start": 0,
+              "username": "nvdlaamdmag114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015658365767270437",
+        "in_reply_to_user_id": "1982839066120048640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015400162810843298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nvdlaamdmag114 这个主要还是没有油麦感的问题。中国有好新闻的时候我经常转发给我的神友朋友，「我支/大支已经崛起了，恨国党收到通知了吗」"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015400152958423040",
+            "3_2015400152966832128"
+          ]
+        },
+        "author_id": "1982839066120048640",
+        "conversation_id": "2015400162810843298",
+        "created_at": "2026-01-25T12:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015400162810843298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQ65KNxyia",
+              "end": 170,
+              "expanded_url": "https://x.com/nvdlaamdmag114/status/2015400162810843298/photo/1",
+              "media_key": "3_2015400152958423040",
+              "start": 147,
+              "url": "https://t.co/aQ65KNxyia"
+            },
+            {
+              "display_url": "pic.x.com/aQ65KNxyia",
+              "end": 170,
+              "expanded_url": "https://x.com/nvdlaamdmag114/status/2015400162810843298/photo/1",
+              "media_key": "3_2015400152966832128",
+              "start": 147,
+              "url": "https://t.co/aQ65KNxyia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015400162810843298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 750,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "很喜欢vv豆奶的一句话：“只要你自信 怎么表达都可以。” \n而如今却有一大票兼职派、皇汉，天天鼓吹民族文化自信 一口一个昂撒犹太白皮猪、黑鬼螨虫通古斯野猪。 但是一但有人开玩笑式（辱骂式表达中无论使用任何词语辱骂我认为都是有错误的）的使用“支那”等带有歧视性的词语时 便开始拿着近代以来的屈辱 https://t.co/aQ65KNxyia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 994,
+          "like_count": 6969,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2405
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-27T15:57:38.000Z",
+        "description": "",
+        "id": "1982839066120048640",
+        "name": "贝托尔德·康拉德·赫尔曼·阿尔伯特·设计施",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000859063031357440/HgG29lUb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 114,
+          "like_count": 1251,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 1411
+        },
+        "username": "nvdlaamdmag114",
+        "verified": false
+      }
+    ]
+  }
+}

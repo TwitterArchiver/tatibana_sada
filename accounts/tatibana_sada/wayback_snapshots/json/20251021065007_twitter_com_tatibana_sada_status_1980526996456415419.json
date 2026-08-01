@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980513722692169822",
+    "created_at": "2025-10-21T06:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T07:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980526996456415419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1648540039419412481",
+          "start": 0,
+          "username": "FreakyDuckkkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980526996456415419",
+    "in_reply_to_user_id": "1648540039419412481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980513722692169822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreakyDuckkkk 鸡巴越小越进步"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980513722692169822",
+        "created_at": "2025-10-21T06:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T07:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980526996456415419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1648540039419412481",
+              "start": 0,
+              "username": "FreakyDuckkkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980526996456415419",
+        "in_reply_to_user_id": "1648540039419412481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980513722692169822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreakyDuckkkk 鸡巴越小越进步"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648540039419412481",
+        "conversation_id": "1980513722692169822",
+        "created_at": "2025-10-21T05:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T06:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980513722692169822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980513722692169822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "知识越多越反动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 583,
+          "like_count": 3193,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1535
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T04:12:36.000Z",
+        "description": "To Mars a rendezvous!  These dull days sayin' goodbye gravity \n\ncutie owl🐧 @BirbMotorWerks \n\ncutie pigeon🕊️ @Fight_forALL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "BirbMotorWerks"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Fight_forALL"
+              }
+            ]
+          }
+        },
+        "id": "1648540039419412481",
+        "location": "东突厥斯坦再教育营",
+        "name": "IMBABYDUCKLING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653615188774629377/rti_Bbae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6506,
+          "following_count": 912,
+          "like_count": 356201,
+          "listed_count": 27,
+          "media_count": 5424,
+          "tweet_count": 48882
+        },
+        "username": "FreakyDuckkkk",
+        "verified": true
+      }
+    ]
+  }
+}

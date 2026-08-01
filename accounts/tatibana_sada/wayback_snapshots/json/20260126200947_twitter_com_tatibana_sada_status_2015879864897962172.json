@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2015579270190669997",
+    "created_at": "2026-01-26T20:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T21:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015879864897962172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1780544345781006336",
+          "start": 0,
+          "username": "ngn202403"
+        },
+        {
+          "end": 24,
+          "id": "931807368349810688",
+          "start": 11,
+          "username": "jike112_jike"
+        },
+        {
+          "end": 38,
+          "id": "1677732423667445760",
+          "start": 25,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015879864897962172",
+    "in_reply_to_user_id": "1780544345781006336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015806782166503850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ngn202403 @jike112_jike @wuerbangbang 这是合格的逼产阶级对同行恶意竞争无底线倾销的自然健康的阶级感情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2015579270190669997",
+        "created_at": "2026-01-26T20:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T21:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015879864897962172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1780544345781006336",
+              "start": 0,
+              "username": "ngn202403"
+            },
+            {
+              "end": 24,
+              "id": "931807368349810688",
+              "start": 11,
+              "username": "jike112_jike"
+            },
+            {
+              "end": 38,
+              "id": "1677732423667445760",
+              "start": 25,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015879864897962172",
+        "in_reply_to_user_id": "1780544345781006336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015806782166503850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ngn202403 @jike112_jike @wuerbangbang 这是合格的逼产阶级对同行恶意竞争无底线倾销的自然健康的阶级感情。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780544345781006336",
+        "conversation_id": "2015579270190669997",
+        "created_at": "2026-01-26T15:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015806782166503850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "931807368349810688",
+              "start": 0,
+              "username": "jike112_jike"
+            },
+            {
+              "end": 27,
+              "id": "1677732423667445760",
+              "start": 14,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015806782166503850",
+        "in_reply_to_user_id": "931807368349810688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015713485565645192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jike112_jike @wuerbangbang 我想起看到个窦力帖子总结说2025最讨厌的梗，其中有一个就是“得吃”，且不说这就是个三角洲的梗被蚧霉自己认领辱女，不得不说，集美看到有一个男人不通过转移支付就谈上恋爱或者操上逼和她们死了浮木一样难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 995,
+          "like_count": 6983,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2410
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T10:30:32.000Z",
+        "description": "He/Him. The opinion expressed in my likes/retweets does not represent my own position.\n男性主义，少数群体友好（限认同男性主义）\n机器人不要关注我！！！！！",
+        "id": "1780544345781006336",
+        "name": "😹⛓️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015786679399751680/j4HUIA_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 233,
+          "like_count": 38883,
+          "listed_count": 7,
+          "media_count": 454,
+          "tweet_count": 12494
+        },
+        "username": "ngn202403",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T08:52:43.000Z",
+        "description": "男性要学会保护自己｜欢迎私信投稿｜",
+        "id": "931807368349810688",
+        "name": "jike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770473487389294594/AqsssmrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9429,
+          "following_count": 1077,
+          "like_count": 7457,
+          "listed_count": 39,
+          "media_count": 1093,
+          "tweet_count": 3845
+        },
+        "username": "jike112_jike",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国家博物馆前馆员。文史艺术、书画篆刻、旅游手工、猫咪爱好者。对世界有旺盛的探索欲，喜欢有趣的人🤒PhDing of folklore, graduated from @PKU1898, Hmong,  lover of history, heritage, art & kitty🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "北京",
+        "name": "吴二棒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4639,
+          "following_count": 674,
+          "like_count": 8623,
+          "listed_count": 15,
+          "media_count": 1636,
+          "tweet_count": 5118
+        },
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

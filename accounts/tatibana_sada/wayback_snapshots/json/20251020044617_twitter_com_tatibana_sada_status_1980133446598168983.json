@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980098237244870763",
+    "created_at": "2025-10-20T04:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T05:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980133446598168983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1401733664682102786",
+          "start": 0,
+          "username": "mukdengise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980133446598168983",
+    "in_reply_to_user_id": "1401733664682102786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980098237244870763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mukdengise 女权没有先锋队哇。缺乏自肃力。\n列宁他老人家有党。所以要搞新经济的时候能拴住「左倾激进」。中道女权没举行赛博批斗会，把一小撮坏人定性成「混进女权队伍里的叛徒内奸女贼」前，这真的也确实没有什么讨论价值。\n最终我决定紧跟音羽中步伐，男权有什么不好的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980098237244870763",
+        "created_at": "2025-10-20T04:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T05:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980133446598168983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1401733664682102786",
+              "start": 0,
+              "username": "mukdengise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980133446598168983",
+        "in_reply_to_user_id": "1401733664682102786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980098237244870763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mukdengise 女权没有先锋队哇。缺乏自肃力。\n列宁他老人家有党。所以要搞新经济的时候能拴住「左倾激进」。中道女权没举行赛博批斗会，把一小撮坏人定性成「混进女权队伍里的叛徒内奸女贼」前，这真的也确实没有什么讨论价值。\n最终我决定紧跟音羽中步伐，男权有什么不好的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1980098237244870763",
+        "created_at": "2025-10-20T02:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T03:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980098237244870763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lianshufa/stat…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/lianshufa/status/1979877643354005966",
+              "start": 94,
+              "url": "https://t.co/34ZaLaqgSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980098237244870763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1173,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979877643354005966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个tweet串下面一致认为“女权=反跨”的人咋那么多，这个印象变成公共认知也是挺危险的（感觉说这句话的往往都没怎么接触过女权圈子，就是想看他们讨厌的女权和跨子互扯头花自己坐收渔利而已） https://t.co/34ZaLaqgSP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 564,
+          "like_count": 3110,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1511
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "爱人类的探险者/IG: ilhajugvn/烹饪日常请见 #花路食堂/桔：@__Ju___Ju__/垃圾桶小号：@Lulu_ilha",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "花路食堂"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "__Ju___Ju__"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "Lulu_ilha"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960404590417076226/igUxxyXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9110,
+          "following_count": 733,
+          "like_count": 135842,
+          "listed_count": 49,
+          "media_count": 1687,
+          "tweet_count": 22050
+        },
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

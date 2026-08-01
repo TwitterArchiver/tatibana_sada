@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949434753150832640"
+      ],
+      "media_source_tweet_id": [
+        "1949434766216114505"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1998922572893925547",
+    "created_at": "2025-12-11T01:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T02:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998922572893925547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1491112543250640896",
+          "start": 3,
+          "username": "sbzj2022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AT5V153Gj1",
+          "end": 133,
+          "expanded_url": "https://x.com/sbzj2022/status/1949434766216114505/photo/1",
+          "media_key": "3_1949434753150832640",
+          "start": 110,
+          "url": "https://t.co/AT5V153Gj1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998922572893925547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949434766216114505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sbzj2022: 如果不出意外，我估计今年11月解放军就会登岛。至于登岛后如何管理，我估计大概率还是会实行接近香港的模式，台人制台。民进党会被禁。国军会被收编，部分将领将被委以重任。毕竟国军才是解放台湾的功臣 https://t.co/AT5V153Gj1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1949434753150832640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3IlFZbUAAYdfw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949434753150832640"
+          ],
+          "media_source_tweet_id": [
+            "1949434766216114505"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1998922572893925547",
+        "created_at": "2025-12-11T01:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T02:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998922572893925547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1491112543250640896",
+              "start": 3,
+              "username": "sbzj2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AT5V153Gj1",
+              "end": 133,
+              "expanded_url": "https://x.com/sbzj2022/status/1949434766216114505/photo/1",
+              "media_key": "3_1949434753150832640",
+              "start": 110,
+              "url": "https://t.co/AT5V153Gj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998922572893925547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949434766216114505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sbzj2022: 如果不出意外，我估计今年11月解放军就会登岛。至于登岛后如何管理，我估计大概率还是会实行接近香港的模式，台人制台。民进党会被禁。国军会被收编，部分将领将被委以重任。毕竟国军才是解放台湾的功臣 https://t.co/AT5V153Gj1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949434753150832640"
+          ]
+        },
+        "author_id": "1491112543250640896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1949434766216114505",
+        "created_at": "2025-07-27T11:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949434766216114505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AT5V153Gj1",
+              "end": 119,
+              "expanded_url": "https://x.com/sbzj2022/status/1949434766216114505/photo/1",
+              "media_key": "3_1949434753150832640",
+              "start": 96,
+              "url": "https://t.co/AT5V153Gj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949434766216114505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 845,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果不出意外，我估计今年11月解放军就会登岛。至于登岛后如何管理，我估计大概率还是会实行接近香港的模式，台人制台。民进党会被禁。国军会被收编，部分将领将被委以重任。毕竟国军才是解放台湾的功臣 https://t.co/AT5V153Gj1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 1001,
+          "like_count": 6854,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2381
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T18:12:04.000Z",
+        "description": "所有存世的政治制度都是反人性的。",
+        "id": "1491112543250640896",
+        "name": "睡不着教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753264108491988992/Nx3BtRiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 103,
+          "like_count": 333,
+          "listed_count": 10,
+          "media_count": 26,
+          "tweet_count": 8755
+        },
+        "username": "sbzj2022",
+        "verified": false
+      }
+    ]
+  }
+}

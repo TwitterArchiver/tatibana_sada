@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2064040914398720357",
+    "created_at": "2026-06-08T19:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T20:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064073326075756957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1552587744576057345",
+          "start": 0,
+          "username": "zhinarensb8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064073326075756957",
+    "in_reply_to_user_id": "1552587744576057345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064040914398720357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarensb8964 能不爱党吗。全球头号反老鼠上桌神国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064040914398720357",
+        "created_at": "2026-06-08T19:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064073326075756957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1552587744576057345",
+              "start": 0,
+              "username": "zhinarensb8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064073326075756957",
+        "in_reply_to_user_id": "1552587744576057345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064040914398720357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarensb8964 能不爱党吗。全球头号反老鼠上桌神国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552587744576057345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          }
+        ],
+        "conversation_id": "2064040914398720357",
+        "created_at": "2026-06-08T17:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064040914398720357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lucky_fischl/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/lucky_fischl/status/2063698115040055801",
+              "start": 67,
+              "url": "https://t.co/jiNYLckDPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064040914398720357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063698115040055801",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爱支倭猴属实给我整笑了。中共一直是亚洲和平的核心，没有中共管着国内14亿条疯狗大支早就跟你们干起来了。你共产党爹的恩情你永远还不完😅 https://t.co/jiNYLckDPg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 1284,
+          "like_count": 9117,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3123
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T09:32:29.000Z",
+        "description": "忍耐~\n一代目@zhinarencnm8964\n二代目@zhinarensml8964\n四代目@zhinarencs8964\n⚠我会屏蔽垃圾账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "zhinarencnm8964"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "zhinarensml8964"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "1552587744576057345",
+        "location": "喜欢扣帽子给人认爹的小支蛆你们好啊，你冯被我艹的在天上乱飞",
+        "name": "古美门 正雄🌸⛩️",
+        "pinned_tweet_id": "2061774434013413816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061183033072668672/ru0r5tpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 718,
+          "like_count": 26459,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 2636
+        },
+        "username": "zhinarensb8964",
+        "verified": false
+      }
+    ]
+  }
+}

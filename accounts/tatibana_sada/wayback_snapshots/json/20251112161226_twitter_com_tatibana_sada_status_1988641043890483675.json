@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988555441400582603",
+    "created_at": "2025-11-12T16:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988641043890483675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1011298125225422848",
+          "start": 0,
+          "username": "Tang_Shuoyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988641043890483675",
+    "in_reply_to_user_id": "1011298125225422848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988555441400582603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tang_Shuoyang 万歳🙌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 398,
+        "media_key": "3_1988555438846275584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jEosSacAATr2C.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988555441400582603",
+        "created_at": "2025-11-12T16:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988641043890483675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1011298125225422848",
+              "start": 0,
+              "username": "Tang_Shuoyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988641043890483675",
+        "in_reply_to_user_id": "1011298125225422848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988555441400582603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tang_Shuoyang 万歳🙌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988555438846275584"
+          ]
+        },
+        "author_id": "1011298125225422848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "1988555441400582603",
+        "created_at": "2025-11-12T10:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988555441400582603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fT6soyFhLI",
+              "end": 173,
+              "expanded_url": "https://x.com/Tang_Shuoyang/status/1988555441400582603/photo/1",
+              "media_key": "3_1988555438846275584",
+              "start": 150,
+              "url": "https://t.co/fT6soyFhLI"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c5518704462595fe"
+        },
+        "id": "1988555441400582603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "窝佬竟然有400粉了 大変恐縮了\n本推将继续更新政治学/儒学/应用现象学/国际政治/神道学/碑学与训诂/黑格尔/早期西马or第一代法兰克福/工科离散数学/分哲入门这些我所知道的知识和（不正常的）推论。\n以及一些个人的日常生活，读书，练字，神社参拜，游戏截图与半額弁当発見作戦。\n\n十分感谢您的关注。 https://t.co/fT6soyFhLI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 827,
+          "like_count": 5314,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1937
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-25T17:20:36.000Z",
+        "description": "吉林大学→BOCHK→名古屋大学(M2)/Political Phenomenology、政治過程論、西マ。\n絶対王政/神道文献訓詁（君主主義者役）左翼研究(本人) \n【不要以为到资本主义日本就没有儒了！😤👎】\n#ブルアカ #艦これ  (退役) #pjsk (通販)随缘フォロバ\n要回关请✉️🥺🌹",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 106,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 116,
+                "start": 112,
+                "tag": "艦これ"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "pjsk"
+              }
+            ]
+          }
+        },
+        "id": "1011298125225422848",
+        "location": "豊葦原中国",
+        "name": "Nicholas Don",
+        "pinned_tweet_id": "1648348923785003008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929953311429668867/2eZF6dcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 201,
+          "like_count": 32953,
+          "listed_count": 10,
+          "media_count": 983,
+          "tweet_count": 4181
+        },
+        "username": "Tang_Shuoyang",
+        "verified": false
+      }
+    ]
+  }
+}

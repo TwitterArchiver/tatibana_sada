@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1992950307819847800",
+    "created_at": "2025-11-25T14:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T15:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993333202975703357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "918330573604524032",
+          "start": 0,
+          "username": "JiangZeNico1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993333202975703357",
+    "in_reply_to_user_id": "918330573604524032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992950307819847800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiangZeNico1 我的意见是，在这一点你对去增长论是怎么看的呢。诚望尊复。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_1992950181256724482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hhoXjbgAISr1y.jpg",
+        "width": 964
+      },
+      {
+        "height": 325,
+        "media_key": "3_1992950286617595904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hhugDa0AA3k4q.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992950307819847800",
+        "created_at": "2025-11-25T14:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993333202975703357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "918330573604524032",
+              "start": 0,
+              "username": "JiangZeNico1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993333202975703357",
+        "in_reply_to_user_id": "918330573604524032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992950307819847800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiangZeNico1 我的意见是，在这一点你对去增长论是怎么看的呢。诚望尊复。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992950181256724482",
+            "3_1992950286617595904"
+          ]
+        },
+        "author_id": "918330573604524032",
+        "conversation_id": "1992950307819847800",
+        "created_at": "2025-11-24T13:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992950307819847800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fh80uQbUTi",
+              "end": 164,
+              "expanded_url": "https://x.com/JiangZeNico1/status/1992950307819847800/photo/1",
+              "media_key": "3_1992950181256724482",
+              "start": 141,
+              "url": "https://t.co/Fh80uQbUTi"
+            },
+            {
+              "display_url": "pic.x.com/Fh80uQbUTi",
+              "end": 164,
+              "expanded_url": "https://x.com/JiangZeNico1/status/1992950307819847800/photo/1",
+              "media_key": "3_1992950286617595904",
+              "start": 141,
+              "url": "https://t.co/Fh80uQbUTi"
+            },
+            {
+              "display_url": "x.com/JiangZeNico1/s…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/JiangZeNico1/status/1991434671432110417",
+              "start": 165,
+              "url": "https://t.co/jUdRfuLw9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992950307819847800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 878,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991434671432110417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "进步主义说穿了就是一种基于科技奇点必然到来这一目的论神话而建构的期货交易，然后由于科技奇点永远只在地平线上就变成一种望梅止渴的期权交易，还被不断衍生出各种垃圾次贷，这也是为什么金融自由派必然要招安收编文化左派，没有文化界精英专职提振信徒的信心和清洗打击异见人士，庞氏骗局早就完蛋了 https://t.co/Fh80uQbUTi https://t.co/jUdRfuLw9q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 938,
+          "like_count": 6198,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2243
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-12T04:20:45.000Z",
+        "description": "天天吃肉我吃不胖，天天炼铜我身体棒，要是你不被我辉，你的心里空荡荡。\n吾殺若輩，實救若輩於世上諸苦。雖殺之，而實愛之也",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "http://www.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/f8kZM9MoFg"
+              }
+            ]
+          }
+        },
+        "id": "918330573604524032",
+        "location": "江苏, 南京大屠杀遇难同胞纪念馆",
+        "name": "江泽妮可X朱镕姬",
+        "pinned_tweet_id": "1973750950583222745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486262637864562689/Jlfxn0kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 5334,
+          "like_count": 6569,
+          "listed_count": 15,
+          "media_count": 234,
+          "tweet_count": 4760
+        },
+        "url": "https://t.co/f8kZM9MoFg",
+        "username": "JiangZeNico1",
+        "verified": false
+      }
+    ]
+  }
+}

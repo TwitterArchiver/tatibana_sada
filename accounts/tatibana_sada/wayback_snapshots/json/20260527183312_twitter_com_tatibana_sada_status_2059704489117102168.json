@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2058910468329394675",
+    "created_at": "2026-05-27T18:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059704489117102168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597468568290873344",
+          "start": 0,
+          "username": "jingzhny11"
+        },
+        {
+          "end": 22,
+          "id": "858927366269157377",
+          "start": 12,
+          "username": "gzg040234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059704489117102168",
+    "in_reply_to_user_id": "1597468568290873344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059702656256668121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzhny11 @gzg040234 我也经历过药物滥用。我还想活着，我的人生有许多责任，我不想剧烈变形。\n而导致人药物滥用来缓解压力的那些社会情况不能通过OD来解决，甚至如果失去了做出有效的行动的能力，那么情况当然会更糟。\n我对华尔街之狼们磕可卡因没有意见，因为这是他们的庆功酒。而让人失去做为的能力的麻醉剂——很该死啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058910468329394675",
+        "created_at": "2026-05-27T18:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059704489117102168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597468568290873344",
+              "start": 0,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 22,
+              "id": "858927366269157377",
+              "start": 12,
+              "username": "gzg040234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059704489117102168",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059702656256668121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzhny11 @gzg040234 我也经历过药物滥用。我还想活着，我的人生有许多责任，我不想剧烈变形。\n而导致人药物滥用来缓解压力的那些社会情况不能通过OD来解决，甚至如果失去了做出有效的行动的能力，那么情况当然会更糟。\n我对华尔街之狼们磕可卡因没有意见，因为这是他们的庆功酒。而让人失去做为的能力的麻醉剂——很该死啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597468568290873344",
+        "conversation_id": "2058910468329394675",
+        "created_at": "2026-05-27T18:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059702656256668121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 25,
+              "id": "858927366269157377",
+              "start": 15,
+              "username": "gzg040234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059702656256668121",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059700821143822530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @gzg040234 …好吧我今天暴躁的有点异常，肯定因为我没有吃安非他酮导致的，但是我就是讨厌这些吃了也不能给我带来快乐只是我不得不吃的药物所以我就是会经常忘记吃它们😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 1236,
+          "like_count": 8829,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2962
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5377,
+          "following_count": 2015,
+          "like_count": 125272,
+          "listed_count": 22,
+          "media_count": 260,
+          "tweet_count": 18674
+        },
+        "username": "jingzhny11",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-01T06:13:37.000Z",
+        "description": "P主出道锐意准备中/ᐠ｡ꞈ｡ᐟ\\",
+        "id": "858927366269157377",
+        "location": "中华人民共和国",
+        "name": "千夜一夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051337269106364421/JrE9WV58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 4011,
+          "like_count": 14670,
+          "listed_count": 15,
+          "media_count": 130,
+          "tweet_count": 741
+        },
+        "username": "gzg040234",
+        "verified": false
+      }
+    ]
+  }
+}

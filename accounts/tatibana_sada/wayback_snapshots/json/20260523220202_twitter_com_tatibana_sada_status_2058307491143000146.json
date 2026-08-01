@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2058217555505168699",
+    "created_at": "2026-05-23T22:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T23:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058307491143000146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1703963332020146176",
+          "start": 0,
+          "username": "The_RadicalDino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058307491143000146",
+    "in_reply_to_user_id": "1703963332020146176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058217555505168699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@The_RadicalDino 应该把阳和平介绍给他们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058217555505168699",
+        "created_at": "2026-05-23T22:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T23:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058307491143000146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1703963332020146176",
+              "start": 0,
+              "username": "The_RadicalDino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058307491143000146",
+        "in_reply_to_user_id": "1703963332020146176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058217555505168699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@The_RadicalDino 应该把阳和平介绍给他们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703963332020146176",
+        "conversation_id": "2058217555505168699",
+        "created_at": "2026-05-23T16:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058217555505168699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/NmutPxYm2Vw?si…",
+              "end": 246,
+              "expanded_url": "https://youtu.be/NmutPxYm2Vw?si=GY_PWRw6MIc7lkSH",
+              "start": 223,
+              "status": 200,
+              "title": "Growing Up In China as a White Man in the 1950s",
+              "unwound_url": "https://www.youtube.com/watch?si=GY_PWRw6MIc7lkSH&v=NmutPxYm2Vw&feature=youtu.be",
+              "url": "https://t.co/g1awHeAvAL"
+            },
+            {
+              "display_url": "x.com/camliekr/statu…",
+              "end": 270,
+              "expanded_url": "https://twitter.com/camliekr/status/2058136682000695402",
+              "start": 247,
+              "url": "https://t.co/mdVKtjye7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058217555505168699",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2029,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058136682000695402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "It's funny how much Nazis and dumbass rightoids are coping about this due to their own bigotry.\nIn Manchuria, there's about 15000 Slavic Chinese who live their life as regular northern Chinese farmers.\nOr the example here:\nhttps://t.co/g1awHeAvAL https://t.co/mdVKtjye7k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 1187,
+          "like_count": 8414,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2784
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T02:45:23.000Z",
+        "description": "They/He\nThe Lord of Shang-Yang!\nChinese Libertarian Socialist who's also a Zoologist! \nConservation, Zoology, and Political Philosophy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@TheRadicalDin…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@TheRadicalDino?si=PmyaI9AwRSrJVOTB",
+                "start": 0,
+                "url": "https://t.co/MAnua6sdOJ"
+              }
+            ]
+          }
+        },
+        "id": "1703963332020146176",
+        "location": "Shang-Yang, Western Provinces",
+        "name": "The RadicalDino",
+        "pinned_tweet_id": "1881081013289529702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705807724054020096/43vUbgkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2980,
+          "following_count": 1132,
+          "like_count": 401770,
+          "listed_count": 17,
+          "media_count": 1222,
+          "tweet_count": 18723
+        },
+        "url": "https://t.co/MAnua6sdOJ",
+        "username": "The_RadicalDino",
+        "verified": false
+      }
+    ]
+  }
+}

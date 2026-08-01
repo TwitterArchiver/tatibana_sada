@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980095618409460091",
+    "created_at": "2025-10-21T00:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T01:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980430849385591262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2842549538",
+          "start": 0,
+          "username": "Reflectier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980430849385591262",
+    "in_reply_to_user_id": "2842549538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980429182401409254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reflectier 忠诚的说，这对我是一种赞誉。\n并且外星人技术也不是一种完全的讽刺。我也确实是在认真的这样子考虑的哇。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980095618409460091",
+        "created_at": "2025-10-21T00:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T01:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980430849385591262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2842549538",
+              "start": 0,
+              "username": "Reflectier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980430849385591262",
+        "in_reply_to_user_id": "2842549538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980429182401409254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reflectier 忠诚的说，这对我是一种赞誉。\n并且外星人技术也不是一种完全的讽刺。我也确实是在认真的这样子考虑的哇。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2842549538",
+        "conversation_id": "1980095618409460091",
+        "created_at": "2025-10-21T00:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T01:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980429182401409254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980429182401409254",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980428448482148507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 斗争意识能不能不要这么强…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 573,
+          "like_count": 3131,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1520
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-06T17:18:11.000Z",
+        "description": "夜撫でるネコたち",
+        "id": "2842549538",
+        "location": "Victoria, Australia",
+        "name": "森絵",
+        "pinned_tweet_id": "1932021028630471065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846808286911516675/P3TRVVwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 529,
+          "like_count": 22493,
+          "listed_count": 8,
+          "media_count": 836,
+          "tweet_count": 15156
+        },
+        "username": "Reflectier",
+        "verified": false
+      }
+    ]
+  }
+}

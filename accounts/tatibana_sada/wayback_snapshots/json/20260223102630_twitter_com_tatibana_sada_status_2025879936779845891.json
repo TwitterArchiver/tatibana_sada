@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2025879936779845891",
+    "created_at": "2026-02-23T10:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T11:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025879936779845891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "931807368349810688",
+          "start": 3,
+          "username": "jike112_jike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025879936779845891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025755945733882064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jike112_jike: 就是之前那个16岁旧女童自己发脾气拒绝上轿，于是村民也不惯着选出新女童，然后16岁旧女童见状气急败坏嫉妒心上来了，赶紧跑过去闹。然后女权趁机做文章，什么妈祖换耀祖。当然我是支持以后女童改成男童的，换成男童根本没这么多屁事，也不会因为嫉妒心导致…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1044,
+        "media_key": "3_2025753857020870656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBzsZmobQAAXZTF.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2025879936779845891",
+        "created_at": "2026-02-23T10:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025879936779845891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "931807368349810688",
+              "start": 3,
+              "username": "jike112_jike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025879936779845891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025755945733882064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jike112_jike: 就是之前那个16岁旧女童自己发脾气拒绝上轿，于是村民也不惯着选出新女童，然后16岁旧女童见状气急败坏嫉妒心上来了，赶紧跑过去闹。然后女权趁机做文章，什么妈祖换耀祖。当然我是支持以后女童改成男童的，换成男童根本没这么多屁事，也不会因为嫉妒心导致…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025753857020870656"
+          ]
+        },
+        "author_id": "931807368349810688",
+        "conversation_id": "2025755945733882064",
+        "created_at": "2026-02-23T02:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T03:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025755945733882064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lpSYTg5lRF",
+              "end": 166,
+              "expanded_url": "https://x.com/jike112_jike/status/2025755945733882064/photo/1",
+              "media_key": "3_2025753857020870656",
+              "start": 143,
+              "url": "https://t.co/lpSYTg5lRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025755945733882064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "就是之前那个16岁旧女童自己发脾气拒绝上轿，于是村民也不惯着选出新女童，然后16岁旧女童见状气急败坏嫉妒心上来了，赶紧跑过去闹。然后女权趁机做文章，什么妈祖换耀祖。当然我是支持以后女童改成男童的，换成男童根本没这么多屁事，也不会因为嫉妒心导致闹得这么大。这件事说明了确实只有男的配当耀祖，这么简单的屁事情因为一个女人的嫉妒心闹得整个家族遭殃。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 11788,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "就是之前那个16岁旧女童自己发脾气拒绝上轿，于是村民也不惯着选出新女童，然后16岁旧女童见状气急败坏嫉妒心上来了，赶紧跑过去闹。然后女权趁机做文章，什么妈祖换耀祖。当然我是支持以后女童改成男童的，换成男童根本没这么多屁事，也不会因为嫉妒心导致闹得这么大。这件事说明了确实只有男的配当耀 https://t.co/lpSYTg5lRF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 1010,
+          "like_count": 7308,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2455
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T08:52:43.000Z",
+        "description": "只帮自己说话",
+        "id": "931807368349810688",
+        "name": "jike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770473487389294594/AqsssmrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9947,
+          "following_count": 1190,
+          "like_count": 7705,
+          "listed_count": 44,
+          "media_count": 1324,
+          "tweet_count": 4237
+        },
+        "username": "jike112_jike",
+        "verified": true
+      }
+    ]
+  }
+}

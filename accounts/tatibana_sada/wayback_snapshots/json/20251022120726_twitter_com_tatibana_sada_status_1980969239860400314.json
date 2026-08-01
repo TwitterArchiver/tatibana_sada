@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980969239860400314",
+    "created_at": "2025-10-22T12:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T13:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980969239860400314"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 0,
+          "tag": "真正的女权主义者"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/time89flies64/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/time89flies64/status/1980638739874664511",
+          "start": 10,
+          "url": "https://t.co/az9eFzm2do"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980969239860400314",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980638739874664511",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#真正的女权主义者 https://t.co/az9eFzm2do"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980969239860400314",
+        "created_at": "2025-10-22T12:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980969239860400314"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "真正的女权主义者"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/time89flies64/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/time89flies64/status/1980638739874664511",
+              "start": 10,
+              "url": "https://t.co/az9eFzm2do"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980969239860400314",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980638739874664511",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#真正的女权主义者 https://t.co/az9eFzm2do"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831760154527772673",
+        "conversation_id": "1980638739874664511",
+        "created_at": "2025-10-21T14:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T15:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980638739874664511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980638739874664511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 830,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天将是本激女的骟畜日😌每一头冒犯姥子的驴蛆都会荣幸地被姥子骟。感觉我每骟一次，就告诉之前被驴蛆伤害的弱小痛苦无助的自己一次，我现在有能力给我报仇啦😌我现在有能力保护我自己啦，我坚定地站在我身边，再也没有哪头畜能动摇我爱我自己的决心啦😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 598,
+          "like_count": 3294,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1563
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T18:24:15.000Z",
+        "description": "RadFem 7b4t 三争三反｜整理和输出观点｜世界是我的屠宰场",
+        "id": "1831760154527772673",
+        "name": "妏89娬64",
+        "pinned_tweet_id": "1894680024189640789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898178605785792513/tIWaUUzT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 132,
+          "like_count": 7667,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 1023
+        },
+        "username": "time89flies64",
+        "verified": false
+      }
+    ]
+  }
+}

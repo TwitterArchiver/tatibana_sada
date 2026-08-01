@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059218467799376292",
+    "created_at": "2026-05-26T10:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059218467799376292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GFWfrog/status…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/GFWfrog/status/2059204489693819372",
+          "start": 49,
+          "url": "https://t.co/8kqjBqvG55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059218467799376292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059204489693819372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这才好玩，我早说了成天苦大仇深逼逼叨叨万恶CCP万恶习近平没前途的，做成有意思的游戏才是好方法。 https://t.co/8kqjBqvG55"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2120,
+        "media_key": "3_2059204486791401472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPDkhMXkAA-9JX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059218467799376292",
+        "created_at": "2026-05-26T10:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059218467799376292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GFWfrog/status…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/GFWfrog/status/2059204489693819372",
+              "start": 49,
+              "url": "https://t.co/8kqjBqvG55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059218467799376292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059204489693819372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这才好玩，我早说了成天苦大仇深逼逼叨叨万恶CCP万恶习近平没前途的，做成有意思的游戏才是好方法。 https://t.co/8kqjBqvG55"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059204486791401472"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2059204489693819372",
+        "created_at": "2026-05-26T09:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059204489693819372"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "大躺平运动"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "datangping.com",
+              "end": 60,
+              "expanded_url": "http://datangping.com",
+              "start": 37,
+              "status": 200,
+              "title": "大躺平",
+              "unwound_url": "https://datangping.com/",
+              "url": "https://t.co/h1XE3umsy0"
+            },
+            {
+              "display_url": "pic.x.com/fYYoWquK37",
+              "end": 100,
+              "expanded_url": "https://x.com/GFWfrog/status/2059204489693819372/photo/1",
+              "media_key": "3_2059204486791401472",
+              "start": 77,
+              "url": "https://t.co/fYYoWquK37"
+            },
+            {
+              "display_url": "x.com/GFWfrog/status…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/GFWfrog/status/2058872944034558054",
+              "start": 101,
+              "url": "https://t.co/Dei7ITaN4s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059204489693819372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4100,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058872944034558054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "墙国首个 #大躺平运动 官方页游上线啦！！！\n\n性感墙民，在线躺平，点击 https://t.co/h1XE3umsy0 ，给您不一样的躺平体验🥰😘🐸！ https://t.co/fYYoWquK37 https://t.co/Dei7ITaN4s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 1217,
+          "like_count": 8718,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2913
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "投稿方式：私信 或 https://t.co/aVPvX0T16B 网页投稿 150岁爷习近平粉丝群：https://t.co/tzbqdA1XzO\n电报频道：https://t.co/Evu48wn45r \n#习近平150岁倒计时 #大自爆运动 #大冲塔运动 #大涂鸦运动 #大躺平运动\n邮箱：gfwfrog@gmail.com 🐸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 105,
+                "tag": "习近平150岁倒计时"
+              },
+              {
+                "end": 123,
+                "start": 117,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 130,
+                "start": 124,
+                "tag": "大冲塔运动"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "大涂鸦运动"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "大躺平运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gfwbao.com",
+                "end": 33,
+                "expanded_url": "http://gfwbao.com",
+                "start": 10,
+                "url": "https://t.co/aVPvX0T16B"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 74,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 51,
+                "url": "https://t.co/tzbqdA1XzO"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 103,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 80,
+                "url": "https://t.co/Evu48wn45r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85Q3u"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2058872944034558054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050371764165767168/HypsUXGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264829,
+          "following_count": 2519,
+          "like_count": 126854,
+          "listed_count": 917,
+          "media_count": 7359,
+          "tweet_count": 13945
+        },
+        "url": "https://t.co/B3cyU85Q3u",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

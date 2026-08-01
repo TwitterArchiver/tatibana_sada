@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987902266834342150",
+    "created_at": "2025-11-11T01:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T02:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988054568782209486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417020458801799170",
+          "start": 0,
+          "username": "UmiNeko11101010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988054568782209486",
+    "in_reply_to_user_id": "1417020458801799170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987902266834342150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UmiNeko11101010 将军再不收敛，鬼子要被杀到亡国灭种了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987902266834342150",
+        "created_at": "2025-11-11T01:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T02:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988054568782209486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417020458801799170",
+              "start": 0,
+              "username": "UmiNeko11101010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988054568782209486",
+        "in_reply_to_user_id": "1417020458801799170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987902266834342150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UmiNeko11101010 将军再不收敛，鬼子要被杀到亡国灭种了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417020458801799170",
+        "conversation_id": "1987902266834342150",
+        "created_at": "2025-11-10T15:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T16:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987902266834342150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cuichenghao7/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/cuichenghao7/status/1987696877836357670",
+              "start": 12,
+              "url": "https://t.co/1vsAOPmiXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987902266834342150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 453,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987696877836357670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "典中典之随机刷新的鬼子 https://t.co/1vsAOPmiXL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 798,
+          "like_count": 5075,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1885
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T07:16:28.000Z",
+        "description": "25岁，是社长。目前卡店运营中。\n同时也是小说作者，个人投资者，旅行者。\n卡店在 https://t.co/G738UDU6DM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "maps.app.goo.gl/wBuqVyeLPG4y3C…",
+                "end": 64,
+                "expanded_url": "https://maps.app.goo.gl/wBuqVyeLPG4y3C9ZA",
+                "start": 41,
+                "url": "https://t.co/G738UDU6DM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stellacards.net",
+                "end": 23,
+                "expanded_url": "https://stellacards.net/",
+                "start": 0,
+                "url": "https://t.co/cnvF7v91yU"
+              }
+            ]
+          }
+        },
+        "id": "1417020458801799170",
+        "location": "大阪市北区天神桥三丁目5-9 スタートレカ",
+        "name": "浮世",
+        "pinned_tweet_id": "1963144010987684083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813055870504476674/e3JN8Yi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6323,
+          "following_count": 788,
+          "like_count": 179983,
+          "listed_count": 33,
+          "media_count": 4105,
+          "tweet_count": 23480
+        },
+        "url": "https://t.co/cnvF7v91yU",
+        "username": "UmiNeko11101010",
+        "verified": true
+      }
+    ]
+  }
+}

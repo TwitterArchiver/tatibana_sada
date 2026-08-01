@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1978829306827620644",
+    "created_at": "2025-10-17T08:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T09:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979102375332954311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1439042200940253185",
+          "start": 0,
+          "username": "QzuserX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979102375332954311",
+    "in_reply_to_user_id": "1439042200940253185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978829306827620644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QzuserX 我很饥饿 抓菜人来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1978829306827620644",
+        "created_at": "2025-10-17T08:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979102375332954311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1439042200940253185",
+              "start": 0,
+              "username": "QzuserX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979102375332954311",
+        "in_reply_to_user_id": "1439042200940253185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978829306827620644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QzuserX 我很饥饿 抓菜人来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439042200940253185",
+        "conversation_id": "1978829306827620644",
+        "created_at": "2025-10-16T14:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T15:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978829306827620644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SilenceGvq/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/SilenceGvq/status/1978704610530300320",
+              "start": 19,
+              "url": "https://t.co/0VCb5nBt3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978829306827620644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 13817,
+          "like_count": 115,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978704610530300320",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那就多工业化养肉人吧，我想吃人肉了。 https://t.co/0VCb5nBt3d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 552,
+          "like_count": 2930,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1469
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-18T01:43:03.000Z",
+        "description": "Dem-Socialism&Pan-Asianism.     横幅是神奈川冲浪兔.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "QzuserX.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://QzuserX.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/jAJFNvN4Mr"
+              }
+            ]
+          }
+        },
+        "id": "1439042200940253185",
+        "location": "北落师门座",
+        "name": "𝑸𝒁𝑼𝑺𝑬𝑹",
+        "pinned_tweet_id": "1936926169737404747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977587933046865920/yvAJA0D5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 750,
+          "like_count": 134453,
+          "listed_count": 18,
+          "media_count": 2740,
+          "tweet_count": 23940
+        },
+        "url": "https://t.co/jAJFNvN4Mr",
+        "username": "QzuserX",
+        "verified": false
+      }
+    ]
+  }
+}

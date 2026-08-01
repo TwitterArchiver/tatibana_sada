@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2055965229075341770",
+    "created_at": "2026-05-17T18:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T19:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056079145113940239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1853947357307531267",
+          "start": 0,
+          "username": "dfyzator_15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056079145113940239",
+    "in_reply_to_user_id": "1853947357307531267",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055965229075341770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfyzator_15 My friend my dm function is broken so can you reply me here that how you view me?I dont meet people from rus on twitter very often so I'm interested about it.\nЗдравствуйте sorry my Russian bad because i only learned it a few month when i was 13🥲🥲🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2055965229075341770",
+        "created_at": "2026-05-17T18:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056079145113940239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1853947357307531267",
+              "start": 0,
+              "username": "dfyzator_15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056079145113940239",
+        "in_reply_to_user_id": "1853947357307531267",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055965229075341770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfyzator_15 My friend my dm function is broken so can you reply me here that how you view me?I dont meet people from rus on twitter very often so I'm interested about it.\nЗдравствуйте sorry my Russian bad because i only learned it a few month when i was 13🥲🥲🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853947357307531267",
+        "conversation_id": "2055965229075341770",
+        "created_at": "2026-05-17T10:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055965229075341770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fabianx_cap/st…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/fabianx_cap/status/2055960624710959235",
+              "start": 68,
+              "url": "https://t.co/w2mcZ0OsuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055965229075341770",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055960624710959235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Its the biggest anti capitalist argument from ancap I've ever seen. https://t.co/w2mcZ0OsuN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1122,
+          "like_count": 7858,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2581
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T23:48:00.000Z",
+        "description": "Христианский социалист за акселерационизм и автоматизацию живу в🇷🇺 люблю🇨🇳🇻🇪☫🇧🇾🇷🇸🇧🇷🇰🇵🇻🇳🇨🇺🇧🇫",
+        "id": "1853947357307531267",
+        "location": "Магнитогорск, Челябинская обла",
+        "name": "dfyzator15☭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050722709978730496/6dS0lxMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 100,
+          "like_count": 4822,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 243
+        },
+        "username": "dfyzator_15",
+        "verified": false
+      }
+    ]
+  }
+}

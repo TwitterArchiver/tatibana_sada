@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2077004574460875031",
+    "created_at": "2026-07-14T12:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077004574460875031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AmadeusBolshev…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/AmadeusBolshev/status/2076396174701953327",
+          "start": 9,
+          "url": "https://t.co/h0jWROmB6q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077004574460875031",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076396174701953327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全网呼叫十月烽火 https://t.co/h0jWROmB6q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2076377701909458944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNDGhM3a8AAlJKk.jpg",
+        "width": 360
+      },
+      {
+        "height": 680,
+        "media_key": "3_2076377701880119297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNDGhMwbQAESKBp.jpg",
+        "width": 511
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2077004574460875031",
+        "created_at": "2026-07-14T12:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077004574460875031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AmadeusBolshev…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/AmadeusBolshev/status/2076396174701953327",
+              "start": 9,
+              "url": "https://t.co/h0jWROmB6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077004574460875031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076396174701953327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全网呼叫十月烽火 https://t.co/h0jWROmB6q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076377701909458944",
+            "3_2076377701880119297"
+          ]
+        },
+        "author_id": "1885384434263924736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076396174701953327",
+        "created_at": "2026-07-12T20:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076396174701953327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2uJTxbHXWC",
+              "end": 72,
+              "expanded_url": "https://x.com/AmadeusBolshev/status/2076396174701953327/photo/1",
+              "media_key": "3_2076377701909458944",
+              "start": 49,
+              "url": "https://t.co/2uJTxbHXWC"
+            },
+            {
+              "display_url": "pic.x.com/2uJTxbHXWC",
+              "end": 72,
+              "expanded_url": "https://x.com/AmadeusBolshev/status/2076396174701953327/photo/1",
+              "media_key": "3_2076377701880119297",
+              "start": 49,
+              "url": "https://t.co/2uJTxbHXWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076396174701953327",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 483,
+          "impression_count": 347207,
+          "like_count": 812,
+          "quote_count": 112,
+          "reply_count": 74,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "Bourgeois woman that calls you her little commie https://t.co/2uJTxbHXWC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 1431,
+          "like_count": 9997,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3387
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T17:47:47.000Z",
+        "description": "| 𝘼 𝙐𝙡𝙩𝙧𝙖-𝘽𝙤𝙡𝙨𝙝𝙚𝙫𝙞𝙠 𝙤𝙛 𝙩𝙝𝙚 22𝙣𝙙 𝘾𝙚𝙣𝙩𝙪𝙧𝙮 | 𝘾𝙝𝙞𝙣𝙚𝙨𝙚 𝙒𝙚𝙡𝙩𝙚𝙣𝙗ü𝙧𝙜𝙚𝙧 𝙪𝙣𝙙 国际无产者 | 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝘼𝙩: @MarxistInfo |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "MarxistInfo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Marxist.Info",
+                "end": 23,
+                "expanded_url": "http://Marxist.Info",
+                "start": 0,
+                "url": "https://t.co/MePrzK2wpb"
+              }
+            ]
+          }
+        },
+        "id": "1885384434263924736",
+        "location": "The Proletarian Republic",
+        "name": "𝘼𝙢𝙖𝙙𝙚𝙪𝙨𝘽𝙤𝙡𝙨𝙝𝙚𝙫𝙞𝙠 | ☭/𝙖𝙘𝙘",
+        "pinned_tweet_id": "2057450083956732212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006034060427079680/txjZp_FM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5221,
+          "following_count": 115,
+          "like_count": 106422,
+          "listed_count": 63,
+          "media_count": 4652,
+          "tweet_count": 9544
+        },
+        "url": "https://t.co/MePrzK2wpb",
+        "username": "AmadeusBolshev",
+        "verified": true
+      }
+    ]
+  }
+}

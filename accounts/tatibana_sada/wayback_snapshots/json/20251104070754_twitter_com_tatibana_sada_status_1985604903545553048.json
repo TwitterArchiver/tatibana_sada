@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985374769060180224",
+    "created_at": "2025-11-04T07:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T08:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985604903545553048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1807235564015689728",
+          "start": 0,
+          "username": "fei_hsveh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985604903545553048",
+    "in_reply_to_user_id": "1807235564015689728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985490085547295034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fei_hsveh 一种比较Trad wife的洛丽塔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985374769060180224",
+        "created_at": "2025-11-04T07:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985604903545553048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1807235564015689728",
+              "start": 0,
+              "username": "fei_hsveh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985604903545553048",
+        "in_reply_to_user_id": "1807235564015689728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985490085547295034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fei_hsveh 一种比较Trad wife的洛丽塔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807235564015689728",
+        "conversation_id": "1985374769060180224",
+        "created_at": "2025-11-03T23:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T00:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985490085547295034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985490085547295034",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985374769060180224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada cla是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1982595504287699299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 719,
+          "like_count": 4485,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1718
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T02:12:12.000Z",
+        "description": "重力系/疑似ASD/很烦人建议b",
+        "id": "1807235564015689728",
+        "name": "费雪",
+        "pinned_tweet_id": "1949346278183235652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917603035049779204/oz7mDX4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 95,
+          "like_count": 1146,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 1392
+        },
+        "username": "fei_hsveh",
+        "verified": false
+      }
+    ]
+  }
+}

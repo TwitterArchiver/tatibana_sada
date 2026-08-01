@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991872929660022964",
+    "created_at": "2025-11-21T14:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T15:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991872929660022964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1401733664682102786",
+          "start": 3,
+          "username": "mukdengise"
+        },
+        {
+          "end": 25,
+          "id": "1526098526442295297",
+          "start": 16,
+          "username": "hezehua5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991872929660022964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991833793884545076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mukdengise: @hezehua5 再过十年就能看见他游过鸭绿江了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991872929660022964",
+        "created_at": "2025-11-21T14:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991872929660022964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1401733664682102786",
+              "start": 3,
+              "username": "mukdengise"
+            },
+            {
+              "end": 25,
+              "id": "1526098526442295297",
+              "start": 16,
+              "username": "hezehua5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991872929660022964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991833793884545076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mukdengise: @hezehua5 再过十年就能看见他游过鸭绿江了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "conversation_id": "1991717400291745968",
+        "created_at": "2025-11-21T11:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T12:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991833793884545076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1526098526442295297",
+              "start": 0,
+              "username": "hezehua5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991833793884545076",
+        "in_reply_to_user_id": "1526098526442295297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991717400291745968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hezehua5 再过十年就能看见他游过鸭绿江了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 889,
+          "like_count": 5841,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2121
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "爱人类的探险者/IG: ilhajugvn/烹饪日常在 #花路食堂/桔：@__Ju___Ju__/里：@Lulu_ilha",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "花路食堂"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "__Ju___Ju__"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Lulu_ilha"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960404590417076226/igUxxyXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9260,
+          "following_count": 738,
+          "like_count": 136940,
+          "listed_count": 50,
+          "media_count": 1708,
+          "tweet_count": 22704
+        },
+        "username": "mukdengise",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T07:13:56.000Z",
+        "description": "爱是最美的风景（互关互粉互FO回关followback，回关受限时，则小号回关fb)",
+        "id": "1526098526442295297",
+        "location": "中国",
+        "name": "李婧🇨🇳互关互粉互FO",
+        "pinned_tweet_id": "1988867660151451768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974663993743810561/zhUwomAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116375,
+          "following_count": 42955,
+          "like_count": 23307,
+          "listed_count": 157,
+          "media_count": 13753,
+          "tweet_count": 37084
+        },
+        "username": "hezehua5",
+        "verified": true
+      }
+    ]
+  }
+}

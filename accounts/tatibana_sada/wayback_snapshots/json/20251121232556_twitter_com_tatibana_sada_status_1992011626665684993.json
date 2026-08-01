@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991886981274698200",
+    "created_at": "2025-11-21T23:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T00:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992011626665684993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1697580552793051136",
+          "start": 0,
+          "username": "yyc20090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992011626665684993",
+    "in_reply_to_user_id": "1697580552793051136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991886981274698200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyc20090 这个角度真的是有点死亡了。极大的凸显下部的轮廓，会显得很硬，顺女都驾驭不住。妆其实也不难学，简单的什么粉底腮红眼线的糊弄妆就已经很加分了。\n坦诚的说这一张图片不太容易说是漂亮，不过我也觉得对新手这么苛责会显得很不体面。so，也是祝福你有所精进了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991886963235024896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Sao7xa8AAZv0_.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1991886963188928512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Sao7mbkAA2BM_.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1991886963826429952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Sao9-bEAAFlQb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991886981274698200",
+        "created_at": "2025-11-21T23:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T00:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992011626665684993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1697580552793051136",
+              "start": 0,
+              "username": "yyc20090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992011626665684993",
+        "in_reply_to_user_id": "1697580552793051136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991886981274698200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyc20090 这个角度真的是有点死亡了。极大的凸显下部的轮廓，会显得很硬，顺女都驾驭不住。妆其实也不难学，简单的什么粉底腮红眼线的糊弄妆就已经很加分了。\n坦诚的说这一张图片不太容易说是漂亮，不过我也觉得对新手这么苛责会显得很不体面。so，也是祝福你有所精进了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991886963235024896",
+            "3_1991886963188928512",
+            "3_1991886963826429952"
+          ]
+        },
+        "author_id": "1697580552793051136",
+        "conversation_id": "1991886981274698200",
+        "created_at": "2025-11-21T15:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991886981274698200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8RPZlobkX1",
+              "end": 172,
+              "expanded_url": "https://x.com/yyc20090/status/1991886981274698200/photo/1",
+              "media_key": "3_1991886963235024896",
+              "start": 149,
+              "url": "https://t.co/8RPZlobkX1"
+            },
+            {
+              "display_url": "pic.x.com/8RPZlobkX1",
+              "end": 172,
+              "expanded_url": "https://x.com/yyc20090/status/1991886981274698200/photo/1",
+              "media_key": "3_1991886963188928512",
+              "start": 149,
+              "url": "https://t.co/8RPZlobkX1"
+            },
+            {
+              "display_url": "pic.x.com/8RPZlobkX1",
+              "end": 172,
+              "expanded_url": "https://x.com/yyc20090/status/1991886981274698200/photo/1",
+              "media_key": "3_1991886963826429952",
+              "start": 149,
+              "url": "https://t.co/8RPZlobkX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991886981274698200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1999,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果我有什么哪里不好的 你可以指出来 没必要恶语相向喵\n毕竟连cos都不敢穿 又有什么资格骂我呢\n\n但确实是咱有一些因为自己的问题 很仓促的没有打理好自己就这样cos了\n也非常感谢在这里给予我鼓励和建议的老师们\n日后咱会好好吸取教训的！\n我还是很乐意和正常沟通的人做朋友的w\n最后配上我cos照喵 https://t.co/8RPZlobkX1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 894,
+          "like_count": 5885,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 2132
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T12:02:04.000Z",
+        "description": "喵",
+        "id": "1697580552793051136",
+        "location": "Southern District, Hong Kong",
+        "name": "yyxx🍥（思念晚安版）",
+        "pinned_tweet_id": "1987238297354306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934155305077919744/xZ_qsmex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2629,
+          "following_count": 814,
+          "like_count": 2675,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1416
+        },
+        "username": "yyc20090",
+        "verified": false
+      }
+    ]
+  }
+}

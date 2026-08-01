@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1994960528331215020",
+    "created_at": "2025-11-30T02:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T03:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994960528331215020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "914028453174796293",
+          "start": 3,
+          "username": "Ajisai1207_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994960528331215020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994947069631762615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ajisai1207_: 我以为解决科尔宾新党内绿友和跨友冲突，且改善党的形象的一个妙招就是双方各让一步，绿友承认跨女是女跨男是男，但是让跨友遵守伊斯兰教法，让跨女通通蒙面不许说话，跨友有意见只能让FTM出来说。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1994960528331215020",
+        "created_at": "2025-11-30T02:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994960528331215020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "914028453174796293",
+              "start": 3,
+              "username": "Ajisai1207_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994960528331215020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994947069631762615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ajisai1207_: 我以为解决科尔宾新党内绿友和跨友冲突，且改善党的形象的一个妙招就是双方各让一步，绿友承认跨女是女跨男是男，但是让跨友遵守伊斯兰教法，让跨女通通蒙面不许说话，跨友有意见只能让FTM出来说。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "914028453174796293",
+        "conversation_id": "1994947069631762615",
+        "created_at": "2025-11-30T01:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994947069631762615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ajisai1207_/st…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/Ajisai1207_/status/1994938167615742094",
+              "start": 94,
+              "url": "https://t.co/PJPbf2BF1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994947069631762615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994938167615742094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以为解决科尔宾新党内绿友和跨友冲突，且改善党的形象的一个妙招就是双方各让一步，绿友承认跨女是女跨男是男，但是让跨友遵守伊斯兰教法，让跨女通通蒙面不许说话，跨友有意见只能让FTM出来说。 https://t.co/PJPbf2BF1s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 964,
+          "like_count": 6538,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2329
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 927,
+          "like_count": 12833,
+          "listed_count": 14,
+          "media_count": 536,
+          "tweet_count": 5926
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      }
+    ]
+  }
+}

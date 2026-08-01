@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988963740562386946"
+      ],
+      "media_source_tweet_id": [
+        "1988963752134459717"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1989479639442669857",
+    "created_at": "2025-11-14T23:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T00:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989479639442669857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "791635775301365761",
+          "start": 3,
+          "username": "hachilema"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/go2B7xwSdI",
+          "end": 40,
+          "expanded_url": "https://x.com/hachilema/status/1988963752134459717/photo/1",
+          "media_key": "3_1988963740562386946",
+          "start": 17,
+          "url": "https://t.co/go2B7xwSdI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989479639442669857",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 896
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988963752134459717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hachilema: 🎀 https://t.co/go2B7xwSdI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_1988963740562386946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5o3--tacAI30XC.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988963740562386946"
+          ],
+          "media_source_tweet_id": [
+            "1988963752134459717"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1989479639442669857",
+        "created_at": "2025-11-14T23:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T00:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989479639442669857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "791635775301365761",
+              "start": 3,
+              "username": "hachilema"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/go2B7xwSdI",
+              "end": 40,
+              "expanded_url": "https://x.com/hachilema/status/1988963752134459717/photo/1",
+              "media_key": "3_1988963740562386946",
+              "start": 17,
+              "url": "https://t.co/go2B7xwSdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989479639442669857",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 896
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988963752134459717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hachilema: 🎀 https://t.co/go2B7xwSdI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988963740562386946"
+          ]
+        },
+        "author_id": "791635775301365761",
+        "conversation_id": "1988963752134459717",
+        "created_at": "2025-11-13T13:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T14:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988963752134459717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/go2B7xwSdI",
+              "end": 25,
+              "expanded_url": "https://x.com/hachilema/status/1988963752134459717/photo/1",
+              "media_key": "3_1988963740562386946",
+              "start": 2,
+              "url": "https://t.co/go2B7xwSdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988963752134459717",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1139,
+          "impression_count": 145873,
+          "like_count": 12863,
+          "quote_count": 19,
+          "reply_count": 14,
+          "retweet_count": 896
+        },
+        "reply_settings": "everyone",
+        "text": "🎀 https://t.co/go2B7xwSdI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 851,
+          "like_count": 5472,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1969
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-27T13:40:51.000Z",
+        "description": "ワンツーとタマザラシが好き🐈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hachileme/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hachileme/",
+                "start": 0,
+                "url": "https://t.co/UtvVnxpsyO"
+              }
+            ]
+          }
+        },
+        "id": "791635775301365761",
+        "name": "まめ🦔",
+        "pinned_tweet_id": "1812842523284717765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810543919605948416/lbZKINH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3405,
+          "following_count": 161,
+          "like_count": 28384,
+          "listed_count": 23,
+          "media_count": 428,
+          "tweet_count": 11706
+        },
+        "url": "https://t.co/UtvVnxpsyO",
+        "username": "hachilema",
+        "verified": false
+      }
+    ]
+  }
+}

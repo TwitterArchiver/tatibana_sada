@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979497182127681852",
+    "created_at": "2025-10-20T04:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T05:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980128893630861558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711144517683056640",
+          "start": 0,
+          "username": "andreaquee28646"
+        },
+        {
+          "end": 33,
+          "id": "1696518778799190016",
+          "start": 17,
+          "username": "xixiong78951197"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980128893630861558",
+    "in_reply_to_user_id": "1711144517683056640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980110399057056251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@andreaquee28646 @xixiong78951197 不过，我也没有因为拜登或特朗普当选而感到自豪。\n我相信特朗普的男性支持者不会觉得2020选举是男性的又一次胜利。\n最终，我的结论是，是一个男性和是一个宾州人，或者是一个退伍军人之类的标签没有什么本质区别。\n因此，如果确实的要说，哈里斯和希拉里能力更差，我也不会反对。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979497182127681852",
+        "created_at": "2025-10-20T04:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T05:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980128893630861558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711144517683056640",
+              "start": 0,
+              "username": "andreaquee28646"
+            },
+            {
+              "end": 33,
+              "id": "1696518778799190016",
+              "start": 17,
+              "username": "xixiong78951197"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980128893630861558",
+        "in_reply_to_user_id": "1711144517683056640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980110399057056251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andreaquee28646 @xixiong78951197 不过，我也没有因为拜登或特朗普当选而感到自豪。\n我相信特朗普的男性支持者不会觉得2020选举是男性的又一次胜利。\n最终，我的结论是，是一个男性和是一个宾州人，或者是一个退伍军人之类的标签没有什么本质区别。\n因此，如果确实的要说，哈里斯和希拉里能力更差，我也不会反对。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711144517683056640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "1979497182127681852",
+        "created_at": "2025-10-20T03:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980110399057056251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 31,
+              "id": "1696518778799190016",
+              "start": 15,
+              "username": "xixiong78951197"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980110399057056251",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980067550353649862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @xixiong78951197 一大堆男的美国选举不支持Harris和Clinton就是因为她们是女的你是瞎了吗还是你这个侉子嗑太多药了所以脑子已经坏了。别说国家选举就是班级选举哪一个不是男的支持男的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 563,
+          "like_count": 3105,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1509
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T22:20:25.000Z",
+        "description": "Mis@ndrist Feminist, anti all patriarchal religion // 有時候會鎖或者潛水 //支持台灣都獨立香港獨立新疆獨立西藏獨立上海獨立滿洲獨立澳門獨立全世界獨立// anti-chinese culture // sinophobic",
+        "id": "1711144517683056640",
+        "name": "andreaqueen天山童姥 🇸🇬🇮🇱",
+        "pinned_tweet_id": "1822577280167944453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933935417700831232/0GL7hTkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 134,
+          "like_count": 15026,
+          "listed_count": 9,
+          "media_count": 776,
+          "tweet_count": 9666
+        },
+        "username": "andreaquee28646",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T13:42:59.000Z",
+        "description": "熟悉我的都知道我是资深包蜜",
+        "id": "1696518778799190016",
+        "name": "xixiong是习龘龘忠实的包蜜(中南海少妇版）",
+        "pinned_tweet_id": "1974054289200079149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976519962329219072/tE_UBRlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5440,
+          "following_count": 1217,
+          "like_count": 238,
+          "listed_count": 34,
+          "media_count": 10816,
+          "tweet_count": 35681
+        },
+        "username": "xixiong78951197",
+        "verified": false
+      }
+    ]
+  }
+}

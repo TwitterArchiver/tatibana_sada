@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985364298470969646",
+    "created_at": "2025-11-03T15:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T16:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985364298470969646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/y1471698256894…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/y1471698256894/status/1978736382777401535",
+          "start": 22,
+          "url": "https://t.co/6wt7LPN8yE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985364298470969646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978736382777401535",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就说精神原子弹还是有很多现代传人的对吧。 https://t.co/6wt7LPN8yE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985364298470969646",
+        "created_at": "2025-11-03T15:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985364298470969646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y1471698256894…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/y1471698256894/status/1978736382777401535",
+              "start": 22,
+              "url": "https://t.co/6wt7LPN8yE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985364298470969646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978736382777401535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就说精神原子弹还是有很多现代传人的对吧。 https://t.co/6wt7LPN8yE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916903122934312960",
+        "conversation_id": "1978551199038357513",
+        "created_at": "2025-10-16T08:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T09:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978736382777401535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1421175011478433792",
+              "start": 0,
+              "username": "catastronaught"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978736382777401535",
+        "in_reply_to_user_id": "1421175011478433792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5032,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978551199038357513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catastronaught 确实看到有人表示，知道女性是第一性、女性身体更好之后，没有心理包袱，痛经就消失了。还看到有非常多的驴说，自己每次刚来月经的时候是没有痛感的，等到发现自己来月经的时候痛感才会随之而来。所以心理状态影响应该很大。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1982595504287699299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 709,
+          "like_count": 4363,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1702
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T17:11:46.000Z",
+        "description": "terf/6b4t/反所有性缘关系/脾气大，说话不好听",
+        "id": "1916903122934312960",
+        "name": "仇驴厌蝻",
+        "pinned_tweet_id": "1937227276006932725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941167345126285315/sB_lkGuh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 18,
+          "like_count": 444,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 341
+        },
+        "username": "y1471698256894",
+        "verified": false
+      }
+    ]
+  }
+}

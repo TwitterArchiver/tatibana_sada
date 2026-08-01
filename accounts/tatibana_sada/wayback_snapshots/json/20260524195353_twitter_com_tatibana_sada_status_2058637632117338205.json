@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057307069410365911",
+    "created_at": "2026-05-24T19:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T20:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058637632117338205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1313307135766392833",
+          "start": 0,
+          "username": "NailoongBlair"
+        },
+        {
+          "end": 29,
+          "id": "2035790245413945344",
+          "start": 15,
+          "username": "VictorLiusysu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058637632117338205",
+    "in_reply_to_user_id": "1313307135766392833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058599935587844361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NailoongBlair @VictorLiusysu 你说的好。我爱你❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057307069410365911",
+        "created_at": "2026-05-24T19:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058637632117338205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1313307135766392833",
+              "start": 0,
+              "username": "NailoongBlair"
+            },
+            {
+              "end": 29,
+              "id": "2035790245413945344",
+              "start": 15,
+              "username": "VictorLiusysu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058637632117338205",
+        "in_reply_to_user_id": "1313307135766392833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058599935587844361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NailoongBlair @VictorLiusysu 你说的好。我爱你❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313307135766392833",
+        "conversation_id": "2057307069410365911",
+        "created_at": "2026-05-24T17:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058599935587844361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2035790245413945344",
+              "start": 0,
+              "username": "VictorLiusysu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058599935587844361",
+        "in_reply_to_user_id": "2035790245413945344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057307069410365911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VictorLiusysu 在我来看好的文艺作品是普世性的东西\n\n如果你想要植入某种“只有xxx人才能懂得”并且以此为核心，我认为这是文青病犯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 1198,
+          "like_count": 8524,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2842
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T02:36:47.000Z",
+        "description": "Democratic Socialist/Marxist🌹👊，Unionist ⚙️，Lutheran Christian✝️，“大中华胶”，Vive la Mai 68！definitely KOP（#YNWA） #我是麻酱\n，阿尔都塞-后结构-拉康精神分析，不擅长好好说话，暴脾气请见谅。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "YNWA"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "我是麻酱"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.whotwi.com/ShinoharaBlair",
+                "end": 23,
+                "expanded_url": "https://en.whotwi.com/ShinoharaBlair",
+                "start": 0,
+                "url": "https://t.co/Q9UcPnwpkx"
+              }
+            ]
+          }
+        },
+        "id": "1313307135766392833",
+        "location": "推特大街114514号",
+        "name": "AnonTokyo 奶龙布莱尔✝️👊🌹",
+        "pinned_tweet_id": "2044081542130217266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943261006546767873/HRZ-GVab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2867,
+          "following_count": 2657,
+          "like_count": 195065,
+          "listed_count": 26,
+          "media_count": 2293,
+          "tweet_count": 48225
+        },
+        "url": "https://t.co/Q9UcPnwpkx",
+        "username": "NailoongBlair",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T18:47:00.000Z",
+        "description": "Mathematics Philosophy 數學哲學/Logics 邏輯/Global history and politics observation, especially Eastern Asia oriented 東亞政史觀察",
+        "id": "2035790245413945344",
+        "location": "China",
+        "name": "Victor Witt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046365338615652352/2AfsxJ1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 117,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 358
+        },
+        "username": "VictorLiusysu",
+        "verified": false
+      }
+    ]
+  }
+}

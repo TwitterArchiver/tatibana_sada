@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055933846349344768"
+      ],
+      "media_source_tweet_id": [
+        "2055933855727792450"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2055983698571636828",
+    "created_at": "2026-05-17T12:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055983698571636828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "954724026806448128",
+          "start": 3,
+          "username": "libertyelysium"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R3H7iwPBJo",
+          "end": 49,
+          "expanded_url": "https://x.com/libertyelysium/status/2055933855727792450/photo/1",
+          "media_key": "3_2055933846349344768",
+          "start": 26,
+          "url": "https://t.co/R3H7iwPBJo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055983698571636828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055933855727792450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @libertyelysium: 我要笑疯了 https://t.co/R3H7iwPBJo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055933846349344768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgk8MFa8AA9aA3.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055933846349344768"
+          ],
+          "media_source_tweet_id": [
+            "2055933855727792450"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2055983698571636828",
+        "created_at": "2026-05-17T12:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055983698571636828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "954724026806448128",
+              "start": 3,
+              "username": "libertyelysium"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R3H7iwPBJo",
+              "end": 49,
+              "expanded_url": "https://x.com/libertyelysium/status/2055933855727792450/photo/1",
+              "media_key": "3_2055933846349344768",
+              "start": 26,
+              "url": "https://t.co/R3H7iwPBJo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055983698571636828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055933855727792450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @libertyelysium: 我要笑疯了 https://t.co/R3H7iwPBJo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055933846349344768"
+          ]
+        },
+        "author_id": "954724026806448128",
+        "conversation_id": "2055933855727792450",
+        "created_at": "2026-05-17T08:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055933855727792450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R3H7iwPBJo",
+              "end": 29,
+              "expanded_url": "https://x.com/libertyelysium/status/2055933855727792450/photo/1",
+              "media_key": "3_2055933846349344768",
+              "start": 6,
+              "url": "https://t.co/R3H7iwPBJo"
+            },
+            {
+              "display_url": "x.com/avramnotever/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/avramnotever/status/2055638352930488431",
+              "start": 30,
+              "url": "https://t.co/Z2mhCgSmc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055933855727792450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1462,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055638352930488431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要笑疯了 https://t.co/R3H7iwPBJo https://t.co/Z2mhCgSmc9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1115,
+          "like_count": 7823,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2569
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90 我家忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "精神科",
+        "name": "低功能自閉症",
+        "pinned_tweet_id": "1991859279842996718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053821805832650752/YsMQbaGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11904,
+          "following_count": 678,
+          "like_count": 88688,
+          "listed_count": 39,
+          "media_count": 2092,
+          "tweet_count": 32175
+        },
+        "username": "libertyelysium",
+        "verified": false
+      }
+    ]
+  }
+}

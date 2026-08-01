@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1984947091911962860",
+    "created_at": "2025-11-02T21:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T22:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985090634848534981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795375933798363136",
+          "start": 0,
+          "username": "Cyan_Jujube"
+        },
+        {
+          "end": 24,
+          "id": "1926720510982844416",
+          "start": 13,
+          "username": "DeRoss2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985090634848534981",
+    "in_reply_to_user_id": "1795375933798363136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985014836988940311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyan_Jujube @DeRoss2778 zizek说的嘛。三流革命者使用谚语，二流革命者不用谚语，一流革命者创造谚语。\n创造语境，文武之功啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1984947091911962860",
+        "created_at": "2025-11-02T21:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T22:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985090634848534981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795375933798363136",
+              "start": 0,
+              "username": "Cyan_Jujube"
+            },
+            {
+              "end": 24,
+              "id": "1926720510982844416",
+              "start": 13,
+              "username": "DeRoss2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985090634848534981",
+        "in_reply_to_user_id": "1795375933798363136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985014836988940311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyan_Jujube @DeRoss2778 zizek说的嘛。三流革命者使用谚语，二流革命者不用谚语，一流革命者创造谚语。\n创造语境，文武之功啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795375933798363136",
+        "conversation_id": "1984947091911962860",
+        "created_at": "2025-11-02T16:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T17:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985014836988940311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926720510982844416",
+              "start": 0,
+              "username": "DeRoss2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985014836988940311",
+        "in_reply_to_user_id": "1926720510982844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984947091911962860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeRoss2778 因为在“我学习”中“我”应该是第一性的，能称得上哲逼应该都是把“我”压在“学习”下面了吧，在这一点上都达不到观念论。我认为的教条主义就是这个。不过我觉得能把“晦涩术语”通俗化是需要挺高水平的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 701,
+          "like_count": 4208,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1682
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T08:46:04.000Z",
+        "description": "This ignorance exists, but it can be destroyed.",
+        "id": "1795375933798363136",
+        "name": "低客的黑调",
+        "pinned_tweet_id": "1985026567677022368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818564887292846080/gJThlfF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 711
+        },
+        "username": "Cyan_Jujube",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T19:22:24.000Z",
+        "description": "想到什么就发什么的某不知名小号｜封建自由，大一统费拉 本人是诸夏武士 姨学勇敢分子｜毛主义者，毛主席的真正继承者，非腊左 \n本人是鉴证魔怔人，谨慎关注",
+        "id": "1926720510982844416",
+        "location": "欧利蒂丝庄园",
+        "name": "德罗斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955551801878671360/xVfcT2zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 373,
+          "like_count": 6874,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 1349
+        },
+        "username": "DeRoss2778",
+        "verified": false
+      }
+    ]
+  }
+}

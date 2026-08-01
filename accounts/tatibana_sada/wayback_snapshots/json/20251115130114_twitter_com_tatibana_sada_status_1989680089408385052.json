@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1989617475663827444",
+    "created_at": "2025-11-15T13:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T14:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989680089408385052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844372523242438656",
+          "start": 0,
+          "username": "vkrum6870"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989680089408385052",
+    "in_reply_to_user_id": "1844372523242438656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989617475663827444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vkrum6870 不是顺直压倒彩虹，就是彩虹压倒顺直"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1989616581392179200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yJvUUboAA_rQw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 714,
+        "media_key": "3_1989617343698542592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yKbsIboAAgDET.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1989617475663827444",
+        "created_at": "2025-11-15T13:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989680089408385052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844372523242438656",
+              "start": 0,
+              "username": "vkrum6870"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989680089408385052",
+        "in_reply_to_user_id": "1844372523242438656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989617475663827444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vkrum6870 不是顺直压倒彩虹，就是彩虹压倒顺直"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989616581392179200",
+            "3_1989617343698542592"
+          ]
+        },
+        "author_id": "1844372523242438656",
+        "conversation_id": "1989617475663827444",
+        "created_at": "2025-11-15T08:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T09:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989617475663827444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "成為這個頻道的會員並獲得福利：https://www.youtube.com/channel/UCymuZDoKi70i10JC1KXRMMQ/join❤😘 影片製作不易，需要你的免費鼓勵，敬請訂閱並開啟小鈴鐺，你的支持讓我們下一部作品更有動力，謝謝每個來到這裡的神隊友!😇【恢復男女二元性別、保護青年人身心靈...",
+              "display_url": "youtube.com/watch?v=gxwXNS…",
+              "end": 129,
+              "expanded_url": "https://www.youtube.com/watch?v=gxwXNSpurOE",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1989617482643185664/N-ULDxoU?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1989617482643185664/N-ULDxoU?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "【皮爾斯摩根: 我聽你在叭噗!】/LGBTQ從蘑菇身上找到人100多種性別的證明了",
+              "unwound_url": "https://www.youtube.com/watch?v=gxwXNSpurOE",
+              "url": "https://t.co/i89gbW4of5"
+            },
+            {
+              "display_url": "pic.x.com/mwJ0ekkJWq",
+              "end": 153,
+              "expanded_url": "https://x.com/vkrum6870/status/1989617475663827444/photo/1",
+              "media_key": "3_1989616581392179200",
+              "start": 130,
+              "url": "https://t.co/mwJ0ekkJWq"
+            },
+            {
+              "display_url": "pic.x.com/mwJ0ekkJWq",
+              "end": 153,
+              "expanded_url": "https://x.com/vkrum6870/status/1989617475663827444/photo/1",
+              "media_key": "3_1989617343698542592",
+              "start": 130,
+              "url": "https://t.co/mwJ0ekkJWq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989617475663827444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 969,
+          "like_count": 37,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "台灣的酷兒理論信奉者終究趕上了國外XD\n我看了四遍還是沒看懂他們想表達甚麼XD\n\n浪費稅金在補助這種研究所\n看到這個我就想到英國也幹過一樣的事情XD\n在皇家植物園辦酷兒蘑菇展，主張人跟蘑菇真菌一樣有多種性別XD\nhttps://t.co/i89gbW4of5 https://t.co/mwJ0ekkJWq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 862,
+          "like_count": 5604,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2010
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T13:41:19.000Z",
+        "description": "反免術換證、反代孕、反有毒進步價值、反對中國人跑來台灣和反對幹小孩的正常常識人\n\n政治正確就是道德態度重於事實的說教，拒絕政治正確",
+        "id": "1844372523242438656",
+        "name": "Vic",
+        "pinned_tweet_id": "1847272663162777698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844374598890160128/mVxjSZ3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 87,
+          "like_count": 12610,
+          "listed_count": 10,
+          "media_count": 733,
+          "tweet_count": 7230
+        },
+        "username": "vkrum6870",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,583 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Georgia",
+          "id": "1004436112062812160",
+          "name": "Georgia"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Iowa",
+          "id": "1004438001567465472",
+          "name": "Iowa"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "North Carolina",
+          "id": "1010252770618703872",
+          "name": "North Carolina"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Ohio",
+          "id": "1010253454822895616",
+          "name": "Ohio"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jon Ossoff",
+          "id": "877165615772868609",
+          "name": "Jon Ossoff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Jon Ossoff",
+          "id": "877165615772868609",
+          "name": "Jon Ossoff"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jon Ossoff",
+          "id": "877165615772868609",
+          "name": "Jon Ossoff"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Texas",
+          "id": "855432197297192961",
+          "name": "Texas"
+        }
+      }
+    ],
+    "conversation_id": "2083452376225402911",
+    "created_at": "2026-08-01T07:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083452376225402911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Suzierizzo1/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Suzierizzo1/status/2082930114346537289",
+          "start": 12,
+          "url": "https://t.co/tt3uRTSKhS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083452376225402911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082930114346537289",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "几十年来德州最蓝的一次 https://t.co/tt3uRTSKhS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Georgia",
+              "id": "1004436112062812160",
+              "name": "Georgia"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Iowa",
+              "id": "1004438001567465472",
+              "name": "Iowa"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "North Carolina",
+              "id": "1010252770618703872",
+              "name": "North Carolina"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Ohio",
+              "id": "1010253454822895616",
+              "name": "Ohio"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jon Ossoff",
+              "id": "877165615772868609",
+              "name": "Jon Ossoff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Jon Ossoff",
+              "id": "877165615772868609",
+              "name": "Jon Ossoff"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jon Ossoff",
+              "id": "877165615772868609",
+              "name": "Jon Ossoff"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "2083452376225402911",
+        "created_at": "2026-08-01T07:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083452376225402911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Suzierizzo1/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Suzierizzo1/status/2082930114346537289",
+              "start": 12,
+              "url": "https://t.co/tt3uRTSKhS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083452376225402911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082930114346537289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "几十年来德州最蓝的一次 https://t.co/tt3uRTSKhS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "770373873036500992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Georgia",
+              "id": "1004436112062812160",
+              "name": "Georgia"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Iowa",
+              "id": "1004438001567465472",
+              "name": "Iowa"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "North Carolina",
+              "id": "1010252770618703872",
+              "name": "North Carolina"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Ohio",
+              "id": "1010253454822895616",
+              "name": "Ohio"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jon Ossoff",
+              "id": "877165615772868609",
+              "name": "Jon Ossoff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Jon Ossoff",
+              "id": "877165615772868609",
+              "name": "Jon Ossoff"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jon Ossoff",
+              "id": "877165615772868609",
+              "name": "Jon Ossoff"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "2082930114346537289",
+        "created_at": "2026-07-30T20:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082930114346537289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082930114346537289",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 26016,
+          "like_count": 1361,
+          "quote_count": 20,
+          "reply_count": 128,
+          "retweet_count": 371
+        },
+        "reply_settings": "everyone",
+        "text": "Democrats are leading in these States! \n\nTexas\nTalarico 56%💙\nPaxton 43%  ❤️\n\nGeorgia \nOssoff 56%  💙\nCollins  43%  ❤️\n\nOhio \nBrown 53%   💙\nHusted 45%   ❤️\n\nNorth Carolina \nCooper 53%       💙\nWhatley 44%      ❤️\n\nIowa \nTurek 50%    💙\nHinson 46%   ❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 1459,
+          "like_count": 10319,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3442
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-29T21:33:38.000Z",
+        "description": "I’m a small town beach girl that loves politics & fostering animals! #BLM #Resister #Equality #VotingRights #VoteBlue #LGBTQ  💙 No DM’s 🌊",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "BLM"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "tag": "Resister"
+              },
+              {
+                "end": 93,
+                "start": 84,
+                "tag": "Equality"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "tag": "VotingRights"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "tag": "VoteBlue"
+              },
+              {
+                "end": 124,
+                "start": 118,
+                "tag": "LGBTQ"
+              }
+            ]
+          }
+        },
+        "id": "770373873036500992",
+        "location": "United States",
+        "name": "Suzie rizzio",
+        "pinned_tweet_id": "1364118119409717249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039394362690600960/zz_DUGxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231802,
+          "following_count": 27998,
+          "like_count": 234443,
+          "listed_count": 1230,
+          "media_count": 32666,
+          "tweet_count": 295551
+        },
+        "url": "",
+        "username": "Suzierizzo1",
+        "verified": true
+      }
+    ]
+  }
+}

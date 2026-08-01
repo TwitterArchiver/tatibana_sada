@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2056059143426134171",
+    "created_at": "2026-05-17T17:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T18:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056059143426134171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1286241253621817344",
+          "start": 3,
+          "username": "CldGeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056059143426134171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055637479269761396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CldGeo: 通知: \n大家紧急集合，全部开始收拾东西离开地球，我刚听见一个男的20号要把全世界送给他女朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2056059143426134171",
+        "created_at": "2026-05-17T17:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056059143426134171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1286241253621817344",
+              "start": 3,
+              "username": "CldGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056059143426134171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055637479269761396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CldGeo: 通知: \n大家紧急集合，全部开始收拾东西离开地球，我刚听见一个男的20号要把全世界送给他女朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286241253621817344",
+        "conversation_id": "2055637479269761396",
+        "created_at": "2026-05-16T13:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055637479269761396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055637479269761396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 51055,
+          "like_count": 993,
+          "quote_count": 6,
+          "reply_count": 116,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "通知: \n大家紧急集合，全部开始收拾东西离开地球，我刚听见一个男的20号要把全世界送给他女朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 1118,
+          "like_count": 7836,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2576
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う\n@Cldeop / @YunJiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "Cldeop"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "username": "YunJiu"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "pinned_tweet_id": "2042878348440015045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4372,
+          "following_count": 359,
+          "like_count": 4358,
+          "listed_count": 6,
+          "media_count": 475,
+          "tweet_count": 1859
+        },
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

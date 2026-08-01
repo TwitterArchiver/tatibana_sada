@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985966684033962123",
+    "created_at": "2025-11-05T11:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T12:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986030287281955247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1622255626066731010",
+          "start": 0,
+          "username": "SagerRgyalpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986030287281955247",
+    "in_reply_to_user_id": "1622255626066731010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985966684033962123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SagerRgyalpo 说起来我觉得「忌度」是蛮好的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1654,
+        "media_key": "3_1985966039998603264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-Rl14bIAA2Cuz.jpg",
+        "width": 1240
+      },
+      {
+        "height": 1758,
+        "media_key": "3_1985966039998611456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-Rl14bQAAMNPy.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985966684033962123",
+        "created_at": "2025-11-05T11:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T12:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986030287281955247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1622255626066731010",
+              "start": 0,
+              "username": "SagerRgyalpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986030287281955247",
+        "in_reply_to_user_id": "1622255626066731010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985966684033962123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SagerRgyalpo 说起来我觉得「忌度」是蛮好的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985966039998603264",
+            "3_1985966039998611456"
+          ]
+        },
+        "author_id": "1622255626066731010",
+        "conversation_id": "1985966684033962123",
+        "created_at": "2025-11-05T07:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T08:02:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985966047162483174",
+          "1985966684033962123"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "萨言萨语"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tr22XBmSfw",
+              "end": 166,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/1985966684033962123/photo/1",
+              "media_key": "3_1985966039998603264",
+              "start": 143,
+              "url": "https://t.co/Tr22XBmSfw"
+            },
+            {
+              "display_url": "pic.x.com/Tr22XBmSfw",
+              "end": 166,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/1985966684033962123/photo/1",
+              "media_key": "3_1985966039998611456",
+              "start": 143,
+              "url": "https://t.co/Tr22XBmSfw"
+            },
+            {
+              "display_url": "x.com/lca176232/stat…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/lca176232/status/1985691390899343737",
+              "start": 167,
+              "url": "https://t.co/l8STj1pyrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985966684033962123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 759,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985691390899343737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#萨言萨语 为了表示对本频道女性观众的尊重，从今天开始，萨格杰布频道将正式开始承认并使用一部分母道话。😁\n\n“他妈的”改为“她爹的/爸了个根的”。\n“嫖娼”改为“闝倡/⿵门败倡”。\n“嫉妒”改为“忮忌（zhìjì）”。\n“姐妹”改为“媎妹”。\n\n相信本频道一定能得到女性观众的追捧。😁 https://t.co/Tr22XBmSfw https://t.co/l8STj1pyrn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 738,
+          "like_count": 4690,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1776
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "女男平等｜gender equality｜гендерное равенство｜성평등｜打倒“男性原罪论”｜欢迎私信投稿｜📧SagerRgyalpo@gmail.com｜https://t.co/PbBajSfJT6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@sagerrgyalpo",
+                "end": 109,
+                "expanded_url": "https://youtube.com/@sagerrgyalpo",
+                "start": 86,
+                "url": "https://t.co/PbBajSfJT6"
+              }
+            ]
+          }
+        },
+        "id": "1622255626066731010",
+        "location": "Russia",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "pinned_tweet_id": "1973412095841673321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799019346704080896/RyOiFbUm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7209,
+          "following_count": 319,
+          "like_count": 788,
+          "listed_count": 24,
+          "media_count": 1018,
+          "tweet_count": 2766
+        },
+        "username": "SagerRgyalpo",
+        "verified": true
+      }
+    ]
+  }
+}

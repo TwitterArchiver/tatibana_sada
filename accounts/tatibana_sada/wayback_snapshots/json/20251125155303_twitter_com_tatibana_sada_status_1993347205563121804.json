@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1993043520865935563",
+    "created_at": "2025-11-25T15:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T16:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993347205563121804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "938027704842043392",
+          "start": 0,
+          "username": "PremierZhou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993347205563121804",
+    "in_reply_to_user_id": "938027704842043392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993043520865935563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PremierZhou 这个指控私见存疑，因为我的闪电与太阳是在zlib下的。\n另一点说，自由之敌的自由应该得到保障吗？经的层面我素来主张，他们的自由已经被他们的自由意志保障了。那么，就不存在迫害——而是两个实力悬殊但地位相当的对手的对决而已。权的层面我却私见，只对那些涉及到军火层面的事情管控。公权仍需限制。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1993043520865935563",
+        "created_at": "2025-11-25T15:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993347205563121804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "938027704842043392",
+              "start": 0,
+              "username": "PremierZhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993347205563121804",
+        "in_reply_to_user_id": "938027704842043392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993043520865935563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PremierZhou 这个指控私见存疑，因为我的闪电与太阳是在zlib下的。\n另一点说，自由之敌的自由应该得到保障吗？经的层面我素来主张，他们的自由已经被他们的自由意志保障了。那么，就不存在迫害——而是两个实力悬殊但地位相当的对手的对决而已。权的层面我却私见，只对那些涉及到军火层面的事情管控。公权仍需限制。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "938027704842043392",
+        "conversation_id": "1993043520865935563",
+        "created_at": "2025-11-24T19:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T20:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993043520865935563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993043520865935563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 59959,
+          "like_count": 265,
+          "quote_count": 7,
+          "reply_count": 66,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Z- library号称最自由的图书馆，却找不到法西斯主义学说的著作，这是否证明所谓的自由，恰恰包含不自由的一面？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 939,
+          "like_count": 6218,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2250
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-05T12:50:07.000Z",
+        "description": "如果我们选择了最能为人类而工作的职业，那么，重担就不能把我们压倒，因为这是为大家作出的牺牲；那时我们所享受的就不是可怜的、有限的、自私的乐趣，我们的幸福将属于千百万人，我们的事业将悄然无声地存在下去，但是它会永远发挥作用，而面对我们的骨灰，高尚的人们将洒下热泪。",
+        "id": "938027704842043392",
+        "location": "Beijing——新中国从这里走来",
+        "name": "周基米",
+        "pinned_tweet_id": "1690309798049529856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924408047922786304/CCP1Yp41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3365,
+          "following_count": 3651,
+          "like_count": 27922,
+          "listed_count": 23,
+          "media_count": 1587,
+          "tweet_count": 22117
+        },
+        "username": "PremierZhou",
+        "verified": false
+      }
+    ]
+  }
+}

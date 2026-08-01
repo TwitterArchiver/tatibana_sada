@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077984204844150784"
+      ],
+      "media_source_tweet_id": [
+        "2077984206962200887"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2078094149576954042",
+    "created_at": "2026-07-17T12:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078094149576954042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1252442394986819590",
+          "start": 3,
+          "username": "kampfwagen_I"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wOeJAWek1f",
+          "end": 70,
+          "expanded_url": "https://x.com/kampfwagen_I/status/2077984206962200887/photo/1",
+          "media_key": "3_2077984204844150784",
+          "start": 47,
+          "url": "https://t.co/wOeJAWek1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078094149576954042",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077984206962200887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kampfwagen_I: I....must.....draw....her... https://t.co/wOeJAWek1f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2077984204844150784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZ7n-qbsAAIPCf.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077984204844150784"
+          ]
+        },
+        "author_id": "1252442394986819590",
+        "conversation_id": "2077984206962200887",
+        "created_at": "2026-07-17T05:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077984206962200887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOeJAWek1f",
+              "end": 52,
+              "expanded_url": "https://x.com/kampfwagen_I/status/2077984206962200887/photo/1",
+              "media_key": "3_2077984204844150784",
+              "start": 29,
+              "url": "https://t.co/wOeJAWek1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077984206962200887",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 14071,
+          "like_count": 1122,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "I....must.....draw....her... https://t.co/wOeJAWek1f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077984204844150784"
+          ],
+          "media_source_tweet_id": [
+            "2077984206962200887"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2078094149576954042",
+        "created_at": "2026-07-17T12:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078094149576954042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1252442394986819590",
+              "start": 3,
+              "username": "kampfwagen_I"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOeJAWek1f",
+              "end": 70,
+              "expanded_url": "https://x.com/kampfwagen_I/status/2077984206962200887/photo/1",
+              "media_key": "3_2077984204844150784",
+              "start": 47,
+              "url": "https://t.co/wOeJAWek1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078094149576954042",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077984206962200887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kampfwagen_I: I....must.....draw....her... https://t.co/wOeJAWek1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 1435,
+          "like_count": 10046,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3395
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-21T03:41:58.000Z",
+        "description": "『타임라인M』中 / Drawing anime girls in historic uniforms / 대한제국·大韓帝國 & Rocket enthusiast\n● pixiv : https://t.co/bx9X6ZPUT1\n● ✉️ : pzkampfwageni@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/41907113",
+                "end": 117,
+                "expanded_url": "http://pixiv.net/users/41907113",
+                "start": 94,
+                "url": "https://t.co/bx9X6ZPUT1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/pzkpfwi",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/pzkpfwi",
+                "start": 0,
+                "url": "https://t.co/QJulz2h3cn"
+              }
+            ]
+          }
+        },
+        "id": "1252442394986819590",
+        "location": "Hanseong, Korean Empire",
+        "name": "PzKpfwI 판처",
+        "pinned_tweet_id": "2075507254309343276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612651518297243648/LUOkhw61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43468,
+          "following_count": 369,
+          "like_count": 124454,
+          "listed_count": 209,
+          "media_count": 14319,
+          "tweet_count": 69691
+        },
+        "url": "https://t.co/QJulz2h3cn",
+        "username": "kampfwagen_I",
+        "verified": false
+      }
+    ]
+  }
+}

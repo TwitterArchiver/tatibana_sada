@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057932373530927375",
+    "created_at": "2026-05-23T05:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T06:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058060256031486224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "303070273",
+          "start": 0,
+          "username": "JimJimCoCo"
+        },
+        {
+          "end": 27,
+          "id": "1709230006864314368",
+          "start": 12,
+          "username": "banglamarigold"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058060256031486224",
+    "in_reply_to_user_id": "303070273",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058032052507996344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JimJimCoCo @banglamarigold Why China"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057932373530927375",
+        "created_at": "2026-05-23T05:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058060256031486224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "303070273",
+              "start": 0,
+              "username": "JimJimCoCo"
+            },
+            {
+              "end": 27,
+              "id": "1709230006864314368",
+              "start": 12,
+              "username": "banglamarigold"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058060256031486224",
+        "in_reply_to_user_id": "303070273",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058032052507996344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JimJimCoCo @banglamarigold Why China"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "303070273",
+        "conversation_id": "2057932373530927375",
+        "created_at": "2026-05-23T03:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058032052507996344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1709230006864314368",
+              "start": 0,
+              "username": "banglamarigold"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058032052507996344",
+        "in_reply_to_user_id": "1709230006864314368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1090,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057932373530927375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banglamarigold And the Subcontinent will never Unite. So, US, China and Europe will keep exploiting the region."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 1186,
+          "like_count": 8367,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2763
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-22T07:53:11.000Z",
+        "description": "Cricket Enthusiast • Geopolitical Idiot • War Observer ✨\nAnything is possible in 2026 🚨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/TZCfydWF48c?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/TZCfydWF48c?si=rBIbNzVFmWhP4asw",
+                "start": 0,
+                "url": "https://t.co/aQ43pPGfaU"
+              }
+            ]
+          }
+        },
+        "id": "303070273",
+        "location": "India",
+        "name": "Jimothium 91",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041541150503505921/__K8SnCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 182,
+          "like_count": 1767,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 8485
+        },
+        "url": "https://t.co/aQ43pPGfaU",
+        "username": "JimJimCoCo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T15:33:12.000Z",
+        "description": "19 year old | she/her | নিজেকে ভালবাসুন, এবং নিজেকে ঘৃণা করা ছেড়ে দিতে শিখুন | Bangladeshi ☭⚢⚧︎🏳️‍⚧️ | 🇧🇩🍁🌺🔻🐅❤️💛",
+        "id": "1709230006864314368",
+        "location": "🃏🌾 পৃথিবী 🌍🐅",
+        "name": "Ujala / উজালা",
+        "pinned_tweet_id": "2054939680030728391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007587941804072960/yUjWcVzG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 705,
+          "like_count": 9410,
+          "listed_count": 3,
+          "media_count": 976,
+          "tweet_count": 12471
+        },
+        "username": "banglamarigold",
+        "verified": false
+      }
+    ]
+  }
+}

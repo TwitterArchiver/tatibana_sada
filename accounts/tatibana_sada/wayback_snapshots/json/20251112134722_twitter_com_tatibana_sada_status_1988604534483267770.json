@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988260498777821184"
+      ],
+      "media_source_tweet_id": [
+        "1988260505534808281"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988604534483267770",
+    "created_at": "2025-11-12T13:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T14:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988604534483267770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1555787870157275136",
+          "start": 3,
+          "username": "derrick_13197"
+        },
+        {
+          "end": 35,
+          "id": "1664120419711074304",
+          "start": 19,
+          "username": "SeYU1eScwt52054"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dslx9hjSdZ",
+          "end": 65,
+          "expanded_url": "https://x.com/derrick_13197/status/1988260505534808281/photo/1",
+          "media_key": "3_1988260498777821184",
+          "start": 42,
+          "url": "https://t.co/Dslx9hjSdZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988604534483267770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988260505534808281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @derrick_13197: @SeYU1eScwt52054 笑麻了这个 https://t.co/Dslx9hjSdZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 999,
+        "media_key": "3_1988260498777821184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5e4Y66X0AA3j3K.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988260498777821184"
+          ],
+          "media_source_tweet_id": [
+            "1988260505534808281"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988604534483267770",
+        "created_at": "2025-11-12T13:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988604534483267770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1555787870157275136",
+              "start": 3,
+              "username": "derrick_13197"
+            },
+            {
+              "end": 35,
+              "id": "1664120419711074304",
+              "start": 19,
+              "username": "SeYU1eScwt52054"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dslx9hjSdZ",
+              "end": 65,
+              "expanded_url": "https://x.com/derrick_13197/status/1988260505534808281/photo/1",
+              "media_key": "3_1988260498777821184",
+              "start": 42,
+              "url": "https://t.co/Dslx9hjSdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988604534483267770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988260505534808281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @derrick_13197: @SeYU1eScwt52054 笑麻了这个 https://t.co/Dslx9hjSdZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988260498777821184"
+          ]
+        },
+        "author_id": "1555787870157275136",
+        "conversation_id": "1988092574662619592",
+        "created_at": "2025-11-11T15:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T16:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988260505534808281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664120419711074304",
+              "start": 0,
+              "username": "SeYU1eScwt52054"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dslx9hjSdZ",
+              "end": 46,
+              "expanded_url": "https://x.com/derrick_13197/status/1988260505534808281/photo/1",
+              "media_key": "3_1988260498777821184",
+              "start": 23,
+              "url": "https://t.co/Dslx9hjSdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988260505534808281",
+        "in_reply_to_user_id": "1664120419711074304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15888,
+          "like_count": 197,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988092574662619592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeYU1eScwt52054 笑麻了这个 https://t.co/Dslx9hjSdZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 820,
+          "like_count": 5251,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1921
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T05:28:49.000Z",
+        "description": "赛博邻居 电子韭菜",
+        "id": "1555787870157275136",
+        "location": "止于推",
+        "name": "纳兰",
+        "pinned_tweet_id": "1731002444975657202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724400193788067840/MQ4mH3o-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6053,
+          "following_count": 179,
+          "like_count": 13492,
+          "listed_count": 27,
+          "media_count": 305,
+          "tweet_count": 2040
+        },
+        "username": "derrick_13197",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-01T04:03:36.000Z",
+        "description": "我有病看不惯我就去死｜🚪520｜发着玩",
+        "id": "1664120419711074304",
+        "location": "南京",
+        "name": "悲伤的前妻",
+        "pinned_tweet_id": "1976287641734951253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872986534871482369/BQGtRX-r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6137,
+          "following_count": 97,
+          "like_count": 9144,
+          "listed_count": 6,
+          "media_count": 701,
+          "tweet_count": 8209
+        },
+        "username": "SeYU1eScwt52054",
+        "verified": false
+      }
+    ]
+  }
+}

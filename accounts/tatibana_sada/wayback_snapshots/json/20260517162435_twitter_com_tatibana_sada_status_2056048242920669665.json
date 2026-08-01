@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2055617659887051211",
+    "created_at": "2026-05-17T16:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056048242920669665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "450532168",
+          "start": 0,
+          "username": "sharkbyte911"
+        },
+        {
+          "end": 24,
+          "id": "1906193820393545728",
+          "start": 14,
+          "username": "BaMero123"
+        },
+        {
+          "end": 38,
+          "id": "151930383",
+          "start": 25,
+          "username": "GordonGChang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056048242920669665",
+    "in_reply_to_user_id": "450532168",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056017809541337427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sharkbyte911 @BaMero123 @GordonGChang In China, There are a lot of people think that Gordon Chang is our comrade.He keeps fooling USA that China will collapse.\nRESPECT TO 章家敦同志"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2055617659887051211",
+        "created_at": "2026-05-17T16:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056048242920669665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "450532168",
+              "start": 0,
+              "username": "sharkbyte911"
+            },
+            {
+              "end": 24,
+              "id": "1906193820393545728",
+              "start": 14,
+              "username": "BaMero123"
+            },
+            {
+              "end": 38,
+              "id": "151930383",
+              "start": 25,
+              "username": "GordonGChang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056048242920669665",
+        "in_reply_to_user_id": "450532168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056017809541337427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sharkbyte911 @BaMero123 @GordonGChang In China, There are a lot of people think that Gordon Chang is our comrade.He keeps fooling USA that China will collapse.\nRESPECT TO 章家敦同志"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "450532168",
+        "conversation_id": "2055617659887051211",
+        "created_at": "2026-05-17T14:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056017809541337427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1906193820393545728",
+              "start": 0,
+              "username": "BaMero123"
+            },
+            {
+              "end": 24,
+              "id": "151930383",
+              "start": 11,
+              "username": "GordonGChang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056017809541337427",
+        "in_reply_to_user_id": "1906193820393545728",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055654411243000012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaMero123 @GordonGChang He just hates the Chinese and has wishful thinking. They say to speak what you want into existence. Maybe that’s what he’s doing."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 1115,
+          "like_count": 7827,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2570
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-30T10:33:32.000Z",
+        "description": "#Trump2024",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "Trump2024"
+              }
+            ]
+          }
+        },
+        "id": "450532168",
+        "location": "Everywhere",
+        "name": "Shark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990765918149111808/ngsEPHZv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 783,
+          "like_count": 46849,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 19407
+        },
+        "username": "sharkbyte911",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T03:57:17.000Z",
+        "description": "Thank you for your attention 🚦 \"म  भिन्न  विचारधारा लाई  personally bully गर्ने साइबर अपराधी कुंठे Low-life Sheeple को अबैध बाऊ हूँ🔞  \"📍CA -USA🇳🇵 🇺🇸",
+        "id": "1906193820393545728",
+        "location": "Kathmandu & Los Angeles ",
+        "name": "# Anti Anarchist",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052245437269340160/3V37D8oP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 290,
+          "like_count": 5881,
+          "listed_count": 0,
+          "media_count": 2660,
+          "tweet_count": 5886
+        },
+        "username": "BaMero123",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-04T16:23:14.000Z",
+        "description": "Author of Plan Red: China’s Project to Destroy America, The Coming Collapse of China, and China Is Going To War.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gordonchang.com",
+                "end": 23,
+                "expanded_url": "http://www.gordonchang.com",
+                "start": 0,
+                "url": "https://t.co/NoOEsA7THp"
+              }
+            ]
+          }
+        },
+        "id": "151930383",
+        "name": "Gordon G. Chang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1183859425905430529/zJMuSq9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437741,
+          "following_count": 927,
+          "like_count": 14,
+          "listed_count": 2277,
+          "media_count": 434,
+          "tweet_count": 45593
+        },
+        "url": "https://t.co/NoOEsA7THp",
+        "username": "GordonGChang",
+        "verified": true
+      }
+    ]
+  }
+}

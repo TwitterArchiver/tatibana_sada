@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2080156453940441529",
+    "created_at": "2026-07-23T05:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080156453940441529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CrownedCaribou…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/CrownedCaribou/status/2080049515718185271",
+          "start": 8,
+          "url": "https://t.co/i70EHcvp6G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080156453940441529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080049515718185271",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美国佬彻底疯了 https://t.co/i70EHcvp6G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 999,
+        "media_key": "3_2080049094576521216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3RoYWbQAACATO.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2080156453940441529",
+        "created_at": "2026-07-23T05:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080156453940441529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CrownedCaribou…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/CrownedCaribou/status/2080049515718185271",
+              "start": 8,
+              "url": "https://t.co/i70EHcvp6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080156453940441529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080049515718185271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美国佬彻底疯了 https://t.co/i70EHcvp6G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080049094576521216"
+          ]
+        },
+        "author_id": "2968594904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2080049515718185271",
+        "created_at": "2026-07-22T21:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T22:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080049515718185271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rfizj03hUb",
+              "end": 242,
+              "expanded_url": "https://x.com/CrownedCaribou/status/2080049515718185271/photo/1",
+              "media_key": "3_2080049094576521216",
+              "start": 219,
+              "url": "https://t.co/rfizj03hUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080049515718185271",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1239,
+          "impression_count": 250452,
+          "like_count": 7887,
+          "quote_count": 24,
+          "reply_count": 42,
+          "retweet_count": 438
+        },
+        "reply_settings": "everyone",
+        "text": "Spending 10 years on twitter is antisocial primarily because you'll be talking with a coworker and then your brain will blast you with an image like this because of something they said and you just have to keep focused https://t.co/rfizj03hUb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 1440,
+          "like_count": 10098,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3403
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-09T08:16:56.000Z",
+        "description": "\"Society practices a tyranny more formidable than many kinds of political oppression, leaving no escape, enslaving the soul itself.\" -J.S. Mill",
+        "id": "2968594904",
+        "name": "CrownedCaribou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1037255582917394432/fwyZ-pNc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2701,
+          "following_count": 3175,
+          "like_count": 103418,
+          "listed_count": 18,
+          "media_count": 6872,
+          "tweet_count": 39835
+        },
+        "url": "",
+        "username": "CrownedCaribou",
+        "verified": true
+      }
+    ]
+  }
+}

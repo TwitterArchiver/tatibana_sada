@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991710907450421565",
+    "created_at": "2025-11-21T03:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T04:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991710907450421565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Vox35112635/st…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/Vox35112635/status/1991495766595236163",
+          "start": 144,
+          "url": "https://t.co/foQeYbjl1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991710907450421565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991495766595236163",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "zizek好像说过一个幽默的场景，性爱已经平凡，深谈才显色情，所以我们干脆约炮的时候带一个振动棒和飞机杯，让它俩自己玩，然后我们深情的手握手谈论原生家庭。\n所以我天才的主意是，干脆把dirty talk录下来好了，做的时候大家都哑巴，让手机播放你一句我一句的淫秽对白。我看这真该喊万岁。 https://t.co/foQeYbjl1m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_1991495760853233667",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6M219VacAMLdRT.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991710907450421565",
+        "created_at": "2025-11-21T03:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T04:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991710907450421565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Vox35112635/st…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Vox35112635/status/1991495766595236163",
+              "start": 144,
+              "url": "https://t.co/foQeYbjl1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991710907450421565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991495766595236163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "zizek好像说过一个幽默的场景，性爱已经平凡，深谈才显色情，所以我们干脆约炮的时候带一个振动棒和飞机杯，让它俩自己玩，然后我们深情的手握手谈论原生家庭。\n所以我天才的主意是，干脆把dirty talk录下来好了，做的时候大家都哑巴，让手机播放你一句我一句的淫秽对白。我看这真该喊万岁。 https://t.co/foQeYbjl1m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991495760853233667"
+          ]
+        },
+        "author_id": "1291988176496545792",
+        "conversation_id": "1991495766595236163",
+        "created_at": "2025-11-20T13:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T14:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991495766595236163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kj9DtnxtHd",
+              "end": 23,
+              "expanded_url": "https://x.com/Vox35112635/status/1991495766595236163/photo/1",
+              "media_key": "3_1991495760853233667",
+              "start": 0,
+              "url": "https://t.co/kj9DtnxtHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991495766595236163",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 36354,
+          "like_count": 135,
+          "quote_count": 1,
+          "reply_count": 79,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kj9DtnxtHd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 883,
+          "like_count": 5805,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2104
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/现在会接一点有偿转发/付费线上绿色交友委托/广告正规推以外的其他投稿均为免费/加vx随缘给门槛就好了/算卦找她@minglishii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "minglishii"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "1989930955755459040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278007,
+          "following_count": 564,
+          "like_count": 493,
+          "listed_count": 307,
+          "media_count": 10647,
+          "tweet_count": 15394
+        },
+        "username": "Vox35112635",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074301706519879680"
+      ],
+      "media_source_tweet_id": [
+        "2074301711192314310"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2074390200046985251",
+    "created_at": "2026-07-07T07:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074390200046985251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1429624899190943746",
+          "start": 3,
+          "username": "manjiru_perori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/txc4k9W9R3",
+          "end": 72,
+          "expanded_url": "https://x.com/manjiru_perori/status/2074301711192314310/photo/1",
+          "media_key": "3_2074301706519879680",
+          "start": 49,
+          "url": "https://t.co/txc4k9W9R3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074390200046985251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074301711192314310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @manjiru_perori: 安倍晋三ってループつくるの上手いからスレスパとか得意そう https://t.co/txc4k9W9R3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 314,
+        "media_key": "3_2074301706519879680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlmaXYaoAAKjlO.jpg",
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074301706519879680"
+          ],
+          "media_source_tweet_id": [
+            "2074301711192314310"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2074390200046985251",
+        "created_at": "2026-07-07T07:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074390200046985251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1429624899190943746",
+              "start": 3,
+              "username": "manjiru_perori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/txc4k9W9R3",
+              "end": 72,
+              "expanded_url": "https://x.com/manjiru_perori/status/2074301711192314310/photo/1",
+              "media_key": "3_2074301706519879680",
+              "start": 49,
+              "url": "https://t.co/txc4k9W9R3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074390200046985251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074301711192314310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @manjiru_perori: 安倍晋三ってループつくるの上手いからスレスパとか得意そう https://t.co/txc4k9W9R3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074301706519879680"
+          ]
+        },
+        "author_id": "1429624899190943746",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2074301711192314310",
+        "created_at": "2026-07-07T01:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074301711192314310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/txc4k9W9R3",
+              "end": 52,
+              "expanded_url": "https://x.com/manjiru_perori/status/2074301711192314310/photo/1",
+              "media_key": "3_2074301706519879680",
+              "start": 29,
+              "url": "https://t.co/txc4k9W9R3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074301711192314310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 27586,
+          "like_count": 573,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "安倍晋三ってループつくるの上手いからスレスパとか得意そう https://t.co/txc4k9W9R3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 1404,
+          "like_count": 9757,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3325
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T02:02:00.000Z",
+        "description": "限りなくHeatに近いLove",
+        "id": "1429624899190943746",
+        "name": "卍琉ペロリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954875011761876992/BSNPaD7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 667,
+          "like_count": 11543,
+          "listed_count": 61,
+          "media_count": 1679,
+          "tweet_count": 20584
+        },
+        "url": "",
+        "username": "manjiru_perori",
+        "verified": false
+      }
+    ]
+  }
+}

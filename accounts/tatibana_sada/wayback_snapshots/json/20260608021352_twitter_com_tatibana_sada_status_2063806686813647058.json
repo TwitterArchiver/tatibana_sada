@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2063285028352630784"
+      ],
+      "media_source_tweet_id": [
+        "2063285034434359681"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2063806686813647058",
+    "created_at": "2026-06-08T02:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063806686813647058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2014183192605999104",
+          "start": 3,
+          "username": "SolStarrhammer"
+        },
+        {
+          "end": 35,
+          "id": "1194442867680276483",
+          "start": 20,
+          "username": "TatsuyaIshida9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IsacIAqgfb",
+          "end": 99,
+          "expanded_url": "https://x.com/SolStarrhammer/status/2063285034434359681/photo/1",
+          "media_key": "16_2063285028352630784",
+          "start": 76,
+          "url": "https://t.co/IsacIAqgfb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063806686813647058",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063285034434359681",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SolStarrhammer: @TatsuyaIshida9 Japan when they saw the REAL rising sun https://t.co/IsacIAqgfb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2063285028352630784",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKJCzTFXIAAol5l.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKJCzTFXIAAol5l.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2063285028352630784"
+          ],
+          "media_source_tweet_id": [
+            "2063285034434359681"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2063806686813647058",
+        "created_at": "2026-06-08T02:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063806686813647058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2014183192605999104",
+              "start": 3,
+              "username": "SolStarrhammer"
+            },
+            {
+              "end": 35,
+              "id": "1194442867680276483",
+              "start": 20,
+              "username": "TatsuyaIshida9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsacIAqgfb",
+              "end": 99,
+              "expanded_url": "https://x.com/SolStarrhammer/status/2063285034434359681/photo/1",
+              "media_key": "16_2063285028352630784",
+              "start": 76,
+              "url": "https://t.co/IsacIAqgfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063806686813647058",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063285034434359681",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SolStarrhammer: @TatsuyaIshida9 Japan when they saw the REAL rising sun https://t.co/IsacIAqgfb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2063285028352630784"
+          ]
+        },
+        "author_id": "2014183192605999104",
+        "conversation_id": "2063083759931666858",
+        "created_at": "2026-06-06T15:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063285034434359681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1194442867680276483",
+              "start": 0,
+              "username": "TatsuyaIshida9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsacIAqgfb",
+              "end": 79,
+              "expanded_url": "https://x.com/SolStarrhammer/status/2063285034434359681/photo/1",
+              "media_key": "16_2063285028352630784",
+              "start": 56,
+              "url": "https://t.co/IsacIAqgfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063285034434359681",
+        "in_reply_to_user_id": "1194442867680276483",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7957,
+          "like_count": 439,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063083759931666858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TatsuyaIshida9 Japan when they saw the REAL rising sun https://t.co/IsacIAqgfb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1266,
+          "like_count": 9040,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3080
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T03:48:03.000Z",
+        "description": "Your average bisexual stoned Libertarian Socialist. Warhammer, Fat Women and Vtuber enthusiast. Minors DNI.\n\nS.A.L.T.\nStand\nAgainst \nLocal\nTerror",
+        "id": "2014183192605999104",
+        "name": "SolomonStarr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037609913653088257/SPcIBITU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 404,
+          "like_count": 12408,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 611
+        },
+        "username": "SolStarrhammer",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-13T02:32:35.000Z",
+        "description": "Cartoonist\nhttps://t.co/kY3GopWcnj\nhttps://t.co/AH2obD3b1D\nhttps://t.co/5qJideZbiX\nAll materials copyright © Tatsuya Ishida",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "subscribestar.com/sinfest",
+                "end": 34,
+                "expanded_url": "https://subscribestar.com/sinfest",
+                "start": 11,
+                "url": "https://t.co/kY3GopWcnj"
+              },
+              {
+                "display_url": "tatsuyaishida.substack.com",
+                "end": 58,
+                "expanded_url": "https://tatsuyaishida.substack.com",
+                "start": 35,
+                "url": "https://t.co/AH2obD3b1D"
+              },
+              {
+                "display_url": "sinfest.locals.com",
+                "end": 82,
+                "expanded_url": "https://sinfest.locals.com",
+                "start": 59,
+                "url": "https://t.co/5qJideZbiX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sinfest.net",
+                "end": 23,
+                "expanded_url": "https://sinfest.net",
+                "start": 0,
+                "url": "https://t.co/rGM7fXT7bQ"
+              }
+            ]
+          }
+        },
+        "id": "1194442867680276483",
+        "location": "California",
+        "name": "Tatsuya Ishida",
+        "pinned_tweet_id": "1301307426268876800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1194445974246051840/tMtxnL_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59330,
+          "following_count": 113,
+          "like_count": 2784,
+          "listed_count": 291,
+          "media_count": 1832,
+          "tweet_count": 2126
+        },
+        "url": "https://t.co/rGM7fXT7bQ",
+        "username": "TatsuyaIshida9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1984917880618803541",
+    "created_at": "2025-11-02T18:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T19:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985044428193452243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688385343580680192",
+          "start": 0,
+          "username": "heiwawomamore"
+        },
+        {
+          "end": 28,
+          "id": "1680247071608303616",
+          "start": 15,
+          "username": "AsdQWD358224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985044428193452243",
+    "in_reply_to_user_id": "1688385343580680192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984980109124866291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiwawomamore @AsdQWD358224 他觉得日本至少比苏联好嘛。\n并且他还真是泛亚志士的老朋友。支那浪人去营救反清烈士家属的时候，列指导还是什么名声都没有的喀山鉴证小头头。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1984917880618803541",
+        "created_at": "2025-11-02T18:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T19:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985044428193452243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688385343580680192",
+              "start": 0,
+              "username": "heiwawomamore"
+            },
+            {
+              "end": 28,
+              "id": "1680247071608303616",
+              "start": 15,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985044428193452243",
+        "in_reply_to_user_id": "1688385343580680192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984980109124866291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiwawomamore @AsdQWD358224 他觉得日本至少比苏联好嘛。\n并且他还真是泛亚志士的老朋友。支那浪人去营救反清烈士家属的时候，列指导还是什么名声都没有的喀山鉴证小头头。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688385343580680192",
+        "conversation_id": "1984917880618803541",
+        "created_at": "2025-11-02T13:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T14:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984980109124866291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680247071608303616",
+              "start": 0,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984980109124866291",
+        "in_reply_to_user_id": "1680247071608303616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984917880618803541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsdQWD358224 汪精卫投日疑似因为日本和他希望的制度相近而不是当狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 699,
+          "like_count": 4107,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1668
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "泛左派(或許）MtX🍥  🐈 \n\n發發生活和一些奇怪的想\n \n主要喜歡胃弱久石讓坂本龍一的音樂 常聽朮曲 歷史政治相關歌曲 左翼歌曲 日語英語歌曲 純音樂 交響樂 民歌 老歌 ACG音樂和其他平均律的音樂 歡迎給我推歌？\n\nima ingenting more alles\n  \n願你們平安順遂幸福快樂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/heiwawomamore",
+                "end": 23,
+                "expanded_url": "https://ngl.link/heiwawomamore",
+                "start": 0,
+                "url": "https://t.co/NkYsnsHUO7"
+              }
+            ]
+          }
+        },
+        "id": "1688385343580680192",
+        "location": "Singin' In The Rain",
+        "name": "Lav Mer Sam Ћın",
+        "pinned_tweet_id": "1734649492220342312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971299743856009216/oIQdxFMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1821,
+          "following_count": 2535,
+          "like_count": 145840,
+          "listed_count": 18,
+          "media_count": 2205,
+          "tweet_count": 80202
+        },
+        "url": "https://t.co/NkYsnsHUO7",
+        "username": "heiwawomamore",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/反战反仇恨/多边关系/❤️    \n@Caroline_9870   ❤️   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️\n/秋分在线中/我绝对是健全人/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "calsys456"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 104,
+                "start": 96,
+                "username": "fe_ions"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/节气系统.（秋分.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2568,
+          "following_count": 3127,
+          "like_count": 100101,
+          "listed_count": 11,
+          "media_count": 2140,
+          "tweet_count": 16533
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false
+      }
+    ]
+  }
+}

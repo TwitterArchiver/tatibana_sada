@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1989466703596814565",
+    "created_at": "2025-11-14T22:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T23:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989466703596814565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "44186175",
+          "start": 3,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989466703596814565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 312
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989153143222104127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojingcanxue: 这是一个很有意思的，能读懂中国的故事。\n\n主角在北京工作，被系统错误的划成了来京上访人员。导致在北京的各个机场、火车站、法庭等工作常去地点寸步难行。每次都要查半个小时以上，查的结果都是搞错了，但查他的人又没有权限改。\n\n于是他只能不停的投…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2248,
+        "media_key": "3_1989152174891577344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rjXTSbsAAvX3j.jpg",
+        "width": 992
+      },
+      {
+        "height": 2462,
+        "media_key": "3_1989152278906040326",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rjdWxacAY9Wr-.png",
+        "width": 992
+      },
+      {
+        "height": 2344,
+        "media_key": "3_1989152366185390080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rjib6boAA54hb.jpg",
+        "width": 992
+      },
+      {
+        "height": 2282,
+        "media_key": "3_1989152436054073344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rjmgMbIAAuGNu.png",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1989466703596814565",
+        "created_at": "2025-11-14T22:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T23:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989466703596814565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "44186175",
+              "start": 3,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989466703596814565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989153143222104127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaojingcanxue: 这是一个很有意思的，能读懂中国的故事。\n\n主角在北京工作，被系统错误的划成了来京上访人员。导致在北京的各个机场、火车站、法庭等工作常去地点寸步难行。每次都要查半个小时以上，查的结果都是搞错了，但查他的人又没有权限改。\n\n于是他只能不停的投…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989152174891577344",
+            "3_1989152278906040326",
+            "3_1989152366185390080",
+            "3_1989152436054073344"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "1989153143222104127",
+        "created_at": "2025-11-14T02:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T03:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989153143222104127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnoEPd7Oj9",
+              "end": 161,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1989153143222104127/photo/1",
+              "media_key": "3_1989152174891577344",
+              "start": 138,
+              "url": "https://t.co/xnoEPd7Oj9"
+            },
+            {
+              "display_url": "pic.x.com/xnoEPd7Oj9",
+              "end": 161,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1989153143222104127/photo/1",
+              "media_key": "3_1989152278906040326",
+              "start": 138,
+              "url": "https://t.co/xnoEPd7Oj9"
+            },
+            {
+              "display_url": "pic.x.com/xnoEPd7Oj9",
+              "end": 161,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1989153143222104127/photo/1",
+              "media_key": "3_1989152366185390080",
+              "start": 138,
+              "url": "https://t.co/xnoEPd7Oj9"
+            },
+            {
+              "display_url": "pic.x.com/xnoEPd7Oj9",
+              "end": 161,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1989153143222104127/photo/1",
+              "media_key": "3_1989152436054073344",
+              "start": 138,
+              "url": "https://t.co/xnoEPd7Oj9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989153143222104127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 606,
+          "impression_count": 264318,
+          "like_count": 1532,
+          "quote_count": 35,
+          "reply_count": 87,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "这是一个很有意思的，能读懂中国的故事。\n\n主角在北京工作，被系统错误的划成了来京上访人员。导致在北京的各个机场、火车站、法庭等工作常去地点寸步难行。每次都要查半个小时以上，查的结果都是搞错了，但查他的人又没有权限改。\n\n于是他只能不停的投诉，最终他真的成了一名上访人员。/1 https://t.co/xnoEPd7Oj9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 850,
+          "like_count": 5438,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1965
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235358,
+          "following_count": 1842,
+          "like_count": 192,
+          "listed_count": 1231,
+          "media_count": 26992,
+          "tweet_count": 34418
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

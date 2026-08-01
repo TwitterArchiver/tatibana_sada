@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985326783496175616"
+      ],
+      "media_source_tweet_id": [
+        "1985326797685502046"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985382988537057539",
+    "created_at": "2025-11-03T16:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T17:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985382988537057539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833742576962469888",
+          "start": 3,
+          "username": "mm__0246"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BG7yJiaZdX",
+          "end": 96,
+          "expanded_url": "https://x.com/mm__0246/status/1985326797685502046/photo/1",
+          "media_key": "3_1985326783496175616",
+          "start": 73,
+          "url": "https://t.co/BG7yJiaZdX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985382988537057539",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985326797685502046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mm__0246: 第23弾！！！\nおもしれ〜ウォトコだなおめ〜😊🫵🫵🫵\nごめんけど🛩乗ってるﾃｲで見て！！笑笑\n【ﾉﾚ~〒”ﾉﾚ閣下】 https://t.co/BG7yJiaZdX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_1985326783496175616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41MMN1bwAARKc7.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985326783496175616"
+          ],
+          "media_source_tweet_id": [
+            "1985326797685502046"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985382988537057539",
+        "created_at": "2025-11-03T16:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985382988537057539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1833742576962469888",
+              "start": 3,
+              "username": "mm__0246"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BG7yJiaZdX",
+              "end": 96,
+              "expanded_url": "https://x.com/mm__0246/status/1985326797685502046/photo/1",
+              "media_key": "3_1985326783496175616",
+              "start": 73,
+              "url": "https://t.co/BG7yJiaZdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985382988537057539",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985326797685502046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mm__0246: 第23弾！！！\nおもしれ〜ウォトコだなおめ〜😊🫵🫵🫵\nごめんけど🛩乗ってるﾃｲで見て！！笑笑\n【ﾉﾚ~〒”ﾉﾚ閣下】 https://t.co/BG7yJiaZdX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985326783496175616"
+          ]
+        },
+        "author_id": "1833742576962469888",
+        "conversation_id": "1985326797685502046",
+        "created_at": "2025-11-03T12:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985326797685502046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BG7yJiaZdX",
+              "end": 82,
+              "expanded_url": "https://x.com/mm__0246/status/1985326797685502046/photo/1",
+              "media_key": "3_1985326783496175616",
+              "start": 59,
+              "url": "https://t.co/BG7yJiaZdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985326797685502046",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 311,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "第23弾！！！\nおもしれ〜ウォトコだなおめ〜😊🫵🫵🫵\nごめんけど🛩乗ってるﾃｲで見て！！笑笑\n【ﾉﾚ~〒”ﾉﾚ閣下】 https://t.co/BG7yJiaZdX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1982595504287699299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 713,
+          "like_count": 4428,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1711
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T05:41:25.000Z",
+        "description": "成人済 / 総と元と宣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "poipiku.com/12316104/",
+                "end": 23,
+                "expanded_url": "https://poipiku.com/12316104/",
+                "start": 0,
+                "url": "https://t.co/CKgfBN9YKD"
+              }
+            ]
+          }
+        },
+        "id": "1833742576962469888",
+        "name": "m.m.",
+        "pinned_tweet_id": "1866366244351545433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853328950380183552/JiaAPq12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 16,
+          "like_count": 1178,
+          "listed_count": 4,
+          "media_count": 123,
+          "tweet_count": 3528
+        },
+        "url": "https://t.co/CKgfBN9YKD",
+        "username": "mm__0246",
+        "verified": false
+      }
+    ]
+  }
+}

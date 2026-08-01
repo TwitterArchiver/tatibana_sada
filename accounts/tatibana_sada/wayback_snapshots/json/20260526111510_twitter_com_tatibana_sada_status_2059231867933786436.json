@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2058505574850187449",
+    "created_at": "2026-05-26T11:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059231867933786436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965448764686303235",
+          "start": 0,
+          "username": "mio_negimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059231867933786436",
+    "in_reply_to_user_id": "1965448764686303235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059231487929823473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio_negimeow y染色体还是x染色体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058505574850187449",
+        "created_at": "2026-05-26T11:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059231867933786436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965448764686303235",
+              "start": 0,
+              "username": "mio_negimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059231867933786436",
+        "in_reply_to_user_id": "1965448764686303235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059231487929823473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio_negimeow y染色体还是x染色体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965448764686303235",
+        "conversation_id": "2058505574850187449",
+        "created_at": "2026-05-26T11:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059231487929823473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059231487929823473",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059231073981317579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 滚吧 我女的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 1217,
+          "like_count": 8719,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2916
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:14:58.000Z",
+        "description": "aka. Snowmiku❄️｜姛｜Feminist ｜喜欢探索世界的理工女 ｜ 日常碎碎念  |  是什么呢？顾名思义是一只葱，那为什么是酱葱呢，因为葱酱很可爱！（无端//）",
+        "id": "1965448764686303235",
+        "name": "酱葱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993376877587972104/nec22BPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 73,
+          "like_count": 874,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 490
+        },
+        "username": "mio_negimeow",
+        "verified": false
+      }
+    ]
+  }
+}

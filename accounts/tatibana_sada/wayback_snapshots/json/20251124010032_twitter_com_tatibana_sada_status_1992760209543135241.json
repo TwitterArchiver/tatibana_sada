@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992572239523487744"
+      ],
+      "media_source_tweet_id": [
+        "1992572245349380338"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1992760209543135241",
+    "created_at": "2025-11-24T01:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T02:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992760209543135241"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 24,
+          "tag": "scaramouche"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1842515522107432960",
+          "start": 3,
+          "username": "_1oveScara_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yUxxfKJPhq",
+          "end": 60,
+          "expanded_url": "https://x.com/_1oveScara_/status/1992572245349380338/photo/1",
+          "media_key": "3_1992572239523487744",
+          "start": 37,
+          "url": "https://t.co/yUxxfKJPhq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992760209543135241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992572245349380338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_1oveScara_: ⚠️可哀想\n #scaramouche https://t.co/yUxxfKJPhq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992572239523487744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cJ5Q4aIAAsqvd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992572239523487744"
+          ],
+          "media_source_tweet_id": [
+            "1992572245349380338"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1992760209543135241",
+        "created_at": "2025-11-24T01:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T02:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992760209543135241"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 24,
+              "tag": "scaramouche"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1842515522107432960",
+              "start": 3,
+              "username": "_1oveScara_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yUxxfKJPhq",
+              "end": 60,
+              "expanded_url": "https://x.com/_1oveScara_/status/1992572245349380338/photo/1",
+              "media_key": "3_1992572239523487744",
+              "start": 37,
+              "url": "https://t.co/yUxxfKJPhq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992760209543135241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992572245349380338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_1oveScara_: ⚠️可哀想\n #scaramouche https://t.co/yUxxfKJPhq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992572239523487744"
+          ]
+        },
+        "author_id": "1842515522107432960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1992572245349380338",
+        "created_at": "2025-11-23T12:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992572245349380338"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 7,
+              "tag": "scaramouche"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yUxxfKJPhq",
+              "end": 43,
+              "expanded_url": "https://x.com/_1oveScara_/status/1992572245349380338/photo/1",
+              "media_key": "3_1992572239523487744",
+              "start": 20,
+              "url": "https://t.co/yUxxfKJPhq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992572245349380338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 326,
+          "impression_count": 24940,
+          "like_count": 2010,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️可哀想\n #scaramouche https://t.co/yUxxfKJPhq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 925,
+          "like_count": 6141,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2219
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T10:42:00.000Z",
+        "description": "放散右固定 NL地雷です 💟@_opai4545",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "_opai4545"
+              }
+            ]
+          }
+        },
+        "id": "1842515522107432960",
+        "name": "胸板",
+        "pinned_tweet_id": "1905243436288262377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974079599400333312/fyB6hgR2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 100,
+          "like_count": 3759,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 277
+        },
+        "username": "_1oveScara_",
+        "verified": false
+      }
+    ]
+  }
+}

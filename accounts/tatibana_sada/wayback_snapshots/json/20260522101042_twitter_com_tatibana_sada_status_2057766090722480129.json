@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057752548963201170",
+    "created_at": "2026-05-22T10:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057766090722480129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926860981570768896",
+          "start": 0,
+          "username": "DeLaVall3e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057766090722480129",
+    "in_reply_to_user_id": "1926860981570768896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057764876496617635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeLaVall3e 这真是典型的韩国人👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057752548963201170",
+        "created_at": "2026-05-22T10:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057766090722480129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926860981570768896",
+              "start": 0,
+              "username": "DeLaVall3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057766090722480129",
+        "in_reply_to_user_id": "1926860981570768896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057764876496617635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeLaVall3e 这真是典型的韩国人👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926860981570768896",
+        "conversation_id": "2057752548963201170",
+        "created_at": "2026-05-22T10:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057764876496617635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057764876496617635",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057752548963201170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada Ok China Ching Chang Chong keep listening to your dictator cunt Xi instead 😂😂😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 1171,
+          "like_count": 8304,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2735
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T04:40:48.000Z",
+        "description": "",
+        "id": "1926860981570768896",
+        "name": "👑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999373987550490624/wUBip2Ve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 19,
+          "like_count": 818,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 780
+        },
+        "username": "DeLaVall3e",
+        "verified": false
+      }
+    ]
+  }
+}

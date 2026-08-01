@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057392477976576344",
+    "created_at": "2026-05-21T09:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T10:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057392477976576344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1561753484512612353",
+          "start": 3,
+          "username": "Moutai_H_Maple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057392477976576344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057369962579378587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Moutai_H_Maple: 在推特上如果你看到一个住在海外的人发疯，十个里七个都是住在加拿大的。特别是住在加拿大的酷儿，根据我线下亲身经历，我遇到在加拿大的性少数没有不发疯的，只是表现形式不同。\n\n加拿大的国土面积是世界第二，人口只有4000多万。\n什么概念？中国性…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2057369897735467008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0_BYYasAA-H8c.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1149,
+        "media_key": "3_2057369897735503872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0_BYYbQAAn7g_.jpg",
+        "width": 861
+      },
+      {
+        "height": 1050,
+        "media_key": "3_2057369897961959424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0_BZOasAA_MVr.jpg",
+        "width": 824
+      },
+      {
+        "height": 558,
+        "media_key": "3_2057369943956652032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0_EEkaAAAEykW.jpg",
+        "width": 831
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057392477976576344",
+        "created_at": "2026-05-21T09:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057392477976576344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1561753484512612353",
+              "start": 3,
+              "username": "Moutai_H_Maple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057392477976576344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057369962579378587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Moutai_H_Maple: 在推特上如果你看到一个住在海外的人发疯，十个里七个都是住在加拿大的。特别是住在加拿大的酷儿，根据我线下亲身经历，我遇到在加拿大的性少数没有不发疯的，只是表现形式不同。\n\n加拿大的国土面积是世界第二，人口只有4000多万。\n什么概念？中国性…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057369897735467008",
+            "3_2057369897735503872",
+            "3_2057369897961959424",
+            "3_2057369943956652032"
+          ]
+        },
+        "author_id": "1561753484512612353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057369962579378587",
+        "created_at": "2026-05-21T07:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:55:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057369694273941642",
+          "2057369962579378587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tB44ElxOGh",
+              "end": 167,
+              "expanded_url": "https://x.com/Moutai_H_Maple/status/2057369962579378587/photo/1",
+              "media_key": "3_2057369897735467008",
+              "start": 144,
+              "url": "https://t.co/tB44ElxOGh"
+            },
+            {
+              "display_url": "pic.x.com/tB44ElxOGh",
+              "end": 167,
+              "expanded_url": "https://x.com/Moutai_H_Maple/status/2057369962579378587/photo/1",
+              "media_key": "3_2057369897735503872",
+              "start": 144,
+              "url": "https://t.co/tB44ElxOGh"
+            },
+            {
+              "display_url": "pic.x.com/tB44ElxOGh",
+              "end": 167,
+              "expanded_url": "https://x.com/Moutai_H_Maple/status/2057369962579378587/photo/1",
+              "media_key": "3_2057369897961959424",
+              "start": 144,
+              "url": "https://t.co/tB44ElxOGh"
+            },
+            {
+              "display_url": "pic.x.com/tB44ElxOGh",
+              "end": 167,
+              "expanded_url": "https://x.com/Moutai_H_Maple/status/2057369962579378587/photo/1",
+              "media_key": "3_2057369943956652032",
+              "start": 144,
+              "url": "https://t.co/tB44ElxOGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057369962579378587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在推特上如果你看到一个住在海外的人发疯，十个里七个都是住在加拿大的。特别是住在加拿大的酷儿，根据我线下亲身经历，我遇到在加拿大的性少数没有不发疯的，只是表现形式不同。\n\n加拿大的国土面积是世界第二，人口只有4000多万。\n什么概念？中国性少数人口如果以百分之五计算，那就是7000万人。\n多伦多市区的人口为300万人，什么概念？上海人口是2400万。\n\n因此我来到加拿大以后，首先面临的现实就是我能找到的性少数圈子比中国更少。而且加拿大lgbt完全法律保护且公开，他们完全没有经历过中国性少数经历的生存环境。\n\n导致我和我认识的很多同性恋者实际上都与西方的lgbt圈子格格不入。因此就我观察来看，我线下认识的去加拿大的中国性少数包括我自己，来到加拿大后全部进入了独居生存状态。\n\n每天就是【起床---做饭---上学/上班----回家】，这样一个死循环。\n\n有些人可能会杠，为什么不出门社交呢？\n\n我曾经下载过一个洋人同性恋使用的社交软件，结果人家白人跟我说你要么给我操，要么就滚。\n他们社区完全就是这样一个状态，人家不想关注也不理解我们这些中国性少数比起性爱更需要陪伴和理解。\n\n白人异性恋对我们亚洲同性恋什么态度自不用说。\n\n中国人的圈子呢？我评价为我高中就在加拿大上学，那个时候也不懂事就公开了自己的性取向，结果被来中国留学的华人小留欺负了半个学期，直到他们转学。\n\n所以我之前推文就提到，我没有办法和任何人交朋友，我恐惧和再异性恋加拿大人和华人交朋友，但也无法与加拿大长大的性少数对上线。\n\n所以我再次强调，实际上和我一样处于长期独居状态，完全不和人社交，甚至彼此都不交流的加拿大性少数不止我一个。\n\n因此这就是包括你茅我和amber等人在内来了加拿大以后一年比一年疯狂和魔怔的原因。\n\n我们来加拿大虽然听不到国内那些仇恨言论，但是每天只能听到自己的声音，每天只能和自己说话。\n这就像被关入了由吸音海绵组成的监狱。\n\n哪怕去加拿大所谓的大城市，300万人口的多伦多，300万人口的大温哥华。我也只能听到风声。\n\n我从市中心的东边走到西边只需要半个小时不到。那些大楼里也空空荡荡，白天就像鬼城，晚上就像中国的农村。\n\n至于亚文化就更不用说了，我们这些00后亚洲z世代，从小在国内的快餐文化和商业化中长大。\n\n到了加拿大后发现这里没有国内的市井文化、小商小贩，没有迪士尼那样的游乐场，没有举办活动的商圈，没有漫展，甚至没有那么多脱口秀你只能去滑雪、打台球、喝下午茶，上网。\n\n所以来加拿大的性少数即便这样最终还是坚持到拿了身份。因为比起困在监狱他们也不想回到那个会让他们时刻恐惧的故乡。\n\n可是当我们把这些过程熬过去，十个里恐怕八个都是疯子。除非那些生来就厌恶过度城市化、商业化和消费主义景观的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1780,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "在推特上如果你看到一个住在海外的人发疯，十个里七个都是住在加拿大的。特别是住在加拿大的酷儿，根据我线下亲身经历，我遇到在加拿大的性少数没有不发疯的，只是表现形式不同。\n\n加拿大的国土面积是世界第二，人口只有4000多万。\n什么概念？中国性少数人口如果以百分之五计算，那就是7000万人。 https://t.co/tB44ElxOGh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 1160,
+          "like_count": 8249,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2695
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T16:34:03.000Z",
+        "description": "男同性恋，阿尔伯塔大学本科生，自认携带y染负能量病毒载体，靠近会被污染。｜\n秘祈人途径，现在是放牧“古代学者”和“观众”的“牧羊人”｜古代学者的友情链接https://t.co/qCkwfPdK8a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/katon53615",
+                "end": 99,
+                "expanded_url": "https://x.com/katon53615",
+                "start": 76,
+                "url": "https://t.co/qCkwfPdK8a"
+              }
+            ]
+          }
+        },
+        "id": "1561753484512612353",
+        "location": "Edmonton, Alberta",
+        "name": "茅茅taiiiiii",
+        "pinned_tweet_id": "2054746477386506628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988309263115317248/IS5Aq8xZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 263,
+          "like_count": 1789,
+          "listed_count": 5,
+          "media_count": 438,
+          "tweet_count": 2042
+        },
+        "username": "Moutai_H_Maple",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988879628308762624",
+        "3_1988879628124192768"
+      ],
+      "media_source_tweet_id": [
+        "1988879633580802307",
+        "1988879633580802307"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1989491131261047127",
+    "created_at": "2025-11-15T00:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T01:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989491131261047127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1931569215674425344",
+          "start": 3,
+          "username": "NLH_00_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/215YhXw7qT",
+          "end": 53,
+          "expanded_url": "https://x.com/NLH_00_/status/1988879633580802307/photo/1",
+          "media_key": "3_1988879628308762624",
+          "start": 30,
+          "url": "https://t.co/215YhXw7qT"
+        },
+        {
+          "display_url": "pic.x.com/215YhXw7qT",
+          "end": 53,
+          "expanded_url": "https://x.com/NLH_00_/status/1988879633580802307/photo/1",
+          "media_key": "3_1988879628124192768",
+          "start": 30,
+          "url": "https://t.co/215YhXw7qT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989491131261047127",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 455
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988879633580802307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NLH_00_: 色だけでこんなに印象変わるのか… https://t.co/215YhXw7qT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1988879628308762624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5nrfAJa0AA5TmZ.jpg",
+        "width": 1767
+      },
+      {
+        "height": 1350,
+        "media_key": "3_1988879628124192768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5nre_dagAAqPsH.jpg",
+        "width": 1750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988879628308762624",
+            "3_1988879628124192768"
+          ],
+          "media_source_tweet_id": [
+            "1988879633580802307",
+            "1988879633580802307"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1989491131261047127",
+        "created_at": "2025-11-15T00:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T01:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989491131261047127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1931569215674425344",
+              "start": 3,
+              "username": "NLH_00_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/215YhXw7qT",
+              "end": 53,
+              "expanded_url": "https://x.com/NLH_00_/status/1988879633580802307/photo/1",
+              "media_key": "3_1988879628308762624",
+              "start": 30,
+              "url": "https://t.co/215YhXw7qT"
+            },
+            {
+              "display_url": "pic.x.com/215YhXw7qT",
+              "end": 53,
+              "expanded_url": "https://x.com/NLH_00_/status/1988879633580802307/photo/1",
+              "media_key": "3_1988879628124192768",
+              "start": 30,
+              "url": "https://t.co/215YhXw7qT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989491131261047127",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 455
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988879633580802307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NLH_00_: 色だけでこんなに印象変わるのか… https://t.co/215YhXw7qT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988879628308762624",
+            "3_1988879628124192768"
+          ]
+        },
+        "author_id": "1931569215674425344",
+        "conversation_id": "1988879633580802307",
+        "created_at": "2025-11-13T08:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T09:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988879633580802307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/215YhXw7qT",
+              "end": 40,
+              "expanded_url": "https://x.com/NLH_00_/status/1988879633580802307/photo/1",
+              "media_key": "3_1988879628308762624",
+              "start": 17,
+              "url": "https://t.co/215YhXw7qT"
+            },
+            {
+              "display_url": "pic.x.com/215YhXw7qT",
+              "end": 40,
+              "expanded_url": "https://x.com/NLH_00_/status/1988879633580802307/photo/1",
+              "media_key": "3_1988879628124192768",
+              "start": 17,
+              "url": "https://t.co/215YhXw7qT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988879633580802307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 505,
+          "impression_count": 162008,
+          "like_count": 9118,
+          "quote_count": 9,
+          "reply_count": 4,
+          "retweet_count": 455
+        },
+        "reply_settings": "everyone",
+        "text": "色だけでこんなに印象変わるのか… https://t.co/215YhXw7qT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 852,
+          "like_count": 5494,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1977
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T04:29:34.000Z",
+        "description": "暗めの絵中心┊︎ｻﾌﾞ→@Rei_rkgk__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Rei_rkgk__"
+              }
+            ]
+          }
+        },
+        "id": "1931569215674425344",
+        "location": "無断転載・無断使用・自作発言・AI学習等NG",
+        "name": "¿?",
+        "pinned_tweet_id": "1942734520773664818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953405579877355520/0OLuSM19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12824,
+          "following_count": 231,
+          "like_count": 3931,
+          "listed_count": 21,
+          "media_count": 32,
+          "tweet_count": 36
+        },
+        "username": "NLH_00_",
+        "verified": false
+      }
+    ]
+  }
+}

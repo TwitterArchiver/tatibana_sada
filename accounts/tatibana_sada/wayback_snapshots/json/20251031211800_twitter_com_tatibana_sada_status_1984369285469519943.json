@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1961758216519614734",
+    "created_at": "2025-10-31T21:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T22:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984369285469519943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1973867252975087624",
+          "start": 0,
+          "username": "zmjjkk1513795"
+        },
+        {
+          "end": 30,
+          "id": "1313483069203062787",
+          "start": 15,
+          "username": "ausmandschurei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984369285469519943",
+    "in_reply_to_user_id": "1973867252975087624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974004198351024286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zmjjkk1513795 @ausmandschurei 这就是中国人的素质👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1961758216519614734",
+        "created_at": "2025-10-31T21:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T22:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984369285469519943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1973867252975087624",
+              "start": 0,
+              "username": "zmjjkk1513795"
+            },
+            {
+              "end": 30,
+              "id": "1313483069203062787",
+              "start": 15,
+              "username": "ausmandschurei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984369285469519943",
+        "in_reply_to_user_id": "1973867252975087624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974004198351024286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zmjjkk1513795 @ausmandschurei 这就是中国人的素质👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973867252975087624",
+        "conversation_id": "1961758216519614734",
+        "created_at": "2025-10-03T06:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T07:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974004198351024286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1313483069203062787",
+              "start": 0,
+              "username": "ausmandschurei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974004198351024286",
+        "in_reply_to_user_id": "1313483069203062787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961758216519614734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ausmandschurei 你妈了个臭逼，你他妈刚jb卖完吧，嘴里一股屌味，你他妈敢抱位置老子现在来砍你，你妈逼傻逼，操死你妈，你全家jb全是拍av的，你奶被10个黑人操死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 670,
+          "like_count": 3916,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1650
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T21:46:50.000Z",
+        "description": "少管我",
+        "id": "1973867252975087624",
+        "name": "赛赛赛赛赛赛赛赛赛赛尔号转瓦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973868364557959168/sbogVRuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 39,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "username": "zmjjkk1513795",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T14:16:24.000Z",
+        "description": "Ein chinesischer Student, Deutsch lernen, Fahrzeugtechnik，久经考验的反党分子，最新人设：独裁国贼（粉蛆和中共网安网军点进此主页全家暴毙）",
+        "id": "1313483069203062787",
+        "name": "ausmandschurei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762409351455866880/d08rUy5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 140,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 38
+        },
+        "username": "ausmandschurei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987814666098421765",
+    "created_at": "2025-11-10T23:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T00:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988033790896468107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1758744790018232321",
+          "start": 0,
+          "username": "bunburyoudoujp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988033790896468107",
+    "in_reply_to_user_id": "1758744790018232321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987814666098421765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bunburyoudoujp 谁教会洋鬼子诸夏的？？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987814660905807872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Yi5vaasAAJICX.jpg",
+        "width": 2020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987814666098421765",
+        "created_at": "2025-11-10T23:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T00:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988033790896468107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758744790018232321",
+              "start": 0,
+              "username": "bunburyoudoujp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988033790896468107",
+        "in_reply_to_user_id": "1758744790018232321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987814666098421765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bunburyoudoujp 谁教会洋鬼子诸夏的？？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987814660905807872"
+          ]
+        },
+        "author_id": "1758744790018232321",
+        "conversation_id": "1987814666098421765",
+        "created_at": "2025-11-10T09:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987814666098421765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JNBIRNMRZk",
+              "end": 48,
+              "expanded_url": "https://x.com/bunburyoudoujp/status/1987814666098421765/photo/1",
+              "media_key": "3_1987814660905807872",
+              "start": 25,
+              "url": "https://t.co/JNBIRNMRZk"
+            },
+            {
+              "display_url": "x.com/nisiv4/status/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/nisiv4/status/1987809223716065767",
+              "start": 49,
+              "url": "https://t.co/uNgeTeOBED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987814666098421765",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6151,
+          "like_count": 211,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987809223716065767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“It’s ok when we do it.” https://t.co/JNBIRNMRZk https://t.co/uNgeTeOBED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 798,
+          "like_count": 5050,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1875
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T06:47:17.000Z",
+        "description": "British martial artist and ultrarunner. In Japan since 2006. #Karate #Iaidō #Running. 🇯🇵🇬🇧. Opinions are my own. 不動心. 100 mile runner",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 61,
+                "tag": "Karate"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "tag": "Iaidō"
+              },
+              {
+                "end": 84,
+                "start": 76,
+                "tag": "Running"
+              }
+            ]
+          }
+        },
+        "id": "1758744790018232321",
+        "location": "Japan",
+        "name": "Bunburyōdō (文武両道) (Bun)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986219945781567489/setcMXSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10207,
+          "following_count": 2129,
+          "like_count": 53643,
+          "listed_count": 20,
+          "media_count": 4352,
+          "tweet_count": 19037
+        },
+        "username": "bunburyoudoujp",
+        "verified": true
+      }
+    ]
+  }
+}

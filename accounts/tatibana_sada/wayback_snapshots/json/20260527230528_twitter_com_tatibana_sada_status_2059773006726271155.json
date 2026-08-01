@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059591322194108528",
+    "created_at": "2026-05-27T23:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T00:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059773006726271155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1854099041396899840",
+          "start": 0,
+          "username": "4698pjxbs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059773006726271155",
+    "in_reply_to_user_id": "1854099041396899840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059591322194108528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4698pjxbs 想草泥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059591322194108528",
+        "created_at": "2026-05-27T23:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059773006726271155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1854099041396899840",
+              "start": 0,
+              "username": "4698pjxbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059773006726271155",
+        "in_reply_to_user_id": "1854099041396899840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059591322194108528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4698pjxbs 想草泥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854099041396899840",
+        "conversation_id": "2059591322194108528",
+        "created_at": "2026-05-27T11:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059591322194108528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sagerrgyalpo/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/sagerrgyalpo/status/2059476188960367037",
+              "start": 30,
+              "url": "https://t.co/wNRLYbsTJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059591322194108528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3190,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059476188960367037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "历史一直在证明一个真理：长得好看是革命的重要基础之一….. https://t.co/wNRLYbsTJ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 1239,
+          "like_count": 8873,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2986
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T09:52:30.000Z",
+        "description": "🚪114514/腰椎间盘突出/静脉曲张/过敏性鼻炎/碳水摄入成瘾",
+        "id": "1854099041396899840",
+        "name": "张春桥🇵🇸🇺🇦",
+        "pinned_tweet_id": "1907479132423757864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996935239063801856/TQyVEoBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 859,
+          "like_count": 10573,
+          "listed_count": 10,
+          "media_count": 178,
+          "tweet_count": 6311
+        },
+        "username": "4698pjxbs",
+        "verified": false
+      }
+    ]
+  }
+}

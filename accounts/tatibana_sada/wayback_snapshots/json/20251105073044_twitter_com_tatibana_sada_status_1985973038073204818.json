@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985638280671694848"
+      ],
+      "media_source_tweet_id": [
+        "1985638282613657905"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations that mention dinner.",
+          "id": "1006588737344507905",
+          "name": "Dinner"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations that mention dinner.",
+          "id": "1006588737344507905",
+          "name": "Dinner"
+        }
+      }
+    ],
+    "conversation_id": "1985973038073204818",
+    "created_at": "2025-11-05T07:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T08:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985973038073204818"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 59,
+          "tag": "MyFemboyNiChan"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1342088250484117504",
+          "start": 3,
+          "username": "kakowara365"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fhLlCojHyw",
+          "end": 98,
+          "expanded_url": "https://x.com/kakowara365/status/1985638282613657905/photo/1",
+          "media_key": "3_1985638280671694848",
+          "start": 75,
+          "url": "https://t.co/fhLlCojHyw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985973038073204818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985638282613657905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakowara365: 兄「何頼もっかな🎶」\n弟「にーちゃん、家に晩御飯あるよ」\n兄「パンケーキ食べる🥺」\n#MyFemboyNiChan https://t.co/fhLlCojHyw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_1985638280671694848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G45nfvPakAAaSD_.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985638280671694848"
+          ],
+          "media_source_tweet_id": [
+            "1985638282613657905"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention dinner.",
+              "id": "1006588737344507905",
+              "name": "Dinner"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention dinner.",
+              "id": "1006588737344507905",
+              "name": "Dinner"
+            }
+          }
+        ],
+        "conversation_id": "1985973038073204818",
+        "created_at": "2025-11-05T07:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T08:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985973038073204818"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 59,
+              "tag": "MyFemboyNiChan"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1342088250484117504",
+              "start": 3,
+              "username": "kakowara365"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhLlCojHyw",
+              "end": 98,
+              "expanded_url": "https://x.com/kakowara365/status/1985638282613657905/photo/1",
+              "media_key": "3_1985638280671694848",
+              "start": 75,
+              "url": "https://t.co/fhLlCojHyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985973038073204818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985638282613657905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakowara365: 兄「何頼もっかな🎶」\n弟「にーちゃん、家に晩御飯あるよ」\n兄「パンケーキ食べる🥺」\n#MyFemboyNiChan https://t.co/fhLlCojHyw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985638280671694848"
+          ]
+        },
+        "author_id": "1342088250484117504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention dinner.",
+              "id": "1006588737344507905",
+              "name": "Dinner"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention dinner.",
+              "id": "1006588737344507905",
+              "name": "Dinner"
+            }
+          }
+        ],
+        "conversation_id": "1985638282613657905",
+        "created_at": "2025-11-04T09:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T10:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985638282613657905"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 42,
+              "tag": "MyFemboyNiChan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhLlCojHyw",
+              "end": 81,
+              "expanded_url": "https://x.com/kakowara365/status/1985638282613657905/photo/1",
+              "media_key": "3_1985638280671694848",
+              "start": 58,
+              "url": "https://t.co/fhLlCojHyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985638282613657905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 4361,
+          "like_count": 411,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "兄「何頼もっかな🎶」\n弟「にーちゃん、家に晩御飯あるよ」\n兄「パンケーキ食べる🥺」\n#MyFemboyNiChan https://t.co/fhLlCojHyw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 733,
+          "like_count": 4652,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1752
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-24T12:42:37.000Z",
+        "description": "AI界隈生まれのふつーのVtuber！ファンマ 🐾🤎  |  投稿タグ ▶  #MyFemboyNiChan ▶FAタグ:  #にーちゃんこれみて  ▶ language:🇯🇵🇺🇸 | 投稿は生成AI使用🌈",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 39,
+                "tag": "MyFemboyNiChan"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "tag": "にーちゃんこれみて"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kakowara",
+                "end": 23,
+                "expanded_url": "https://lit.link/kakowara",
+                "start": 0,
+                "url": "https://t.co/qvRdVdolKZ"
+              }
+            ]
+          }
+        },
+        "id": "1342088250484117504",
+        "location": "日本",
+        "name": "にーちゃん🐾🤎Kakko",
+        "pinned_tweet_id": "1984194795854757934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893800918702833664/E0bf2rnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54732,
+          "following_count": 1247,
+          "like_count": 61085,
+          "listed_count": 232,
+          "media_count": 2416,
+          "tweet_count": 14770
+        },
+        "url": "https://t.co/qvRdVdolKZ",
+        "username": "kakowara365",
+        "verified": true
+      }
+    ]
+  }
+}

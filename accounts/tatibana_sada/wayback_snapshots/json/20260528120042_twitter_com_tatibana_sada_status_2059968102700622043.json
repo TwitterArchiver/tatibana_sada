@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1983124700663627825",
+    "created_at": "2026-05-28T12:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059968102700622043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1717716021740736512",
+          "start": 0,
+          "username": "bigold377887788"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059968102700622043",
+    "in_reply_to_user_id": "1717716021740736512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983124700663627825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigold377887788 约吗，小支那骚猪，想不想被踩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1983124700663627825",
+        "created_at": "2026-05-28T12:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059968102700622043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1717716021740736512",
+              "start": 0,
+              "username": "bigold377887788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059968102700622043",
+        "in_reply_to_user_id": "1717716021740736512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983124700663627825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigold377887788 约吗，小支那骚猪，想不想被踩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717716021740736512",
+        "conversation_id": "1983124700663627825",
+        "created_at": "2025-10-28T10:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983124700663627825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983124700663627825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3002,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "最近，我的一些朋友對我的語言習慣感到不解，認為我的用詞「過於激進」。當我坦言「我絕不使用『大陸』一詞，因為那讓我噁心」時，這種不解便升級成了困惑。更甚者，我必須承認：我是台灣人，我也是支那人，但我絕不是中國人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 1242,
+          "like_count": 8894,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 3006
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T01:33:53.000Z",
+        "description": "點進來偷窺的中國人全家得骨癌。\n\n大日本帝國萬歲！天皇陛下萬歲！藍鯨大吐沙萬歲！",
+        "id": "1717716021740736512",
+        "name": "大你媽個臭屄陸，叫支那！",
+        "pinned_tweet_id": "1983124700663627825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953600890553917440/4ZZ8_vFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 104,
+          "like_count": 8488,
+          "listed_count": 7,
+          "media_count": 145,
+          "tweet_count": 3001
+        },
+        "username": "bigold377887788",
+        "verified": false
+      }
+    ]
+  }
+}

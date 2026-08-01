@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2056724776782352633",
+    "created_at": "2026-05-20T06:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056985493376729512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1665710956264169473",
+          "start": 0,
+          "username": "SharkyShark0"
+        },
+        {
+          "end": 22,
+          "id": "1575767611165798403",
+          "start": 14,
+          "username": "xzzzjpl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056985493376729512",
+    "in_reply_to_user_id": "1665710956264169473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056984682676498877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SharkyShark0 @xzzzjpl 我相信特朗普会很想拥有中国的纪委然后马上把民主党全部抓起来的，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2056724776782352633",
+        "created_at": "2026-05-20T06:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056985493376729512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1665710956264169473",
+              "start": 0,
+              "username": "SharkyShark0"
+            },
+            {
+              "end": 22,
+              "id": "1575767611165798403",
+              "start": 14,
+              "username": "xzzzjpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056985493376729512",
+        "in_reply_to_user_id": "1665710956264169473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056984682676498877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SharkyShark0 @xzzzjpl 我相信特朗普会很想拥有中国的纪委然后马上把民主党全部抓起来的，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665710956264169473",
+        "conversation_id": "2056724776782352633",
+        "created_at": "2026-05-20T06:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056984682676498877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 23,
+              "id": "1575767611165798403",
+              "start": 15,
+              "username": "xzzzjpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056984682676498877",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056984400429232517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @xzzzjpl 中央军委都快死光了，说明还不行。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 1147,
+          "like_count": 8122,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2662
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-05T13:23:40.000Z",
+        "description": "理性客观，不该中立的时候绝不中立。\n有反对意见欢迎一起探讨，骂人我会block。",
+        "id": "1665710956264169473",
+        "location": "疯狂宇宙",
+        "name": "鲨鲨零",
+        "pinned_tweet_id": "1996933981061742907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665755213477842948/-s5QqqmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 355,
+          "like_count": 80157,
+          "listed_count": 8,
+          "media_count": 187,
+          "tweet_count": 5636
+        },
+        "username": "SharkyShark0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:41:01.000Z",
+        "description": "原“中日政经评论”，一个中间偏右的时政评论家。\n油管加会员链接：https://t.co/B9cQ4FiL8f\n国内加会员链接：https://t.co/j3uNCxlDKR\n请社长喝杯咖啡：https://t.co/WlmcbdgMO4\n投稿信箱：zrzjpl@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@zrzjpl/join",
+                "end": 55,
+                "expanded_url": "https://youtube.com/@zrzjpl/join",
+                "start": 32,
+                "url": "https://t.co/B9cQ4FiL8f"
+              },
+              {
+                "display_url": "patreon.com/zrzjpl",
+                "end": 87,
+                "expanded_url": "http://patreon.com/zrzjpl",
+                "start": 64,
+                "url": "https://t.co/j3uNCxlDKR"
+              },
+              {
+                "display_url": "ko-fi.com/zjlsz",
+                "end": 119,
+                "expanded_url": "http://ko-fi.com/zjlsz",
+                "start": 96,
+                "url": "https://t.co/WlmcbdgMO4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@zrzjpl",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@zrzjpl",
+                "start": 0,
+                "url": "https://t.co/lL4MO2ewyi"
+              }
+            ]
+          }
+        },
+        "id": "1575767611165798403",
+        "name": "政经鲁社长",
+        "pinned_tweet_id": "2017494422070694140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032816239811375105/xQkOZmeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676750,
+          "following_count": 299,
+          "like_count": 3277,
+          "listed_count": 2110,
+          "media_count": 3998,
+          "tweet_count": 15776
+        },
+        "url": "https://t.co/lL4MO2ewyi",
+        "username": "xzzzjpl",
+        "verified": true
+      }
+    ]
+  }
+}

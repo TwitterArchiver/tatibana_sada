@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059709965485638044",
+    "created_at": "2026-05-27T18:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059709965485638044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Shangton0110/s…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Shangton0110/status/2059547530724290885",
+          "start": 18,
+          "url": "https://t.co/pID8QXvtPl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059709965485638044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059547530724290885",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "法国和意大利大眼瞪小眼结伴苦行山了 https://t.co/pID8QXvtPl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1089,
+        "media_key": "3_2059547523040346112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT7j2zbAAAMtMx.jpg",
+        "width": 1640
+      },
+      {
+        "height": 1229,
+        "media_key": "3_2059547523052879873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT7j22aQAEG8ZK.jpg",
+        "width": 2021
+      },
+      {
+        "height": 1194,
+        "media_key": "3_2059547523040317441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT7j2zakAEBTpa.jpg",
+        "width": 1572
+      },
+      {
+        "height": 1044,
+        "media_key": "3_2059547523057168384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT7j23bsAAoAxQ.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059709965485638044",
+        "created_at": "2026-05-27T18:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059709965485638044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shangton0110/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Shangton0110/status/2059547530724290885",
+              "start": 18,
+              "url": "https://t.co/pID8QXvtPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059709965485638044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059547530724290885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "法国和意大利大眼瞪小眼结伴苦行山了 https://t.co/pID8QXvtPl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059547523040346112",
+            "3_2059547523052879873",
+            "3_2059547523040317441",
+            "3_2059547523057168384"
+          ]
+        },
+        "author_id": "2014984524221005825",
+        "conversation_id": "2059547530724290885",
+        "created_at": "2026-05-27T08:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059547530724290885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Ziet6Ee0S",
+              "end": 68,
+              "expanded_url": "https://x.com/Shangton0110/status/2059547530724290885/photo/1",
+              "media_key": "3_2059547523040346112",
+              "start": 45,
+              "url": "https://t.co/7Ziet6Ee0S"
+            },
+            {
+              "display_url": "pic.x.com/7Ziet6Ee0S",
+              "end": 68,
+              "expanded_url": "https://x.com/Shangton0110/status/2059547530724290885/photo/1",
+              "media_key": "3_2059547523052879873",
+              "start": 45,
+              "url": "https://t.co/7Ziet6Ee0S"
+            },
+            {
+              "display_url": "pic.x.com/7Ziet6Ee0S",
+              "end": 68,
+              "expanded_url": "https://x.com/Shangton0110/status/2059547530724290885/photo/1",
+              "media_key": "3_2059547523040317441",
+              "start": 45,
+              "url": "https://t.co/7Ziet6Ee0S"
+            },
+            {
+              "display_url": "pic.x.com/7Ziet6Ee0S",
+              "end": 68,
+              "expanded_url": "https://x.com/Shangton0110/status/2059547530724290885/photo/1",
+              "media_key": "3_2059547523057168384",
+              "start": 45,
+              "url": "https://t.co/7Ziet6Ee0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059547530724290885",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "What if “Western Capitalism” wasn’t a thing. https://t.co/7Ziet6Ee0S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 1236,
+          "like_count": 8833,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2965
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T08:52:17.000Z",
+        "description": "Just the guy who just repost, replies you and others",
+        "id": "2014984524221005825",
+        "name": "Shangton",
+        "pinned_tweet_id": "2025515816394133550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053798985178218496/dzj-ayBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 16,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 362
+        },
+        "username": "Shangton0110",
+        "verified": false
+      }
+    ]
+  }
+}

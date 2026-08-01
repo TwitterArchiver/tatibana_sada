@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059859250344796480",
+    "created_at": "2026-05-28T19:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060086551187722381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936279958898548736",
+          "start": 0,
+          "username": "kittenkinchan"
+        },
+        {
+          "end": 24,
+          "id": "1970919294960828416",
+          "start": 15,
+          "username": "DomeSere"
+        },
+        {
+          "end": 39,
+          "id": "1467643957492744193",
+          "start": 25,
+          "username": "hasibiro_maga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060086551187722381",
+    "in_reply_to_user_id": "1936279958898548736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059915945628651923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittenkinchan @DomeSere @hasibiro_maga 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059859250344796480",
+        "created_at": "2026-05-28T19:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060086551187722381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936279958898548736",
+              "start": 0,
+              "username": "kittenkinchan"
+            },
+            {
+              "end": 24,
+              "id": "1970919294960828416",
+              "start": 15,
+              "username": "DomeSere"
+            },
+            {
+              "end": 39,
+              "id": "1467643957492744193",
+              "start": 25,
+              "username": "hasibiro_maga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060086551187722381",
+        "in_reply_to_user_id": "1936279958898548736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059915945628651923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittenkinchan @DomeSere @hasibiro_maga 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936279958898548736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former US President Barack Obama",
+              "id": "10038764303",
+              "name": "Barack Obama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former US President Barack Obama",
+              "id": "10038764303",
+              "name": "Barack Obama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former US President Barack Obama",
+              "id": "10038764303",
+              "name": "Barack Obama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2059859250344796480",
+        "created_at": "2026-05-28T08:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059915945628651923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1467643957492744193",
+              "start": 0,
+              "username": "hasibiro_maga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059915945628651923",
+        "in_reply_to_user_id": "1467643957492744193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1584,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059859250344796480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasibiro_maga オバマは共産主義者！中国が調子に乗り始めたのはオバマの仕業！しかし、オバマはプーチンとは反りが合わない、安倍総理とも反りが合わない、オバマが世界を狂わせたのは間違いない。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 1250,
+          "like_count": 8930,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3033
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T04:28:34.000Z",
+        "description": "日本保守党員！極右です！\n詐欺は即報告ブロック！",
+        "id": "1936279958898548736",
+        "location": "日本",
+        "name": "きんの字",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008446183753277440/HjAAHoH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 90,
+          "like_count": 734,
+          "listed_count": 4,
+          "media_count": 22,
+          "tweet_count": 5506
+        },
+        "username": "kittenkinchan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T18:32:38.000Z",
+        "description": "温和右翼/犹太复国主义者/男权主义者/资本主义者/宗教主义者/帝国主义者/虚无主义者/支持杀死道德主义/支持逊尼派/回到千年前的古老时期/友好满人-东北地区那嘎的满洲国人/曾信佛-加尔文派基督徒-末世/支持川普-戈尔巴乔夫/喜欢中东/灭亡现代欧洲-灭亡联合国/中世纪欧洲/16世纪殖民时期英国/阿拉伯联盟",
+        "id": "1970919294960828416",
+        "location": "前苏联",
+        "name": "✞别想欺负犹太人！🇺🇸💞🇮🇱",
+        "pinned_tweet_id": "2059700567799377920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057828797706366976/QVMp06fs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 380,
+          "like_count": 9143,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 7394
+        },
+        "username": "DomeSere",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-05T23:56:32.000Z",
+        "description": "💫SOMETHING GREAT AWAKENING NEWS💫✨🙏\nMake Japan Great Again💫🫶💫\nWake up! Samurai!\nBrace yourself!👊 you bastard🫵\nA godschool for training gods🦸",
+        "id": "1467643957492744193",
+        "location": " 🙈🙊🙉特殊茶番郡🫡",
+        "name": "橋広バロン幸之助🇯🇵MJGA💫",
+        "pinned_tweet_id": "2060055228867850564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774581824498610176/nnHOYc0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132242,
+          "following_count": 46767,
+          "like_count": 344451,
+          "listed_count": 660,
+          "media_count": 25312,
+          "tweet_count": 68360
+        },
+        "username": "hasibiro_maga",
+        "verified": true
+      }
+    ]
+  }
+}

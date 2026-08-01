@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2056106483071270992",
+    "created_at": "2026-05-17T20:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T21:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056109961051353220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "151930383",
+          "start": 0,
+          "username": "GordonGChang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056109961051353220",
+    "in_reply_to_user_id": "151930383",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056106483071270992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GordonGChang Also Gordon Chang, to fool usa and make china great again"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 434,
+        "media_key": "3_2056106478801424384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjB8uFWkAAzqLe.jpg",
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2056106483071270992",
+        "created_at": "2026-05-17T20:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T21:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056109961051353220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "151930383",
+              "start": 0,
+              "username": "GordonGChang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056109961051353220",
+        "in_reply_to_user_id": "151930383",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056106483071270992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GordonGChang Also Gordon Chang, to fool usa and make china great again"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056106478801424384"
+          ]
+        },
+        "author_id": "151930383",
+        "conversation_id": "2056106483071270992",
+        "created_at": "2026-05-17T20:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T21:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056106483071270992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K6GPUmMJrT",
+              "end": 41,
+              "expanded_url": "https://x.com/GordonGChang/status/2056106483071270992/photo/1",
+              "media_key": "3_2056106478801424384",
+              "start": 18,
+              "url": "https://t.co/K6GPUmMJrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056106483071270992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 736,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "God created this. https://t.co/K6GPUmMJrT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 1127,
+          "like_count": 7908,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2604
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-04T16:23:14.000Z",
+        "description": "Author of Plan Red: China’s Project to Destroy America, The Coming Collapse of China, and China Is Going To War.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gordonchang.com",
+                "end": 23,
+                "expanded_url": "http://www.gordonchang.com",
+                "start": 0,
+                "url": "https://t.co/NoOEsA7THp"
+              }
+            ]
+          }
+        },
+        "id": "151930383",
+        "name": "Gordon G. Chang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1183859425905430529/zJMuSq9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437737,
+          "following_count": 927,
+          "like_count": 14,
+          "listed_count": 2278,
+          "media_count": 435,
+          "tweet_count": 45613
+        },
+        "url": "https://t.co/NoOEsA7THp",
+        "username": "GordonGChang",
+        "verified": true
+      }
+    ]
+  }
+}

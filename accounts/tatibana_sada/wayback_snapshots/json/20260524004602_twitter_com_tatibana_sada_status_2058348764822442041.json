@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2058155354916331937",
+    "created_at": "2026-05-24T00:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T01:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058348764822442041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1524320788542902274",
+          "start": 0,
+          "username": "tianyuxiao10"
+        },
+        {
+          "end": 24,
+          "id": "823713101291761664",
+          "start": 14,
+          "username": "WKAble_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058348764822442041",
+    "in_reply_to_user_id": "1524320788542902274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058216948677459996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianyuxiao10 @WKAble_CN 不是这样子的。合法性来源不是先进或落后。汉民族的民族政权是唯一可以合法统治汉民族的政权。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058155354916331937",
+        "created_at": "2026-05-24T00:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058348764822442041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1524320788542902274",
+              "start": 0,
+              "username": "tianyuxiao10"
+            },
+            {
+              "end": 24,
+              "id": "823713101291761664",
+              "start": 14,
+              "username": "WKAble_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058348764822442041",
+        "in_reply_to_user_id": "1524320788542902274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058216948677459996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianyuxiao10 @WKAble_CN 不是这样子的。合法性来源不是先进或落后。汉民族的民族政权是唯一可以合法统治汉民族的政权。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524320788542902274",
+        "conversation_id": "2058155354916331937",
+        "created_at": "2026-05-23T16:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058216948677459996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "823713101291761664",
+              "start": 0,
+              "username": "WKAble_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058216948677459996",
+        "in_reply_to_user_id": "823713101291761664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058155354916331937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WKAble_CN 额，封建社会都落后，满汉元都不可取。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 1189,
+          "like_count": 8423,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2792
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T09:29:49.000Z",
+        "description": "Amor sapientiae. Amor fati",
+        "id": "1524320788542902274",
+        "name": "tianyu xiao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524668139128164352/_NT0occm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 96,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 731
+        },
+        "username": "tianyuxiao10",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-24T02:04:42.000Z",
+        "description": "堂堂正正中国人 🇨🇳🇨🇳🇨🇳🇨🇳\n炎黄子孙，龙的传人！\n拳打殖人，\n脚踹团结人！",
+        "id": "823713101291761664",
+        "name": "WkAble",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884562376160378880/BkK9TmtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 10,
+          "like_count": 1425,
+          "listed_count": 9,
+          "media_count": 157,
+          "tweet_count": 2545
+        },
+        "username": "WKAble_CN",
+        "verified": false
+      }
+    ]
+  }
+}

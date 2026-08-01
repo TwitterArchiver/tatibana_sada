@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985405279790608582",
+    "created_at": "2025-11-05T06:44:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T07:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985961482639851560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926883182508404736",
+          "start": 0,
+          "username": "A6M2b8964"
+        },
+        {
+          "end": 24,
+          "id": "1607551133396111361",
+          "start": 11,
+          "username": "comfuciusbot"
+        },
+        {
+          "end": 34,
+          "id": "1103830967163117568",
+          "start": 25,
+          "username": "anblk984"
+        },
+        {
+          "end": 45,
+          "id": "1714290933028790272",
+          "start": 35,
+          "username": "yunge1245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985961482639851560",
+    "in_reply_to_user_id": "1926883182508404736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985439292773318964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A6M2b8964 @comfuciusbot @anblk984 @yunge1245 拿伊做脱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985405279790608582",
+        "created_at": "2025-11-05T06:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T07:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985961482639851560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926883182508404736",
+              "start": 0,
+              "username": "A6M2b8964"
+            },
+            {
+              "end": 24,
+              "id": "1607551133396111361",
+              "start": 11,
+              "username": "comfuciusbot"
+            },
+            {
+              "end": 34,
+              "id": "1103830967163117568",
+              "start": 25,
+              "username": "anblk984"
+            },
+            {
+              "end": 45,
+              "id": "1714290933028790272",
+              "start": 35,
+              "username": "yunge1245"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985961482639851560",
+        "in_reply_to_user_id": "1926883182508404736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985439292773318964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A6M2b8964 @comfuciusbot @anblk984 @yunge1245 拿伊做脱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926883182508404736",
+        "conversation_id": "1985405279790608582",
+        "created_at": "2025-11-03T20:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T21:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985439292773318964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1607551133396111361",
+              "start": 0,
+              "username": "comfuciusbot"
+            },
+            {
+              "end": 23,
+              "id": "1103830967163117568",
+              "start": 14,
+              "username": "anblk984"
+            },
+            {
+              "end": 37,
+              "id": "1714290933028790272",
+              "start": 27,
+              "username": "yunge1245"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985439292773318964",
+        "in_reply_to_user_id": "1607551133396111361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 654,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985437903590473749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@comfuciusbot @anblk984 cc @yunge1245 \n做掉他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 732,
+          "like_count": 4644,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1749
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T06:09:07.000Z",
+        "description": "日本が大好きな台湾人。日本保守党支持者。移民政策反対！日台友好🇯🇵🇹🇼C国人を叩き出せ。台湾独立🇹🇼 林原めぐみ支持",
+        "id": "1926883182508404736",
+        "name": "髙山(LuLu)🇹🇼🇯🇵日台ハーフ/へずま親衛隊",
+        "pinned_tweet_id": "1977056927239880896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927438033936093184/1HOiyHQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 39,
+          "like_count": 419,
+          "listed_count": 50,
+          "media_count": 94,
+          "tweet_count": 3245
+        },
+        "username": "A6M2b8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-27T01:37:28.000Z",
+        "description": "@1gownsman1 再起\n\n玩网而已 不迎合 不违心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "1gownsman1"
+              }
+            ]
+          }
+        },
+        "id": "1607551133396111361",
+        "name": "剑豪 ヴィルヘルム",
+        "pinned_tweet_id": "1949098892299321837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942156372835188736/X-GAwyvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 266,
+          "like_count": 3980,
+          "listed_count": 9,
+          "media_count": 340,
+          "tweet_count": 2354
+        },
+        "username": "comfuciusbot",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人   劳保爱习楠                                                                   \n狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anblk984",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anblk984",
+                "start": 0,
+                "url": "https://t.co/lbrp9vzziV"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "纳克萨玛斯          下面是匿名问题",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1939494973206090214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806502873544671232/5QMKRtxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8412,
+          "following_count": 920,
+          "like_count": 96674,
+          "listed_count": 51,
+          "media_count": 1589,
+          "tweet_count": 22434
+        },
+        "url": "https://t.co/lbrp9vzziV",
+        "username": "anblk984",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T14:43:12.000Z",
+        "description": "台日友好🤝",
+        "id": "1714290933028790272",
+        "name": "南宮恨（狂）",
+        "pinned_tweet_id": "1985870103217651934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950158142362509312/JYMEbORR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 1736,
+          "like_count": 116296,
+          "listed_count": 8,
+          "media_count": 37475,
+          "tweet_count": 104033
+        },
+        "username": "yunge1245",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1995384316160086107",
+    "created_at": "2025-12-01T06:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T07:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995384316160086107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1782932905419046912",
+          "start": 3,
+          "username": "ratshelprats"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995384316160086107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995020509755695290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ratshelprats: 虽然你得到了性满足，但同时你也失去了自由，失去了英雄联盟、三角洲、cs、原神、单机游戏甚至短视频，你甚至失去了遇到我的救赎感；往后余生你只会像个牲口一样只关心下半身。\n\n听鼠儿一句劝，三十岁之前不要谈恋爱，孤独和自由才是人生底色。 https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_1995020507247513610",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-8lM4bkAoZgpA.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1995384316160086107",
+        "created_at": "2025-12-01T06:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T07:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995384316160086107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782932905419046912",
+              "start": 3,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995384316160086107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995020509755695290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ratshelprats: 虽然你得到了性满足，但同时你也失去了自由，失去了英雄联盟、三角洲、cs、原神、单机游戏甚至短视频，你甚至失去了遇到我的救赎感；往后余生你只会像个牲口一样只关心下半身。\n\n听鼠儿一句劝，三十岁之前不要谈恋爱，孤独和自由才是人生底色。 https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995020507247513610"
+          ]
+        },
+        "author_id": "1782932905419046912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1995020509755695290",
+        "created_at": "2025-11-30T06:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995020509755695290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOexNHdAXH",
+              "end": 139,
+              "expanded_url": "https://x.com/ratshelprats/status/1995020509755695290/photo/1",
+              "media_key": "3_1995020507247513610",
+              "start": 116,
+              "url": "https://t.co/hOexNHdAXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995020509755695290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 20087,
+          "like_count": 280,
+          "quote_count": 1,
+          "reply_count": 70,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "虽然你得到了性满足，但同时你也失去了自由，失去了英雄联盟、三角洲、cs、原神、单机游戏甚至短视频，你甚至失去了遇到我的救赎感；往后余生你只会像个牲口一样只关心下半身。\n\n听鼠儿一句劝，三十岁之前不要谈恋爱，孤独和自由才是人生底色。 https://t.co/hOexNHdAXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 975,
+          "like_count": 6633,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2346
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "1890285410628375009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101201,
+          "following_count": 493,
+          "like_count": 66446,
+          "listed_count": 150,
+          "media_count": 456,
+          "tweet_count": 1115
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

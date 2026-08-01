@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2073478651149267008",
+    "created_at": "2026-07-04T18:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T19:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073478651149267008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1846130598865182721",
+          "start": 3,
+          "username": "Twinkyboikrish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073478651149267008",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2130
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073303969318010958",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Twinkyboikrish: Be the guy in the red dress 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2073478651149267008",
+        "created_at": "2026-07-04T18:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073478651149267008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1846130598865182721",
+              "start": 3,
+              "username": "Twinkyboikrish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073478651149267008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2130
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073303969318010958",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Twinkyboikrish: Be the guy in the red dress 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846130598865182721",
+        "conversation_id": "2073303969318010958",
+        "created_at": "2026-07-04T07:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073303969318010958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shubhvanii/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/shubhvanii/status/2072174031604957219",
+              "start": 30,
+              "url": "https://t.co/62bTlKWM7G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073303969318010958",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 604,
+          "impression_count": 1104779,
+          "like_count": 60936,
+          "quote_count": 14,
+          "reply_count": 79,
+          "retweet_count": 2131
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072174031604957219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Be the guy in the red dress 🥰 https://t.co/62bTlKWM7G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 1390,
+          "like_count": 9634,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3293
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T10:08:02.000Z",
+        "description": "19 | he/him/twinku/foid | Aspiring boyfie👰|⚣ 🏳️‍🌈| Chocolate milk lover | yimby |💻| 🕉️ |🌻          \n\"Krishna Sada Sahayate\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/krishna782871?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/krishna782871?igsh=MW82d3c4NnczbnlmbQ==",
+                "start": 0,
+                "url": "https://t.co/H2wkrsGhJl"
+              }
+            ]
+          }
+        },
+        "id": "1846130598865182721",
+        "name": "Krishna",
+        "pinned_tweet_id": "2027737682877813083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973159353315368965/5RvlQDLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 507,
+          "like_count": 20915,
+          "listed_count": 1,
+          "media_count": 543,
+          "tweet_count": 7468
+        },
+        "url": "https://t.co/H2wkrsGhJl",
+        "username": "Twinkyboikrish",
+        "verified": false
+      }
+    ]
+  }
+}

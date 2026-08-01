@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2071801737938378794",
+    "created_at": "2026-06-30T03:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T04:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071801737938378794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1982757033347817472",
+          "start": 3,
+          "username": "eurofounder"
+        },
+        {
+          "end": 29,
+          "id": "2045868662930690048",
+          "start": 17,
+          "username": "MortarHands"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071801737938378794",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071705824704004604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eurofounder: @MortarHands I am NOT gay. I even had an intercourse with a man once to confirm this, and I did not enjoy it"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2071801737938378794",
+        "created_at": "2026-06-30T03:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071801737938378794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1982757033347817472",
+              "start": 3,
+              "username": "eurofounder"
+            },
+            {
+              "end": 29,
+              "id": "2045868662930690048",
+              "start": 17,
+              "username": "MortarHands"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071801737938378794",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071705824704004604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eurofounder: @MortarHands I am NOT gay. I even had an intercourse with a man once to confirm this, and I did not enjoy it"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982757033347817472",
+        "conversation_id": "2071679847454429521",
+        "created_at": "2026-06-29T21:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T22:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071705824704004604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2045868662930690048",
+              "start": 0,
+              "username": "MortarHands"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071705824704004604",
+        "in_reply_to_user_id": "2045868662930690048",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 15562,
+          "like_count": 125,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071702779236642869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MortarHands I am NOT gay. I even had an intercourse with a man once to confirm this, and I did not enjoy it"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1367,
+          "like_count": 9488,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3260
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-27T10:31:53.000Z",
+        "description": "Founder based in the EU • Building GDPR-compliant startups • 7 years in, €7k MRR",
+        "id": "1982757033347817472",
+        "location": "European Union",
+        "name": "Matthias Schmidt",
+        "pinned_tweet_id": "1996219118551273491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982803467744747520/QtzH5zmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90935,
+          "following_count": 229,
+          "like_count": 519,
+          "listed_count": 421,
+          "media_count": 284,
+          "tweet_count": 4010
+        },
+        "url": "",
+        "username": "eurofounder",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-19T14:14:57.000Z",
+        "description": "A11",
+        "id": "2045868662930690048",
+        "name": "MortarHands",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046407720899878912/2T4qwfOX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 29,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 720
+        },
+        "url": "",
+        "username": "MortarHands",
+        "verified": false
+      }
+    ]
+  }
+}

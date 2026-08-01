@@ -1,0 +1,718 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352676864007958528",
+          "name": "Nobel Prize"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+          "id": "1836137739353292800",
+          "name": "2024 US Election"
+        }
+      }
+    ],
+    "conversation_id": "2072771299123089834",
+    "created_at": "2026-07-02T19:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T20:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072771299123089834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1337029050",
+          "start": 3,
+          "username": "HunterBiden"
+        },
+        {
+          "end": 77,
+          "id": "25073877",
+          "start": 61,
+          "username": "realDonaldTrump"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072771299123089834",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7184
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072738034311745948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HunterBiden: I am officially nominating Donald J. Trump (@realDonaldTrump) for the Nobel Peace Prize.\n\nNo President in History has ende…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352676864007958528",
+              "name": "Nobel Prize"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2072771299123089834",
+        "created_at": "2026-07-02T19:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072771299123089834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1337029050",
+              "start": 3,
+              "username": "HunterBiden"
+            },
+            {
+              "end": 77,
+              "id": "25073877",
+              "start": 61,
+              "username": "realDonaldTrump"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072771299123089834",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7184
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072738034311745948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HunterBiden: I am officially nominating Donald J. Trump (@realDonaldTrump) for the Nobel Peace Prize.\n\nNo President in History has ende…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1337029050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352676864007958528",
+              "name": "Nobel Prize"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump ends oil waivers to Iran",
+              "id": "1120307801446699009",
+              "name": "President Trump ends oil waivers to Iran"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump said he’s imposing sanctions on Iran’s supreme leader, Ayatollah Ali Khamenei, and his office, “in response to Iran’s increasingly provocative actions.” The announcement comes after Iran shot down a US Navy drone last week.",
+              "id": "1143192051233644544",
+              "name": "President Trump announces ‘hard hitting’ sanctions on Iran"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2072738034311745948",
+        "created_at": "2026-07-02T17:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072738034311745948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "25073877",
+              "start": 44,
+              "username": "realDonaldTrump"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072738034311745948",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 60,
+                "id": "25073877",
+                "start": 44,
+                "username": "realDonaldTrump"
+              }
+            ]
+          },
+          "text": "I am officially nominating Donald J. Trump (@realDonaldTrump) for the Nobel Peace Prize.\n\nNo President in History has ended the same war so many times.\n\nOur Dear Leader has ended the war with Iran at least 38 times by CNN’s count.\n\nNo President has ever done this before.\n\nAnd he is nowhere near finished ending it.\n\nIt’s a record worthy of the Nobel committee’s recognition. Thank you for your attention to this matter!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2576,
+          "impression_count": 2159269,
+          "like_count": 90795,
+          "quote_count": 531,
+          "reply_count": 2116,
+          "retweet_count": 7180
+        },
+        "reply_settings": "everyone",
+        "text": "I am officially nominating Donald J. Trump (@realDonaldTrump) for the Nobel Peace Prize.\n\nNo President in History has ended the same war so many times.\n\nOur Dear Leader has ended the war with Iran at least 38 times by CNN’s count.\n\nNo President has ever done this before.\n\nAnd he"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1377,
+          "like_count": 9541,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3275
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-08T16:22:56.000Z",
+        "description": "Artist. Author. Recovery Advocate.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "HunterBiden.com",
+                "end": 23,
+                "expanded_url": "http://www.HunterBiden.com",
+                "start": 0,
+                "url": "https://t.co/Gcstv64YZ8"
+              }
+            ]
+          }
+        },
+        "id": "1337029050",
+        "name": "Hunter Biden",
+        "pinned_tweet_id": "2056720941787324653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056788305333596160/lR7Yd7Yq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804466,
+          "following_count": 0,
+          "like_count": 1069,
+          "listed_count": 733,
+          "media_count": 59,
+          "tweet_count": 1298
+        },
+        "url": "https://t.co/Gcstv64YZ8",
+        "username": "HunterBiden",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-18T13:46:38.000Z",
+        "description": "45th & 47th President of the United States of America🇺🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "DonaldJTrump.com",
+                "end": 23,
+                "expanded_url": "http://DonaldJTrump.com",
+                "start": 0,
+                "url": "https://t.co/mjKdTvQzae"
+              }
+            ]
+          }
+        },
+        "id": "25073877",
+        "name": "Donald J. Trump",
+        "pinned_tweet_id": "2072681271566708832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111715219,
+          "following_count": 53,
+          "like_count": 0,
+          "listed_count": 130516,
+          "media_count": 5385,
+          "tweet_count": 59835
+        },
+        "url": "https://t.co/mjKdTvQzae",
+        "username": "realDonaldTrump",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1963205677548961842",
+    "created_at": "2025-10-23T05:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T06:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981235055537377381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1427163637362348033",
+          "start": 0,
+          "username": "lordzotd"
+        },
+        {
+          "end": 18,
+          "id": "1547400719040671744",
+          "start": 10,
+          "username": "ma_drei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981235055537377381",
+    "in_reply_to_user_id": "1427163637362348033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967138029195456955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lordzotd @ma_drei 习近平操你妈给钱，是文明人，负责任的大国领袖。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1963205677548961842",
+        "created_at": "2025-10-23T05:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T06:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981235055537377381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1427163637362348033",
+              "start": 0,
+              "username": "lordzotd"
+            },
+            {
+              "end": 18,
+              "id": "1547400719040671744",
+              "start": 10,
+              "username": "ma_drei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981235055537377381",
+        "in_reply_to_user_id": "1427163637362348033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967138029195456955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lordzotd @ma_drei 习近平操你妈给钱，是文明人，负责任的大国领袖。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427163637362348033",
+        "conversation_id": "1963205677548961842",
+        "created_at": "2025-09-14T08:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T09:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967138029195456955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1547400719040671744",
+              "start": 0,
+              "username": "ma_drei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967138029195456955",
+        "in_reply_to_user_id": "1547400719040671744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963205677548961842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ma_drei 我当年操你妈的时候，你妈竟然骗我说她结扎了，你个狗日的是怎么从你妈屁眼里钻出来的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 609,
+          "like_count": 3400,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1586
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-16T07:01:57.000Z",
+        "description": "We work in the dark to serve the light！",
+        "id": "1427163637362348033",
+        "name": "Marin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898034587202469893/fPQQMI3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "username": "lordzotd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T02:01:40.000Z",
+        "description": "坐标西安\n二手车买卖，新车置换，车辆年检保养美容钣金烤漆\n一站式服务，电话18089106660\n志同道合，为你打折！",
+        "id": "1547400719040671744",
+        "location": " MAINLAND CHINA ",
+        "name": "TWong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967879550332964873/RFsHQG-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 365,
+          "like_count": 2598,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 2688
+        },
+        "username": "ma_drei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985288403366395905"
+      ],
+      "media_source_tweet_id": [
+        "1985288599932465515"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985647752743952549",
+    "created_at": "2025-11-04T09:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T10:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985647752743952549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1686365015081988096",
+          "start": 3,
+          "username": "oob_siso"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IH13o9QXyw",
+          "end": 46,
+          "expanded_url": "https://x.com/oob_siso/status/1985288599932465515/photo/1",
+          "media_key": "3_1985288403366395905",
+          "start": 23,
+          "url": "https://t.co/IH13o9QXyw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985647752743952549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 986
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985288599932465515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oob_siso: 好き男🤓（局所） https://t.co/IH13o9QXyw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_1985288403366395905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40pSMtbQAERxpA.jpg",
+        "width": 1616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985288403366395905"
+          ],
+          "media_source_tweet_id": [
+            "1985288599932465515"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985647752743952549",
+        "created_at": "2025-11-04T09:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T10:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985647752743952549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1686365015081988096",
+              "start": 3,
+              "username": "oob_siso"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IH13o9QXyw",
+              "end": 46,
+              "expanded_url": "https://x.com/oob_siso/status/1985288599932465515/photo/1",
+              "media_key": "3_1985288403366395905",
+              "start": 23,
+              "url": "https://t.co/IH13o9QXyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985647752743952549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 986
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985288599932465515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oob_siso: 好き男🤓（局所） https://t.co/IH13o9QXyw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985288403366395905"
+          ]
+        },
+        "author_id": "1686365015081988096",
+        "conversation_id": "1985288599932465515",
+        "created_at": "2025-11-03T10:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985288599932465515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IH13o9QXyw",
+              "end": 32,
+              "expanded_url": "https://x.com/oob_siso/status/1985288599932465515/photo/1",
+              "media_key": "3_1985288403366395905",
+              "start": 9,
+              "url": "https://t.co/IH13o9QXyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985288599932465515",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1144,
+          "impression_count": 154063,
+          "like_count": 10771,
+          "quote_count": 170,
+          "reply_count": 4,
+          "retweet_count": 986
+        },
+        "reply_settings": "everyone",
+        "text": "好き男🤓（局所） https://t.co/IH13o9QXyw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1982595504287699299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 725,
+          "like_count": 4580,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1730
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T13:15:42.000Z",
+        "description": "成人済︴︴ 夢とシ💿と乙女系他一次創作夢etc…︴ ︴ 自創作関係タグ #しそ自創作FA 🌊📦 https://t.co/guX4UdNwEz skeb:https://t.co/aAewlLGYyt 18歳↓フォロー非推奨　🔕FF外通知OFF中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 36,
+                "tag": "しそ自創作FA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/4g1zb7lh2…",
+                "end": 71,
+                "expanded_url": "https://wavebox.me/wave/4g1zb7lh2o2xh9fi/",
+                "start": 48,
+                "url": "https://t.co/guX4UdNwEz"
+              },
+              {
+                "display_url": "skeb.jp/@oob_siso",
+                "end": 100,
+                "expanded_url": "https://skeb.jp/@oob_siso",
+                "start": 77,
+                "url": "https://t.co/aAewlLGYyt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/oobsiso",
+                "end": 23,
+                "expanded_url": "https://lit.link/oobsiso",
+                "start": 0,
+                "url": "https://t.co/iXkThGZ0Fi"
+              }
+            ]
+          }
+        },
+        "id": "1686365015081988096",
+        "location": "フォロー前にリトリン必読",
+        "name": "大場しそ/原稿",
+        "pinned_tweet_id": "1984940266458136697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967006114677157888/pvfEdMb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18241,
+          "following_count": 25,
+          "like_count": 4374,
+          "listed_count": 47,
+          "media_count": 1769,
+          "tweet_count": 8397
+        },
+        "url": "https://t.co/iXkThGZ0Fi",
+        "username": "oob_siso",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059983296197689344"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059731993944879115",
+    "created_at": "2026-05-28T13:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059983298630414505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2042936786645602304",
+          "start": 0,
+          "username": "FFedorov89048"
+        },
+        {
+          "end": 26,
+          "id": "1513410916473192450",
+          "start": 15,
+          "username": "PamphletsY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ClNyMsibF6",
+          "end": 131,
+          "expanded_url": "https://x.com/tatibana_sada/status/2059983298630414505/photo/1",
+          "media_key": "3_2059983296197689344",
+          "start": 108,
+          "url": "https://t.co/ClNyMsibF6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059983298630414505",
+    "in_reply_to_user_id": "2042936786645602304",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059850858313974168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FFedorov89048 @PamphletsY Friend, be healthy. Try to keep running and eating meats and vegetables everyday https://t.co/ClNyMsibF6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2059983296197689344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaH5MUaAAAfRU1.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059983296197689344"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059731993944879115",
+        "created_at": "2026-05-28T13:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059983298630414505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2042936786645602304",
+              "start": 0,
+              "username": "FFedorov89048"
+            },
+            {
+              "end": 26,
+              "id": "1513410916473192450",
+              "start": 15,
+              "username": "PamphletsY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ClNyMsibF6",
+              "end": 131,
+              "expanded_url": "https://x.com/tatibana_sada/status/2059983298630414505/photo/1",
+              "media_key": "3_2059983296197689344",
+              "start": 108,
+              "url": "https://t.co/ClNyMsibF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059983298630414505",
+        "in_reply_to_user_id": "2042936786645602304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059850858313974168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FFedorov89048 @PamphletsY Friend, be healthy. Try to keep running and eating meats and vegetables everyday https://t.co/ClNyMsibF6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042936786645602304",
+        "conversation_id": "2059731993944879115",
+        "created_at": "2026-05-28T04:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059850858313974168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513410916473192450",
+              "start": 0,
+              "username": "PamphletsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059850858313974168",
+        "in_reply_to_user_id": "1513410916473192450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059731993944879115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PamphletsY I can't sleep. Not supporting evil is small feat. I want to destroy them, to tear apart, yet I live far away, I'm not wealthy, and not really physically capable to volunteer to fight for Hezbollah or other anti-imperialist force, and it gnaws me from the inside."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 1242,
+          "like_count": 8897,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3013
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T12:04:53.000Z",
+        "description": "",
+        "id": "2042936786645602304",
+        "location": "Джанкой, Крым, Россия",
+        "name": "Филантий Фёдоров ☭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042936927360323584/-AahttQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 68,
+          "like_count": 17605,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 3465
+        },
+        "username": "FFedorov89048",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T06:57:42.000Z",
+        "description": "🚨 ▂▃▅  🇵🇸 Free Palestine  ▅▃▂ 🚨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pamphlets.blog/links",
+                "end": 23,
+                "expanded_url": "http://pamphlets.blog/links",
+                "start": 0,
+                "url": "https://t.co/lsuoWGxDCX"
+              }
+            ]
+          }
+        },
+        "id": "1513410916473192450",
+        "location": "Mexico City",
+        "name": "Pamphlets",
+        "pinned_tweet_id": "2059505745214001451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024000126222823426/iAe0I-3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200394,
+          "following_count": 14721,
+          "like_count": 123043,
+          "listed_count": 1460,
+          "media_count": 35791,
+          "tweet_count": 73293
+        },
+        "url": "https://t.co/lsuoWGxDCX",
+        "username": "PamphletsY",
+        "verified": true
+      }
+    ]
+  }
+}

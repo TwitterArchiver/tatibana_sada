@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025444704746377216"
+      ],
+      "media_source_tweet_id": [
+        "2025444715668406531"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2025600477103301020",
+    "created_at": "2026-02-22T15:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T16:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025600477103301020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1622255626066731010",
+          "start": 3,
+          "username": "SagerRgyalpo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kd5i8Iw4aE",
+          "end": 51,
+          "expanded_url": "https://x.com/SagerRgyalpo/status/2025444715668406531/photo/1",
+          "media_key": "3_2025444704746377216",
+          "start": 28,
+          "url": "https://t.co/Kd5i8Iw4aE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025600477103301020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025444715668406531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SagerRgyalpo: 真辱女还得看女权。 https://t.co/Kd5i8Iw4aE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 934,
+        "media_key": "3_2025444704746377216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvTOkqakAAqxni.jpg",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025444704746377216"
+          ],
+          "media_source_tweet_id": [
+            "2025444715668406531"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2025600477103301020",
+        "created_at": "2026-02-22T15:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025600477103301020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1622255626066731010",
+              "start": 3,
+              "username": "SagerRgyalpo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kd5i8Iw4aE",
+              "end": 51,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2025444715668406531/photo/1",
+              "media_key": "3_2025444704746377216",
+              "start": 28,
+              "url": "https://t.co/Kd5i8Iw4aE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025600477103301020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025444715668406531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SagerRgyalpo: 真辱女还得看女权。 https://t.co/Kd5i8Iw4aE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025444704746377216"
+          ]
+        },
+        "author_id": "1622255626066731010",
+        "conversation_id": "2025444715668406531",
+        "created_at": "2026-02-22T05:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025444715668406531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kd5i8Iw4aE",
+              "end": 33,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2025444715668406531/photo/1",
+              "media_key": "3_2025444704746377216",
+              "start": 10,
+              "url": "https://t.co/Kd5i8Iw4aE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025444715668406531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 31401,
+          "like_count": 411,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "真辱女还得看女权。 https://t.co/Kd5i8Iw4aE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 1011,
+          "like_count": 7289,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2452
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "欢迎私信投稿｜女男平等｜gender equality｜반여권｜アンチフェミ｜антифем｜🕊️☮️｜🚫🪶",
+        "id": "1622255626066731010",
+        "location": "Russia",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998597064276717571/syqfEMmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8982,
+          "following_count": 880,
+          "like_count": 1039,
+          "listed_count": 30,
+          "media_count": 1515,
+          "tweet_count": 3492
+        },
+        "username": "SagerRgyalpo",
+        "verified": true
+      }
+    ]
+  }
+}

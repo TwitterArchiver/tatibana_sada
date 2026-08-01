@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059169919464616212",
+    "created_at": "2026-05-26T13:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059271645853073884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "jusirthree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059271645853073884",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059169919464616212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jusirthree 能不能给我带下路，我找往你心里的路找的好急"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1594,
+        "media_key": "3_2059169896546836480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOkHGfaIAAkYtD.jpg",
+        "width": 971
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059169919464616212",
+        "created_at": "2026-05-26T13:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059271645853073884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "jusirthree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059271645853073884",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059169919464616212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jusirthree 能不能给我带下路，我找往你心里的路找的好急"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059169896546836480"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2059169919464616212",
+        "created_at": "2026-05-26T07:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059169919464616212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SMrZJAQTnN",
+              "end": 53,
+              "expanded_url": "https://x.com/jusirthree/status/2059169919464616212/photo/1",
+              "media_key": "3_2059169896546836480",
+              "start": 30,
+              "url": "https://t.co/SMrZJAQTnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059169919464616212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 527,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "jusir已学习优秀的施琅团结主义思想。\n\n若有战，召必回 https://t.co/SMrZJAQTnN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 1220,
+          "like_count": 8740,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2924
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)",
+        "id": "2026283442259017729",
+        "name": "jusir",
+        "pinned_tweet_id": "2049539673614418049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 1083,
+          "like_count": 4031,
+          "listed_count": 8,
+          "media_count": 564,
+          "tweet_count": 2226
+        },
+        "username": "jusirthree",
+        "verified": true
+      }
+    ]
+  }
+}

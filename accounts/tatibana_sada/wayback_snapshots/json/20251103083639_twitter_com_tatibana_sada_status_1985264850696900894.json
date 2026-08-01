@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985264850696900894",
+    "created_at": "2025-11-03T08:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T09:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985264850696900894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QazwsxQwert12/…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/QazwsxQwert12/status/1985002920212087291",
+          "start": 63,
+          "url": "https://t.co/OBF7iH8YxI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985264850696900894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985002920212087291",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈呀我被吓到了。我的劳保心性一下子又复活了。\n能不能转交激女学习搧吊子灭Y染，纳入式沾男会变得不幸的先进理论？盼激女归，，， https://t.co/OBF7iH8YxI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985264850696900894",
+        "created_at": "2025-11-03T08:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T09:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985264850696900894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QazwsxQwert12/…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/QazwsxQwert12/status/1985002920212087291",
+              "start": 63,
+              "url": "https://t.co/OBF7iH8YxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985264850696900894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985002920212087291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈呀我被吓到了。我的劳保心性一下子又复活了。\n能不能转交激女学习搧吊子灭Y染，纳入式沾男会变得不幸的先进理论？盼激女归，，， https://t.co/OBF7iH8YxI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906956539916943361",
+        "conversation_id": "1985002920212087291",
+        "created_at": "2025-11-02T15:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T16:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985002920212087291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985002920212087291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 82648,
+          "like_count": 642,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近終於跨出心裡那個傳統框架 我是T但我還是生理女啊 有生理需求又沒有錯～所以決定大解放啦哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 704,
+          "like_count": 4293,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1692
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T06:27:40.000Z",
+        "description": "心理喜歡女生/卻喜歡看棒子/可聊/大解放後看我感覺約/沒禮貌的、問祖宗十八代的、安安妳好幾歲的掰掰👋🏽",
+        "id": "1906956539916943361",
+        "name": "喜歡看棒狀物的T",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906960505706815488/8nROTEnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2462,
+          "following_count": 58,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 50
+        },
+        "username": "QazwsxQwert12",
+        "verified": false
+      }
+    ]
+  }
+}

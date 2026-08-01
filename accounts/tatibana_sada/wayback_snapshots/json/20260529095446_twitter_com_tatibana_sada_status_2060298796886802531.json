@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2060298796886802531",
+    "created_at": "2026-05-29T09:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060298796886802531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1594984148044636160",
+          "start": 3,
+          "username": "Antichenk8964"
+        },
+        {
+          "end": 35,
+          "id": "1008615379885670400",
+          "start": 19,
+          "username": "zhinarensml8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060298796886802531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060297441057144925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Antichenk8964: @zhinarensml8964 虚假的大翻译\n\n除了国际热点外毫无关注的账号，基本也都是自由派和反贼在看\n\n真正的大翻译\n\n高效AI机翻，快速推送，立刻交流"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2060298796886802531",
+        "created_at": "2026-05-29T09:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060298796886802531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1594984148044636160",
+              "start": 3,
+              "username": "Antichenk8964"
+            },
+            {
+              "end": 35,
+              "id": "1008615379885670400",
+              "start": 19,
+              "username": "zhinarensml8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060298796886802531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060297441057144925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Antichenk8964: @zhinarensml8964 虚假的大翻译\n\n除了国际热点外毫无关注的账号，基本也都是自由派和反贼在看\n\n真正的大翻译\n\n高效AI机翻，快速推送，立刻交流"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594984148044636160",
+        "conversation_id": "2060260685297381383",
+        "created_at": "2026-05-29T09:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060297441057144925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1008615379885670400",
+              "start": 0,
+              "username": "zhinarensml8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060297441057144925",
+        "in_reply_to_user_id": "1008615379885670400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060260685297381383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarensml8964 虚假的大翻译\n\n除了国际热点外毫无关注的账号，基本也都是自由派和反贼在看\n\n真正的大翻译\n\n高效AI机翻，快速推送，立刻交流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 1249,
+          "like_count": 8963,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 3050
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T09:20:35.000Z",
+        "description": "I am a Catholic✝ sinner, but I will fight for the innocent.",
+        "id": "1594984148044636160",
+        "location": "Freistaat Bayern",
+        "name": "Der Einzige Kommandant",
+        "pinned_tweet_id": "1978169122341998992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935234397793595392/_31jLql__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 1896,
+          "like_count": 849,
+          "listed_count": 1,
+          "media_count": 3951,
+          "tweet_count": 39150
+        },
+        "username": "Antichenk8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-18T07:40:20.000Z",
+        "description": "新教旨支黑，喜欢日帝反感日本国。不清真的炸猪排爱好者\n右翼威权主义者，秩序高于一切，法律至上\n目前正在学习外语以及研究日本帝国，大韩民国独裁时期和以色列国的历史。喜欢大文豪三岛由纪夫\n一代目@zhinarencnm8964三代目@zhinarensb8964四代目@zhinarencs8964\n⚠️无差别屏蔽垃圾账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "zhinarencnm8964"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "1008615379885670400",
+        "location": "支那人民共和国",
+        "name": "古美门 正雄✡️🩵",
+        "pinned_tweet_id": "2060062202531655926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054311077811556352/SHVwh_ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 988,
+          "like_count": 39760,
+          "listed_count": 6,
+          "media_count": 653,
+          "tweet_count": 3512
+        },
+        "username": "zhinarensml8964",
+        "verified": false
+      }
+    ]
+  }
+}

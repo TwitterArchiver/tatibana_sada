@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059145244390932793",
+    "created_at": "2026-05-26T05:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059145244390932793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1395658814402162689",
+          "start": 3,
+          "username": "8964tou12345678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059145244390932793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059144992262701373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964tou12345678: 确实是，自杀不只是个人行为，还会演变成一种文化现象，也就是说，自杀是具有社会传染性质的，这被叫做werther effect。\n这种情况在同温层小圈子中尤其明显，人在观察到和自己相似的人做了某种行为后，会显著降低模仿的心理门框。相似性越…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059145244390932793",
+        "created_at": "2026-05-26T05:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059145244390932793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1395658814402162689",
+              "start": 3,
+              "username": "8964tou12345678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059145244390932793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059144992262701373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964tou12345678: 确实是，自杀不只是个人行为，还会演变成一种文化现象，也就是说，自杀是具有社会传染性质的，这被叫做werther effect。\n这种情况在同温层小圈子中尤其明显，人在观察到和自己相似的人做了某种行为后，会显著降低模仿的心理门框。相似性越…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395658814402162689",
+        "conversation_id": "2059144992262701373",
+        "created_at": "2026-05-26T05:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059144992262701373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatibana_sada/…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/tatibana_sada/status/2058910468329394675",
+              "start": 147,
+              "url": "https://t.co/TIUtyfI3Ey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059144992262701373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058910468329394675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实是，自杀不只是个人行为，还会演变成一种文化现象，也就是说，自杀是具有社会传染性质的，这被叫做werther effect。\n这种情况在同温层小圈子中尤其明显，人在观察到和自己相似的人做了某种行为后，会显著降低模仿的心理门框。相似性越高，示范效应越强\n这就是为什么我根本不认可人有自杀的自由 https://t.co/TIUtyfI3Ey"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1213,
+          "like_count": 8655,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2895
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10359,
+          "following_count": 10460,
+          "like_count": 315814,
+          "listed_count": 65,
+          "media_count": 2354,
+          "tweet_count": 50937
+        },
+        "username": "8964tou12345678",
+        "verified": false
+      }
+    ]
+  }
+}

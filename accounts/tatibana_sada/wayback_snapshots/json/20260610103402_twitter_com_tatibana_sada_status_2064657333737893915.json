@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2064374938044108969",
+    "created_at": "2026-06-10T10:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064657333737893915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892152061653028866",
+          "start": 0,
+          "username": "SuperShrimp9000"
+        },
+        {
+          "end": 30,
+          "id": "1697913281816432640",
+          "start": 17,
+          "username": "kiligulyanov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064657333737893915",
+    "in_reply_to_user_id": "1892152061653028866",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064387037386649845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuperShrimp9000 @kiligulyanov 何骚鞑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2064386975759781888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYtBFEa0AASJhx.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064374938044108969",
+        "created_at": "2026-06-10T10:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064657333737893915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892152061653028866",
+              "start": 0,
+              "username": "SuperShrimp9000"
+            },
+            {
+              "end": 30,
+              "id": "1697913281816432640",
+              "start": 17,
+              "username": "kiligulyanov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064657333737893915",
+        "in_reply_to_user_id": "1892152061653028866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064387037386649845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuperShrimp9000 @kiligulyanov 何骚鞑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064386975759781888"
+          ]
+        },
+        "author_id": "1892152061653028866",
+        "conversation_id": "2064374938044108969",
+        "created_at": "2026-06-09T16:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064387037386649845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1697913281816432640",
+              "start": 0,
+              "username": "kiligulyanov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lh4sFTiY7A",
+              "end": 62,
+              "expanded_url": "https://x.com/SuperShrimp9000/status/2064387037386649845/photo/1",
+              "media_key": "3_2064386975759781888",
+              "start": 39,
+              "url": "https://t.co/lh4sFTiY7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064387037386649845",
+        "in_reply_to_user_id": "1697913281816432640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064375396255093203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiligulyanov 为什么不意识到自己是燕国人\n注意一下你的燕奸发言 https://t.co/lh4sFTiY7A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 1305,
+          "like_count": 9278,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3208
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T10:00:03.000Z",
+        "description": "進化した最強エビ、君の老北京美食、グラ姫のお菓子\nMega Ebi bigger then big, Your traditional Yuyan meal, Gura's snack\n前菜/Appetiser: @BigFreshShrimp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 107,
+                "username": "BigFreshShrimp"
+              }
+            ]
+          }
+        },
+        "id": "1892152061653028866",
+        "name": "SuperShrimp9000+",
+        "pinned_tweet_id": "1892161554013093935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912398191841988608/UcPyhO0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 936,
+          "like_count": 108053,
+          "listed_count": 4,
+          "media_count": 6639,
+          "tweet_count": 16212
+        },
+        "username": "SuperShrimp9000",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T10:04:17.000Z",
+        "description": "爱征服一切，让我们屈服于爱吧",
+        "id": "1697913281816432640",
+        "location": "梦境的地方",
+        "name": "Kilig",
+        "pinned_tweet_id": "1797459378897068324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874127554749358085/H_nHRR6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2815,
+          "following_count": 1692,
+          "like_count": 27772,
+          "listed_count": 12,
+          "media_count": 1490,
+          "tweet_count": 10316
+        },
+        "username": "kiligulyanov",
+        "verified": true
+      }
+    ]
+  }
+}

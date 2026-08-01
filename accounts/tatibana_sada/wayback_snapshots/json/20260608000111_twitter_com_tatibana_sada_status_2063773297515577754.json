@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2063747661598228966",
+    "created_at": "2026-06-08T00:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T01:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063773297515577754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1854988099291389952",
+          "start": 0,
+          "username": "dogecrat1789"
+        },
+        {
+          "end": 29,
+          "id": "973471717937967104",
+          "start": 14,
+          "username": "GarbageHuman24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063773297515577754",
+    "in_reply_to_user_id": "1854988099291389952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063769009653244395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dogecrat1789 @GarbageHuman24 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2063747661598228966",
+        "created_at": "2026-06-08T00:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063773297515577754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854988099291389952",
+              "start": 0,
+              "username": "dogecrat1789"
+            },
+            {
+              "end": 29,
+              "id": "973471717937967104",
+              "start": 14,
+              "username": "GarbageHuman24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063773297515577754",
+        "in_reply_to_user_id": "1854988099291389952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063769009653244395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dogecrat1789 @GarbageHuman24 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854988099291389952",
+        "conversation_id": "2063747661598228966",
+        "created_at": "2026-06-07T23:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063769009653244395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "973471717937967104",
+              "start": 0,
+              "username": "GarbageHuman24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063769009653244395",
+        "in_reply_to_user_id": "973471717937967104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063747661598228966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GarbageHuman24 Because they are one of the biggest funders for the mess that’s going on in the western world.\n\nYou retards probably don’t realize that drug lords always do their best to bar their families from drug use."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1261,
+          "like_count": 9025,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3077
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T20:43:41.000Z",
+        "description": "Insanely obsessed with the United States 🇺🇸\nChristian ✝️ (Roman Catholic 🇻🇦)\nTrumpublican👱🔴\nN-hating Unionist/Federalist🏛️.\nIndustrialist🏭\nyellow🍜",
+        "id": "1854988099291389952",
+        "location": "United States",
+        "name": "Ameriboo 🇺🇸 🦅 🏭 ⚙️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063428403663962112/UBJBusWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 450,
+          "like_count": 98,
+          "listed_count": 7,
+          "media_count": 232,
+          "tweet_count": 1722
+        },
+        "username": "dogecrat1789",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-13T08:11:58.000Z",
+        "description": "Monitoring and documenting the collapse in real time",
+        "id": "973471717937967104",
+        "location": "Perth, Western Australia",
+        "name": "Garbage Human",
+        "pinned_tweet_id": "1949762197040795680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803201277633163264/7aC4RYIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453081,
+          "following_count": 980,
+          "like_count": 17738,
+          "listed_count": 1264,
+          "media_count": 18136,
+          "tweet_count": 27230
+        },
+        "username": "GarbageHuman24",
+        "verified": true
+      }
+    ]
+  }
+}

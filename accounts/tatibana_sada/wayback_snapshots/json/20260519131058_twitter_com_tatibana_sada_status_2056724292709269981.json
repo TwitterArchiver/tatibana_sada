@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2056724292709269981",
+    "created_at": "2026-05-19T13:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056724292709269981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1742112395722362881",
+          "start": 3,
+          "username": "tomek_fin_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056724292709269981",
+    "lang": "pl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056690871337115742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tomek_fin_ai: Obserwujcie mnie po więcej finansowych porad."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2056724292709269981",
+        "created_at": "2026-05-19T13:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056724292709269981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1742112395722362881",
+              "start": 3,
+              "username": "tomek_fin_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056724292709269981",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056690871337115742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tomek_fin_ai: Obserwujcie mnie po więcej finansowych porad."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742112395722362881",
+        "conversation_id": "2056639263442137237",
+        "created_at": "2026-05-19T10:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056690871337115742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056690871337115742",
+        "in_reply_to_user_id": "1742112395722362881",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41744,
+          "like_count": 180,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056639263442137237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Obserwujcie mnie po więcej finansowych porad."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 1139,
+          "like_count": 8079,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2650
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T09:15:45.000Z",
+        "description": "Mam 34 biznesy w 62 branżach.",
+        "id": "1742112395722362881",
+        "name": "Tomek Biznestmen",
+        "pinned_tweet_id": "1915006305527345404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036009969972326400/zcOmTW33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 157,
+          "like_count": 564,
+          "listed_count": 10,
+          "media_count": 38,
+          "tweet_count": 292
+        },
+        "username": "tomek_fin_ai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073994468953587712"
+      ],
+      "media_source_tweet_id": [
+        "2073994484275429612"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2074235373484716420",
+    "created_at": "2026-07-06T20:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T21:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074235373484716420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1819759085027536896",
+          "start": 3,
+          "username": "juhgcf63928"
+        },
+        {
+          "end": 29,
+          "id": "1614942804790378496",
+          "start": 17,
+          "username": "thales_tang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nhpoAQVi2M",
+          "end": 118,
+          "expanded_url": "https://x.com/juhgcf63928/status/2073994484275429612/photo/1",
+          "media_key": "3_2073994468953587712",
+          "start": 95,
+          "url": "https://t.co/nhpoAQVi2M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074235373484716420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073994484275429612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @juhgcf63928: @thales_tang 我说港警就是反法西斯战士有没有懂的，镇压潜藏在香港人群中的纯正纳粹法西斯分子😁泛民派的支持者原来就是这种货色，还标榜自己社民呢。 https://t.co/nhpoAQVi2M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073994468953587712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhO-yQagAAAI8P.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073994468953587712"
+          ],
+          "media_source_tweet_id": [
+            "2073994484275429612"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2074235373484716420",
+        "created_at": "2026-07-06T20:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T21:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074235373484716420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1819759085027536896",
+              "start": 3,
+              "username": "juhgcf63928"
+            },
+            {
+              "end": 29,
+              "id": "1614942804790378496",
+              "start": 17,
+              "username": "thales_tang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhpoAQVi2M",
+              "end": 118,
+              "expanded_url": "https://x.com/juhgcf63928/status/2073994484275429612/photo/1",
+              "media_key": "3_2073994468953587712",
+              "start": 95,
+              "url": "https://t.co/nhpoAQVi2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074235373484716420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073994484275429612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @juhgcf63928: @thales_tang 我说港警就是反法西斯战士有没有懂的，镇压潜藏在香港人群中的纯正纳粹法西斯分子😁泛民派的支持者原来就是这种货色，还标榜自己社民呢。 https://t.co/nhpoAQVi2M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073994468953587712"
+          ]
+        },
+        "author_id": "1819759085027536896",
+        "conversation_id": "2073703463234781198",
+        "created_at": "2026-07-06T04:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073994484275429612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1614942804790378496",
+              "start": 0,
+              "username": "thales_tang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhpoAQVi2M",
+              "end": 101,
+              "expanded_url": "https://x.com/juhgcf63928/status/2073994484275429612/photo/1",
+              "media_key": "3_2073994468953587712",
+              "start": 78,
+              "url": "https://t.co/nhpoAQVi2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073994484275429612",
+        "in_reply_to_user_id": "1614942804790378496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1486,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073703463234781198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thales_tang 我说港警就是反法西斯战士有没有懂的，镇压潜藏在香港人群中的纯正纳粹法西斯分子😁泛民派的支持者原来就是这种货色，还标榜自己社民呢。 https://t.co/nhpoAQVi2M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 1398,
+          "like_count": 9728,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3318
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T15:35:58.000Z",
+        "description": "",
+        "id": "1819759085027536896",
+        "name": "juhgcf",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 21,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "juhgcf63928",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-16T11:09:54.000Z",
+        "description": "",
+        "id": "1614942804790378496",
+        "name": "Filip Filipović",
+        "pinned_tweet_id": "2063103052035596663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945345157441671168/c_gYszvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 375,
+          "like_count": 18686,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 719
+        },
+        "url": "",
+        "username": "thales_tang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2072527994879697044",
+    "created_at": "2026-07-02T03:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072527994879697044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TruthTrumpPost…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/TruthTrumpPost/status/2072264737362935869",
+          "start": 9,
+          "url": "https://t.co/pcMdKiQ0nC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072527994879697044",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072264737362935869",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Good goy https://t.co/pcMdKiQ0nC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 147167,
+        "height": 900,
+        "media_key": "13_2072262542043369472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072262542043369472/img/XWfDYJEsoAmbt4Gw.jpg",
+        "public_metrics": {
+          "view_count": 4417
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072262542043369472/vid/avc1/1280x720/2jXETXjsIpjQ9msp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072262542043369472/pl/vXC68r3vXr4Sdtu3.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072262542043369472/vid/avc1/480x270/HXUf31HBImHIgsNM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072262542043369472/vid/avc1/640x360/cOXU4Gh0fCAT5gSB.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072262542043369472/vid/avc1/1600x900/BjRsjMJuNYWUFwkV.mp4"
+          }
+        ],
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2072527994879697044",
+        "created_at": "2026-07-02T03:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072527994879697044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TruthTrumpPost…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/TruthTrumpPost/status/2072264737362935869",
+              "start": 9,
+              "url": "https://t.co/pcMdKiQ0nC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072527994879697044",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072264737362935869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Good goy https://t.co/pcMdKiQ0nC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072262542043369472"
+          ]
+        },
+        "author_id": "1902353292883021826",
+        "conversation_id": "2072264737362935869",
+        "created_at": "2026-07-01T10:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072264737362935869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LU89J3IZ5W",
+              "end": 296,
+              "expanded_url": "https://x.com/TruthTrumpPost/status/2072264737362935869/video/1",
+              "media_key": "13_2072262542043369472",
+              "start": 273,
+              "url": "https://t.co/LU89J3IZ5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072264737362935869",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 1159,
+                "id": "1902353292883021826",
+                "start": 1144,
+                "username": "TruthTrumpPost"
+              }
+            ]
+          },
+          "text": "U.S. Ambassador to Israel: There’s no such thing as replacement theology, because to think that means God would break his promise!!\n\nSo what exactly is replacement theology?🤔\n\nReplacement theology, also called supersessionism, is the Christian doctrine that the Church has permanently replaced ethnic Israel as God’s chosen people.\n\nIn this view, covenant promises in the Hebrew Bible no longer belong uniquely to the Jewish people, but have been transferred to the Christian Church. ✝️\n\nSupporters traditionally argued that because many Jewish people did not accept Jesus as Messiah, God’s covenant promises passed from Israel to the Church, making the Church the new Israel.\n\nAnd the debate reaches beyond theology. Critics argue replacement theology helped fuel centuries of antisemitism by portraying Jews as rejected or stripped of covenant status.🤨\n\n Opponents believe affirming God’s continuing promises to Israel can strengthen Jewish-Christian relations and reshape how Christians discuss Israel today.\n\nSo where do you stand?\nCan God's covenant be transferred from one people to another, or does it remain everlasting?🤔\n\nSubscribe to @TruthTrumpPost  for more  videos like these."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 34433,
+          "like_count": 130,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "U.S. Ambassador to Israel: There’s no such thing as replacement theology, because to think that means God would break his promise!!\n\nSo what exactly is replacement theology?🤔\n\nReplacement theology, also called supersessionism, is the Christian doctrine that the Church has https://t.co/LU89J3IZ5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 1375,
+          "like_count": 9538,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3273
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T13:35:53.000Z",
+        "description": "Independent digital media outlet covering global news and current affairs, doing analysis and commentary. Not affiliated with President Trump.",
+        "id": "1902353292883021826",
+        "name": "Donald J Trump Posts TruthSocial",
+        "pinned_tweet_id": "2070840848225329251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902353410286145536/Ax1iAc24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672693,
+          "following_count": 18,
+          "like_count": 2,
+          "listed_count": 573,
+          "media_count": 6318,
+          "tweet_count": 6919
+        },
+        "url": "",
+        "username": "TruthTrumpPost",
+        "verified": true
+      }
+    ]
+  }
+}

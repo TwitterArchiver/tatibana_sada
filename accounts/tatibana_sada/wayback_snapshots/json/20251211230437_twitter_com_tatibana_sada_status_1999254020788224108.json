@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987809322211115296",
+    "created_at": "2025-12-11T23:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T00:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999254020788224108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1673386998097416192",
+          "start": 0,
+          "username": "beheaderSQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999254020788224108",
+    "in_reply_to_user_id": "1673386998097416192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987809322211115296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beheaderSQY 英法的词汇阑入大致上应该算北海道方言引入九州方言词汇吧。另一个层面说，我不满意的理由是，作为一个汉意士大夫（有股泛亚味），你们太跑的向米英鬼畜那里了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_1987809314762006528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YeCjeaIAA47Q-.jpg",
+        "width": 1239
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987809315101749249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YeCkvaMAERsyW.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987809322211115296",
+        "created_at": "2025-12-11T23:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T00:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999254020788224108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1673386998097416192",
+              "start": 0,
+              "username": "beheaderSQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999254020788224108",
+        "in_reply_to_user_id": "1673386998097416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987809322211115296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beheaderSQY 英法的词汇阑入大致上应该算北海道方言引入九州方言词汇吧。另一个层面说，我不满意的理由是，作为一个汉意士大夫（有股泛亚味），你们太跑的向米英鬼畜那里了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987809314762006528",
+            "3_1987809315101749249"
+          ]
+        },
+        "author_id": "1673386998097416192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987809322211115296",
+        "created_at": "2025-11-10T09:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987809322211115296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lkYRLzIjB",
+              "end": 69,
+              "expanded_url": "https://x.com/beheaderSQY/status/1987809322211115296/photo/1",
+              "media_key": "3_1987809314762006528",
+              "start": 46,
+              "url": "https://t.co/0lkYRLzIjB"
+            },
+            {
+              "display_url": "pic.x.com/0lkYRLzIjB",
+              "end": 69,
+              "expanded_url": "https://x.com/beheaderSQY/status/1987809322211115296/photo/1",
+              "media_key": "3_1987809315101749249",
+              "start": 46,
+              "url": "https://t.co/0lkYRLzIjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987809322211115296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 579,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只是抱怨一下就有好胜心强的人好为人师了。一股支味\n\n以及我今天达成450天连胜了，附图如下 https://t.co/0lkYRLzIjB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 998,
+          "like_count": 6954,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2396
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T17:45:32.000Z",
+        "description": "欢迎推友互fo",
+        "id": "1673386998097416192",
+        "name": "SQY秽土转生形态",
+        "pinned_tweet_id": "1860364562228556189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902216132712656896/nCKAciZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 1956,
+          "like_count": 65844,
+          "listed_count": 8,
+          "media_count": 2720,
+          "tweet_count": 33094
+        },
+        "username": "beheaderSQY",
+        "verified": false
+      }
+    ]
+  }
+}

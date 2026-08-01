@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985836354731983138",
+    "created_at": "2025-11-05T15:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T16:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986094968109490225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1617138994227339265",
+          "start": 0,
+          "username": "cathy213924"
+        },
+        {
+          "end": 23,
+          "id": "1418942200457662477",
+          "start": 13,
+          "username": "Rikka_Ela"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986094968109490225",
+    "in_reply_to_user_id": "1617138994227339265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985855893733335538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cathy213924 @Rikka_Ela 哇，自带干粮的民主党国际小彩虹。\n保卫驴权有什么不好的。我看这个要喊万岁。此乃自由人「不要干涉女人的自由」心法是也。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985836354731983138",
+        "created_at": "2025-11-05T15:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T16:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986094968109490225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617138994227339265",
+              "start": 0,
+              "username": "cathy213924"
+            },
+            {
+              "end": 23,
+              "id": "1418942200457662477",
+              "start": 13,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986094968109490225",
+        "in_reply_to_user_id": "1617138994227339265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985855893733335538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cathy213924 @Rikka_Ela 哇，自带干粮的民主党国际小彩虹。\n保卫驴权有什么不好的。我看这个要喊万岁。此乃自由人「不要干涉女人的自由」心法是也。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617138994227339265",
+        "conversation_id": "1985836354731983138",
+        "created_at": "2025-11-04T23:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T00:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985855893733335538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985855893733335538",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985836354731983138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 典型的被父权制规训了\n身为跨性别还有去迎合传统的女性刻板印象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 749,
+          "like_count": 4761,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1798
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T12:36:17.000Z",
+        "description": "she/her | transF | asexual🖤🩶🤍💜 | transfeminist | social liberalism | hate imperialism & totalitarianism | HRT 2023.12.11 | Free Palestine 🇵🇸",
+        "id": "1617138994227339265",
+        "location": "Republic of Transland🏳️‍⚧️",
+        "name": "Cathy🏳️‍🌈🏳️‍⚧️🇹🇼🇺🇦🇵🇸",
+        "pinned_tweet_id": "1927290401569771532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984237481835786240/KDluz_H9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 1166,
+          "like_count": 8595,
+          "listed_count": 12,
+          "media_count": 917,
+          "tweet_count": 5798
+        },
+        "username": "cathy213924",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4709,
+          "following_count": 3621,
+          "like_count": 75432,
+          "listed_count": 8,
+          "media_count": 322,
+          "tweet_count": 7372
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

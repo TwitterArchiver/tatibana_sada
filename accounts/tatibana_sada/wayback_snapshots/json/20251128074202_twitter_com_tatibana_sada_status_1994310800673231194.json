@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994046423331950592"
+      ],
+      "media_source_tweet_id": [
+        "1994046427790758391"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1994310800673231194",
+    "created_at": "2025-11-28T07:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T08:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994310800673231194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "486333343",
+          "start": 3,
+          "username": "ZyMazza"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9SVoWq6X7U",
+          "end": 36,
+          "expanded_url": "https://x.com/ZyMazza/status/1994046427790758391/photo/1",
+          "media_key": "3_1994046423331950592",
+          "start": 13,
+          "url": "https://t.co/9SVoWq6X7U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994310800673231194",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1439
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994046427790758391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZyMazza: https://t.co/9SVoWq6X7U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_1994046423331950592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xGqDhW0AAhyzg.jpg",
+        "width": 448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994046423331950592"
+          ],
+          "media_source_tweet_id": [
+            "1994046427790758391"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1994310800673231194",
+        "created_at": "2025-11-28T07:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T08:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994310800673231194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "486333343",
+              "start": 3,
+              "username": "ZyMazza"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9SVoWq6X7U",
+              "end": 36,
+              "expanded_url": "https://x.com/ZyMazza/status/1994046427790758391/photo/1",
+              "media_key": "3_1994046423331950592",
+              "start": 13,
+              "url": "https://t.co/9SVoWq6X7U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994310800673231194",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1439
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994046427790758391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZyMazza: https://t.co/9SVoWq6X7U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994046423331950592"
+          ]
+        },
+        "author_id": "486333343",
+        "conversation_id": "1994046427790758391",
+        "created_at": "2025-11-27T14:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994046427790758391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9SVoWq6X7U",
+              "end": 23,
+              "expanded_url": "https://x.com/ZyMazza/status/1994046427790758391/photo/1",
+              "media_key": "3_1994046423331950592",
+              "start": 0,
+              "url": "https://t.co/9SVoWq6X7U"
+            },
+            {
+              "display_url": "x.com/yohaniddawela/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yohaniddawela/status/1994019899983663567",
+              "start": 24,
+              "url": "https://t.co/AMCeAmyOGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994046427790758391",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1592,
+          "impression_count": 2051279,
+          "like_count": 50969,
+          "quote_count": 55,
+          "reply_count": 77,
+          "retweet_count": 1439
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994019899983663567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/9SVoWq6X7U https://t.co/AMCeAmyOGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 959,
+          "like_count": 6451,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2302
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-08T05:34:23.000Z",
+        "description": "At the intersection of Faith, Technology, and Arcana... You find Zy @meaningfuldream",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 68,
+                "username": "meaningfuldream"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zymazza.com",
+                "end": 23,
+                "expanded_url": "http://zymazza.com",
+                "start": 0,
+                "url": "https://t.co/UFqc8G3kye"
+              }
+            ]
+          }
+        },
+        "id": "486333343",
+        "name": "Zy",
+        "pinned_tweet_id": "1738958263364850023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878815051668156416/k8X9rPMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9390,
+          "following_count": 820,
+          "like_count": 159595,
+          "listed_count": 60,
+          "media_count": 4910,
+          "tweet_count": 66464
+        },
+        "url": "https://t.co/UFqc8G3kye",
+        "username": "ZyMazza",
+        "verified": true
+      }
+    ]
+  }
+}

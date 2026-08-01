@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076678018433798144"
+      ],
+      "media_source_tweet_id": [
+        "2076678021118091545"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2076986786547667337",
+    "created_at": "2026-07-14T11:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076986786547667337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678117449508753408",
+          "start": 3,
+          "username": "Chunliang2nd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YDPkeyJnq6",
+          "end": 49,
+          "expanded_url": "https://x.com/Chunliang2nd/status/2076678021118091545/photo/1",
+          "media_key": "3_2076678018433798144",
+          "start": 26,
+          "url": "https://t.co/YDPkeyJnq6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076986786547667337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076678021118091545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chunliang2nd: amber来了 https://t.co/YDPkeyJnq6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076678018433798144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHXp7Gb0AAN1fT.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076678018433798144"
+          ],
+          "media_source_tweet_id": [
+            "2076678021118091545"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2076986786547667337",
+        "created_at": "2026-07-14T11:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076986786547667337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678117449508753408",
+              "start": 3,
+              "username": "Chunliang2nd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDPkeyJnq6",
+              "end": 49,
+              "expanded_url": "https://x.com/Chunliang2nd/status/2076678021118091545/photo/1",
+              "media_key": "3_2076678018433798144",
+              "start": 26,
+              "url": "https://t.co/YDPkeyJnq6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076986786547667337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076678021118091545",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chunliang2nd: amber来了 https://t.co/YDPkeyJnq6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076678018433798144"
+          ]
+        },
+        "author_id": "1678117449508753408",
+        "conversation_id": "2076678021118091545",
+        "created_at": "2026-07-13T14:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076678021118091545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDPkeyJnq6",
+              "end": 31,
+              "expanded_url": "https://x.com/Chunliang2nd/status/2076678021118091545/photo/1",
+              "media_key": "3_2076678018433798144",
+              "start": 8,
+              "url": "https://t.co/YDPkeyJnq6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076678021118091545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5104,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "amber来了 https://t.co/YDPkeyJnq6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 1430,
+          "like_count": 9990,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3386
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T19:02:54.000Z",
+        "description": "我说老大哥，我刚刚在电幕旁边写日记的时候，你偷看了对吧？(错乱 ADHD/AS Bipolar Chaos-Evil 恐直🏳️‍⚧️Enby🍥HRT2023.6.9 半吊子geek ❄️NixOS Android Doubao-8b 退役HKer🇭🇰 贝贝珈毒唯 厌食/ED 维生素不足 @liminfin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 144,
+                "username": "liminfin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro",
+                "end": 23,
+                "expanded_url": "http://ouka.ro",
+                "start": 0,
+                "url": "https://t.co/wpEdl7ukHh"
+              }
+            ]
+          }
+        },
+        "id": "1678117449508753408",
+        "location": "乡北茶舍",
+        "name": "虚拟粘同学会梦到一般通过赛博溺水态李颖吗☆",
+        "pinned_tweet_id": "2009209330239983965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907089784285392896/lOGGYplb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 1890,
+          "like_count": 27511,
+          "listed_count": 11,
+          "media_count": 1135,
+          "tweet_count": 27136
+        },
+        "url": "https://t.co/wpEdl7ukHh",
+        "username": "Chunliang2nd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988578172951257531",
+    "created_at": "2025-11-12T12:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988578172951257531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1395658814402162689",
+          "start": 3,
+          "username": "8964tou12345678"
+        },
+        {
+          "end": 35,
+          "id": "804650151126011905",
+          "start": 21,
+          "username": "ASUKAKIRISUTO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988578172951257531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988455125959258138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964tou12345678: @ASUKAKIRISUTO 理论上，一个人无法是基督徒的同时是浪漫主义者，女权主义者，拜金主义者，共济会追随者，自由主义者，世俗主义者，共产主义者，因为一个仆人侍奉不了两个主子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988578172951257531",
+        "created_at": "2025-11-12T12:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988578172951257531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1395658814402162689",
+              "start": 3,
+              "username": "8964tou12345678"
+            },
+            {
+              "end": 35,
+              "id": "804650151126011905",
+              "start": 21,
+              "username": "ASUKAKIRISUTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988578172951257531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988455125959258138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964tou12345678: @ASUKAKIRISUTO 理论上，一个人无法是基督徒的同时是浪漫主义者，女权主义者，拜金主义者，共济会追随者，自由主义者，世俗主义者，共产主义者，因为一个仆人侍奉不了两个主子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395658814402162689",
+        "conversation_id": "1988413658725314849",
+        "created_at": "2025-11-12T03:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T04:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988455125959258138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "804650151126011905",
+              "start": 0,
+              "username": "ASUKAKIRISUTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988455125959258138",
+        "in_reply_to_user_id": "804650151126011905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1790,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988413658725314849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ASUKAKIRISUTO 理论上，一个人无法是基督徒的同时是浪漫主义者，女权主义者，拜金主义者，共济会追随者，自由主义者，世俗主义者，共产主义者，因为一个仆人侍奉不了两个主子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 809,
+          "like_count": 5191,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1909
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10056,
+          "following_count": 7745,
+          "like_count": 266903,
+          "listed_count": 60,
+          "media_count": 2244,
+          "tweet_count": 44611
+        },
+        "username": "8964tou12345678",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-02T11:35:20.000Z",
+        "description": "基督徒",
+        "id": "804650151126011905",
+        "location": "霓虹國",
+        "name": "あすか",
+        "pinned_tweet_id": "1730123405456994336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868839402329591808/W73AWe6S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 184,
+          "like_count": 1258,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 9574
+        },
+        "username": "ASUKAKIRISUTO",
+        "verified": false
+      }
+    ]
+  }
+}

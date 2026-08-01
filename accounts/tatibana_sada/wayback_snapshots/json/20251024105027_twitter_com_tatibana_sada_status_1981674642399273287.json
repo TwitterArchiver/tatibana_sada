@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979551215730966735",
+    "created_at": "2025-10-24T10:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T11:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981674642399273287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1368856141992779776",
+          "start": 0,
+          "username": "heyoux_2011"
+        },
+        {
+          "end": 21,
+          "id": "1120659303990304768",
+          "start": 13,
+          "username": "1923YCP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981674642399273287",
+    "in_reply_to_user_id": "1368856141992779776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981628698102210746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heyoux_2011 @1923YCP 这是真正中国人该有的素质，你是地地道道光荣正义的中国人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979551215730966735",
+        "created_at": "2025-10-24T10:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981674642399273287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1368856141992779776",
+              "start": 0,
+              "username": "heyoux_2011"
+            },
+            {
+              "end": 21,
+              "id": "1120659303990304768",
+              "start": 13,
+              "username": "1923YCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981674642399273287",
+        "in_reply_to_user_id": "1368856141992779776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981628698102210746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heyoux_2011 @1923YCP 这是真正中国人该有的素质，你是地地道道光荣正义的中国人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368856141992779776",
+        "conversation_id": "1979551215730966735",
+        "created_at": "2025-10-24T07:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T08:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981628698102210746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 23,
+              "id": "1120659303990304768",
+              "start": 15,
+              "username": "1923YCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981628698102210746",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981476178025414792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @1923YCP 你就是一根鸡吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 619,
+          "like_count": 3467,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1593
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T09:28:44.000Z",
+        "description": "invisible man",
+        "id": "1368856141992779776",
+        "name": "heyoux_2011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1492431713342922753/fG5iNJoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 140,
+          "like_count": 704,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 798
+        },
+        "username": "heyoux_2011",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-23T12:02:53.000Z",
+        "description": "🇹🇼慶祝中華民國114年雙十國慶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ycp.org.tw",
+                "end": 23,
+                "expanded_url": "http://www.ycp.org.tw",
+                "start": 0,
+                "url": "https://t.co/SMRSYeTaaU"
+              }
+            ]
+          }
+        },
+        "id": "1120659303990304768",
+        "name": "🇹🇼青天白日滿地紅捍衛者",
+        "pinned_tweet_id": "1981417303209071100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965962574014320640/vUYG4DTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16874,
+          "following_count": 274,
+          "like_count": 9078,
+          "listed_count": 18,
+          "media_count": 2705,
+          "tweet_count": 16038
+        },
+        "url": "https://t.co/SMRSYeTaaU",
+        "username": "1923YCP",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057378292626600352",
+    "created_at": "2026-05-21T09:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T10:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057393120246169831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1341622123341574146",
+          "start": 0,
+          "username": "banamicro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057393120246169831",
+    "in_reply_to_user_id": "1341622123341574146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057378292626600352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banamicro 欸，我不是很懂。意思是要解散中华民国吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057378292626600352",
+        "created_at": "2026-05-21T09:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057393120246169831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1341622123341574146",
+              "start": 0,
+              "username": "banamicro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057393120246169831",
+        "in_reply_to_user_id": "1341622123341574146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057378292626600352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banamicro 欸，我不是很懂。意思是要解散中华民国吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1341622123341574146",
+        "conversation_id": "2057378292626600352",
+        "created_at": "2026-05-21T08:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T09:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057378292626600352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/disunlimited/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/disunlimited/status/2057375857073865161",
+              "start": 44,
+              "url": "https://t.co/wbewRSssjN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057378292626600352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057375857073865161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是阿，就像日本不會因為 GHQ 去修美國憲法，而日本因為GHQ 解散而獨立\n懂的都懂 https://t.co/wbewRSssjN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 1160,
+          "like_count": 8250,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2696
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-23T05:52:14.000Z",
+        "description": "🍠 の 動森居民 🐍 ❁ Formosa Taiwan ❁",
+        "id": "1341622123341574146",
+        "name": "🍌 𝕥𝕤𝕚𝕠々 🐋 微波 蕉々💚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657005927340576768/KGPIW1aA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 381,
+          "like_count": 309519,
+          "listed_count": 10,
+          "media_count": 6596,
+          "tweet_count": 220995
+        },
+        "username": "banamicro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985924673989943296"
+      ],
+      "media_source_tweet_id": [
+        "1985925128446963968"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986055426220458205",
+    "created_at": "2025-11-05T12:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T13:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986055426220458205"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "游のいらすと"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1819958197966585856",
+          "start": 3,
+          "username": "Yu_Goth1c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e6MwNcUwi2",
+          "end": 49,
+          "expanded_url": "https://x.com/Yu_Goth1c/status/1985925128446963968/photo/1",
+          "media_key": "3_1985924673989943296",
+          "start": 26,
+          "url": "https://t.co/e6MwNcUwi2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986055426220458205",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985925128446963968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yu_Goth1c: むっ\n#游のいらすと https://t.co/e6MwNcUwi2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3631,
+        "media_key": "3_1985924673989943296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G49r-BfaoAALn5d.jpg",
+        "width": 2638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985924673989943296"
+          ],
+          "media_source_tweet_id": [
+            "1985925128446963968"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986055426220458205",
+        "created_at": "2025-11-05T12:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986055426220458205"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "游のいらすと"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1819958197966585856",
+              "start": 3,
+              "username": "Yu_Goth1c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e6MwNcUwi2",
+              "end": 49,
+              "expanded_url": "https://x.com/Yu_Goth1c/status/1985925128446963968/photo/1",
+              "media_key": "3_1985924673989943296",
+              "start": 26,
+              "url": "https://t.co/e6MwNcUwi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986055426220458205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985925128446963968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yu_Goth1c: むっ\n#游のいらすと https://t.co/e6MwNcUwi2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985924673989943296"
+          ]
+        },
+        "author_id": "1819958197966585856",
+        "conversation_id": "1985925128446963968",
+        "created_at": "2025-11-05T04:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T05:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985925128446963968"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 3,
+              "tag": "游のいらすと"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e6MwNcUwi2",
+              "end": 34,
+              "expanded_url": "https://x.com/Yu_Goth1c/status/1985925128446963968/photo/1",
+              "media_key": "3_1985924673989943296",
+              "start": 11,
+              "url": "https://t.co/e6MwNcUwi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985925128446963968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3383,
+          "like_count": 314,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "むっ\n#游のいらすと https://t.co/e6MwNcUwi2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 742,
+          "like_count": 4722,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1786
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T04:47:06.000Z",
+        "description": "ヒト科の中性オオカミです。野菜嫌いです。￤サブ(@yu_m1ncho)￤ᴀʟʟ #游すとりーむ￤ꜰᴀ #游のいらすと￤ʟɪɴᴋ https://t.co/ibUgDgSwoh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "游すとりーむ"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "tag": "游のいらすと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "yu_m1ncho"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/Yug0thic",
+                "end": 87,
+                "expanded_url": "https://lit.link/Yug0thic",
+                "start": 64,
+                "url": "https://t.co/ibUgDgSwoh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Yu_goth1c?sub…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Yu_goth1c?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/MObsTPSdqZ"
+              }
+            ]
+          }
+        },
+        "id": "1819958197966585856",
+        "name": "游",
+        "pinned_tweet_id": "1972197540906127760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983566136760553472/IfJfUOuI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4535,
+          "following_count": 778,
+          "like_count": 12225,
+          "listed_count": 27,
+          "media_count": 257,
+          "tweet_count": 9702
+        },
+        "url": "https://t.co/MObsTPSdqZ",
+        "username": "Yu_Goth1c",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988566597511081984"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988354966772158754",
+    "created_at": "2025-11-12T11:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T12:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988566613734646031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "768756228570906624",
+          "start": 0,
+          "username": "LiuZhongjing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MfgNEN1DFN",
+          "end": 49,
+          "expanded_url": "https://x.com/tatibana_sada/status/1988566613734646031/photo/1",
+          "media_key": "3_1988566597511081984",
+          "start": 26,
+          "url": "https://t.co/MfgNEN1DFN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988566613734646031",
+    "in_reply_to_user_id": "768756228570906624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988354966772158754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuZhongjing 在日英国人也学会了诸夏 https://t.co/MfgNEN1DFN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988566597511081984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jOyNja8AAKOfa.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988566597511081984"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988354966772158754",
+        "created_at": "2025-11-12T11:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988566613734646031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "768756228570906624",
+              "start": 0,
+              "username": "LiuZhongjing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfgNEN1DFN",
+              "end": 49,
+              "expanded_url": "https://x.com/tatibana_sada/status/1988566613734646031/photo/1",
+              "media_key": "3_1988566597511081984",
+              "start": 26,
+              "url": "https://t.co/MfgNEN1DFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988566613734646031",
+        "in_reply_to_user_id": "768756228570906624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988354966772158754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuZhongjing 在日英国人也学会了诸夏 https://t.co/MfgNEN1DFN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "768756228570906624",
+        "conversation_id": "1988354966772158754",
+        "created_at": "2025-11-11T21:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T22:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988354966772158754"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 108,
+              "tag": "時與勢都在大蜀民國一邊"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/dngxingxng3560…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/dngxingxng35604/status/1987831873431552102",
+              "start": 121,
+              "url": "https://t.co/wYhmmCP9X2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988354966772158754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 8064,
+          "like_count": 86,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987831873431552102",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "張之洞時代，每個總督和領事都知道。先獨帶動後獨，也是第一代閩獨分子邱淑園提出的。閩浙總督許應暌和兩廣總督陶模跟新加坡的英國總督商量過，但張之洞和劉坤一只想先走半步試試。結果就搞成東南互保了，後半步留給陳炯明黎元洪走。#時與勢都在大蜀民國一邊 https://t.co/wYhmmCP9X2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 807,
+          "like_count": 5183,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1907
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-25T10:25:42.000Z",
+        "description": "大蜀民國流亡政府 https://t.co/pk36QtbpGF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "freebasuria.org",
+                "end": 32,
+                "expanded_url": "https://freebasuria.org/",
+                "start": 9,
+                "url": "https://t.co/pk36QtbpGF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "medium.com/@LiuZhongjing",
+                "end": 23,
+                "expanded_url": "http://medium.com/@LiuZhongjing",
+                "start": 0,
+                "url": "https://t.co/umc5N421fn"
+              }
+            ]
+          }
+        },
+        "id": "768756228570906624",
+        "location": "Anglosphere",
+        "name": "Zhongjing Liu | 劉仲敬",
+        "pinned_tweet_id": "1060767246518284289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/769078428150689792/tR-VKqUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85758,
+          "following_count": 244,
+          "like_count": 76208,
+          "listed_count": 592,
+          "media_count": 1012,
+          "tweet_count": 106590
+        },
+        "url": "https://t.co/umc5N421fn",
+        "username": "LiuZhongjing",
+        "verified": true
+      }
+    ]
+  }
+}

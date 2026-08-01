@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1989675789642863105",
+    "created_at": "2025-11-15T12:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T13:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989675789642863105"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989675789642863105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "即使是仇恨与恶毒也无法支持我的意志了。我孱弱的身体和毁坏的精神无法承当我该承当的使命。暂且留存备忘。调整航线ing。\n倘若是确实的解决了，也必定会quote这一条来庆贺吗？但是在今天，我将会读完长日将尽。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1989675789642863105",
+        "created_at": "2025-11-15T12:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989675789642863105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989675789642863105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "即使是仇恨与恶毒也无法支持我的意志了。我孱弱的身体和毁坏的精神无法承当我该承当的使命。暂且留存备忘。调整航线ing。\n倘若是确实的解决了，也必定会quote这一条来庆贺吗？但是在今天，我将会读完长日将尽。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 861,
+          "like_count": 5599,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2008
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

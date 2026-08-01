@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060419147658625024"
+      ],
+      "media_source_tweet_id": [
+        "2060419155589996695"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2060620785459536121",
+    "created_at": "2026-05-30T07:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060620785459536121"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "art"
+        },
+        {
+          "end": 41,
+          "start": 39,
+          "tag": "画"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "胡锦涛"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "指绘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1755649519570874369",
+          "start": 3,
+          "username": "Aletr1ck"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QV1PodzdkE",
+          "end": 74,
+          "expanded_url": "https://x.com/Aletr1ck/status/2060419155589996695/photo/1",
+          "media_key": "3_2060419147658625024",
+          "start": 51,
+          "url": "https://t.co/QV1PodzdkE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060620785459536121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060419155589996695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aletr1ck: 首先，我们不相信神，这一点是最要紧的。\n#art #画 #胡锦涛 #指绘 https://t.co/QV1PodzdkE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_2060419147658625024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgUTFibAAASQjs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060419147658625024"
+          ],
+          "media_source_tweet_id": [
+            "2060419155589996695"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2060620785459536121",
+        "created_at": "2026-05-30T07:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060620785459536121"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "art"
+            },
+            {
+              "end": 41,
+              "start": 39,
+              "tag": "画"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "胡锦涛"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "指绘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1755649519570874369",
+              "start": 3,
+              "username": "Aletr1ck"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QV1PodzdkE",
+              "end": 74,
+              "expanded_url": "https://x.com/Aletr1ck/status/2060419155589996695/photo/1",
+              "media_key": "3_2060419147658625024",
+              "start": 51,
+              "url": "https://t.co/QV1PodzdkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060620785459536121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060419155589996695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aletr1ck: 首先，我们不相信神，这一点是最要紧的。\n#art #画 #胡锦涛 #指绘 https://t.co/QV1PodzdkE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060419147658625024"
+          ]
+        },
+        "author_id": "1755649519570874369",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2060419155589996695",
+        "created_at": "2026-05-29T17:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060419155589996695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "art"
+            },
+            {
+              "end": 27,
+              "start": 25,
+              "tag": "画"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "胡锦涛"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "指绘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QV1PodzdkE",
+              "end": 60,
+              "expanded_url": "https://x.com/Aletr1ck/status/2060419155589996695/photo/1",
+              "media_key": "3_2060419147658625024",
+              "start": 37,
+              "url": "https://t.co/QV1PodzdkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060419155589996695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3628,
+          "like_count": 113,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "首先，我们不相信神，这一点是最要紧的。\n#art #画 #胡锦涛 #指绘 https://t.co/QV1PodzdkE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 1251,
+          "like_count": 8977,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 3056
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T17:47:36.000Z",
+        "description": "啊",
+        "id": "1755649519570874369",
+        "location": "火星",
+        "name": "不止地球人会梦见社会主义",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058610257417707520/rSoUrlO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 39,
+          "like_count": 916,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 72
+        },
+        "username": "Aletr1ck",
+        "verified": false
+      }
+    ]
+  }
+}

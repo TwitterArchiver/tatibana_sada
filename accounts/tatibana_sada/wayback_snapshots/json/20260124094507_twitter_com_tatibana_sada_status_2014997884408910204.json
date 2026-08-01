@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014993070169714690"
+      ],
+      "media_source_tweet_id": [
+        "2014993442225738048"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2014997884408910204",
+    "created_at": "2026-01-24T09:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T10:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014997884408910204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944225210284314624",
+          "start": 3,
+          "username": "NMD_China"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DmdXbfJ27g",
+          "end": 86,
+          "expanded_url": "https://x.com/NMD_China/status/2014993442225738048/photo/1",
+          "media_key": "3_2014993070169714690",
+          "start": 63,
+          "url": "https://t.co/DmdXbfJ27g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014997884408910204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014993442225738048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NMD_China: 秦城独立迫在眉睫，我希望周永康九五至尊，薄熙来为总理，张又侠为国防部部长，建立伟大的秦城共和国 https://t.co/DmdXbfJ27g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2014993070169714690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_axhXxW8AI5VJy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014993070169714690"
+          ],
+          "media_source_tweet_id": [
+            "2014993442225738048"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2014997884408910204",
+        "created_at": "2026-01-24T09:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014997884408910204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944225210284314624",
+              "start": 3,
+              "username": "NMD_China"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DmdXbfJ27g",
+              "end": 86,
+              "expanded_url": "https://x.com/NMD_China/status/2014993442225738048/photo/1",
+              "media_key": "3_2014993070169714690",
+              "start": 63,
+              "url": "https://t.co/DmdXbfJ27g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014997884408910204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014993442225738048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NMD_China: 秦城独立迫在眉睫，我希望周永康九五至尊，薄熙来为总理，张又侠为国防部部长，建立伟大的秦城共和国 https://t.co/DmdXbfJ27g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014993070169714690"
+          ]
+        },
+        "author_id": "1944225210284314624",
+        "conversation_id": "2014993442225738048",
+        "created_at": "2026-01-24T09:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014993442225738048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DmdXbfJ27g",
+              "end": 71,
+              "expanded_url": "https://x.com/NMD_China/status/2014993442225738048/photo/1",
+              "media_key": "3_2014993070169714690",
+              "start": 48,
+              "url": "https://t.co/DmdXbfJ27g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014993442225738048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 378,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "秦城独立迫在眉睫，我希望周永康九五至尊，薄熙来为总理，张又侠为国防部部长，建立伟大的秦城共和国 https://t.co/DmdXbfJ27g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 993,
+          "like_count": 6950,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2400
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "波尔布特|包蜜|面向未来，目光如炬|入🚪89.64|主人@TheNan19930731|不互fo找自己问题|锁推的和三无号去死|永远是你的波头鹰|加速！加速！崩溃！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "TheNan19930731"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu75Ih"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "波头鹰🇰🇭",
+        "pinned_tweet_id": "1984621180251484239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009065279201095680/OWiNletC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2547,
+          "following_count": 611,
+          "like_count": 99475,
+          "listed_count": 25,
+          "media_count": 936,
+          "tweet_count": 4370
+        },
+        "url": "https://t.co/APOiQu75Ih",
+        "username": "NMD_China",
+        "verified": false
+      }
+    ]
+  }
+}

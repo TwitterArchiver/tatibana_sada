@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980873739261866482",
+    "created_at": "2025-10-22T09:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T10:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980926110327308418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1490941391962521602",
+          "start": 0,
+          "username": "atmc23"
+        },
+        {
+          "end": 17,
+          "id": "1790370144755351552",
+          "start": 8,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980926110327308418",
+    "in_reply_to_user_id": "1490941391962521602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980924742015287577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@atmc23 @FurinaDF 贵中国人这么热爱蒙古同胞，鄙族只能把你们赶回长城以北让你们同胞团聚了，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980873739261866482",
+        "created_at": "2025-10-22T09:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T10:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980926110327308418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1490941391962521602",
+              "start": 0,
+              "username": "atmc23"
+            },
+            {
+              "end": 17,
+              "id": "1790370144755351552",
+              "start": 8,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980926110327308418",
+        "in_reply_to_user_id": "1490941391962521602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980924742015287577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@atmc23 @FurinaDF 贵中国人这么热爱蒙古同胞，鄙族只能把你们赶回长城以北让你们同胞团聚了，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490941391962521602",
+        "conversation_id": "1980873739261866482",
+        "created_at": "2025-10-22T09:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T10:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980924742015287577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980924742015287577",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980873739261866482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 这么多土地矿产资源都不要了？算了吧，汉族象你这么傻逼的没几个。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 594,
+          "like_count": 3279,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1554
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T06:51:52.000Z",
+        "description": "无",
+        "id": "1490941391962521602",
+        "name": "atmc2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529346953921847296/XS9Leypi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 150,
+          "like_count": 393,
+          "listed_count": 9,
+          "media_count": 516,
+          "tweet_count": 8772
+        },
+        "username": "atmc23",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "希望咱发的东西，都在你的意料之外喵@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58512,
+          "following_count": 2369,
+          "like_count": 29528,
+          "listed_count": 169,
+          "media_count": 7348,
+          "tweet_count": 11881
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

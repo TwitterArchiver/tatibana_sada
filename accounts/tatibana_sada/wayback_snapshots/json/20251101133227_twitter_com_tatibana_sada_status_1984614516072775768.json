@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984614512759357441"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1984215393586786544",
+    "created_at": "2025-11-01T13:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T14:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984614516072775768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tcsexUQgbF",
+          "end": 53,
+          "expanded_url": "https://x.com/tatibana_sada/status/1984614516072775768/photo/1",
+          "media_key": "3_1984614512759357441",
+          "start": 30,
+          "url": "https://t.co/tcsexUQgbF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984614516072775768",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984215393586786544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 支持，好支威有希，我要当主包一辈子毒卫兵 https://t.co/tcsexUQgbF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1984614512759357441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4rEYmkbQAEuTMr.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984614512759357441"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1984215393586786544",
+        "created_at": "2025-11-01T13:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T14:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984614516072775768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcsexUQgbF",
+              "end": 53,
+              "expanded_url": "https://x.com/tatibana_sada/status/1984614516072775768/photo/1",
+              "media_key": "3_1984614512759357441",
+              "start": 30,
+              "url": "https://t.co/tcsexUQgbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984614516072775768",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984215393586786544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 支持，好支威有希，我要当主包一辈子毒卫兵 https://t.co/tcsexUQgbF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "1984215393586786544",
+        "created_at": "2025-10-31T11:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T12:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984215393586786544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984215393586786544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2961,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "看到有人说把精神疾病当介绍标签很弱智，我被伤到了，怒而改个签\n我要励志推动中国毒品泛滥化，退休以后争当贩冰冰中国分冰，全国飞撒播毒品，宣传精神疾病、毒品与性高潮\n健全人说得没错挂标签太弱智了，我们应该实践起来，像顺人繁殖癌狂生傻逼一样，不断传播疾病、毒瘾与性瘾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 686,
+          "like_count": 3997,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1649
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "励志退休后成为湾区贩冰冰-走在违法背德前线-我是精神病一点就炸-接受指正不接受指点-不认可可以去死♡同类fo必回-漏fo请私♪点赞bot评论bot-讨厌闲聊基本不回♡喜欢sex与drug♡non-binary友跨友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1984215393586786544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 184,
+          "like_count": 1452,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 437
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

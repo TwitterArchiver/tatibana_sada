@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980910157472428480",
+    "created_at": "2025-10-22T08:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T09:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980910157472428480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1176098762155888641",
+          "start": 3,
+          "username": "wen36881471"
+        },
+        {
+          "end": 29,
+          "id": "1844983287485239299",
+          "start": 17,
+          "username": "MINGALEXIOS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980910157472428480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948234865003962767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wen36881471: @MINGALEXIOS 中国是否大规模解体与姨学是丝毫不相干的。虽然现在看来大解体的可能性正在增高，但姨学绝对并不是促进这一现象的主因。甚至很难在焦土化的中国获胜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980910157472428480",
+        "created_at": "2025-10-22T08:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980910157472428480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1176098762155888641",
+              "start": 3,
+              "username": "wen36881471"
+            },
+            {
+              "end": 29,
+              "id": "1844983287485239299",
+              "start": 17,
+              "username": "MINGALEXIOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980910157472428480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948234865003962767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wen36881471: @MINGALEXIOS 中国是否大规模解体与姨学是丝毫不相干的。虽然现在看来大解体的可能性正在增高，但姨学绝对并不是促进这一现象的主因。甚至很难在焦土化的中国获胜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176098762155888641",
+        "conversation_id": "1946866230985695279",
+        "created_at": "2025-07-24T04:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T05:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948234865003962767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844983287485239299",
+              "start": 0,
+              "username": "MINGALEXIOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948234865003962767",
+        "in_reply_to_user_id": "1844983287485239299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946866230985695279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MINGALEXIOS 中国是否大规模解体与姨学是丝毫不相干的。虽然现在看来大解体的可能性正在增高，但姨学绝对并不是促进这一现象的主因。甚至很难在焦土化的中国获胜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 592,
+          "like_count": 3266,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1548
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T11:40:17.000Z",
+        "description": "not really",
+        "id": "1176098762155888641",
+        "location": "Sirius",
+        "name": "wen🇺🇦🇺🇦🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1386949050377801731/tLOmxh1M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 432,
+          "like_count": 59529,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 7667
+        },
+        "username": "wen36881471",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T06:07:58.000Z",
+        "description": "极右 汉民族主义者 君主主义者 现居欧洲\n终结民主与共和！",
+        "id": "1844983287485239299",
+        "name": "🟨🔴🟨 快乐的迪勒万格",
+        "pinned_tweet_id": "1946866230985695279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974593733447368704/1AmZ8LKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 125,
+          "like_count": 11366,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 157
+        },
+        "username": "MINGALEXIOS",
+        "verified": false
+      }
+    ]
+  }
+}

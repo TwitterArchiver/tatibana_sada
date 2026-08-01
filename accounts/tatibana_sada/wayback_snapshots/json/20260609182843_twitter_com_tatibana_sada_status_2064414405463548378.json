@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Boy's Love category",
+          "id": "1298785075824230401",
+          "name": "BL"
+        }
+      }
+    ],
+    "conversation_id": "2064414405463548378",
+    "created_at": "2026-06-09T18:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064414405463548378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1752528314273820672",
+          "start": 3,
+          "username": "ax10zx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064414405463548378",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062217849465377238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax10zx: ⚠️Satire Joke : My toxic yaoi is Hakka x canton-guangdong. -ignore my grammar and spelling-\n\nTheir relationship is hating each…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2263,
+        "media_key": "3_2062217515313594368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5353HbAAA0InY.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "2064414405463548378",
+        "created_at": "2026-06-09T18:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064414405463548378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1752528314273820672",
+              "start": 3,
+              "username": "ax10zx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064414405463548378",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062217849465377238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax10zx: ⚠️Satire Joke : My toxic yaoi is Hakka x canton-guangdong. -ignore my grammar and spelling-\n\nTheir relationship is hating each…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062217515313594368"
+          ]
+        },
+        "author_id": "1752528314273820672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "2062217849465377238",
+        "created_at": "2026-06-03T17:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062217849465377238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvNwGGVTvk",
+              "end": 179,
+              "expanded_url": "https://x.com/ax10zx/status/2062217849465377238/photo/1",
+              "media_key": "3_2062217515313594368",
+              "start": 156,
+              "url": "https://t.co/jvNwGGVTvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062217849465377238",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 8942,
+          "like_count": 137,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️Satire Joke : My toxic yaoi is Hakka x canton-guangdong. -ignore my grammar and spelling-\n\nTheir relationship is hating each other since 1000+ years ago. https://t.co/jvNwGGVTvk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1296,
+          "like_count": 9204,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 3180
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T03:05:09.000Z",
+        "description": "⚠️ Questionable ｜Fantasy 🐉 🪷🦎EA+ SEA + SA Enthusiast 🎨 东南亚华人！ID/EN + 📚中文/日本語/NL \n\n❌ Chauvinists/Sinophobia/Indophobia\n❌ Not a historian",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ax10xz__boba",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ax10xz__boba",
+                "start": 0,
+                "url": "https://t.co/92vweK8OMP"
+              }
+            ]
+          }
+        },
+        "id": "1752528314273820672",
+        "location": "Bunnings 📍🦘",
+        "name": "Bobaklep's 客家MAXXING",
+        "pinned_tweet_id": "1994079775124803810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063291806390030336/wx7mK-gJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6380,
+          "following_count": 829,
+          "like_count": 100744,
+          "listed_count": 21,
+          "media_count": 847,
+          "tweet_count": 18612
+        },
+        "url": "https://t.co/92vweK8OMP",
+        "username": "ax10zx",
+        "verified": false
+      }
+    ]
+  }
+}

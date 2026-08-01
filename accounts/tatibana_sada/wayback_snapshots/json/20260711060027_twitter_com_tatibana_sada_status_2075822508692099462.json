@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2075822508692099462",
+    "created_at": "2026-07-11T06:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075822508692099462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/85240609891_1s…",
+          "end": 172,
+          "expanded_url": "https://twitter.com/85240609891_1st/status/2075790944864190886",
+          "start": 149,
+          "url": "https://t.co/oeQ7sD6Ip5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075822508692099462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075790944864190886",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得挺惊讶的，毕竟现在最能简单的甚至廉价的表明自己的道德感的事情就是stand with Gaza了。而你……革命的民主社会主义者，卢森堡派，在主页挂上满满当当的欧美日韩台以全肯定——卢森堡九泉之下也会发出尖锐爆鸣的……我诚恳的建议你改邪归正宣布自己是一个理所当然的大西洋主义者。子曰名正言顺。 https://t.co/oeQ7sD6Ip5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2075822508692099462",
+        "created_at": "2026-07-11T06:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075822508692099462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/85240609891_1s…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/85240609891_1st/status/2075790944864190886",
+              "start": 149,
+              "url": "https://t.co/oeQ7sD6Ip5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075822508692099462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075790944864190886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得挺惊讶的，毕竟现在最能简单的甚至廉价的表明自己的道德感的事情就是stand with Gaza了。而你……革命的民主社会主义者，卢森堡派，在主页挂上满满当当的欧美日韩台以全肯定——卢森堡九泉之下也会发出尖锐爆鸣的……我诚恳的建议你改邪归正宣布自己是一个理所当然的大西洋主义者。子曰名正言顺。 https://t.co/oeQ7sD6Ip5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885557129588948992",
+        "conversation_id": "2075790077754765684",
+        "created_at": "2026-07-11T03:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075790944864190886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075790944864190886",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075790077754765684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 怎麽了 我只是喜歡他們的制度而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 1421,
+          "like_count": 9952,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3379
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "盧森堡主義者\n革命型民主社會主義者\n反對威權主義\nHK仔\n自由資本主義 OK\n自由/民主社會主義 OK\n自由共產主義 OK\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼🇪🇺🇮🇱🇭🇰🎗️\n祈求民主與自由萬世都不朽\n我願榮光歸...\n一位邏輯學者\n活著必須革命 心高氣傲 哪裏去不到",
+        "id": "1885557129588948992",
+        "location": " Republic of China - Hong Kong",
+        "name": "🔫Arctic Warfare Police 北極戰警",
+        "pinned_tweet_id": "2075196163725344825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075029229423742976/d4GQ9rlE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 7345,
+          "like_count": 18256,
+          "listed_count": 6,
+          "media_count": 916,
+          "tweet_count": 5277
+        },
+        "url": "",
+        "username": "85240609891_1st",
+        "verified": false
+      }
+    ]
+  }
+}

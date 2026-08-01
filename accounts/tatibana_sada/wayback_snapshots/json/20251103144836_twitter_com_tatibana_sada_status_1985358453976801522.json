@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984811628295254016"
+      ],
+      "media_source_tweet_id": [
+        "1984811640026775683"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985358453976801522",
+    "created_at": "2025-11-03T14:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T15:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985358453976801522"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "レン",
+          "probability": 0.7147,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2898251335",
+          "start": 3,
+          "username": "mucuzicuzi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5EbEWHxsWv",
+          "end": 42,
+          "expanded_url": "https://x.com/mucuzicuzi/status/1984811640026775683/photo/1",
+          "media_key": "3_1984811628295254016",
+          "start": 19,
+          "url": "https://t.co/5EbEWHxsWv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985358453976801522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3321
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984811640026775683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mucuzicuzi: レン https://t.co/5EbEWHxsWv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3325,
+        "media_key": "3_1984811628295254016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4t3qPKacAA8rdr.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984811628295254016"
+          ],
+          "media_source_tweet_id": [
+            "1984811640026775683"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985358453976801522",
+        "created_at": "2025-11-03T14:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985358453976801522"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "レン",
+              "probability": 0.7147,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2898251335",
+              "start": 3,
+              "username": "mucuzicuzi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5EbEWHxsWv",
+              "end": 42,
+              "expanded_url": "https://x.com/mucuzicuzi/status/1984811640026775683/photo/1",
+              "media_key": "3_1984811628295254016",
+              "start": 19,
+              "url": "https://t.co/5EbEWHxsWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985358453976801522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3321
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984811640026775683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mucuzicuzi: レン https://t.co/5EbEWHxsWv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984811628295254016"
+          ]
+        },
+        "author_id": "2898251335",
+        "conversation_id": "1984811640026775683",
+        "created_at": "2025-11-02T02:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T03:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984811640026775683"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "レン",
+              "probability": 0.6882,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5EbEWHxsWv",
+              "end": 26,
+              "expanded_url": "https://x.com/mucuzicuzi/status/1984811640026775683/photo/1",
+              "media_key": "3_1984811628295254016",
+              "start": 3,
+              "url": "https://t.co/5EbEWHxsWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984811640026775683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5519,
+          "impression_count": 293116,
+          "like_count": 34754,
+          "quote_count": 227,
+          "reply_count": 29,
+          "retweet_count": 3321
+        },
+        "reply_settings": "everyone",
+        "text": "レン https://t.co/5EbEWHxsWv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 709,
+          "like_count": 4358,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1698
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-13T07:47:54.000Z",
+        "description": "illustrator(KR/EN/JP) ✉️rkdud0207@naver.com 창작 일러스트북 판매 중: https://t.co/V1NKdckGrh / 프로픽 강사",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aladin.co.kr/shop/wproduct.…",
+                "end": 82,
+                "expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=371398988",
+                "start": 59,
+                "url": "https://t.co/V1NKdckGrh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "logonmucuzi.com",
+                "end": 23,
+                "expanded_url": "https://logonmucuzi.com",
+                "start": 0,
+                "url": "https://t.co/6EWIiuX47c"
+              }
+            ]
+          }
+        },
+        "id": "2898251335",
+        "location": "AI学習禁止 / no repost",
+        "name": "MUCUZI /Propic",
+        "pinned_tweet_id": "1962701212387811542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974327399602180096/6xcGIBFV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21136,
+          "following_count": 325,
+          "like_count": 5650,
+          "listed_count": 134,
+          "media_count": 253,
+          "tweet_count": 788
+        },
+        "url": "https://t.co/6EWIiuX47c",
+        "username": "mucuzicuzi",
+        "verified": true
+      }
+    ]
+  }
+}

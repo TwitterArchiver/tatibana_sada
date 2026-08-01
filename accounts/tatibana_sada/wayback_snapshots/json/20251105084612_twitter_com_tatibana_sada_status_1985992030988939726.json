@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985992030988939726",
+    "created_at": "2025-11-05T08:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T09:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985992030988939726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4Dustsin4/stat…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/4Dustsin4/status/1985750829660577956",
+          "start": 37,
+          "url": "https://t.co/4b0yo2EM8u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985992030988939726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985750829660577956",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "提请推特拳友组织学习我老人家的务实的性别超克论工作者正统用语：英人，，， https://t.co/4b0yo2EM8u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1811,
+        "media_key": "3_1985750826477105152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47N2xCbMAAw5oW.jpg",
+        "width": 1057
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985750826443567104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47N2w6bcAAy6dZ.jpg",
+        "width": 479
+      },
+      {
+        "height": 2045,
+        "media_key": "3_1985750827164905472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47N2zmaMAA6Ksu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985750827588521984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47N21LaEAA2q3c.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985992030988939726",
+        "created_at": "2025-11-05T08:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T09:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985992030988939726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4Dustsin4/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/4Dustsin4/status/1985750829660577956",
+              "start": 37,
+              "url": "https://t.co/4b0yo2EM8u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985992030988939726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985750829660577956",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "提请推特拳友组织学习我老人家的务实的性别超克论工作者正统用语：英人，，， https://t.co/4b0yo2EM8u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985750826477105152",
+            "3_1985750826443567104",
+            "3_1985750827164905472",
+            "3_1985750827588521984"
+          ]
+        },
+        "author_id": "1824124952922165249",
+        "conversation_id": "1985750829660577956",
+        "created_at": "2025-11-04T16:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985750829660577956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/doqCN1aM4X",
+              "end": 87,
+              "expanded_url": "https://x.com/4Dustsin4/status/1985750829660577956/photo/1",
+              "media_key": "3_1985750826477105152",
+              "start": 64,
+              "url": "https://t.co/doqCN1aM4X"
+            },
+            {
+              "display_url": "pic.x.com/doqCN1aM4X",
+              "end": 87,
+              "expanded_url": "https://x.com/4Dustsin4/status/1985750829660577956/photo/1",
+              "media_key": "3_1985750826443567104",
+              "start": 64,
+              "url": "https://t.co/doqCN1aM4X"
+            },
+            {
+              "display_url": "pic.x.com/doqCN1aM4X",
+              "end": 87,
+              "expanded_url": "https://x.com/4Dustsin4/status/1985750829660577956/photo/1",
+              "media_key": "3_1985750827164905472",
+              "start": 64,
+              "url": "https://t.co/doqCN1aM4X"
+            },
+            {
+              "display_url": "pic.x.com/doqCN1aM4X",
+              "end": 87,
+              "expanded_url": "https://x.com/4Dustsin4/status/1985750829660577956/photo/1",
+              "media_key": "3_1985750827588521984",
+              "start": 64,
+              "url": "https://t.co/doqCN1aM4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985750829660577956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "屌畜在提议废除维基百科的「英雌」，姐妹们还请按照p2所示参与回复讨论，助力留下「英雌」的词条。链接：维基百科搜索「英雌」即可。 https://t.co/doqCN1aM4X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 赐同驴权出身\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 734,
+          "like_count": 4666,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1757
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T16:44:35.000Z",
+        "description": "不喜欢推特的字数限制。\n可以去threads找我玩。",
+        "id": "1824124952922165249",
+        "name": "一杯姑婆芋有请",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980415668135583744/QZDO9kyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 38,
+          "like_count": 899,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 159
+        },
+        "username": "4Dustsin4",
+        "verified": false
+      }
+    ]
+  }
+}

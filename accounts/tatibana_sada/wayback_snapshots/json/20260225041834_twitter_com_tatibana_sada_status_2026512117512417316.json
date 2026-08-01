@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2026512117512417316",
+    "created_at": "2026-02-25T04:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T05:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026512117512417316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/d3ad13eef/stat…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/d3ad13eef/status/2026142021468238030",
+          "start": 49,
+          "url": "https://t.co/TBjT0nMMsY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026512117512417316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026142021468238030",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "硬生生混成加拿大版哲不解了。我就说县城婆罗门被西大美本文科至上论忽悠了对吧。花真金白银买玻璃球。 https://t.co/TBjT0nMMsY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2026512117512417316",
+        "created_at": "2026-02-25T04:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026512117512417316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/d3ad13eef/stat…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/d3ad13eef/status/2026142021468238030",
+              "start": 49,
+              "url": "https://t.co/TBjT0nMMsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026512117512417316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026142021468238030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "硬生生混成加拿大版哲不解了。我就说县城婆罗门被西大美本文科至上论忽悠了对吧。花真金白银买玻璃球。 https://t.co/TBjT0nMMsY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "101145946",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2026142021468238030",
+        "created_at": "2026-02-24T03:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026142021468238030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2025974577130582220",
+              "start": 116,
+              "url": "https://t.co/ohHRA6DM68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026142021468238030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 54832,
+          "like_count": 297,
+          "quote_count": 6,
+          "reply_count": 23,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025974577130582220",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "几百万的现金给你拿去读书了 怎么还好意思说你爹败完的\n退一步讲 你爹挣的钱 他大头全花自己身上也没毛病 不服自己挣去\n理性一点讲 几百万砸钱读个文科博士真的是极烂的投资 我娃要是拿我给她准备的几百万留学去读文科博士我直接把钱撤回来 https://t.co/ohHRA6DM68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 1011,
+          "like_count": 7317,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2460
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-02T05:27:01.000Z",
+        "description": "Censored according to  PRC Government's Regulations",
+        "id": "101145946",
+        "location": "ChaoYang Beijing",
+        "name": "d3ad13eef",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626849094550573057/PNj-HQGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 352,
+          "like_count": 4399,
+          "listed_count": 11,
+          "media_count": 145,
+          "tweet_count": 9326
+        },
+        "username": "d3ad13eef",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984456282527408128"
+      ],
+      "media_source_tweet_id": [
+        "1984456287707369973"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985120774349545676",
+    "created_at": "2025-11-02T23:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T00:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985120774349545676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766590910387593216",
+          "start": 3,
+          "username": "blankblad3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f9Ehk6w3HR",
+          "end": 55,
+          "expanded_url": "https://x.com/blankblad3/status/1984456287707369973/photo/1",
+          "media_key": "3_1984456282527408128",
+          "start": 32,
+          "url": "https://t.co/f9Ehk6w3HR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985120774349545676",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984456287707369973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blankblad3: nazis hit me up https://t.co/f9Ehk6w3HR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984456282527408128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4o0eZBWoAAkv4N.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984456282527408128"
+          ],
+          "media_source_tweet_id": [
+            "1984456287707369973"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985120774349545676",
+        "created_at": "2025-11-02T23:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T00:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985120774349545676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766590910387593216",
+              "start": 3,
+              "username": "blankblad3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9Ehk6w3HR",
+              "end": 55,
+              "expanded_url": "https://x.com/blankblad3/status/1984456287707369973/photo/1",
+              "media_key": "3_1984456282527408128",
+              "start": 32,
+              "url": "https://t.co/f9Ehk6w3HR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985120774349545676",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984456287707369973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blankblad3: nazis hit me up https://t.co/f9Ehk6w3HR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984456282527408128"
+          ]
+        },
+        "author_id": "1766590910387593216",
+        "conversation_id": "1984456287707369973",
+        "created_at": "2025-11-01T03:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984456287707369973"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "nazis",
+              "probability": 0.7041,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9Ehk6w3HR",
+              "end": 39,
+              "expanded_url": "https://x.com/blankblad3/status/1984456287707369973/photo/1",
+              "media_key": "3_1984456282527408128",
+              "start": 16,
+              "url": "https://t.co/f9Ehk6w3HR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984456287707369973",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 43204,
+          "like_count": 1302,
+          "quote_count": 48,
+          "reply_count": 229,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "nazis hit me up https://t.co/f9Ehk6w3HR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 702,
+          "like_count": 4241,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1686
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T22:24:42.000Z",
+        "description": "ᴸⁱᶠᵉ ⁱˢ ᵃⁿ ᵉˣᵖᵉʳⁱᵐᵉⁿᵗ ᵃⁿᵈ ʷᵉ ⁱᵗˢ ᵍᵘⁱⁿᵉᵃ ᵖⁱᵍˢ ₍^. .^₎⟆ formula 1, touhou & umamusame ♡ MV1, redbull racing !! junkies victim !! I love @jvnkie_ hes so cute mwah",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 134,
+                "username": "jvnkie_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "oliverrrzluvzu.straw.page",
+                "end": 23,
+                "expanded_url": "https://oliverrrzluvzu.straw.page",
+                "start": 0,
+                "url": "https://t.co/Xt6dogewoX"
+              }
+            ]
+          }
+        },
+        "id": "1766590910387593216",
+        "location": "disc : remixolive",
+        "name": "oliverrrz ☆ #junkietwt",
+        "pinned_tweet_id": "1984030717870063617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983411367949307904/OWzeMCdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 175,
+          "like_count": 780,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 509
+        },
+        "url": "https://t.co/Xt6dogewoX",
+        "username": "blankblad3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060181352373538816"
+      ],
+      "media_source_tweet_id": [
+        "2060181355385004344"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2060293350541185060",
+    "created_at": "2026-05-29T09:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060293350541185060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1193167151596634112",
+          "start": 3,
+          "username": "KiminTW_Offical"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kZ0M6zOYvj",
+          "end": 76,
+          "expanded_url": "https://x.com/KiminTW_Offical/status/2060181355385004344/photo/1",
+          "media_key": "3_2060181352373538816",
+          "start": 53,
+          "url": "https://t.co/kZ0M6zOYvj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060293350541185060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060181355385004344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiminTW_Offical: 怎麼一上推就看到不少被馬斯克大翻譯完的外語帖子\n\n還挺熱鬧的x https://t.co/kZ0M6zOYvj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1303,
+        "media_key": "3_2060181352373538816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJc8BlEb0AAUM7e.jpg",
+        "width": 1207
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060181352373538816"
+          ],
+          "media_source_tweet_id": [
+            "2060181355385004344"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2060293350541185060",
+        "created_at": "2026-05-29T09:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060293350541185060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1193167151596634112",
+              "start": 3,
+              "username": "KiminTW_Offical"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kZ0M6zOYvj",
+              "end": 76,
+              "expanded_url": "https://x.com/KiminTW_Offical/status/2060181355385004344/photo/1",
+              "media_key": "3_2060181352373538816",
+              "start": 53,
+              "url": "https://t.co/kZ0M6zOYvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060293350541185060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060181355385004344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiminTW_Offical: 怎麼一上推就看到不少被馬斯克大翻譯完的外語帖子\n\n還挺熱鬧的x https://t.co/kZ0M6zOYvj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060181352373538816"
+          ]
+        },
+        "author_id": "1193167151596634112",
+        "conversation_id": "2060181355385004344",
+        "created_at": "2026-05-29T02:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060181355385004344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kZ0M6zOYvj",
+              "end": 55,
+              "expanded_url": "https://x.com/KiminTW_Offical/status/2060181355385004344/photo/1",
+              "media_key": "3_2060181352373538816",
+              "start": 32,
+              "url": "https://t.co/kZ0M6zOYvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060181355385004344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1227,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "怎麼一上推就看到不少被馬斯克大翻譯完的外語帖子\n\n還挺熱鬧的x https://t.co/kZ0M6zOYvj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 1249,
+          "like_count": 8962,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 3049
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-09T14:03:22.000Z",
+        "description": "男|台中人|時政基本評論|生活推為主|威權壬|暫退役男|藍綠白和無腦粉紅勿擾 \n好哥們@AyanamiRikako 廚子@GlunekiKCA  小綠@lamte15072 老保之友 @caswerlebel05",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "AyanamiRikako"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "GlunekiKCA"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "lamte15072"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "caswerlebel05"
+              }
+            ]
+          }
+        },
+        "id": "1193167151596634112",
+        "location": "東亞防禦倡議協議組織（E.A.D.I）",
+        "name": "拉斯普金不是阿金🇨🇳🇹🇼",
+        "pinned_tweet_id": "1959219877324947468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045470547686072320/92XdLV7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20955,
+          "following_count": 2963,
+          "like_count": 320653,
+          "listed_count": 31,
+          "media_count": 6142,
+          "tweet_count": 61958
+        },
+        "username": "KiminTW_Offical",
+        "verified": false
+      }
+    ]
+  }
+}

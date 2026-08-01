@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991852342468317588",
+    "created_at": "2025-11-21T12:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T13:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991852342468317588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YouXi57930/sta…",
+          "end": 146,
+          "expanded_url": "https://twitter.com/YouXi57930/status/1991758561328931141",
+          "start": 123,
+          "url": "https://t.co/1ailgDS31D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991852342468317588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991758561328931141",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是仅次于我像松枝清顕的赞赏，我忠实感恩的收下啦。\n米莱总统有什么不好的，我一直是他的单推呀。\n我厚颜无耻妄自尊大的自居为二十一世纪出生的第一个列宁主义者。比班农顾问还列宁的列宁主义者。反动者不是保守派，我们需要注意——他们是倒行逆施的革命家。 https://t.co/1ailgDS31D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991852342468317588",
+        "created_at": "2025-11-21T12:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T13:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991852342468317588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YouXi57930/sta…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/YouXi57930/status/1991758561328931141",
+              "start": 123,
+              "url": "https://t.co/1ailgDS31D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991852342468317588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991758561328931141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是仅次于我像松枝清顕的赞赏，我忠实感恩的收下啦。\n米莱总统有什么不好的，我一直是他的单推呀。\n我厚颜无耻妄自尊大的自居为二十一世纪出生的第一个列宁主义者。比班农顾问还列宁的列宁主义者。反动者不是保守派，我们需要注意——他们是倒行逆施的革命家。 https://t.co/1ailgDS31D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969030119181455360",
+        "conversation_id": "1991733044705915237",
+        "created_at": "2025-11-21T06:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T07:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991758561328931141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991758561328931141",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991733044705915237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 你有點像米萊了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 888,
+          "like_count": 5826,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 2115
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T13:26:26.000Z",
+        "description": "UNEDUCATED(literally);goth queer;moody-lullaby;non-binary-like;inland refuge&survivor;throttled liberal;informal guardian;lonely;年上控;含糖時間過長。理性、克制但活得撕心裂肺驚心動魄的動物",
+        "id": "1969030119181455360",
+        "location": "Pripyat",
+        "name": "Luduswalker🏳️‍🌈",
+        "pinned_tweet_id": "1987215877553455243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990672813015928832/CIvI0dBu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 249,
+          "like_count": 4362,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 906
+        },
+        "username": "YouXi57930",
+        "verified": true
+      }
+    ]
+  }
+}

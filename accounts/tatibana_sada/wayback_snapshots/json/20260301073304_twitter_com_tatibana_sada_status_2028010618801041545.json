@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2028010618801041545",
+    "created_at": "2026-03-01T07:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T08:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028010618801041545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Atahuallpa8964…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Atahuallpa8964/status/2027957740266787230",
+          "start": 24,
+          "url": "https://t.co/XQVOtgKzHC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028010618801041545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027957740266787230",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你是不是习近平翘辫子了都要欢呼说真正的少壮派要 https://t.co/XQVOtgKzHC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2028010618801041545",
+        "created_at": "2026-03-01T07:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T08:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028010618801041545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Atahuallpa8964…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Atahuallpa8964/status/2027957740266787230",
+              "start": 24,
+              "url": "https://t.co/XQVOtgKzHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028010618801041545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027957740266787230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是不是习近平翘辫子了都要欢呼说真正的少壮派要 https://t.co/XQVOtgKzHC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548037417378009090",
+        "conversation_id": "2027950245251060048",
+        "created_at": "2026-03-01T04:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T05:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027957740266787230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799308675158605825",
+              "start": 0,
+              "username": "CPUP2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027957740266787230",
+        "in_reply_to_user_id": "1799308675158605825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 207,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027950245251060048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPUP2024 哈梅内伊的死未必是一件坏事，对于反抗以色列的统治的阵营来说，甩掉了很多资产阶级软弱妥协派的累赘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 1008,
+          "like_count": 7365,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2466
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T20:11:19.000Z",
+        "description": "Muslim，Arab Nationalist，Arab Socialist，SSNP Overseas Members",
+        "id": "1548037417378009090",
+        "location": "Xen星球",
+        "name": "南條愛乃2🇾🇪",
+        "pinned_tweet_id": "2027741712257585382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018730065107038210/Pyh4qm-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 2233,
+          "like_count": 92523,
+          "listed_count": 7,
+          "media_count": 903,
+          "tweet_count": 27144
+        },
+        "username": "Atahuallpa8964",
+        "verified": false
+      }
+    ]
+  }
+}

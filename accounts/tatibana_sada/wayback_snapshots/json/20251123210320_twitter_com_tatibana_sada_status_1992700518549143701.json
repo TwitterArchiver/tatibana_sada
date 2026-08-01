@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1992700518549143701",
+    "created_at": "2025-11-23T21:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T22:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992700518549143701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lawyu68/status…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/lawyu68/status/1992651526599528922",
+          "start": 61,
+          "url": "https://t.co/HQKylO6zWh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992700518549143701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992651526599528922",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "停停停，我草，你tm的在讲啥啊？\n你刚才不是还在说出生权吗？现在怎么在否定这个设拟的自由意志了？为了赢也不能信口雌黄啊。 https://t.co/HQKylO6zWh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992700518549143701",
+        "created_at": "2025-11-23T21:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T22:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992700518549143701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lawyu68/status…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/lawyu68/status/1992651526599528922",
+              "start": 61,
+              "url": "https://t.co/HQKylO6zWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992700518549143701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992651526599528922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "停停停，我草，你tm的在讲啥啊？\n你刚才不是还在说出生权吗？现在怎么在否定这个设拟的自由意志了？为了赢也不能信口雌黄啊。 https://t.co/HQKylO6zWh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643917285097349121",
+        "conversation_id": "1992651526599528922",
+        "created_at": "2025-11-23T17:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992651526599528922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tuzhilaoye/sta…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/tuzhilaoye/status/1992650492523250092",
+              "start": 124,
+              "url": "https://t.co/AoxK0q2H2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992651526599528922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992650492523250092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不要你爱国，也不要你爱什么全人类，你至少要懂得爱自己。你把自己的出生当做被迫，就等于否定了你生命的价值。因为你假设了你父母生你，没征得你的同意，他们违背了你那根本就不存在的“自由意志”。你既然是被动和多余的，你就有理由仇恨你自己，结果就是自杀。 https://t.co/AoxK0q2H2x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 916,
+          "like_count": 6063,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2208
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T10:03:26.000Z",
+        "description": "Fight for law of nature & humanity\n为自然法和人性而战\n Ethical conservative \n伦理保守主义\nEthics lead Freedom\n自由止于伦理\nTell the  historical truth\n昭史",
+        "id": "1643917285097349121",
+        "location": "lawyu",
+        "name": "lawyu",
+        "pinned_tweet_id": "1697426804699775168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644982758148820993/soBdeINk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 352,
+          "like_count": 255,
+          "listed_count": 23,
+          "media_count": 608,
+          "tweet_count": 9401
+        },
+        "username": "lawyu68",
+        "verified": false
+      }
+    ]
+  }
+}

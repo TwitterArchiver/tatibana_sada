@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2062488160873975976",
+    "created_at": "2026-06-04T16:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062568614692356463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "914028453174796293",
+          "start": 0,
+          "username": "Ajisai1207_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062568614692356463",
+    "in_reply_to_user_id": "914028453174796293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062488160873975976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajisai1207_ 互关互关宝宝我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2062488160873975976",
+        "created_at": "2026-06-04T16:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062568614692356463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "914028453174796293",
+              "start": 0,
+              "username": "Ajisai1207_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062568614692356463",
+        "in_reply_to_user_id": "914028453174796293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062488160873975976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajisai1207_ 互关互关宝宝我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "914028453174796293",
+        "conversation_id": "2062488160873975976",
+        "created_at": "2026-06-04T10:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062488160873975976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ripo0079/statu…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/ripo0079/status/2062477350822928802",
+              "start": 143,
+              "url": "https://t.co/PVgYEZsaLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062488160873975976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2285,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062477350822928802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还得是洋大人学会了配得感的精髓，不要问我是否配得，要说你们都不配得活下去。\n\n之前有个反串的想法，就是larp成agender，把其他人都打成有性别者或者性别屈从者，简称性屈。每天上推骂一通性屈霸权和性屈者特权，问问这些有性别者竟然觉得自己配活着吗？但我反串串不了超过两天，便做罢了。 https://t.co/PVgYEZsaLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 1250,
+          "like_count": 8987,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 3061
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 1005,
+          "like_count": 16120,
+          "listed_count": 14,
+          "media_count": 701,
+          "tweet_count": 7297
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      }
+    ]
+  }
+}

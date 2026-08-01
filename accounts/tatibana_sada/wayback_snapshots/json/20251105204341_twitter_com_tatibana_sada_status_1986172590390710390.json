@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986033563935125625",
+    "created_at": "2025-11-05T20:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T21:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986172590390710390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1947652886273368065",
+          "start": 0,
+          "username": "bucketyishere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986172590390710390",
+    "in_reply_to_user_id": "1947652886273368065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986033563935125625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bucketyishere 围观外宾乃我国人民本能，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986033563935125625",
+        "created_at": "2025-11-05T20:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T21:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986172590390710390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947652886273368065",
+              "start": 0,
+              "username": "bucketyishere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986172590390710390",
+        "in_reply_to_user_id": "1947652886273368065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986033563935125625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bucketyishere 围观外宾乃我国人民本能，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947652886273368065",
+        "conversation_id": "1986033563935125625",
+        "created_at": "2025-11-05T11:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T12:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986033563935125625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986033563935125625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我受不了了太他妈尴尬了为什么中国画师老是喜欢故意装外国人，发出来的话不是机翻的问题而是语言结构都是很明显中文母语会使用的被/让/自己这些连接词和主语的位置 我想知道让粉丝吹捧一个不存在的虚拟身份究竟是为了啥简直不要太搞笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 761,
+          "like_count": 4826,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1829
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T13:40:15.000Z",
+        "description": "Bard 6 / Warlock 5/ Paranoid PD 9 multiclass",
+        "id": "1947652886273368065",
+        "location": "夺命十头桶",
+        "name": "给你桶完了",
+        "pinned_tweet_id": "1959477578546475359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983893056337354752/32etKydU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 355,
+          "like_count": 7104,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 1715
+        },
+        "username": "bucketyishere",
+        "verified": false
+      }
+    ]
+  }
+}

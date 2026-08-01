@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985476075296792576"
+      ],
+      "media_source_tweet_id": [
+        "1985476081496047697"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985648885906489718",
+    "created_at": "2025-11-04T10:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T11:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985648885906489718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887429085133217793",
+          "start": 3,
+          "username": "Kchu_xx11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aRRsoNTUuD",
+          "end": 42,
+          "expanded_url": "https://x.com/Kchu_xx11/status/1985476081496047697/photo/1",
+          "media_key": "3_1985476075296792576",
+          "start": 19,
+          "url": "https://t.co/aRRsoNTUuD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985648885906489718",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985476081496047697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kchu_xx11: ふたご https://t.co/aRRsoNTUuD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985476075296792576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G43T-JIaIAA9dOm.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985476075296792576"
+          ],
+          "media_source_tweet_id": [
+            "1985476081496047697"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985648885906489718",
+        "created_at": "2025-11-04T10:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985648885906489718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887429085133217793",
+              "start": 3,
+              "username": "Kchu_xx11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRRsoNTUuD",
+              "end": 42,
+              "expanded_url": "https://x.com/Kchu_xx11/status/1985476081496047697/photo/1",
+              "media_key": "3_1985476075296792576",
+              "start": 19,
+              "url": "https://t.co/aRRsoNTUuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985648885906489718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985476081496047697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kchu_xx11: ふたご https://t.co/aRRsoNTUuD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985476075296792576"
+          ]
+        },
+        "author_id": "1887429085133217793",
+        "conversation_id": "1985476081496047697",
+        "created_at": "2025-11-03T22:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T23:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985476081496047697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRRsoNTUuD",
+              "end": 27,
+              "expanded_url": "https://x.com/Kchu_xx11/status/1985476081496047697/photo/1",
+              "media_key": "3_1985476075296792576",
+              "start": 4,
+              "url": "https://t.co/aRRsoNTUuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985476081496047697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 9841,
+          "like_count": 845,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "ふたご https://t.co/aRRsoNTUuD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1982595504287699299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 725,
+          "like_count": 4594,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1733
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T09:12:31.000Z",
+        "description": "学生/中身@Ling_xx12 ツイ消し常習犯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "Ling_xx12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/chi_coxx12?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/chi_coxx12?igsh=MTc5N2l4Z3A2aTR6OQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/7DEjB7sHaj"
+              }
+            ]
+          }
+        },
+        "id": "1887429085133217793",
+        "name": "遅効性",
+        "pinned_tweet_id": "1981645268161646603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979798588675739648/Is_KCR0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2809,
+          "following_count": 47,
+          "like_count": 4295,
+          "listed_count": 15,
+          "media_count": 8,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/7DEjB7sHaj",
+        "username": "Kchu_xx11",
+        "verified": false
+      }
+    ]
+  }
+}

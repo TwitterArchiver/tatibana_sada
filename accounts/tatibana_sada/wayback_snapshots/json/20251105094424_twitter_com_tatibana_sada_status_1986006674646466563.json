@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986006666891141121"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986006674646466563",
+    "created_at": "2025-11-05T09:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T10:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986006674646466563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dPSKnHBGrV",
+          "end": 42,
+          "expanded_url": "https://x.com/tatibana_sada/status/1986006674646466563/photo/1",
+          "media_key": "3_1986006666891141121",
+          "start": 19,
+          "url": "https://t.co/dPSKnHBGrV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986006674646466563",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小男孩是真的好玩。前妻姐我能理解你了 https://t.co/dPSKnHBGrV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 797,
+        "media_key": "3_1986006666891141121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-2io2aoAEnpHK.jpg",
+        "width": 566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986006666891141121"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986006674646466563",
+        "created_at": "2025-11-05T09:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T10:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986006674646466563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dPSKnHBGrV",
+              "end": 42,
+              "expanded_url": "https://x.com/tatibana_sada/status/1986006674646466563/photo/1",
+              "media_key": "3_1986006666891141121",
+              "start": 19,
+              "url": "https://t.co/dPSKnHBGrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986006674646466563",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小男孩是真的好玩。前妻姐我能理解你了 https://t.co/dPSKnHBGrV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 735,
+          "like_count": 4673,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1764
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

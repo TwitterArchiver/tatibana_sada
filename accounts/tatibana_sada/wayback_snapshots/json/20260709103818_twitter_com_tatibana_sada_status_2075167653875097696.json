@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2075167653875097696",
+    "created_at": "2026-07-09T10:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075167653875097696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ShangguanJiewe…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/ShangguanJiewen/status/2074886232165716037",
+          "start": 35,
+          "url": "https://t.co/uj08Ka8DWg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075167653875097696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074886232165716037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "按这个数据，中国有三分之一的人不喜欢也不讨厌美国，是最不关心美国的。 https://t.co/uj08Ka8DWg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1787,
+        "media_key": "3_2071844341941747712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCrc69XQAAdmAE.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2075167653875097696",
+        "created_at": "2026-07-09T10:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075167653875097696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShangguanJiewe…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/ShangguanJiewen/status/2074886232165716037",
+              "start": 35,
+              "url": "https://t.co/uj08Ka8DWg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075167653875097696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074886232165716037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "按这个数据，中国有三分之一的人不喜欢也不讨厌美国，是最不关心美国的。 https://t.co/uj08Ka8DWg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071844341941747712"
+          ]
+        },
+        "author_id": "1453379263176929284",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074886232165716037",
+        "created_at": "2026-07-08T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074886232165716037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UugQO22OTQ",
+              "end": 217,
+              "expanded_url": "https://x.com/ShangguanJiewen/status/2074886232165716037/photo/1",
+              "media_key": "3_2071844341941747712",
+              "start": 194,
+              "url": "https://t.co/UugQO22OTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074886232165716037",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 12402,
+          "like_count": 99,
+          "quote_count": 8,
+          "reply_count": 41,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "Who loves/hates the USA?\n\nInterestingly, while few Chinese love the USA, few hate the USA. \n\nIt's more of an even break.\n\nThere is still room for the USA to rebuild its relationship with China. https://t.co/UugQO22OTQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 1418,
+          "like_count": 9857,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 3361
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T15:13:30.000Z",
+        "description": "An American Journalist in China, Published Author, Radio Show Host & Media Commentator. This is my personal account and all opinions are my own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@thebridgetoCh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@thebridgetoChina/videos",
+                "start": 0,
+                "url": "https://t.co/hm6OgjP7m0"
+              }
+            ]
+          }
+        },
+        "id": "1453379263176929284",
+        "location": "Beijing, China",
+        "name": "Jason Smith - 上官杰文",
+        "pinned_tweet_id": "2074791603739541762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862376119275487232/2EUPstER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96447,
+          "following_count": 19477,
+          "like_count": 181448,
+          "listed_count": 896,
+          "media_count": 13440,
+          "tweet_count": 45540
+        },
+        "url": "https://t.co/hm6OgjP7m0",
+        "username": "ShangguanJiewen",
+        "verified": true
+      }
+    ]
+  }
+}

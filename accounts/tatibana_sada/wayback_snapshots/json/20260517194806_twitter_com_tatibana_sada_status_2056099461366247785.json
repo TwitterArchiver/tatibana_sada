@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2056020365516652648",
+    "created_at": "2026-05-17T19:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T20:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056099461366247785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2001440366248235008",
+          "start": 0,
+          "username": "bungusbongus1"
+        },
+        {
+          "end": 29,
+          "id": "1937434730968023045",
+          "start": 15,
+          "username": "suslikeamogus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056099461366247785",
+    "in_reply_to_user_id": "2001440366248235008",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056098936658485613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungusbongus1 @suslikeamogus I don't care you barbarian language just to show respect😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2056020365516652648",
+        "created_at": "2026-05-17T19:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056099461366247785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2001440366248235008",
+              "start": 0,
+              "username": "bungusbongus1"
+            },
+            {
+              "end": 29,
+              "id": "1937434730968023045",
+              "start": 15,
+              "username": "suslikeamogus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056099461366247785",
+        "in_reply_to_user_id": "2001440366248235008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056098936658485613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungusbongus1 @suslikeamogus I don't care you barbarian language just to show respect😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001440366248235008",
+        "conversation_id": "2056020365516652648",
+        "created_at": "2026-05-17T19:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056098936658485613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 29,
+              "id": "1937434730968023045",
+              "start": 15,
+              "username": "suslikeamogus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056098936658485613",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056095959889965152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @suslikeamogus Don’t say “higher” say taller"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 1126,
+          "like_count": 7898,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2597
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T23:52:49.000Z",
+        "description": "",
+        "id": "2001440366248235008",
+        "name": "mantis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006470324104089600/4Kj2H135_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 1579,
+          "like_count": 29011,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1509
+        },
+        "username": "bungusbongus1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T08:57:00.000Z",
+        "description": "only a spoonful of smegma, my favorite gun is the IDF defender if that matters\n\nfollowing ≠ endorsement",
+        "id": "1937434730968023045",
+        "location": "Ω",
+        "name": "omeg",
+        "pinned_tweet_id": "1949492680490459143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054050831935156224/RsAxPqe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 466,
+          "like_count": 62423,
+          "listed_count": 23,
+          "media_count": 4770,
+          "tweet_count": 10854
+        },
+        "username": "suslikeamogus",
+        "verified": false
+      }
+    ]
+  }
+}

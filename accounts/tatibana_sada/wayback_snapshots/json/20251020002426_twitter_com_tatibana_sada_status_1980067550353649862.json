@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1979497182127681852",
+    "created_at": "2025-10-20T00:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980067550353649862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711144517683056640",
+          "start": 0,
+          "username": "andreaquee28646"
+        },
+        {
+          "end": 33,
+          "id": "1696518778799190016",
+          "start": 17,
+          "username": "xixiong78951197"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980067550353649862",
+    "in_reply_to_user_id": "1711144517683056640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979839378588615129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@andreaquee28646 @xixiong78951197 我至今都没有因为习近平跟我一样也有个牛子而自豪呢。\n不过伟大的女权主义者好像非常喜欢高市勒庞魏德尔，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1979497182127681852",
+        "created_at": "2025-10-20T00:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980067550353649862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711144517683056640",
+              "start": 0,
+              "username": "andreaquee28646"
+            },
+            {
+              "end": 33,
+              "id": "1696518778799190016",
+              "start": 17,
+              "username": "xixiong78951197"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980067550353649862",
+        "in_reply_to_user_id": "1711144517683056640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979839378588615129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andreaquee28646 @xixiong78951197 我至今都没有因为习近平跟我一样也有个牛子而自豪呢。\n不过伟大的女权主义者好像非常喜欢高市勒庞魏德尔，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711144517683056640",
+        "conversation_id": "1979497182127681852",
+        "created_at": "2025-10-19T09:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T10:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979839378588615129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1696518778799190016",
+              "start": 0,
+              "username": "xixiong78951197"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979839378588615129",
+        "in_reply_to_user_id": "1696518778799190016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979497182127681852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixiong78951197 怎么不说被捅成漏斗的韩信和被剁成肉泥的彭越瑟瑟发抖？男人就爱挑拨离间脑子有病。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 563,
+          "like_count": 3093,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1506
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T22:20:25.000Z",
+        "description": "Mis@ndrist Feminist, anti all patriarchal religion // 有時候會鎖或者潛水 //支持台灣都獨立香港獨立新疆獨立西藏獨立上海獨立滿洲獨立澳門獨立全世界獨立// anti-chinese culture // sinophobic",
+        "id": "1711144517683056640",
+        "name": "andreaqueen天山童姥 🇸🇬🇮🇱",
+        "pinned_tweet_id": "1822577280167944453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933935417700831232/0GL7hTkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 134,
+          "like_count": 15026,
+          "listed_count": 9,
+          "media_count": 776,
+          "tweet_count": 9663
+        },
+        "username": "andreaquee28646",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T13:42:59.000Z",
+        "description": "熟悉我的都知道我是资深包蜜",
+        "id": "1696518778799190016",
+        "name": "xixiong是习龘龘忠实的包蜜(中南海少妇版）",
+        "pinned_tweet_id": "1974054289200079149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976519962329219072/tE_UBRlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5439,
+          "following_count": 1217,
+          "like_count": 238,
+          "listed_count": 34,
+          "media_count": 10815,
+          "tweet_count": 35672
+        },
+        "username": "xixiong78951197",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      }
+    ],
+    "conversation_id": "2069166682606838001",
+    "created_at": "2026-06-22T21:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T22:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069166682606838001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "846949171680739328",
+          "start": 3,
+          "username": "HarrisonHSmith"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069166682606838001",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10072
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955705962964111425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HarrisonHSmith: I’m not gonna name names, but I was told by someone close to Charlie Kirk that Charlie thinks Israel will kill him if h…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "2069166682606838001",
+        "created_at": "2026-06-22T21:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069166682606838001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "846949171680739328",
+              "start": 3,
+              "username": "HarrisonHSmith"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069166682606838001",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10072
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955705962964111425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HarrisonHSmith: I’m not gonna name names, but I was told by someone close to Charlie Kirk that Charlie thinks Israel will kill him if h…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "846949171680739328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "1955705962964111425",
+        "created_at": "2025-08-13T19:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T20:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955705962964111425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ImperiumFirst/…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/ImperiumFirst/status/1954600612508680474",
+              "start": 141,
+              "url": "https://t.co/X7xoY5kIuV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955705962964111425",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14103,
+          "impression_count": 12654015,
+          "like_count": 52975,
+          "quote_count": 3408,
+          "reply_count": 1977,
+          "retweet_count": 10072
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954600612508680474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I’m not gonna name names, but I was told by someone close to Charlie Kirk that Charlie thinks Israel will kill him if he turns against them. https://t.co/X7xoY5kIuV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 1333,
+          "like_count": 9386,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3231
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-29T04:56:32.000Z",
+        "description": "8th Generation Texan. Host of \"The War Room\" on The Alex Jones Network. Live Mon-Fri 3-6PM.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.link/moonbaselive",
+                "end": 23,
+                "expanded_url": "https://bio.link/moonbaselive",
+                "start": 0,
+                "url": "https://t.co/97spqijLhg"
+              }
+            ]
+          }
+        },
+        "id": "846949171680739328",
+        "location": "Texas, USA",
+        "name": "Harrison H. Smith ✞",
+        "pinned_tweet_id": "2018753453544124833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043023295910440960/tXASWsHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277615,
+          "following_count": 3611,
+          "like_count": 100836,
+          "listed_count": 947,
+          "media_count": 3068,
+          "tweet_count": 26839
+        },
+        "url": "https://t.co/97spqijLhg",
+        "username": "HarrisonHSmith",
+        "verified": true
+      }
+    ]
+  }
+}

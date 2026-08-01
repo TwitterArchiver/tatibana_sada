@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980991365002772913",
+    "created_at": "2025-10-22T20:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T21:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981099831436464251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1791640400471396353",
+          "start": 0,
+          "username": "Duchy_of_Chen"
+        },
+        {
+          "end": 27,
+          "id": "1595385405313990656",
+          "start": 15,
+          "username": "xiaolang222"
+        },
+        {
+          "end": 41,
+          "id": "1621709543750385664",
+          "start": 28,
+          "username": "quarktalksss"
+        },
+        {
+          "end": 47,
+          "id": "1720665183188922368",
+          "start": 42,
+          "username": "grok"
+        },
+        {
+          "end": 62,
+          "id": "1599587232175849472",
+          "start": 48,
+          "username": "perplexity_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981099831436464251",
+    "in_reply_to_user_id": "1791640400471396353",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981072071732904015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Duchy_of_Chen @xiaolang222 @quarktalksss @grok @perplexity_ai Thanks Your Highness"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980991365002772913",
+        "created_at": "2025-10-22T20:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T21:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981099831436464251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791640400471396353",
+              "start": 0,
+              "username": "Duchy_of_Chen"
+            },
+            {
+              "end": 27,
+              "id": "1595385405313990656",
+              "start": 15,
+              "username": "xiaolang222"
+            },
+            {
+              "end": 41,
+              "id": "1621709543750385664",
+              "start": 28,
+              "username": "quarktalksss"
+            },
+            {
+              "end": 47,
+              "id": "1720665183188922368",
+              "start": 42,
+              "username": "grok"
+            },
+            {
+              "end": 62,
+              "id": "1599587232175849472",
+              "start": 48,
+              "username": "perplexity_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981099831436464251",
+        "in_reply_to_user_id": "1791640400471396353",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981072071732904015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Duchy_of_Chen @xiaolang222 @quarktalksss @grok @perplexity_ai Thanks Your Highness"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791640400471396353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1980991365002772913",
+        "created_at": "2025-10-22T18:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T19:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981072071732904015"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Grok",
+              "probability": 0.7641,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1595385405313990656",
+              "start": 0,
+              "username": "xiaolang222"
+            },
+            {
+              "end": 26,
+              "id": "1621709543750385664",
+              "start": 13,
+              "username": "quarktalksss"
+            },
+            {
+              "end": 32,
+              "id": "1720665183188922368",
+              "start": 27,
+              "username": "grok"
+            },
+            {
+              "end": 74,
+              "id": "1599587232175849472",
+              "start": 60,
+              "username": "perplexity_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981072071732904015",
+        "in_reply_to_user_id": "1595385405313990656",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981070002632679611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaolang222 @quarktalksss @grok Grok is a terrible AI. Use @perplexity_ai instead"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 607,
+          "like_count": 3372,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1582
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T01:25:39.000Z",
+        "description": "Declaration of Re-Independence of Duchy of Chen 陈国复国宣言 https://t.co/6SWiPwfCo5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "link.medium.com/0yHmMhkUaPb",
+                "end": 78,
+                "expanded_url": "https://link.medium.com/0yHmMhkUaPb",
+                "start": 55,
+                "url": "https://t.co/6SWiPwfCo5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "focus.xyz/Duchy_of_Chen",
+                "end": 23,
+                "expanded_url": "https://focus.xyz/Duchy_of_Chen",
+                "start": 0,
+                "url": "https://t.co/mn81OTOMIW"
+              }
+            ]
+          }
+        },
+        "id": "1791640400471396353",
+        "location": "宛丘",
+        "name": "Archduke of Duchy of Chen 陳大公國大公",
+        "pinned_tweet_id": "1874893227217821986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791663531940528128/hZk2jOKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 195,
+          "like_count": 7323,
+          "listed_count": 5,
+          "media_count": 2829,
+          "tweet_count": 25070
+        },
+        "url": "https://t.co/mn81OTOMIW",
+        "username": "Duchy_of_Chen",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T11:55:06.000Z",
+        "description": "",
+        "id": "1595385405313990656",
+        "name": "wolf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702051482055720960/n01M58hw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 985,
+          "like_count": 11977,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 47
+        },
+        "username": "xiaolang222",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T03:18:05.000Z",
+        "description": "youtube账号：夸克说",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E5%A4%B8%E5%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E5%A4%B8%E5%85%8B%E8%AF%B4",
+                "start": 0,
+                "url": "https://t.co/eZ6ILrdttM"
+              }
+            ]
+          }
+        },
+        "id": "1621709543750385664",
+        "location": "Canada",
+        "name": "夸克说",
+        "pinned_tweet_id": "1980986538990448916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969808918886105090/skT7BSEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 10,
+          "like_count": 86,
+          "listed_count": 12,
+          "media_count": 42,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/eZ6ILrdttM",
+        "username": "quarktalksss",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6490414,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5111,
+          "media_count": 2702467,
+          "tweet_count": 59201279
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-05T02:12:13.000Z",
+        "description": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android: https://t.co/BBZ1kG0TVG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pplx.ai/download",
+                "end": 110,
+                "expanded_url": "http://pplx.ai/download",
+                "start": 87,
+                "url": "https://t.co/BBZ1kG0TVG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "perplexity.ai/comet",
+                "end": 23,
+                "expanded_url": "http://perplexity.ai/comet",
+                "start": 0,
+                "url": "https://t.co/hxKRWN2dRt"
+              }
+            ]
+          }
+        },
+        "id": "1599587232175849472",
+        "location": "San Francisco, CA",
+        "name": "Perplexity",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886515713537413120/kj5NsIXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353633,
+          "following_count": 65,
+          "like_count": 12004,
+          "listed_count": 3852,
+          "media_count": 428,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/hxKRWN2dRt",
+        "username": "perplexity_ai",
+        "verified": true
+      }
+    ]
+  }
+}

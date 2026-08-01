@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987761691258654780",
+    "created_at": "2025-11-10T18:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T19:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987953682605109485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "779590513913507842",
+          "start": 0,
+          "username": "AOHITOM1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987953682605109485",
+    "in_reply_to_user_id": "779590513913507842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 16,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987761691258654780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AOHITOM1 我觉得可以在网上骂人。这个是真的好玩，越骂越爽。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987761691258654780",
+        "created_at": "2025-11-10T18:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T19:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987953682605109485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "779590513913507842",
+              "start": 0,
+              "username": "AOHITOM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987953682605109485",
+        "in_reply_to_user_id": "779590513913507842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987761691258654780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AOHITOM1 我觉得可以在网上骂人。这个是真的好玩，越骂越爽。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "779590513913507842",
+        "conversation_id": "1987761691258654780",
+        "created_at": "2025-11-10T05:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987761691258654780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987761691258654780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 611,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不od 不改花刀 不暴饮暴食 不抽烟 不喝酒 不手冲 不打游戏 \n无任何发泄途径，导致压力大了就只能感受苦痛，何解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 795,
+          "like_count": 5015,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1854
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-24T07:57:17.000Z",
+        "description": "Dustcell/藤井風 恋人@recatorseky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "recatorseky"
+              }
+            ]
+          }
+        },
+        "id": "779590513913507842",
+        "name": "尸蜡",
+        "pinned_tweet_id": "1960243717526487429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973028073726726144/GMG3cplJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 364,
+          "like_count": 6524,
+          "listed_count": 8,
+          "media_count": 137,
+          "tweet_count": 3576
+        },
+        "username": "AOHITOM1",
+        "verified": false
+      }
+    ]
+  }
+}

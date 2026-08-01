@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988237601950888043",
+    "created_at": "2025-11-12T15:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T16:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988636097430077498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974930349328330752",
+          "start": 0,
+          "username": "Vivian4qbuC"
+        },
+        {
+          "end": 23,
+          "id": "1475858460",
+          "start": 13,
+          "username": "shamzaaz1"
+        },
+        {
+          "end": 35,
+          "id": "1736013613922729984",
+          "start": 24,
+          "username": "LING_bdnit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988636097430077498",
+    "in_reply_to_user_id": "1974930349328330752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988445340929061326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vivian4qbuC @shamzaaz1 @LING_bdnit 你好可爱😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988237601950888043",
+        "created_at": "2025-11-12T15:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T16:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988636097430077498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974930349328330752",
+              "start": 0,
+              "username": "Vivian4qbuC"
+            },
+            {
+              "end": 23,
+              "id": "1475858460",
+              "start": 13,
+              "username": "shamzaaz1"
+            },
+            {
+              "end": 35,
+              "id": "1736013613922729984",
+              "start": 24,
+              "username": "LING_bdnit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988636097430077498",
+        "in_reply_to_user_id": "1974930349328330752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988445340929061326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vivian4qbuC @shamzaaz1 @LING_bdnit 你好可爱😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974930349328330752",
+        "conversation_id": "1988237601950888043",
+        "created_at": "2025-11-12T03:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T04:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988445340929061326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1475858460",
+              "start": 0,
+              "username": "shamzaaz1"
+            },
+            {
+              "end": 22,
+              "id": "1736013613922729984",
+              "start": 11,
+              "username": "LING_bdnit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988445340929061326",
+        "in_reply_to_user_id": "1475858460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988442734831804918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shamzaaz1 @LING_bdnit 因为我需要额外学习中文，以某种语言为母语的人对这种语言的基本语法反而不会特别敏感，简单的说，只有后天学习的人才需要学习并掌握这些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 827,
+          "like_count": 5302,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1934
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T20:11:21.000Z",
+        "description": "我是Vivia\n可能算coser，偶尔搞型月，赛马娘，明日方舟，邦多利\n流落街头键盘手 已被两支乐队收养() 我玩前卫，迷幻\n本人苦练十五年，精通乐理编曲，除了键盘其它乐器是会，但只一点点\n我是意大利🇮🇹迁华🇨🇳留学，喜欢足球\n互关聊天都行 骚扰也行 我挺无聊\n中文很好用，可以把我的话都塞到简介里面",
+        "id": "1974930349328330752",
+        "location": "Central & Western District",
+        "name": "𝖂.𝖁𝖎𝖛𝖎𝖆.𝕯🇮🇹🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977070896033796096/8ABmqHJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 273,
+          "like_count": 1313,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 819
+        },
+        "username": "Vivian4qbuC",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-01T23:00:02.000Z",
+        "description": "能源互联网创业者｜产品经理｜二把刀运营｜数码煤炭up主｜越野跑非精英选手｜Flamenco吉他手｜what can i do 主播｜",
+        "id": "1475858460",
+        "location": "Beijing",
+        "name": "ZHAO",
+        "pinned_tweet_id": "1988412305345048985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680062048993153025/jbf2IfTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 332,
+          "like_count": 2445,
+          "listed_count": 8,
+          "media_count": 311,
+          "tweet_count": 2762
+        },
+        "username": "shamzaaz1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T13:21:22.000Z",
+        "description": "｜这是人类的落日。｜\n\n🇨🇳潮汕人｜精神深圳人｜好姬友:@vonlinne2004｜正宗18岁高二JK｜OCD+DPDR｜🏳️‍🌈双性恋｜#三体 #Starmania #ギルガメッシュ #叶文洁 #milet #凯尔希｜宗教学 精神病学 天文学 精神药理学｜与拜老爷闽南台湾潮汕老保势不两立｜不键政日常推｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 69,
+                "tag": "三体"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "tag": "Starmania"
+              },
+              {
+                "end": 92,
+                "start": 84,
+                "tag": "ギルガメッシュ"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "叶文洁"
+              },
+              {
+                "end": 104,
+                "start": 98,
+                "tag": "milet"
+              },
+              {
+                "end": 109,
+                "start": 105,
+                "tag": "凯尔希"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "vonlinne2004"
+              }
+            ]
+          }
+        },
+        "id": "1736013613922729984",
+        "location": "已然遥远的理想乡 Lost Camelot",
+        "name": "泠栀子没有在小红书骂不给猫吃进口猫粮就是虐猫的逆天养猫人是傻逼并且给我两只臭猫收拾烂摊子帮邻居洗地毯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896520832379228160/Lse6eVyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 914,
+          "like_count": 223772,
+          "listed_count": 3,
+          "media_count": 407,
+          "tweet_count": 4412
+        },
+        "username": "LING_bdnit",
+        "verified": false
+      }
+    ]
+  }
+}

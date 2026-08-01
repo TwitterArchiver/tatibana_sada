@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2044321196716536099",
+    "created_at": "2026-05-27T19:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059725669773537439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997013141268705280",
+          "start": 0,
+          "username": "minowagin2952"
+        },
+        {
+          "end": 30,
+          "id": "1268009864057384963",
+          "start": 15,
+          "username": "WarriorBunny03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059725669773537439",
+    "in_reply_to_user_id": "1997013141268705280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050392510510387667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minowagin2952 @WarriorBunny03 香蕉好啊，香蕉得摘啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2044321196716536099",
+        "created_at": "2026-05-27T19:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059725669773537439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997013141268705280",
+              "start": 0,
+              "username": "minowagin2952"
+            },
+            {
+              "end": 30,
+              "id": "1268009864057384963",
+              "start": 15,
+              "username": "WarriorBunny03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059725669773537439",
+        "in_reply_to_user_id": "1997013141268705280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050392510510387667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minowagin2952 @WarriorBunny03 香蕉好啊，香蕉得摘啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997013141268705280",
+        "conversation_id": "2044321196716536099",
+        "created_at": "2026-05-02T01:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T02:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050392510510387667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1268009864057384963",
+              "start": 0,
+              "username": "WarriorBunny03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050392510510387667",
+        "in_reply_to_user_id": "1268009864057384963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050386946665455845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WarriorBunny03 条件未必这么好，大概率直接送萨尔瓦多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 1236,
+          "like_count": 8854,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2975
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T18:40:29.000Z",
+        "description": "就这样，专制胜利了。在人民的时代里我们都是叛徒\n—————\n欢迎投稿，欢迎收看 #川粉TV #NAFO\n本人是：黄左，左逼，👊🇺🇸🔥， 殖人/殖畜/大殖子/反贼/支黑\n灵感来自 @NmsleseResearch 在此表示感谢\n————————",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "川粉TV"
+              },
+              {
+                "end": 51,
+                "start": 46,
+                "tag": "NAFO"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "NmsleseResearch"
+              }
+            ]
+          }
+        },
+        "id": "1997013141268705280",
+        "name": "🇺🇦8964fella川粉迷惑行为bot",
+        "pinned_tweet_id": "2044532625771987273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049690115681714176/Q5NYCz_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 1748,
+          "like_count": 19126,
+          "listed_count": 6,
+          "media_count": 440,
+          "tweet_count": 8466
+        },
+        "username": "minowagin2952",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-03T02:41:36.000Z",
+        "description": "@SocDemCNBunny @SocDemCNBunny02 黑化态 极权左 广岛长崎烧烤 通化冬泳 卢德机场炸猪排 慕尼黑跳窗 安重根-尹奉吉-哈达德-冈本宫三老英雄万岁 正义非退让 善良非软弱 和平非绥靖批判的武器不能代替武器的批判 支黑猪最支 该号主由于强碱支黑猪们的木琴被判处无期徒刑 正发帖减刑中 望周知",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "SocDemCNBunny"
+              },
+              {
+                "end": 31,
+                "start": 15,
+                "username": "SocDemCNBunny02"
+              }
+            ]
+          }
+        },
+        "id": "1268009864057384963",
+        "location": "锡安卡查普支黑们的坟头蹦迪",
+        "name": "【爱卡爱锡安爱支黑专业户】黑化的🐇酱🇨🇳🇺🇦🇵🇸🏳️‍🌈🏳️‍⚧️🚩📕🔻✙",
+        "pinned_tweet_id": "2050109588934992324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050014223598571520/PyIYyc87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 154,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 546
+        },
+        "username": "WarriorBunny03",
+        "verified": false
+      }
+    ]
+  }
+}

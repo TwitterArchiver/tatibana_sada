@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985301332438478848"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1984866430224122170",
+    "created_at": "2025-11-03T11:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T12:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985301344174104657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1969450067707809792",
+          "start": 0,
+          "username": "hcgxtztxcy1933"
+        },
+        {
+          "end": 28,
+          "id": "1942422285044047873",
+          "start": 16,
+          "username": "Hakonootoko"
+        },
+        {
+          "end": 37,
+          "id": "1626128129311006720",
+          "start": 29,
+          "username": "danyi_X"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DijS01JuAc",
+          "end": 85,
+          "expanded_url": "https://x.com/tatibana_sada/status/1985301344174104657/photo/1",
+          "media_key": "3_1985301332438478848",
+          "start": 62,
+          "url": "https://t.co/DijS01JuAc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985301344174104657",
+    "in_reply_to_user_id": "1969450067707809792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985299030487015771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hcgxtztxcy1933 @Hakonootoko @danyi_X 对不起，我是习近平，我可以给你看我的习近平美图 https://t.co/DijS01JuAc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1985301332438478848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G401CxQa8AAOoQJ.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985301332438478848"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1984866430224122170",
+        "created_at": "2025-11-03T11:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T12:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985301344174104657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1969450067707809792",
+              "start": 0,
+              "username": "hcgxtztxcy1933"
+            },
+            {
+              "end": 28,
+              "id": "1942422285044047873",
+              "start": 16,
+              "username": "Hakonootoko"
+            },
+            {
+              "end": 37,
+              "id": "1626128129311006720",
+              "start": 29,
+              "username": "danyi_X"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DijS01JuAc",
+              "end": 85,
+              "expanded_url": "https://x.com/tatibana_sada/status/1985301344174104657/photo/1",
+              "media_key": "3_1985301332438478848",
+              "start": 62,
+              "url": "https://t.co/DijS01JuAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985301344174104657",
+        "in_reply_to_user_id": "1969450067707809792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985299030487015771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hcgxtztxcy1933 @Hakonootoko @danyi_X 对不起，我是习近平，我可以给你看我的习近平美图 https://t.co/DijS01JuAc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969450067707809792",
+        "conversation_id": "1984866430224122170",
+        "created_at": "2025-11-03T10:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985299030487015771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 27,
+              "id": "1942422285044047873",
+              "start": 15,
+              "username": "Hakonootoko"
+            },
+            {
+              "end": 36,
+              "id": "1626128129311006720",
+              "start": 28,
+              "username": "danyi_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985299030487015771",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985195725379326377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @Hakonootoko @danyi_X 发一下你的逼我看看再决定是找老干部还是农民工"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 705,
+          "like_count": 4325,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1697
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T17:14:30.000Z",
+        "description": "家住北京",
+        "id": "1969450067707809792",
+        "name": "人类质量还行男性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969450150339768320/6HaQGsM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 95
+        },
+        "username": "hcgxtztxcy1933",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T03:15:47.000Z",
+        "description": "⚠混 乱 中 立 ⚠ \n☢无视一切道德法规传统习俗人文信仰政治立场的免责发言人。 \n☠️地狱梗・🤬高能脏话过敏者请慎重关注。\n工作日没空刷推，业余时间会分享读书笔记。 \n偶尔写小作文、讲墙内轶事、聊原生家庭，大多时间玩抽象。 \n别问，问就是金与正本人。 \n现流亡日本，组建临时政府中，与独裁国贼金正恩不共戴天。",
+        "id": "1942422285044047873",
+        "location": "女权市出生",
+        "name": "流亡公主•金與正•김여정（尊習討金）",
+        "pinned_tweet_id": "1959164596050436604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985109816225792/KNlXC_-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 516,
+          "like_count": 16432,
+          "listed_count": 30,
+          "media_count": 400,
+          "tweet_count": 11756
+        },
+        "username": "Hakonootoko",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-16T07:55:54.000Z",
+        "description": "Do again，thank you for you following",
+        "id": "1626128129311006720",
+        "name": "夏一旦（Xiayidan）",
+        "pinned_tweet_id": "1984147709314621626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626878887300042752/PQ8wxQdD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26677,
+          "following_count": 963,
+          "like_count": 40225,
+          "listed_count": 147,
+          "media_count": 9461,
+          "tweet_count": 46797
+        },
+        "username": "danyi_X",
+        "verified": true
+      }
+    ]
+  }
+}

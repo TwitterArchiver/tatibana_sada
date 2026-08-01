@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980455694152401066",
+    "created_at": "2025-10-21T06:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T07:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980527831609491727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842194704508796928",
+          "start": 0,
+          "username": "zongke1898"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980527831609491727",
+    "in_reply_to_user_id": "1842194704508796928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980455694152401066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zongke1898 真正的自由主义者为什么不支持使用药物的自由"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 518,
+        "media_key": "3_1980455690972942336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3v99UHX0AAxJ0c.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980455694152401066",
+        "created_at": "2025-10-21T06:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T07:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980527831609491727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842194704508796928",
+              "start": 0,
+              "username": "zongke1898"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980527831609491727",
+        "in_reply_to_user_id": "1842194704508796928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980455694152401066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zongke1898 真正的自由主义者为什么不支持使用药物的自由"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980455690972942336"
+          ]
+        },
+        "author_id": "1842194704508796928",
+        "conversation_id": "1980455694152401066",
+        "created_at": "2025-10-21T02:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980455694152401066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ArW7WxmgjZ",
+              "end": 86,
+              "expanded_url": "https://x.com/zongke1898/status/1980455694152401066/photo/1",
+              "media_key": "3_1980455690972942336",
+              "start": 63,
+              "url": "https://t.co/ArW7WxmgjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980455694152401066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2429,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现在怀念江胡时代的小孩应该回去问问自己的长辈，某个现在被称为禁毒大国的国家在当时随便在迪厅以及各种娱乐场所买卖摇头丸等毒品。 https://t.co/ArW7WxmgjZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 583,
+          "like_count": 3193,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1536
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T13:27:07.000Z",
+        "description": "天下大乱，形势大好！     \n                             \n武攻文卫，天翻地覆！@luchishui1898\n        一切权力归劳动者！推翻中帝！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "luchishui1898"
+              }
+            ]
+          }
+        },
+        "id": "1842194704508796928",
+        "name": "康生.(Константин.)",
+        "pinned_tweet_id": "1844014253705211930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970197416638062594/dOdintF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2720,
+          "following_count": 152,
+          "like_count": 16250,
+          "listed_count": 21,
+          "media_count": 476,
+          "tweet_count": 4374
+        },
+        "username": "zongke1898",
+        "verified": false
+      }
+    ]
+  }
+}

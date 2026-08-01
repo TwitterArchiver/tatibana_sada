@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2056998523909136481",
+    "created_at": "2026-05-20T07:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056998523909136481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1714894056986460160",
+          "start": 3,
+          "username": "89JinPing64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056998523909136481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056943124552069403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @89JinPing64: 高主席到底什么时候出兵中朝？劳资的日本军工股都快被套半年了😩！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2056998523909136481",
+        "created_at": "2026-05-20T07:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056998523909136481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1714894056986460160",
+              "start": 3,
+              "username": "89JinPing64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056998523909136481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056943124552069403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @89JinPing64: 高主席到底什么时候出兵中朝？劳资的日本军工股都快被套半年了😩！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714894056986460160",
+        "conversation_id": "2056943124552069403",
+        "created_at": "2026-05-20T03:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056943124552069403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056943124552069403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5559,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "高主席到底什么时候出兵中朝？劳资的日本军工股都快被套半年了😩！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 1146,
+          "like_count": 8146,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2665
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T06:40:00.000Z",
+        "description": "頭冷やしたほうがいいよっ、XXの人は。民主の女神:@Liyu0109 🚪：One share of Nvidia stock. 只要你主动，我们就会有故事。 博客：https://t.co/ZZsthj06Du 提问箱：https://t.co/KC5brt7JpE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Liyu0109"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jyajyananalee.blogspot.com",
+                "end": 105,
+                "expanded_url": "https://jyajyananalee.blogspot.com",
+                "start": 82,
+                "url": "https://t.co/ZZsthj06Du"
+              },
+              {
+                "display_url": "marshmallow-qa.com/6p2yg02ptedk8g…",
+                "end": 133,
+                "expanded_url": "https://marshmallow-qa.com/6p2yg02ptedk8g3?t=1wo2An&utm_medium=twitter&utm_source=promotion",
+                "start": 110,
+                "url": "https://t.co/KC5brt7JpE"
+              }
+            ]
+          }
+        },
+        "id": "1714894056986460160",
+        "location": "Carp Entertainment Co., Ltd",
+        "name": "李奈々です",
+        "pinned_tweet_id": "1714895367370866803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718640683857448960/lYs7DLuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7200,
+          "following_count": 1758,
+          "like_count": 125425,
+          "listed_count": 64,
+          "media_count": 1300,
+          "tweet_count": 26982
+        },
+        "username": "89JinPing64",
+        "verified": false
+      }
+    ]
+  }
+}

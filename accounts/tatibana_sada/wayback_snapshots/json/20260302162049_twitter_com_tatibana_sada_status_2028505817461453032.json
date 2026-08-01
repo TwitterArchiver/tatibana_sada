@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2028505817461453032",
+    "created_at": "2026-03-02T16:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T17:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028505817461453032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1142659323593723904",
+          "start": 3,
+          "username": "Milowork2"
+        },
+        {
+          "end": 23,
+          "id": "1889695481938448384",
+          "start": 15,
+          "username": "PnKoZCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028505817461453032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028329026490888300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Milowork2: @PnKoZCN 内衣处女已到账（1/72）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2028505817461453032",
+        "created_at": "2026-03-02T16:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028505817461453032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1142659323593723904",
+              "start": 3,
+              "username": "Milowork2"
+            },
+            {
+              "end": 23,
+              "id": "1889695481938448384",
+              "start": 15,
+              "username": "PnKoZCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028505817461453032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028329026490888300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Milowork2: @PnKoZCN 内衣处女已到账（1/72）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1142659323593723904",
+        "conversation_id": "2028312704600162322",
+        "created_at": "2026-03-02T04:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028329026490888300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1889695481938448384",
+              "start": 0,
+              "username": "PnKoZCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028329026490888300",
+        "in_reply_to_user_id": "1889695481938448384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3616,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028312704600162322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PnKoZCN 内衣处女已到账（1/72）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 1009,
+          "like_count": 7403,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2470
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-23T05:03:07.000Z",
+        "description": "同人はーど/れとろげーむ/6502/ちっぷちゅーん/どっと絵/ぼかろ/東方/じぇんだーれす男子 ※MTFでわありません",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milo.work",
+                "end": 23,
+                "expanded_url": "https://milo.work/",
+                "start": 0,
+                "url": "https://t.co/13R9fZ7XFL"
+              }
+            ]
+          }
+        },
+        "id": "1142659323593723904",
+        "location": "Shanghai",
+        "name": "𝙼𝚒𝚕𝚘𝚠𝚘𝚛𝚔👾音子本体🧒♪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744513501492895744/B_Hd_Gcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 476,
+          "like_count": 11528,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1706
+        },
+        "url": "https://t.co/13R9fZ7XFL",
+        "username": "Milowork2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T15:18:26.000Z",
+        "description": "MtF🏳‍⚧ | 无证🍥 | INFP-T | 生产日期2010/5/4🎂 | 166cm | 45kg | 40码 | LGBT | 重庆 | 私信互fo | 不OD💊 | 不自残🔪 | 不抽烟🚬 | 不喝酒🍻 | 暂无心理以及身体疾病 | ✉️匿名信箱:https://t.co/MQTknnuIgG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pnkozcn",
+                "end": 152,
+                "expanded_url": "https://ngl.link/pnkozcn",
+                "start": 129,
+                "url": "https://t.co/MQTknnuIgG"
+              }
+            ]
+          }
+        },
+        "id": "1889695481938448384",
+        "name": "東雪蓮🍥 🏳‍⚧Official",
+        "pinned_tweet_id": "2025149204914708864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024022645017382912/n0dFsnqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 374,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 536
+        },
+        "username": "PnKoZCN",
+        "verified": false
+      }
+    ]
+  }
+}

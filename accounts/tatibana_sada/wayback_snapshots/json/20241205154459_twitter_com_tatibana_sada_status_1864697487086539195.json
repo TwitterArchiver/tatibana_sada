@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1864697487086539195",
+    "created_at": "2024-12-05T15:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T16:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864697487086539195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1621552410048237569",
+          "start": 1,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864697487086539195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和@amecandy_x实施了贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1864697487086539195",
+        "created_at": "2024-12-05T15:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T16:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864697487086539195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1621552410048237569",
+              "start": 1,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864697487086539195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@amecandy_x实施了贴贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 512,
+          "like_count": 2768,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1439
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "「过于真实的幻像露出了天使般的笑容」这里是Rain 处于焦虑抑郁和恐惧的小女孩→    ////    \n需要互 fo 请私信 需要我陪你请私信！我想陪着大家所以没有门槛🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/CwKoKqRk8n"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "这是我的网站 oc小说连载处👉",
+        "name": "超絕最可愛 Rain 💙🧬",
+        "pinned_tweet_id": "1861034108069318895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772147307787739136/uXU9kK7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2130,
+          "following_count": 1013,
+          "like_count": 14374,
+          "listed_count": 7,
+          "media_count": 269,
+          "tweet_count": 4427
+        },
+        "url": "https://t.co/CwKoKqRk8n",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

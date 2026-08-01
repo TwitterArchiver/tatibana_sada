@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2036960406061903924",
+    "created_at": "2026-03-26T00:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T01:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036960406061903924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ywomendeservle…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/ywomendeservles/status/2036599309299490831",
+          "start": 11,
+          "url": "https://t.co/BJiWrfydWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036960406061903924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036599309299490831",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幽默感已经堪称伟大了 https://t.co/BJiWrfydWT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2036599307848306688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEN0R7Ya0AA4619.jpg",
+        "width": 685
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2036960406061903924",
+        "created_at": "2026-03-26T00:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T01:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036960406061903924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ywomendeservle…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ywomendeservles/status/2036599309299490831",
+              "start": 11,
+              "url": "https://t.co/BJiWrfydWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036960406061903924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036599309299490831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幽默感已经堪称伟大了 https://t.co/BJiWrfydWT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036599307848306688"
+          ]
+        },
+        "author_id": "1703957652924162048",
+        "conversation_id": "2036599309299490831",
+        "created_at": "2026-03-25T00:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T01:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036599309299490831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x2I4pEAiOv",
+              "end": 23,
+              "expanded_url": "https://x.com/ywomendeservles/status/2036599309299490831/photo/1",
+              "media_key": "3_2036599307848306688",
+              "start": 0,
+              "url": "https://t.co/x2I4pEAiOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036599309299490831",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 365,
+          "impression_count": 128038,
+          "like_count": 15013,
+          "quote_count": 23,
+          "reply_count": 67,
+          "retweet_count": 609
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/x2I4pEAiOv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 999,
+          "like_count": 7442,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2485
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T02:23:24.000Z",
+        "description": "",
+        "id": "1703957652924162048",
+        "name": "Why women get Ls",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705075955562381312/4rMuqCSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391383,
+          "following_count": 9,
+          "like_count": 179,
+          "listed_count": 415,
+          "media_count": 15248,
+          "tweet_count": 15344
+        },
+        "username": "ywomendeservles",
+        "verified": true
+      }
+    ]
+  }
+}

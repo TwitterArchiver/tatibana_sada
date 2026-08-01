@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988879116364308845",
+    "created_at": "2025-11-13T07:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T08:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988879116364308845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "165407871",
+          "start": 3,
+          "username": "Solitude_Sola"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988879116364308845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988639503079387629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Solitude_Sola: 对于芬太尼正常人的想法无疑应该是“我们不要吸毒”，但现在很多美国人想的却是：“中国给的芬太尼烈烈的，中国人毒毒，好怕怕，咱们换种药药来磕”。从这种意义上来看，美国废青嬉皮无限接近于索多玛人，大支输出芬太尼实际上是在扮演降下天火的神，符合我最…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988879116364308845",
+        "created_at": "2025-11-13T07:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T08:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988879116364308845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "165407871",
+              "start": 3,
+              "username": "Solitude_Sola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988879116364308845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988639503079387629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Solitude_Sola: 对于芬太尼正常人的想法无疑应该是“我们不要吸毒”，但现在很多美国人想的却是：“中国给的芬太尼烈烈的，中国人毒毒，好怕怕，咱们换种药药来磕”。从这种意义上来看，美国废青嬉皮无限接近于索多玛人，大支输出芬太尼实际上是在扮演降下天火的神，符合我最…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "165407871",
+        "conversation_id": "1988639503079387629",
+        "created_at": "2025-11-12T16:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988639503079387629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988639503079387629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2283,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "对于芬太尼正常人的想法无疑应该是“我们不要吸毒”，但现在很多美国人想的却是：“中国给的芬太尼烈烈的，中国人毒毒，好怕怕，咱们换种药药来磕”。从这种意义上来看，美国废青嬉皮无限接近于索多玛人，大支输出芬太尼实际上是在扮演降下天火的神，符合我最喜欢的旧约圣经神谕。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 843,
+          "like_count": 5375,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1949
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-11T13:41:45.000Z",
+        "description": "守序邪恶 == 真名宿敌\n\n万般皆下品，唯有狞狞高。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Solitude_Sola",
+                "end": 23,
+                "expanded_url": "http://t.me/Solitude_Sola",
+                "start": 0,
+                "url": "https://t.co/bwcOewi77e"
+              }
+            ]
+          }
+        },
+        "id": "165407871",
+        "location": "投身之所",
+        "name": "空空 🌟 狞猫世界第一可爱！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422573861787209730/RJWO2Gsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20243,
+          "following_count": 552,
+          "like_count": 558,
+          "listed_count": 123,
+          "media_count": 20621,
+          "tweet_count": 67756
+        },
+        "url": "https://t.co/bwcOewi77e",
+        "username": "Solitude_Sola",
+        "verified": false
+      }
+    ]
+  }
+}

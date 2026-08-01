@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1992988889741697269",
+    "created_at": "2025-11-24T16:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T17:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992988889741697269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "373883202",
+          "start": 3,
+          "username": "smokeHead01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992988889741697269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992671536051105860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smokeHead01: Don’t try to be someone you aren’t… 欺人者必自欺 自欺者必欺人 从22年初就没再跟威洛比有来往 但也没拉黑 看着其从普通掉书袋反贼变成虚无主义犬儒 “坐标澳洲”“早就说过”成为上网唯一价值 没想到这一天来得这…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 895,
+        "media_key": "3_1992671516308525056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dkL7ub0AAaf4J.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1846,
+        "media_key": "3_1992671516308512768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dkL7uboAAyeX7.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1342,
+        "media_key": "3_1992671516295823360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dkL7raAAAuCPP.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992988889741697269",
+        "created_at": "2025-11-24T16:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992988889741697269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "373883202",
+              "start": 3,
+              "username": "smokeHead01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992988889741697269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992671536051105860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smokeHead01: Don’t try to be someone you aren’t… 欺人者必自欺 自欺者必欺人 从22年初就没再跟威洛比有来往 但也没拉黑 看着其从普通掉书袋反贼变成虚无主义犬儒 “坐标澳洲”“早就说过”成为上网唯一价值 没想到这一天来得这…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992671516308525056",
+            "3_1992671516308512768",
+            "3_1992671516295823360"
+          ]
+        },
+        "author_id": "373883202",
+        "conversation_id": "1992671536051105860",
+        "created_at": "2025-11-23T19:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T20:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992671536051105860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CcwPSFrPc6",
+              "end": 148,
+              "expanded_url": "https://x.com/smokeHead01/status/1992671536051105860/photo/1",
+              "media_key": "3_1992671516308525056",
+              "start": 125,
+              "url": "https://t.co/CcwPSFrPc6"
+            },
+            {
+              "display_url": "pic.x.com/CcwPSFrPc6",
+              "end": 148,
+              "expanded_url": "https://x.com/smokeHead01/status/1992671536051105860/photo/1",
+              "media_key": "3_1992671516308512768",
+              "start": 125,
+              "url": "https://t.co/CcwPSFrPc6"
+            },
+            {
+              "display_url": "pic.x.com/CcwPSFrPc6",
+              "end": 148,
+              "expanded_url": "https://x.com/smokeHead01/status/1992671536051105860/photo/1",
+              "media_key": "3_1992671516295823360",
+              "start": 125,
+              "url": "https://t.co/CcwPSFrPc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992671536051105860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 20647,
+          "like_count": 94,
+          "quote_count": 10,
+          "reply_count": 9,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "Don’t try to be someone you aren’t… 欺人者必自欺 自欺者必欺人 从22年初就没再跟威洛比有来往 但也没拉黑 看着其从普通掉书袋反贼变成虚无主义犬儒 “坐标澳洲”“早就说过”成为上网唯一价值 没想到这一天来得这么快 https://t.co/CcwPSFrPc6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 930,
+          "like_count": 6167,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2231
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-15T10:21:11.000Z",
+        "description": "没人能逃脱自己给自己下达的判决。 锁推必ban🇺🇸🇬🇧🇨🇦🇦🇺🇳🇿🇯🇵🇮🇳🇵🇱",
+        "id": "373883202",
+        "location": "Senatus Populusque Americanus",
+        "name": "smokeHead",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1249966074583367681/FwMPjYNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 411,
+          "like_count": 15711,
+          "listed_count": 24,
+          "media_count": 1186,
+          "tweet_count": 11468
+        },
+        "username": "smokeHead01",
+        "verified": false
+      }
+    ]
+  }
+}

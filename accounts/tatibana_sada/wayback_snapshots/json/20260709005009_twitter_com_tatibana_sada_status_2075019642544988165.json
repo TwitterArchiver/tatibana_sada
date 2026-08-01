@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2075019642544988165",
+    "created_at": "2026-07-09T00:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T01:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075019642544988165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Exoduster8964/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Exoduster8964/status/2074856331786211586",
+          "start": 8,
+          "url": "https://t.co/8VcLTmEky3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075019642544988165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074856331786211586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支黑小伙爱发言 https://t.co/8VcLTmEky3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2075019642544988165",
+        "created_at": "2026-07-09T00:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075019642544988165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Exoduster8964/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Exoduster8964/status/2074856331786211586",
+              "start": 8,
+              "url": "https://t.co/8VcLTmEky3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075019642544988165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074856331786211586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支黑小伙爱发言 https://t.co/8VcLTmEky3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039257944575852544",
+        "conversation_id": "2074856331786211586",
+        "created_at": "2026-07-08T14:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074856331786211586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074856331786211586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1598,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "支那人第一定律：不是支黑的支那人默认是畜生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1409,
+          "like_count": 9810,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 3344
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T08:27:30.000Z",
+        "description": "欧陆润人｜原教旨支黑 | English C2, Deutsch Lerner |能看清楚成分的都会回fo，没及时回可以私我",
+        "id": "2039257944575852544",
+        "location": "大日本帝国",
+        "name": "真寻かくせいしたもの",
+        "pinned_tweet_id": "2065359887152914893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040539494869516289/slmcBF53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 174,
+          "like_count": 765,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "Exoduster8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2055614441475948950",
+    "created_at": "2026-05-16T12:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055632067153776877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "151930383",
+          "start": 0,
+          "username": "GordonGChang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055632067153776877",
+    "in_reply_to_user_id": "151930383",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055614441475948950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GordonGChang Comrade Chang, you're right, we always know that China collapses EVERYDAY."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2055614441475948950",
+        "created_at": "2026-05-16T12:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055632067153776877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "151930383",
+              "start": 0,
+              "username": "GordonGChang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055632067153776877",
+        "in_reply_to_user_id": "151930383",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055614441475948950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GordonGChang Comrade Chang, you're right, we always know that China collapses EVERYDAY."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "151930383",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about US Foreign Policy",
+              "id": "847876936378441729",
+              "name": "United States Foreign Policy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The Republican National Convention is about to convene in Milwaukee to nominate President Donald J. Trump! Tune in live on X starting July 15th at 6pm CT to watch LIVE as we unite for a stronger America!",
+              "id": "1811085126010281984",
+              "name": "2024 Republican National Convention"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2055614441475948950",
+        "created_at": "2026-05-16T11:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055614441475948950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/msmelchen/stat…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/msmelchen/status/2055238770887151639",
+              "start": 92,
+              "url": "https://t.co/hY7krOtKVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055614441475948950",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3256,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055238770887151639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "China is failing. Xi Jinping knows it, and he can take the rest of the world down with him. https://t.co/hY7krOtKVh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 1091,
+          "like_count": 7761,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2556
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-04T16:23:14.000Z",
+        "description": "Author of Plan Red: China’s Project to Destroy America, The Coming Collapse of China, and China Is Going To War.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gordonchang.com",
+                "end": 23,
+                "expanded_url": "http://www.gordonchang.com",
+                "start": 0,
+                "url": "https://t.co/NoOEsA7THp"
+              }
+            ]
+          }
+        },
+        "id": "151930383",
+        "name": "Gordon G. Chang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1183859425905430529/zJMuSq9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437636,
+          "following_count": 927,
+          "like_count": 14,
+          "listed_count": 2277,
+          "media_count": 432,
+          "tweet_count": 45571
+        },
+        "url": "https://t.co/NoOEsA7THp",
+        "username": "GordonGChang",
+        "verified": true
+      }
+    ]
+  }
+}

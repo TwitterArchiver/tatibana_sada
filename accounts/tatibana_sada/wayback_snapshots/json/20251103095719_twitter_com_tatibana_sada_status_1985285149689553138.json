@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985285149689553138",
+    "created_at": "2025-11-03T09:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T10:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985285149689553138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1955698708647174144",
+          "start": 3,
+          "username": "LayiKD01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985285149689553138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983815298269769884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LayiKD01: 是的呢，我確實不想跟招娣交往，但跨招娣不也是招娣嗎😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985285149689553138",
+        "created_at": "2025-11-03T09:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T10:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985285149689553138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1955698708647174144",
+              "start": 3,
+              "username": "LayiKD01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985285149689553138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983815298269769884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LayiKD01: 是的呢，我確實不想跟招娣交往，但跨招娣不也是招娣嗎😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955698708647174144",
+        "conversation_id": "1983815298269769884",
+        "created_at": "2025-10-30T08:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T09:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983815298269769884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Im_Just__Girl/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Im_Just__Girl/status/1983808931052089821",
+              "start": 27,
+              "url": "https://t.co/PpD99FKsSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983815298269769884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983808931052089821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的呢，我確實不想跟招娣交往，但跨招娣不也是招娣嗎😋 https://t.co/PpD99FKsSl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 705,
+          "like_count": 4311,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1693
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T18:31:33.000Z",
+        "description": "激進男同 | 反對基於生理性別和年齡的社會分責制 | 反對基於生物學祖源和社會學祖源的強制性族群指派和族群分責制 | 反對一切威權-偏見-仇恨型人格者，尤其是「正道霸凌蛆」 | 演化人類學愛好者",
+        "id": "1955698708647174144",
+        "name": "激同小智",
+        "pinned_tweet_id": "1982352171309178917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979042336865755136/3TTJkBtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 13,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 88
+        },
+        "username": "LayiKD01",
+        "verified": false
+      }
+    ]
+  }
+}

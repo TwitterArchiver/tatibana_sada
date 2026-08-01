@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985624144038576128"
+      ],
+      "media_source_tweet_id": [
+        "1985624150409691460"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985790801482563652",
+    "created_at": "2025-11-04T19:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T20:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985790801482563652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967121502429736964",
+          "start": 3,
+          "username": "y4t4_07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QIOR5rBnfY",
+          "end": 38,
+          "expanded_url": "https://x.com/y4t4_07/status/1985624150409691460/photo/1",
+          "media_key": "3_1985624144038576128",
+          "start": 15,
+          "url": "https://t.co/QIOR5rBnfY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985790801482563652",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 353
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985624150409691460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y4t4_07: 雪 https://t.co/QIOR5rBnfY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1896,
+        "media_key": "3_1985624144038576128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G45ao4LbwAAoFYT.jpg",
+        "width": 1330
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985624144038576128"
+          ],
+          "media_source_tweet_id": [
+            "1985624150409691460"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985790801482563652",
+        "created_at": "2025-11-04T19:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T20:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985790801482563652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967121502429736964",
+              "start": 3,
+              "username": "y4t4_07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIOR5rBnfY",
+              "end": 38,
+              "expanded_url": "https://x.com/y4t4_07/status/1985624150409691460/photo/1",
+              "media_key": "3_1985624144038576128",
+              "start": 15,
+              "url": "https://t.co/QIOR5rBnfY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985790801482563652",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985624150409691460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y4t4_07: 雪 https://t.co/QIOR5rBnfY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985624144038576128"
+          ]
+        },
+        "author_id": "1967121502429736964",
+        "conversation_id": "1985624150409691460",
+        "created_at": "2025-11-04T08:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T09:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985624150409691460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIOR5rBnfY",
+              "end": 25,
+              "expanded_url": "https://x.com/y4t4_07/status/1985624150409691460/photo/1",
+              "media_key": "3_1985624144038576128",
+              "start": 2,
+              "url": "https://t.co/QIOR5rBnfY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985624150409691460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 817,
+          "impression_count": 75129,
+          "like_count": 8149,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 353
+        },
+        "reply_settings": "everyone",
+        "text": "雪 https://t.co/QIOR5rBnfY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1982595504287699299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 728,
+          "like_count": 4615,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1738
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T07:01:42.000Z",
+        "description": "壁打ち 絵練習 @yata_gara3sub / https://t.co/8rUg9bhC3m",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "yata_gara3sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/yatano",
+                "end": 48,
+                "expanded_url": "https://lit.link/yatano",
+                "start": 25,
+                "url": "https://t.co/8rUg9bhC3m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/49qd9ck1l…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/49qd9ck1lt4qtbol/",
+                "start": 0,
+                "url": "https://t.co/b3EIX1un8e"
+              }
+            ]
+          }
+        },
+        "id": "1967121502429736964",
+        "location": "何かあればDMまで　依頼0 受付中",
+        "name": "6.0×10²³",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976333832405344256/o6QlVvou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3935,
+          "following_count": 7,
+          "like_count": 231,
+          "listed_count": 7,
+          "media_count": 117,
+          "tweet_count": 277
+        },
+        "url": "https://t.co/b3EIX1un8e",
+        "username": "y4t4_07",
+        "verified": false
+      }
+    ]
+  }
+}

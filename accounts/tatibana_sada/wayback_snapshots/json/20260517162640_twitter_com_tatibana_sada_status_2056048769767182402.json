@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2055617659887051211",
+    "created_at": "2026-05-17T16:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056048769767182402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906740035287957504",
+          "start": 0,
+          "username": "shouchang6319"
+        },
+        {
+          "end": 28,
+          "id": "151930383",
+          "start": 15,
+          "username": "GordonGChang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056048769767182402",
+    "in_reply_to_user_id": "1906740035287957504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055840324392767835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shouchang6319 @GordonGChang 同志不要乱说话，章家敦同志这么多年都在战略忽悠美国佬，总有一天习总书记会为他授予一个一吨大勋章的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2055617659887051211",
+        "created_at": "2026-05-17T16:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056048769767182402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906740035287957504",
+              "start": 0,
+              "username": "shouchang6319"
+            },
+            {
+              "end": 28,
+              "id": "151930383",
+              "start": 15,
+              "username": "GordonGChang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056048769767182402",
+        "in_reply_to_user_id": "1906740035287957504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055840324392767835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shouchang6319 @GordonGChang 同志不要乱说话，章家敦同志这么多年都在战略忽悠美国佬，总有一天习总书记会为他授予一个一吨大勋章的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906740035287957504",
+        "conversation_id": "2055617659887051211",
+        "created_at": "2026-05-17T02:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055840324392767835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "151930383",
+              "start": 0,
+              "username": "GordonGChang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055840324392767835",
+        "in_reply_to_user_id": "151930383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055617659887051211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GordonGChang 一个对中国抱有巨大恨意的人，却只能眼睁睁看着中国崛起，直到老死中国也只会越来越好，还有什么比这个更可怜的呢😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 1115,
+          "like_count": 7827,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2571
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T16:07:22.000Z",
+        "description": "",
+        "id": "1906740035287957504",
+        "name": "守常",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910375437538385923/f6bUeEco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 31,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 125
+        },
+        "username": "shouchang6319",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-04T16:23:14.000Z",
+        "description": "Author of Plan Red: China’s Project to Destroy America, The Coming Collapse of China, and China Is Going To War.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gordonchang.com",
+                "end": 23,
+                "expanded_url": "http://www.gordonchang.com",
+                "start": 0,
+                "url": "https://t.co/NoOEsA7THp"
+              }
+            ]
+          }
+        },
+        "id": "151930383",
+        "name": "Gordon G. Chang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1183859425905430529/zJMuSq9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437742,
+          "following_count": 927,
+          "like_count": 14,
+          "listed_count": 2277,
+          "media_count": 434,
+          "tweet_count": 45593
+        },
+        "url": "https://t.co/NoOEsA7THp",
+        "username": "GordonGChang",
+        "verified": true
+      }
+    ]
+  }
+}

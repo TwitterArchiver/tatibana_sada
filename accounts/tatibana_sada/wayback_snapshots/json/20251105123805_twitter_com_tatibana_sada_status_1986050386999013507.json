@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985713683637678080"
+      ],
+      "media_source_tweet_id": [
+        "1985713689534877992"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986050386999013507",
+    "created_at": "2025-11-05T12:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T13:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986050386999013507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1300449549190742017",
+          "start": 3,
+          "username": "osoba__eee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DcyCFepYeO",
+          "end": 39,
+          "expanded_url": "https://x.com/osoba__eee/status/1985713689534877992/photo/1",
+          "media_key": "3_1985713683637678080",
+          "start": 16,
+          "url": "https://t.co/DcyCFepYeO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986050386999013507",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985713689534877992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @osoba__eee: https://t.co/DcyCFepYeO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2007,
+        "media_key": "3_1985713683637678080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46sExLbMAAv67V.jpg",
+        "width": 1356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985713683637678080"
+          ],
+          "media_source_tweet_id": [
+            "1985713689534877992"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986050386999013507",
+        "created_at": "2025-11-05T12:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986050386999013507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1300449549190742017",
+              "start": 3,
+              "username": "osoba__eee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DcyCFepYeO",
+              "end": 39,
+              "expanded_url": "https://x.com/osoba__eee/status/1985713689534877992/photo/1",
+              "media_key": "3_1985713683637678080",
+              "start": 16,
+              "url": "https://t.co/DcyCFepYeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986050386999013507",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985713689534877992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @osoba__eee: https://t.co/DcyCFepYeO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985713683637678080"
+          ]
+        },
+        "author_id": "1300449549190742017",
+        "conversation_id": "1985713689534877992",
+        "created_at": "2025-11-04T14:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T15:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985713689534877992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DcyCFepYeO",
+              "end": 23,
+              "expanded_url": "https://x.com/osoba__eee/status/1985713689534877992/photo/1",
+              "media_key": "3_1985713683637678080",
+              "start": 0,
+              "url": "https://t.co/DcyCFepYeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985713689534877992",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 17773,
+          "like_count": 1731,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DcyCFepYeO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 739,
+          "like_count": 4711,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1783
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-31T15:05:16.000Z",
+        "description": "ショタを研究中絵描き/ 無断転載 無断使用❌さぶ▷@osssoba_sb／個人利用skeb▶︎ https://t.co/8sAMswPXZn／その他ご依頼はﾘｯﾄﾘﾝｸを確認の上DMまで✨ ﾍｯﾀﾞｰ▶︎ねごと",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "osssoba_sb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@osoba__eee",
+                "end": 71,
+                "expanded_url": "https://skeb.jp/@osoba__eee",
+                "start": 48,
+                "url": "https://t.co/8sAMswPXZn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/GRyyzQJAOZVboS…",
+                "end": 23,
+                "expanded_url": "https://lit.link/GRyyzQJAOZVboS55aMIlDgRynWD2",
+                "start": 0,
+                "url": "https://t.co/QB6R9bTS8a"
+              }
+            ]
+          }
+        },
+        "id": "1300449549190742017",
+        "location": "フリーアイコン以外のイラストは基本使用禁止です❌",
+        "name": "おそば",
+        "pinned_tweet_id": "1972553047143596228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965389164482031616/UyQNPy8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26352,
+          "following_count": 154,
+          "like_count": 9589,
+          "listed_count": 217,
+          "media_count": 173,
+          "tweet_count": 17826
+        },
+        "url": "https://t.co/QB6R9bTS8a",
+        "username": "osoba__eee",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979064758012620928",
+    "created_at": "2025-10-18T07:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T08:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979452118458314975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1600511050600026112",
+          "start": 0,
+          "username": "Rua987654321"
+        },
+        {
+          "end": 27,
+          "id": "1935975585186271232",
+          "start": 14,
+          "username": "hahahabzd123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979452118458314975",
+    "in_reply_to_user_id": "1600511050600026112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979378804356452493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rua987654321 @hahahabzd123 Absolutely right wow\n大家都开始圣战，世界就能勃勃生机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979064758012620928",
+        "created_at": "2025-10-18T07:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T08:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979452118458314975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1600511050600026112",
+              "start": 0,
+              "username": "Rua987654321"
+            },
+            {
+              "end": 27,
+              "id": "1935975585186271232",
+              "start": 14,
+              "username": "hahahabzd123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979452118458314975",
+        "in_reply_to_user_id": "1600511050600026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979378804356452493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rua987654321 @hahahabzd123 Absolutely right wow\n大家都开始圣战，世界就能勃勃生机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600511050600026112",
+        "conversation_id": "1979064758012620928",
+        "created_at": "2025-10-18T02:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T03:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979378804356452493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 28,
+              "id": "1935975585186271232",
+              "start": 15,
+              "username": "hahahabzd123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979378804356452493",
+        "in_reply_to_user_id": "1600511050600026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979378240465834343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @hahahabzd123 就是，对于巴友来说他们只是死在了一场敌我斗争之中，而去直面荒诞的责任和义务全交给了看客。很显然我并不知道该怎么办，但是我既没输，也没赢，只是大受震撼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 559,
+          "like_count": 3011,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1483
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T15:22:32.000Z",
+        "description": "",
+        "id": "1600511050600026112",
+        "name": "Carlos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636083815360917504/UiaifrLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 488,
+          "like_count": 8015,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 306
+        },
+        "username": "Rua987654321",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T08:19:11.000Z",
+        "description": "De gustibus non est disputandum.",
+        "id": "1935975585186271232",
+        "name": "Rollo Thomas",
+        "pinned_tweet_id": "1975006226309345518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961048554644099072/rgcQl03l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 124,
+          "like_count": 364,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 757
+        },
+        "username": "hahahabzd123",
+        "verified": false
+      }
+    ]
+  }
+}

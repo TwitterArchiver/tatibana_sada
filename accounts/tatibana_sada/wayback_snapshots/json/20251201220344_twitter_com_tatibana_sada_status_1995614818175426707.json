@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1995614818175426707",
+    "created_at": "2025-12-01T22:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T23:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995614818175426707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "786464617031733248",
+          "start": 3,
+          "username": "QueerMasculism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995614818175426707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995523803749982221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QueerMasculism: 唉，又是雷声大雨点小。调门是“儿童解放”，乃至“劳动权”都出来了，质疑者一逼问立马退回批判长辈玩弄男童生殖器等等安全立场😇\n要是自诩进步的人里有1/3敢直言“让未成年人跟大语言模型文爱、天塌不下来”，而不是扯啥“成年人要有隐私权”，也不至…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1995614818175426707",
+        "created_at": "2025-12-01T22:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T23:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995614818175426707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "786464617031733248",
+              "start": 3,
+              "username": "QueerMasculism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995614818175426707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995523803749982221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QueerMasculism: 唉，又是雷声大雨点小。调门是“儿童解放”，乃至“劳动权”都出来了，质疑者一逼问立马退回批判长辈玩弄男童生殖器等等安全立场😇\n要是自诩进步的人里有1/3敢直言“让未成年人跟大语言模型文爱、天塌不下来”，而不是扯啥“成年人要有隐私权”，也不至…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786464617031733248",
+        "conversation_id": "1995523803749982221",
+        "created_at": "2025-12-01T16:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T17:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995523803749982221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 157,
+              "expanded_url": "https://x.com/amber_toffee/status/1995313402076332527",
+              "start": 134,
+              "url": "https://t.co/fzVx82qBAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995523803749982221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995313402076332527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，又是雷声大雨点小。调门是“儿童解放”，乃至“劳动权”都出来了，质疑者一逼问立马退回批判长辈玩弄男童生殖器等等安全立场😇\n要是自诩进步的人里有1/3敢直言“让未成年人跟大语言模型文爱、天塌不下来”，而不是扯啥“成年人要有隐私权”，也不至于年龄验证搁欧美遍地开花……\nhttps://t.co/fzVx82qBAM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 988,
+          "like_count": 6681,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2353
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-13T07:12:31.000Z",
+        "description": "左翼男性主义 | 酷儿男性主义 | 后女性主义 | 音羽中思想 | 实践-理论-实践 | 推翻女本位经济 | 在扬弃了女性主义的基础上走向未来 | 天然进步的amab | YGBTQA+",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/454038240",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/454038240",
+                "start": 0,
+                "url": "https://t.co/T15vXo3Mib"
+              }
+            ]
+          }
+        },
+        "id": "786464617031733248",
+        "location": "驻马店",
+        "name": "音羽中导读（2.0）",
+        "pinned_tweet_id": "1968329547084186077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968328011276775424/doIwV-H7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 1501,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/T15vXo3Mib",
+        "username": "QueerMasculism",
+        "verified": true
+      }
+    ]
+  }
+}

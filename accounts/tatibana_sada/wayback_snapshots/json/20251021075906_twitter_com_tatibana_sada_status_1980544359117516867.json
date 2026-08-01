@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980496241344802932",
+    "created_at": "2025-10-21T07:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T08:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980544359117516867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1497544476855717894",
+          "start": 0,
+          "username": "unounounoux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980544359117516867",
+    "in_reply_to_user_id": "1497544476855717894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980496241344802932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unounounoux 也确实是不需要父亲这个角色了。\n父责体制的优越性主要就是能把男性拴起来搞子代投资。在当下也确实是已经在崩坏了。\n总而言之也就是在说，晚清淮海出现的光棍战争，要开二周目了。所谓坏男孩联盟是也。这当然是中国的传统文化了，在「水浒传」中亦有记载。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980496241344802932",
+        "created_at": "2025-10-21T07:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980544359117516867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1497544476855717894",
+              "start": 0,
+              "username": "unounounoux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980544359117516867",
+        "in_reply_to_user_id": "1497544476855717894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980496241344802932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unounounoux 也确实是不需要父亲这个角色了。\n父责体制的优越性主要就是能把男性拴起来搞子代投资。在当下也确实是已经在崩坏了。\n总而言之也就是在说，晚清淮海出现的光棍战争，要开二周目了。所谓坏男孩联盟是也。这当然是中国的传统文化了，在「水浒传」中亦有记载。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497544476855717894",
+        "conversation_id": "1980496241344802932",
+        "created_at": "2025-10-21T04:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T05:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980496241344802932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980496241344802932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实点子再恨女也\n无法回避生命编码中最根本的恐惧\n因为点子就是配子 整个人口再生产过程中\n点子作用几乎为零\n根本就不需要“父亲”这个角色\n这是人为构建并且“习以为常天经地义”的\n连孤雌生育都充满可能的当下\n在女性受教育程度普及度越累越高\n社会参与度越来越高的当下\n点子不由自主持续恐惧然后厌女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 583,
+          "like_count": 3204,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1538
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T12:10:10.000Z",
+        "description": "スーパー Feminist/八尾大王的专业输出账号/超级凶/为创造一个女本位的世界而持续奋斗/feminism is the answer/本当恶女♀/多重语言➕超能力/y染关注必死/锁推不认识的基本会屏蔽/males followers forbidden/求知欲爆棚/旅途大魔女一位/生而为女我超自豪",
+        "id": "1497544476855717894",
+        "name": "八尾だよ！（戦おう！)",
+        "pinned_tweet_id": "1695352431759216946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523220034776350726/dhHWoF20_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3554,
+          "following_count": 168,
+          "like_count": 20205,
+          "listed_count": 17,
+          "media_count": 228,
+          "tweet_count": 2728
+        },
+        "username": "unounounoux",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985068527368442325",
+    "created_at": "2025-11-02T19:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T20:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985068527368442325"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "ウクライナ",
+          "probability": 0.5958,
+          "start": 19,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "193648759",
+          "start": 3,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985068527368442325",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 576
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984862593853636809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ripo0079: 今日でね、ウクライナ戦争の日数は太平洋戦争を超えたよ。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985068527368442325",
+        "created_at": "2025-11-02T19:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T20:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985068527368442325"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "ウクライナ",
+              "probability": 0.5958,
+              "start": 19,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "193648759",
+              "start": 3,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985068527368442325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 576
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984862593853636809",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ripo0079: 今日でね、ウクライナ戦争の日数は太平洋戦争を超えたよ。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193648759",
+        "conversation_id": "1984862593853636809",
+        "created_at": "2025-11-02T05:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T06:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984862593853636809"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "ウクライナ",
+              "probability": 0.6007,
+              "start": 5,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984862593853636809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 57488,
+          "like_count": 2198,
+          "quote_count": 25,
+          "reply_count": 11,
+          "retweet_count": 576
+        },
+        "reply_settings": "everyone",
+        "text": "今日でね、ウクライナ戦争の日数は太平洋戦争を超えたよ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 700,
+          "like_count": 4144,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1676
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo🏳️‍⚧️ Jpn/Eng インターネット🏳️‍⚧️界隈 21-NNT。国際ニートなご令嬢。青組。跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "1977024490346627485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5971,
+          "following_count": 1279,
+          "like_count": 67137,
+          "listed_count": 105,
+          "media_count": 4082,
+          "tweet_count": 51320
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

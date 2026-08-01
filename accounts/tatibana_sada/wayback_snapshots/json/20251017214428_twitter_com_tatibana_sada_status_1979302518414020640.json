@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979229031716524206",
+    "created_at": "2025-10-17T21:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T22:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979302518414020640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1248913476002537472",
+          "start": 0,
+          "username": "PRCAngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979302518414020640",
+    "in_reply_to_user_id": "1248913476002537472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979229031716524206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRCAngel 雌堕卖屁眼是雄性死大学生唯一出路"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979229031716524206",
+        "created_at": "2025-10-17T21:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T22:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979302518414020640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1248913476002537472",
+              "start": 0,
+              "username": "PRCAngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979302518414020640",
+        "in_reply_to_user_id": "1248913476002537472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979229031716524206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRCAngel 雌堕卖屁眼是雄性死大学生唯一出路"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248913476002537472",
+        "conversation_id": "1979229031716524206",
+        "created_at": "2025-10-17T16:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979229031716524206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979229031716524206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今年刚入学大一的同学，恭喜你!\n\n你梦寐以求的，坐办公室的体面工作\n\n在你毕业后很可能会被人工智能所替代\n\n如果是体力劳动的话，人形机器人也许还没那么快，灵巧手现在剥个橘子都费劲\n\n但是多模态大模型绝对会取代基本所有文职工作😤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 557,
+          "like_count": 2980,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1478
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-11T10:01:47.000Z",
+        "description": "天使 / 𝘈𝘯𝘨𝘦𝘭 ｜Cosplay爱好者｜💙Blue Archive｜❤️明日方舟｜谷子经济研究中｜政治经济｜游戏影视｜日常生活｜欢迎同好扩列~｜健康生活方式研究中｜ #DontDie",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 86,
+                "tag": "DontDie"
+              }
+            ]
+          }
+        },
+        "id": "1248913476002537472",
+        "location": "Changchun",
+        "name": "𝙉𝙑天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975260646469214211/KViB4jfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6007,
+          "following_count": 1174,
+          "like_count": 35153,
+          "listed_count": 27,
+          "media_count": 2457,
+          "tweet_count": 14727
+        },
+        "username": "PRCAngel",
+        "verified": true
+      }
+    ]
+  }
+}

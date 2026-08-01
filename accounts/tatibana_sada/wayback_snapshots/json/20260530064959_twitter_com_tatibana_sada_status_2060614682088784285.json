@@ -1,0 +1,586 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1220855410262831105",
+          "name": "Asmongold"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1220855410262831105",
+          "name": "Asmongold"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1220855410262831105",
+          "name": "Asmongold"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287879055191052288",
+          "name": "Gaming content creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "136",
+          "name": "Video Game Personality "
+        },
+        "entity": {
+          "id": "1220855410262831105",
+          "name": "Asmongold"
+        }
+      }
+    ],
+    "conversation_id": "2060614682088784285",
+    "created_at": "2026-05-30T06:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060614682088784285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1559896104556273664",
+          "start": 3,
+          "username": "SkoomaAdd1ct"
+        },
+        {
+          "end": 31,
+          "id": "858812544",
+          "start": 18,
+          "username": "adammocklerr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060614682088784285",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060458267944300886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SkoomaAdd1ct: @adammocklerr asmongold: I'm not gay but men are objectively more attractive than women\n\nthe most heterosexual person who…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 525,
+        "media_key": "3_2060457960300494848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJg3mR5WQAAQwOE.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1220855410262831105",
+              "name": "Asmongold"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1220855410262831105",
+              "name": "Asmongold"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220855410262831105",
+              "name": "Asmongold"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "id": "1220855410262831105",
+              "name": "Asmongold"
+            }
+          }
+        ],
+        "conversation_id": "2060614682088784285",
+        "created_at": "2026-05-30T06:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060614682088784285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1559896104556273664",
+              "start": 3,
+              "username": "SkoomaAdd1ct"
+            },
+            {
+              "end": 31,
+              "id": "858812544",
+              "start": 18,
+              "username": "adammocklerr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060614682088784285",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060458267944300886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SkoomaAdd1ct: @adammocklerr asmongold: I'm not gay but men are objectively more attractive than women\n\nthe most heterosexual person who…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060457960300494848"
+          ]
+        },
+        "author_id": "1559896104556273664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1220855410262831105",
+              "name": "Asmongold"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1220855410262831105",
+              "name": "Asmongold"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220855410262831105",
+              "name": "Asmongold"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "id": "1220855410262831105",
+              "name": "Asmongold"
+            }
+          }
+        ],
+        "conversation_id": "2060433718477521393",
+        "created_at": "2026-05-29T20:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T21:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060458267944300886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "858812544",
+              "start": 0,
+              "username": "adammocklerr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JnVxqr1Xqm",
+              "end": 162,
+              "expanded_url": "https://x.com/SkoomaAdd1ct/status/2060458267944300886/photo/1",
+              "media_key": "3_2060457960300494848",
+              "start": 139,
+              "url": "https://t.co/JnVxqr1Xqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060458267944300886",
+        "in_reply_to_user_id": "858812544",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3267,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060433718477521393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adammocklerr asmongold: I'm not gay but men are objectively more attractive than women\n\nthe most heterosexual person who agrees with him: https://t.co/JnVxqr1Xqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 1251,
+          "like_count": 8971,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 3054
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T13:33:23.000Z",
+        "description": "Skoom\n28 | he/him | Canada\nElder scrolls (not Skyrim) | Pokemon | Fighting games | Cardinals guy at @SCS_Basedball\n\nSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 100,
+                "username": "SCS_Basedball"
+              }
+            ]
+          }
+        },
+        "id": "1559896104556273664",
+        "location": "Latveria",
+        "name": "Victor von Skoom",
+        "pinned_tweet_id": "1996433449323028587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559898766072844298/R-JtUZqN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 190,
+          "like_count": 54506,
+          "listed_count": 4,
+          "media_count": 456,
+          "tweet_count": 23046
+        },
+        "username": "SkoomaAdd1ct",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-02T22:34:51.000Z",
+        "description": "2mil+ on YouTube | Mockler Media",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@adammockler?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@adammockler?si=9URwkhOxrrQrQyRP",
+                "start": 0,
+                "url": "https://t.co/6WFe6h4mYj"
+              }
+            ]
+          }
+        },
+        "id": "858812544",
+        "location": "Chicago, IL",
+        "name": "Adam Mockler",
+        "pinned_tweet_id": "1978682605068259429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968533723181092865/2JSkJ-D6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209941,
+          "following_count": 2948,
+          "like_count": 21381,
+          "listed_count": 1091,
+          "media_count": 2613,
+          "tweet_count": 6892
+        },
+        "url": "https://t.co/6WFe6h4mYj",
+        "username": "adammocklerr",
+        "verified": true
+      }
+    ]
+  }
+}

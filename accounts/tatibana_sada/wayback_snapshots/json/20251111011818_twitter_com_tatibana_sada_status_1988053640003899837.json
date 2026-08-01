@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987786329984495827",
+    "created_at": "2025-11-11T01:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T02:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988053640003899837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2440011140",
+          "start": 0,
+          "username": "NeworderforYou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988053640003899837",
+    "in_reply_to_user_id": "2440011140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987786329984495827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeworderforYou 什么时候送中？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987786329984495827",
+        "created_at": "2025-11-11T01:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T02:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988053640003899837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2440011140",
+              "start": 0,
+              "username": "NeworderforYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988053640003899837",
+        "in_reply_to_user_id": "2440011140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987786329984495827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeworderforYou 什么时候送中？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2440011140",
+        "conversation_id": "1987786329984495827",
+        "created_at": "2025-11-10T07:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T08:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987786329984495827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Eichan_GZ/stat…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/Eichan_GZ/status/1987507854283297116",
+              "start": 100,
+              "url": "https://t.co/MEuoLUUUDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987786329984495827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 63646,
+          "like_count": 628,
+          "quote_count": 12,
+          "reply_count": 238,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987507854283297116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在日本住了十几年，就是因为有太多下面这样的日本人我才反日，我会不厌其烦的煽动反日情绪，日本人是要治一治的，沟槽的日本狗尽管反华，我反日的自信是基于对我国军事经济力量的自信，你反华的自信是源自什么？ https://t.co/MEuoLUUUDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 798,
+          "like_count": 5076,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1886
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-12T13:21:22.000Z",
+        "description": "五千年太近，五十年太远",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12377.cn",
+                "end": 23,
+                "expanded_url": "https://www.12377.cn/",
+                "start": 0,
+                "url": "https://t.co/QoMf426pqO"
+              }
+            ]
+          }
+        },
+        "id": "2440011140",
+        "location": "0.01km",
+        "name": "🍉赫兹³",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678712746169475072/ZpI3TbJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 507,
+          "like_count": 4606,
+          "listed_count": 15,
+          "media_count": 1428,
+          "tweet_count": 9047
+        },
+        "url": "https://t.co/QoMf426pqO",
+        "username": "NeworderforYou",
+        "verified": false
+      }
+    ]
+  }
+}

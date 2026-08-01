@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2079907935095046593",
+    "created_at": "2026-07-22T12:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079907935095046593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BrandoDio31962…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/BrandoDio31962/status/2079217962343702713",
+          "start": 4,
+          "url": "https://t.co/TEeldjAU7o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079907935095046593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079217962343702713",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何意味 https://t.co/TEeldjAU7o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2507,
+        "media_key": "3_2079217330018770944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrdJT6a4AAkFVr.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2079907935095046593",
+        "created_at": "2026-07-22T12:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079907935095046593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BrandoDio31962…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/BrandoDio31962/status/2079217962343702713",
+              "start": 4,
+              "url": "https://t.co/TEeldjAU7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079907935095046593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079217962343702713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/TEeldjAU7o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079217330018770944"
+          ]
+        },
+        "author_id": "1648271925620121605",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2079217962343702713",
+        "created_at": "2026-07-20T14:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079217962343702713"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "RICED"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "AMWF"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "QOD"
+            },
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "RICEDBUNNY"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "ANWO"
+            },
+            {
+              "end": 43,
+              "start": 36,
+              "tag": "RUSSIA"
+            },
+            {
+              "end": 50,
+              "start": 44,
+              "tag": "JAPAN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hAgYMQIaHS",
+              "end": 164,
+              "expanded_url": "https://x.com/BrandoDio31962/status/2079217962343702713/photo/1",
+              "media_key": "3_2079217330018770944",
+              "start": 141,
+              "url": "https://t.co/hAgYMQIaHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079217962343702713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 2492,
+          "like_count": 142,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "#RICED #AMWF #QOD #RICEDBUNNY #ANWO #RUSSIA #JAPAN\nanime made them total hungry for japanese semen, or they just been addicted before anime? https://t.co/hAgYMQIaHS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 1439,
+          "like_count": 10084,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3400
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T10:27:21.000Z",
+        "description": "",
+        "id": "1648271925620121605",
+        "name": "DIO Brando",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044657417393262592/FtZrlMpO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 394,
+          "like_count": 2802,
+          "listed_count": 5,
+          "media_count": 72,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "BrandoDio31962",
+        "verified": false
+      }
+    ]
+  }
+}

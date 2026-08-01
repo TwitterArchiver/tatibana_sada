@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988360961825099776",
+        "3_1988360961833451521"
+      ],
+      "media_source_tweet_id": [
+        "1988360964052578530",
+        "1988360964052578530"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988578575138873547",
+    "created_at": "2025-11-12T12:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988578575138873547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1576821224184770560",
+          "start": 3,
+          "username": "ShuoaShuo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6qDz81Nsab",
+          "end": 67,
+          "expanded_url": "https://x.com/ShuoaShuo/status/1988360964052578530/photo/1",
+          "media_key": "3_1988360961825099776",
+          "start": 44,
+          "url": "https://t.co/6qDz81Nsab"
+        },
+        {
+          "display_url": "pic.x.com/6qDz81Nsab",
+          "end": 67,
+          "expanded_url": "https://x.com/ShuoaShuo/status/1988360964052578530/photo/1",
+          "media_key": "3_1988360961833451521",
+          "start": 44,
+          "url": "https://t.co/6qDz81Nsab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988578575138873547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988360964052578530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShuoaShuo: 这个木柜子似绷非绷的表情我就说在哪里见过，原来是张维为🤭 https://t.co/6qDz81Nsab"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 518,
+        "media_key": "3_1988360961825099776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5gTwo7W0AA-tsc.jpg",
+        "width": 537
+      },
+      {
+        "height": 427,
+        "media_key": "3_1988360961833451521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5gTwo9WQAELajK.jpg",
+        "width": 468
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988360961825099776",
+            "3_1988360961833451521"
+          ],
+          "media_source_tweet_id": [
+            "1988360964052578530",
+            "1988360964052578530"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988578575138873547",
+        "created_at": "2025-11-12T12:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988578575138873547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1576821224184770560",
+              "start": 3,
+              "username": "ShuoaShuo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qDz81Nsab",
+              "end": 67,
+              "expanded_url": "https://x.com/ShuoaShuo/status/1988360964052578530/photo/1",
+              "media_key": "3_1988360961825099776",
+              "start": 44,
+              "url": "https://t.co/6qDz81Nsab"
+            },
+            {
+              "display_url": "pic.x.com/6qDz81Nsab",
+              "end": 67,
+              "expanded_url": "https://x.com/ShuoaShuo/status/1988360964052578530/photo/1",
+              "media_key": "3_1988360961833451521",
+              "start": 44,
+              "url": "https://t.co/6qDz81Nsab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988578575138873547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988360964052578530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShuoaShuo: 这个木柜子似绷非绷的表情我就说在哪里见过，原来是张维为🤭 https://t.co/6qDz81Nsab"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988360961825099776",
+            "3_1988360961833451521"
+          ]
+        },
+        "author_id": "1576821224184770560",
+        "conversation_id": "1988360964052578530",
+        "created_at": "2025-11-11T21:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T22:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988360964052578530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qDz81Nsab",
+              "end": 52,
+              "expanded_url": "https://x.com/ShuoaShuo/status/1988360964052578530/photo/1",
+              "media_key": "3_1988360961825099776",
+              "start": 29,
+              "url": "https://t.co/6qDz81Nsab"
+            },
+            {
+              "display_url": "pic.x.com/6qDz81Nsab",
+              "end": 52,
+              "expanded_url": "https://x.com/ShuoaShuo/status/1988360964052578530/photo/1",
+              "media_key": "3_1988360961833451521",
+              "start": 29,
+              "url": "https://t.co/6qDz81Nsab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988360964052578530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 27431,
+          "like_count": 358,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "这个木柜子似绷非绷的表情我就说在哪里见过，原来是张维为🤭 https://t.co/6qDz81Nsab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 809,
+          "like_count": 5194,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1911
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T06:27:44.000Z",
+        "description": "自由主义| 同情社民| 反对极左和极右| 喜欢看左人派系无限分解和自相残杀的乐子人| 资本与权力的勾结是剥削之源，取消市场经济是贫穷和独裁之源，唯有用民主法制和言论自由扩大工人政治力量，禁止官僚寻租，逼迫资本家之间相互残酷市场竞争，同时具备自由、公平和繁荣的国度才会降临。暴力革命和剥夺私有产权只会导致更恶的剥削",
+        "id": "1576821224184770560",
+        "name": "赵紫阳改革归来，看资本官僚主义土崩瓦解 自由与公平终将到来",
+        "pinned_tweet_id": "1615208777111994368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606149202412998656/-X5YppyN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3613,
+          "following_count": 488,
+          "like_count": 34119,
+          "listed_count": 16,
+          "media_count": 1048,
+          "tweet_count": 14016
+        },
+        "username": "ShuoaShuo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1980631286931943899",
+    "created_at": "2025-10-22T10:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T11:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980946822416986502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "522147771",
+          "start": 0,
+          "username": "N_N_DPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980946822416986502",
+    "in_reply_to_user_id": "522147771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980631286931943899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N_N_DPT 我最好的男性朋友是习近平"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1980631278551482368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ydp20WwAAEwnO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1980631286931943899",
+        "created_at": "2025-10-22T10:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980946822416986502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "522147771",
+              "start": 0,
+              "username": "N_N_DPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980946822416986502",
+        "in_reply_to_user_id": "522147771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980631286931943899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_N_DPT 我最好的男性朋友是习近平"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980631278551482368"
+          ]
+        },
+        "author_id": "522147771",
+        "conversation_id": "1980631286931943899",
+        "created_at": "2025-10-21T13:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T14:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980631286931943899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/n_n_dpt",
+              "end": 28,
+              "expanded_url": "https://ngl.link/n_n_dpt",
+              "start": 5,
+              "status": 200,
+              "title": "@N_N_DPT: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/n_n_dpt",
+              "url": "https://t.co/Uj8XzxC1NP"
+            },
+            {
+              "display_url": "pic.x.com/VRdo9nbNCE",
+              "end": 52,
+              "expanded_url": "https://x.com/N_N_DPT/status/1980631286931943899/photo/1",
+              "media_key": "3_1980631278551482368",
+              "start": 29,
+              "url": "https://t.co/VRdo9nbNCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980631286931943899",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 493,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "meng\nhttps://t.co/Uj8XzxC1NP https://t.co/VRdo9nbNCE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 594,
+          "like_count": 3287,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1557
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "药物科普:https://t.co/pYOLeahG7e\n博客：https://t.co/KtrQvRNIQj\ngalgame资源站：https://t.co/WlcdxeaW1H\n提问箱:https://t.co/E3f9GdHOjQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://www.overdose.day",
+                "start": 5,
+                "url": "https://t.co/pYOLeahG7e"
+              },
+              {
+                "display_url": "blog.pr80.bid",
+                "end": 55,
+                "expanded_url": "https://blog.pr80.bid",
+                "start": 32,
+                "url": "https://t.co/KtrQvRNIQj"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 90,
+                "expanded_url": "https://www.pr80.bid/",
+                "start": 67,
+                "url": "https://t.co/WlcdxeaW1H"
+              },
+              {
+                "display_url": "ngl.link/n_n_dpt",
+                "end": 118,
+                "expanded_url": "https://ngl.link/n_n_dpt",
+                "start": 95,
+                "url": "https://t.co/E3f9GdHOjQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYzGWA"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二丙基色胺🔯",
+        "pinned_tweet_id": "1979485530338603460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2294,
+          "following_count": 2664,
+          "like_count": 977,
+          "listed_count": 6,
+          "media_count": 252,
+          "tweet_count": 1638
+        },
+        "url": "https://t.co/c6WOvYzGWA",
+        "username": "N_N_DPT",
+        "verified": false
+      }
+    ]
+  }
+}

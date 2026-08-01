@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985269370130673664"
+      ],
+      "media_source_tweet_id": [
+        "1985270732281299375"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985381558510092326",
+    "created_at": "2025-11-03T16:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T17:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985381558510092326"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "妬ｸﾝ",
+          "probability": 0.6364,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1643551220383252482",
+          "start": 3,
+          "username": "soui__manshin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N4RUU5APKe",
+          "end": 54,
+          "expanded_url": "https://x.com/soui__manshin/status/1985270732281299375/photo/1",
+          "media_key": "3_1985269370130673664",
+          "start": 31,
+          "url": "https://t.co/N4RUU5APKe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985381558510092326",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985270732281299375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @soui__manshin: 魔鎖妬ｸﾝのお顔よき🖤 https://t.co/N4RUU5APKe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985269370130673664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40X-UYaMAAjyzL.jpg",
+        "width": 1637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985269370130673664"
+          ],
+          "media_source_tweet_id": [
+            "1985270732281299375"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985381558510092326",
+        "created_at": "2025-11-03T16:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985381558510092326"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "妬ｸﾝ",
+              "probability": 0.6364,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1643551220383252482",
+              "start": 3,
+              "username": "soui__manshin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N4RUU5APKe",
+              "end": 54,
+              "expanded_url": "https://x.com/soui__manshin/status/1985270732281299375/photo/1",
+              "media_key": "3_1985269370130673664",
+              "start": 31,
+              "url": "https://t.co/N4RUU5APKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985381558510092326",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985270732281299375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @soui__manshin: 魔鎖妬ｸﾝのお顔よき🖤 https://t.co/N4RUU5APKe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985269370130673664"
+          ]
+        },
+        "author_id": "1643551220383252482",
+        "conversation_id": "1985270732281299375",
+        "created_at": "2025-11-03T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985270732281299375"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "妬ｸﾝ",
+              "probability": 0.5925,
+              "start": 2,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N4RUU5APKe",
+              "end": 35,
+              "expanded_url": "https://x.com/soui__manshin/status/1985270732281299375/photo/1",
+              "media_key": "3_1985269370130673664",
+              "start": 12,
+              "url": "https://t.co/N4RUU5APKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985270732281299375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 15827,
+          "like_count": 1340,
+          "quote_count": 8,
+          "reply_count": 2,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "魔鎖妬ｸﾝのお顔よき🖤 https://t.co/N4RUU5APKe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1982595504287699299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 713,
+          "like_count": 4423,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1709
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T09:49:07.000Z",
+        "description": "ｸｽﾞ男ﾒｲﾝ｜FA #満ｿｳFA｜転載使用禁止 Do not repost｜ご依頼（ｻｲﾄ必読）→https://t.co/zuLnjHCclB｜ ✉️mansouwork@gmail.com｜Skeb→https://t.co/awf1VUqFdV",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 11,
+                "tag": "満ｿｳFA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "souiwork.com",
+                "end": 73,
+                "expanded_url": "https://souiwork.com",
+                "start": 50,
+                "url": "https://t.co/zuLnjHCclB"
+              },
+              {
+                "display_url": "skeb.jp/@soui__manshin",
+                "end": 126,
+                "expanded_url": "http://skeb.jp/@soui__manshin",
+                "start": 103,
+                "url": "https://t.co/awf1VUqFdV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "souiwork.com",
+                "end": 23,
+                "expanded_url": "https://souiwork.com/",
+                "start": 0,
+                "url": "https://t.co/ieBZAqZoST"
+              }
+            ]
+          }
+        },
+        "id": "1643551220383252482",
+        "location": "転載・使用・自作発言・AI学習全て禁止",
+        "name": "満身ｿｳｲ@ﾈｯﾌﾟﾘ販売中",
+        "pinned_tweet_id": "1984213778410668309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837295589123653632/Uo5QyXtb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46777,
+          "following_count": 64,
+          "like_count": 16291,
+          "listed_count": 96,
+          "media_count": 271,
+          "tweet_count": 10077
+        },
+        "url": "https://t.co/ieBZAqZoST",
+        "username": "soui__manshin",
+        "verified": true
+      }
+    ]
+  }
+}

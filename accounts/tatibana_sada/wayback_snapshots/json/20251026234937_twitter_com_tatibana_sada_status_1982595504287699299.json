@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982595500718096385"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1982595504287699299",
+    "created_at": "2025-10-26T23:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T00:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982595504287699299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aC1nSr2jVU",
+          "end": 46,
+          "expanded_url": "https://x.com/tatibana_sada/status/1982595504287699299/photo/1",
+          "media_key": "3_1982595500718096385",
+          "start": 23,
+          "url": "https://t.co/aC1nSr2jVU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982595504287699299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "似乎没有把头扭到足够显出清楚的下颌线的角度。 https://t.co/aC1nSr2jVU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1982595500718096385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4OYGomXAAEAtzc.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982595500718096385"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1982595504287699299",
+        "created_at": "2025-10-26T23:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T00:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982595504287699299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aC1nSr2jVU",
+              "end": 46,
+              "expanded_url": "https://x.com/tatibana_sada/status/1982595504287699299/photo/1",
+              "media_key": "3_1982595500718096385",
+              "start": 23,
+              "url": "https://t.co/aC1nSr2jVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982595504287699299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "似乎没有把头扭到足够显出清楚的下颌线的角度。 https://t.co/aC1nSr2jVU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 631,
+          "like_count": 3515,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1610
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

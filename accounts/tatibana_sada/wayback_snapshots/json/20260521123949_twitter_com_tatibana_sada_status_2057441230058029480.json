@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057441230058029480",
+    "created_at": "2026-05-21T12:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057441230058029480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/smiroyama/status/2057413518903951630",
+          "start": 42,
+          "url": "https://t.co/ZLN7P9wTRk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057441230058029480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057413518903951630",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国就是最典最大最强的意识形态养蛊场，什么立场的洋人都能在中国找到比他极端十倍的人 https://t.co/ZLN7P9wTRk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057441230058029480",
+        "created_at": "2026-05-21T12:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057441230058029480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/smiroyama/status/2057413518903951630",
+              "start": 42,
+              "url": "https://t.co/ZLN7P9wTRk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057441230058029480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057413518903951630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国就是最典最大最强的意识形态养蛊场，什么立场的洋人都能在中国找到比他极端十倍的人 https://t.co/ZLN7P9wTRk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2057413518903951630",
+        "created_at": "2026-05-21T10:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057413518903951630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057413518903951630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1113,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉中国的女权压根就不太正常，带着一股浓浓的法西斯和民粹的味儿，恶心的我头发昏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 1164,
+          "like_count": 8259,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2717
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5487,
+          "following_count": 2282,
+          "like_count": 11673,
+          "listed_count": 17,
+          "media_count": 1750,
+          "tweet_count": 6798
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

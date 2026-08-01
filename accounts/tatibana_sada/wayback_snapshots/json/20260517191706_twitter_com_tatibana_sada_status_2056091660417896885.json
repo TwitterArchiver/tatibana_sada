@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2056084100717396186",
+    "created_at": "2026-05-17T19:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T20:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056091660417896885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1853947357307531267",
+          "start": 0,
+          "username": "dfyzator_15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056091660417896885",
+    "in_reply_to_user_id": "1853947357307531267",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056084100717396186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfyzator_15 You-Know-Where"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2056084100717396186",
+        "created_at": "2026-05-17T19:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056091660417896885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1853947357307531267",
+              "start": 0,
+              "username": "dfyzator_15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056091660417896885",
+        "in_reply_to_user_id": "1853947357307531267",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056084100717396186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfyzator_15 You-Know-Where"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853947357307531267",
+        "conversation_id": "2056084100717396186",
+        "created_at": "2026-05-17T18:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056084100717396186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HuntersOfNazis…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/HuntersOfNazis/status/2055821174538469782",
+              "start": 15,
+              "url": "https://t.co/kLUMJAxXuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056084100717396186",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055821174538469782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Guess location https://t.co/kLUMJAxXuz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1124,
+          "like_count": 7885,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2588
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T23:48:00.000Z",
+        "description": "Христианский социалист за акселерационизм и автоматизацию живу в🇷🇺 люблю🇨🇳🇻🇪☫🇧🇾🇷🇸🇧🇷🇰🇵🇻🇳🇨🇺🇧🇫",
+        "id": "1853947357307531267",
+        "location": "Магнитогорск, Челябинская обла",
+        "name": "dfyzator15☭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050722709978730496/6dS0lxMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 101,
+          "like_count": 4829,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 247
+        },
+        "username": "dfyzator_15",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1966275408275583288",
+    "created_at": "2025-11-01T09:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T10:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984548837260935366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1339446920511569920",
+          "start": 0,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984548837260935366",
+    "in_reply_to_user_id": "1339446920511569920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966275408275583288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shudesu00 我老人家的经验是淘宝桶装伏特加，一桶五升70块。然后随便加果味的碳酸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1966275408275583288",
+        "created_at": "2025-11-01T09:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T10:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984548837260935366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984548837260935366",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966275408275583288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shudesu00 我老人家的经验是淘宝桶装伏特加，一桶五升70块。然后随便加果味的碳酸。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "1966275408275583288",
+        "created_at": "2025-09-11T22:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T23:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966275408275583288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966275408275583288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1472,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要戒pr降耐药，打算等下去买便宜白酒兑饮料喝，搜了下小红书牛栏山兑什么好喝看了一堆帖子我的结论是雪碧和红哞，一会我都买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 685,
+          "like_count": 3983,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1657
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "ftx_hrt中_They/it_习惯性点赞_过量_aspd_愛🩵",
+        "id": "1339446920511569920",
+        "name": "小树",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932288019887001600/qzDa0LNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4215,
+          "following_count": 2209,
+          "like_count": 118201,
+          "listed_count": 7,
+          "media_count": 1652,
+          "tweet_count": 17567
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

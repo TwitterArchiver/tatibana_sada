@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2060020766910140643",
+    "created_at": "2026-05-28T19:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060086702417617098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1980140172726673408",
+          "start": 0,
+          "username": "RenChan_VmV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060086702417617098",
+    "in_reply_to_user_id": "1980140172726673408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060020766910140643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RenChan_VmV 我想检查你的b"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060020766910140643].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060020766910140643",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060020766910140643"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2060020766910140643",
+        "created_at": "2026-05-28T19:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060086702417617098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1980140172726673408",
+              "start": 0,
+              "username": "RenChan_VmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060086702417617098",
+        "in_reply_to_user_id": "1980140172726673408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060020766910140643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RenChan_VmV 我想检查你的b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 1250,
+          "like_count": 8930,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3034
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T05:13:10.000Z",
+        "description": "He/She/They 性取向&性别认同未知🏳️‍🌈 友跨 全力支持争取性少数群体权益|社会民主主义🌹中间派偏左 改良派|键政暂时闭关|\n对数码感兴趣的小白｜水平稀烂的音游入|🇩🇪学习中\n精神状态负分这块",
+        "id": "1980140172726673408",
+        "location": "中華自由聯邦武漢市",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2060018859944685900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 708,
+          "like_count": 52718,
+          "listed_count": 6,
+          "media_count": 179,
+          "tweet_count": 10090
+        },
+        "username": "RenChan_VmV",
+        "verified": true
+      }
+    ]
+  }
+}

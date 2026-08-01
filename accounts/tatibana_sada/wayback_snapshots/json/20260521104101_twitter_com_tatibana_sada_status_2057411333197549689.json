@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057074122962649410",
+    "created_at": "2026-05-21T10:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T11:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057411333197549689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "742784544",
+          "start": 0,
+          "username": "Steyn_123"
+        },
+        {
+          "end": 27,
+          "id": "165186678",
+          "start": 11,
+          "username": "feziledhlamini_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057411333197549689",
+    "in_reply_to_user_id": "742784544",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057352219502989575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Steyn_123 @feziledhlamini_ If the rich in USA can do whatever they want, that's why USA is declining."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057074122962649410",
+        "created_at": "2026-05-21T10:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057411333197549689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "742784544",
+              "start": 0,
+              "username": "Steyn_123"
+            },
+            {
+              "end": 27,
+              "id": "165186678",
+              "start": 11,
+              "username": "feziledhlamini_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057411333197549689",
+        "in_reply_to_user_id": "742784544",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057352219502989575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Steyn_123 @feziledhlamini_ If the rich in USA can do whatever they want, that's why USA is declining."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "742784544",
+        "conversation_id": "2057074122962649410",
+        "created_at": "2026-05-21T06:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057352219502989575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "165186678",
+              "start": 0,
+              "username": "feziledhlamini_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057352219502989575",
+        "in_reply_to_user_id": "165186678",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057074122962649410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feziledhlamini_ USA 100%. I'd rather be poor or rich in usa than China.\n\nIf you are rich in USA you can do whatever you want with your money. In China it's literally illegal and their state interferes with your business.\n\nGo read up about Chinese censorship bud, you are not well read."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 1162,
+          "like_count": 8255,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2705
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-07T12:14:58.000Z",
+        "description": "",
+        "id": "742784544",
+        "name": "Steyn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1413133730550407168/HRDz_zqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 34,
+          "like_count": 16288,
+          "listed_count": 4,
+          "media_count": 295,
+          "tweet_count": 12342
+        },
+        "username": "Steyn_123",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-10T21:28:05.000Z",
+        "description": "scratch golfer | tech | books | financial models | DCom Advisory Board | rare alchemist | design",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "greenscooterza.com",
+                "end": 23,
+                "expanded_url": "http://www.greenscooterza.com",
+                "start": 0,
+                "url": "https://t.co/hrsyVqU3yf"
+              }
+            ]
+          }
+        },
+        "id": "165186678",
+        "location": "Narnia",
+        "name": "Lusibalukhulu 🖍",
+        "pinned_tweet_id": "2033423195412312259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022195724943831040/l1RmfkXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25707,
+          "following_count": 2227,
+          "like_count": 16814,
+          "listed_count": 73,
+          "media_count": 27185,
+          "tweet_count": 218700
+        },
+        "url": "https://t.co/hrsyVqU3yf",
+        "username": "feziledhlamini_",
+        "verified": true
+      }
+    ]
+  }
+}

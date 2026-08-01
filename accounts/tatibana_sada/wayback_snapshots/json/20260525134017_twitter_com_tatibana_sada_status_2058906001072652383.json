@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2058901242110427622",
+    "created_at": "2026-05-25T13:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058906001072652383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "jusirthree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058906001072652383",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058901242110427622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jusirthree 想草你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1531,
+        "media_key": "3_2058901230047682560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKvwpybYAAe3Yq.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058901242110427622",
+        "created_at": "2026-05-25T13:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058906001072652383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "jusirthree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058906001072652383",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058901242110427622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jusirthree 想草你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058901230047682560"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2058901242110427622",
+        "created_at": "2026-05-25T13:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058901242110427622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6TuBupsWsc",
+              "end": 36,
+              "expanded_url": "https://x.com/jusirthree/status/2058901242110427622/photo/1",
+              "media_key": "3_2058901230047682560",
+              "start": 13,
+              "url": "https://t.co/6TuBupsWsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058901242110427622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们关注我的原因是什么？ https://t.co/6TuBupsWsc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 1205,
+          "like_count": 8606,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2877
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)",
+        "id": "2026283442259017729",
+        "name": "jusir",
+        "pinned_tweet_id": "2049539673614418049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 1067,
+          "like_count": 3870,
+          "listed_count": 8,
+          "media_count": 546,
+          "tweet_count": 2135
+        },
+        "username": "jusirthree",
+        "verified": true
+      }
+    ]
+  }
+}

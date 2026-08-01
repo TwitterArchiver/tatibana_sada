@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987669769408139399",
+    "created_at": "2025-11-10T18:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T19:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987957152829633023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1484455017130041345",
+          "start": 0,
+          "username": "JunYin29422166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987957152829633023",
+    "in_reply_to_user_id": "1484455017130041345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987669769408139399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JunYin29422166 到底统计学上，黑人是愚笨还是聪明其实也是无关紧要的事情。唯独重要的是要不要肯定性平权。而黑人本身的情况也是正反都能当依据的。so我觉得种族真相学图一乐就好玩了。\n还有，我认为广东人地表最聪明。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987669769408139399",
+        "created_at": "2025-11-10T18:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T19:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987957152829633023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1484455017130041345",
+              "start": 0,
+              "username": "JunYin29422166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987957152829633023",
+        "in_reply_to_user_id": "1484455017130041345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987669769408139399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JunYin29422166 到底统计学上，黑人是愚笨还是聪明其实也是无关紧要的事情。唯独重要的是要不要肯定性平权。而黑人本身的情况也是正反都能当依据的。so我觉得种族真相学图一乐就好玩了。\n还有，我认为广东人地表最聪明。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484455017130041345",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1833933476950618113",
+              "name": "Super Bowl LIX: Chiefs at Eagles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304458033888505856",
+              "name": "Super Bowl"
+            }
+          }
+        ],
+        "conversation_id": "1987669769408139399",
+        "created_at": "2025-11-09T23:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T00:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987669769408139399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987669769408139399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1585,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "沃森当年说的有关种族智商基因的言论，只是他的一个观点。 科学界是否普遍接受并不由他共同发现了DNA双螺旋结构而决定。 \n钱学森晚年也有很多“大”观点，气功，人体特异功能什么的。\n阴谋论就是这样， 一位大牛说了支持他们的观点，弹冠相庆，而忽视其他99位反对的大牛。 \n\nps。 智力IQ测试并不可靠。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 795,
+          "like_count": 5005,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1850
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T09:17:25.000Z",
+        "description": "“独立思考”在人间的主要用途是：为预设的结论作“自圆其说”。",
+        "id": "1484455017130041345",
+        "name": "Dr. Yin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536307951421427712/LwfXX-fP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6767,
+          "following_count": 66,
+          "like_count": 7953,
+          "listed_count": 47,
+          "media_count": 399,
+          "tweet_count": 7589
+        },
+        "username": "JunYin29422166",
+        "verified": false
+      }
+    ]
+  }
+}

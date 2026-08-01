@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2058910468329394675",
+    "created_at": "2026-05-26T11:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059237285233819667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1641816257124003841",
+          "start": 0,
+          "username": "Rakukan_shugi"
+        },
+        {
+          "end": 30,
+          "id": "2041449281677045760",
+          "start": 15,
+          "username": "Sorcerer198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059237285233819667",
+    "in_reply_to_user_id": "1641816257124003841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059236811986092224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rakukan_shugi @Sorcerer198964 因为我善"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058910468329394675",
+        "created_at": "2026-05-26T11:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059237285233819667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1641816257124003841",
+              "start": 0,
+              "username": "Rakukan_shugi"
+            },
+            {
+              "end": 30,
+              "id": "2041449281677045760",
+              "start": 15,
+              "username": "Sorcerer198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059237285233819667",
+        "in_reply_to_user_id": "1641816257124003841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059236811986092224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rakukan_shugi @Sorcerer198964 因为我善"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641816257124003841",
+        "conversation_id": "2058910468329394675",
+        "created_at": "2026-05-26T11:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059236811986092224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 30,
+              "id": "2041449281677045760",
+              "start": 15,
+              "username": "Sorcerer198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059236811986092224",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058910468329394675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @Sorcerer198964 首先:这个观点挺有意思的，毕竟是一个很不起眼的角度\n其次，你的高高在上和你理论上的他们对自杀的集体崇拜都挺难绷的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 1218,
+          "like_count": 8728,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2920
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T14:54:48.000Z",
+        "description": "尽情做梦吧，梦里什么都有\n杂多 @Hikan_shugi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Hikan_shugi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rakukan_shugi4…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rakukan_shugi49208",
+                "start": 0,
+                "url": "https://t.co/i1vmRSABG2"
+              }
+            ]
+          }
+        },
+        "id": "1641816257124003841",
+        "location": "utopia",
+        "name": "耳机重度依赖",
+        "pinned_tweet_id": "2041108934740599265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809942375684255744/t1TRsIwW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2613,
+          "following_count": 767,
+          "like_count": 106679,
+          "listed_count": 6,
+          "media_count": 1192,
+          "tweet_count": 14340
+        },
+        "url": "https://t.co/i1vmRSABG2",
+        "username": "Rakukan_shugi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 652,
+          "like_count": 755,
+          "listed_count": 2,
+          "media_count": 304,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

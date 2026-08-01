@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2064251437841068242",
+    "created_at": "2026-06-09T12:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064326594068705700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2055911737208315904",
+          "start": 0,
+          "username": "omgnowihasfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064326594068705700",
+    "in_reply_to_user_id": "2055911737208315904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064251437841068242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgnowihasfish 👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064251437841068242",
+        "created_at": "2026-06-09T12:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064326594068705700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055911737208315904",
+              "start": 0,
+              "username": "omgnowihasfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064326594068705700",
+        "in_reply_to_user_id": "2055911737208315904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064251437841068242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgnowihasfish 👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055911737208315904",
+        "conversation_id": "2064251437841068242",
+        "created_at": "2026-06-09T07:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064251437841068242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064251437841068242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沒接觸過跨的老中看黃順直男好噁心🤮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1290,
+          "like_count": 9151,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3150
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T07:23:39.000Z",
+        "description": "座標台灣台中市 \n2009/12/24",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=Gnc7ktA0TsADpGRe",
+                "start": 0,
+                "url": "https://t.co/FZ1JCwuotB"
+              }
+            ]
+          }
+        },
+        "id": "2055911737208315904",
+        "location": "台中市, 台灣",
+        "name": "黃瓜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055912532402216960/jnl7BbH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 540,
+          "like_count": 2082,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 463
+        },
+        "url": "https://t.co/FZ1JCwuotB",
+        "username": "omgnowihasfish",
+        "verified": false
+      }
+    ]
+  }
+}

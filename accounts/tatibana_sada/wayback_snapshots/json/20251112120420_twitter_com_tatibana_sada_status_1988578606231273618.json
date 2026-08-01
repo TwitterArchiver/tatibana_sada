@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988356116971945984"
+      ],
+      "media_source_tweet_id": [
+        "1988356118792503684"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988578606231273618",
+    "created_at": "2025-11-12T12:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988578606231273618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1587696726022017027",
+          "start": 3,
+          "username": "Ephraim_deca"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0B7G80J4RW",
+          "end": 76,
+          "expanded_url": "https://x.com/Ephraim_deca/status/1988356118792503684/photo/1",
+          "media_key": "3_1988356116971945984",
+          "start": 53,
+          "url": "https://t.co/0B7G80J4RW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988578606231273618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988356118792503684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ephraim_deca: 恨我一生自作愆尤、愿我思言行为、能具谷歌所具、为得愈显天主光荣... https://t.co/0B7G80J4RW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 987,
+        "media_key": "3_1988356116971945984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5gPWocWgAAdpPp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988356116971945984"
+          ],
+          "media_source_tweet_id": [
+            "1988356118792503684"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988578606231273618",
+        "created_at": "2025-11-12T12:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988578606231273618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1587696726022017027",
+              "start": 3,
+              "username": "Ephraim_deca"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0B7G80J4RW",
+              "end": 76,
+              "expanded_url": "https://x.com/Ephraim_deca/status/1988356118792503684/photo/1",
+              "media_key": "3_1988356116971945984",
+              "start": 53,
+              "url": "https://t.co/0B7G80J4RW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988578606231273618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988356118792503684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ephraim_deca: 恨我一生自作愆尤、愿我思言行为、能具谷歌所具、为得愈显天主光荣... https://t.co/0B7G80J4RW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988356116971945984"
+          ]
+        },
+        "author_id": "1587696726022017027",
+        "conversation_id": "1988356118792503684",
+        "created_at": "2025-11-11T21:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T22:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988356118792503684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0B7G80J4RW",
+              "end": 58,
+              "expanded_url": "https://x.com/Ephraim_deca/status/1988356118792503684/photo/1",
+              "media_key": "3_1988356116971945984",
+              "start": 35,
+              "url": "https://t.co/0B7G80J4RW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988356118792503684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9630,
+          "like_count": 175,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "恨我一生自作愆尤、愿我思言行为、能具谷歌所具、为得愈显天主光荣... https://t.co/0B7G80J4RW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 809,
+          "like_count": 5195,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1912
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T06:43:01.000Z",
+        "description": "加拿大荒原一秒都待不下去了//中文/English/Español//\n“...应持守公允，并切记，人灵之得救，在教会中常应视为最高无上之法律。”🇻🇦\n电报：https://t.co/TfjP9W0sVX\n垃圾箱：https://t.co/BUKhQfYqVS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Clemens777hepta",
+                "end": 102,
+                "expanded_url": "http://t.me/Clemens777hepta",
+                "start": 79,
+                "url": "https://t.co/TfjP9W0sVX"
+              },
+              {
+                "display_url": "ngl.link/clemensdsh",
+                "end": 130,
+                "expanded_url": "https://ngl.link/clemensdsh",
+                "start": 107,
+                "url": "https://t.co/BUKhQfYqVS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clemensdsh.github.io",
+                "end": 23,
+                "expanded_url": "http://clemensdsh.github.io",
+                "start": 0,
+                "url": "https://t.co/5hQ1rQqSqz"
+              }
+            ]
+          }
+        },
+        "id": "1587696726022017027",
+        "location": "Hamilton, Ontario",
+        "name": "楊柳條兒青",
+        "pinned_tweet_id": "1985821884315849001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508130042896384/4QZdgjiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 3976,
+          "like_count": 69224,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1836
+        },
+        "url": "https://t.co/5hQ1rQqSqz",
+        "username": "Ephraim_deca",
+        "verified": false
+      }
+    ]
+  }
+}

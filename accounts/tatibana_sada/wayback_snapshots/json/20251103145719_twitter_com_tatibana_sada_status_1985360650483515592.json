@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1833933476950618113",
+          "name": "Super Bowl LIX: Chiefs at Eagles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "689566314835259392",
+          "name": "NFL"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304458033888505856",
+          "name": "Super Bowl"
+        }
+      }
+    ],
+    "conversation_id": "1985360650483515592",
+    "created_at": "2025-11-03T14:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T15:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985360650483515592"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1985360650483515592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我係广州人。上个礼拜我做咗个DNA测试，点知发现原来自己80%係越南人。成个世界即刻冧咗，完全接受唔到自己嘅身份，想死又冇胆。但係而家我发现，原来间测试公司係北京嘅。实係班北佬嘅阴谋嚟㗎！我建议大家千祈唔好做呢啲DNA测试，因为我百分百係衣冠南渡嘅北方汉人，多谢合作。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1833933476950618113",
+              "name": "Super Bowl LIX: Chiefs at Eagles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304458033888505856",
+              "name": "Super Bowl"
+            }
+          }
+        ],
+        "conversation_id": "1985360650483515592",
+        "created_at": "2025-11-03T14:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985360650483515592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985360650483515592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我係广州人。上个礼拜我做咗个DNA测试，点知发现原来自己80%係越南人。成个世界即刻冧咗，完全接受唔到自己嘅身份，想死又冇胆。但係而家我发现，原来间测试公司係北京嘅。实係班北佬嘅阴谋嚟㗎！我建议大家千祈唔好做呢啲DNA测试，因为我百分百係衣冠南渡嘅北方汉人，多谢合作。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 709,
+          "like_count": 4362,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1701
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

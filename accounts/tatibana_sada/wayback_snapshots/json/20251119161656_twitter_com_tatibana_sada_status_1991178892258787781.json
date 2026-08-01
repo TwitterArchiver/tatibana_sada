@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1990703597043265959",
+    "created_at": "2025-11-19T16:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T17:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991178892258787781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1511338058083598340",
+          "start": 0,
+          "username": "HappyBoy52086"
+        },
+        {
+          "end": 28,
+          "id": "931807368349810688",
+          "start": 15,
+          "username": "jike112_jike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991178892258787781",
+    "in_reply_to_user_id": "1511338058083598340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990979194592063583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyBoy52086 @jike112_jike 纯粹单纯留长的话会很糟糕，像是流浪汉，但是我廉价七成的说比劳改头好上一点，最好是按老祖宗的智慧上面束发，前面可以与时俱进搞几个刘海，参照流行的男星来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1990703597043265959",
+        "created_at": "2025-11-19T16:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T17:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991178892258787781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1511338058083598340",
+              "start": 0,
+              "username": "HappyBoy52086"
+            },
+            {
+              "end": 28,
+              "id": "931807368349810688",
+              "start": 15,
+              "username": "jike112_jike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991178892258787781",
+        "in_reply_to_user_id": "1511338058083598340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990979194592063583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyBoy52086 @jike112_jike 纯粹单纯留长的话会很糟糕，像是流浪汉，但是我廉价七成的说比劳改头好上一点，最好是按老祖宗的智慧上面束发，前面可以与时俱进搞几个刘海，参照流行的男星来。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511338058083598340",
+        "conversation_id": "1990703597043265959",
+        "created_at": "2025-11-19T03:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T04:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990979194592063583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "931807368349810688",
+              "start": 0,
+              "username": "jike112_jike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990979194592063583",
+        "in_reply_to_user_id": "931807368349810688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1542,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990703597043265959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jike112_jike 不行 男人顏值不行留長髮很難駕馭\n\n除非唱戲那種濃妝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 864,
+          "like_count": 5642,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2020
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T13:43:11.000Z",
+        "description": "介紹泰國記事🇹🇭、台夫173/79泰妻 155/45、談飲食男女夜遊、日檢N4、業餘推拿師、業餘泰語老師、有問題可私訊(DM)",
+        "id": "1511338058083598340",
+        "name": "Happy Boy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929822833011838978/398CRcSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 145,
+          "like_count": 435,
+          "listed_count": 4,
+          "media_count": 808,
+          "tweet_count": 8512
+        },
+        "username": "HappyBoy52086",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T08:52:43.000Z",
+        "description": "男性要学会保护自己",
+        "id": "931807368349810688",
+        "name": "jike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770473487389294594/AqsssmrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6698,
+          "following_count": 219,
+          "like_count": 6905,
+          "listed_count": 31,
+          "media_count": 783,
+          "tweet_count": 2914
+        },
+        "username": "jike112_jike",
+        "verified": false
+      }
+    ]
+  }
+}

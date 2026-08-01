@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1981596516046573750",
+    "created_at": "2025-10-24T16:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T17:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981762358264705200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981762358264705200",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981596516046573750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoynqi3 提到这个问题我就想到钢主席的英明论断「村民的武力优势足以严重牵制消耗县域级别的警察力量，就像电影盲山里几个民警根本斗不过一群疯狂的村民」。\n所以，指望tiktok和城市化绝育中国人是最平稳的办法，但是说不定绝育到一半开始大洪水了。\n最终我还是觉得，想要解决，只能靠女性的武装力量镇压农逼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1981596516046573750",
+        "created_at": "2025-10-24T16:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T17:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981762358264705200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981762358264705200",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981596516046573750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoynqi3 提到这个问题我就想到钢主席的英明论断「村民的武力优势足以严重牵制消耗县域级别的警察力量，就像电影盲山里几个民警根本斗不过一群疯狂的村民」。\n所以，指望tiktok和城市化绝育中国人是最平稳的办法，但是说不定绝育到一半开始大洪水了。\n最终我还是觉得，想要解决，只能靠女性的武装力量镇压农逼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "1981596516046573750",
+        "created_at": "2025-10-24T05:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T06:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981596516046573750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fcktrumppp/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/fcktrumppp/status/1981595593656152327",
+              "start": 46,
+              "url": "https://t.co/x4ta3vyZVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981596516046573750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 488,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981595593656152327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去监狱舔你董爸爸的屁股吧😜董学家也配谈论自由论题了，美化拐卖的人装人类一万遍也是低级生物。 https://t.co/x4ta3vyZVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 622,
+          "like_count": 3478,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1598
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "yo89yo64",
+        "pinned_tweet_id": "1976511377679487385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672979337656631298/mQbOFn-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3089,
+          "following_count": 179,
+          "like_count": 23242,
+          "listed_count": 11,
+          "media_count": 225,
+          "tweet_count": 5686
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2023455047942914461",
+    "created_at": "2026-02-16T17:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T18:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023455047942914461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SNzhende2007/s…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/SNzhende2007/status/2022610358339551333",
+          "start": 29,
+          "url": "https://t.co/ZcFM5APbSF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023455047942914461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022610358339551333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你还没叮到咚鸡吗？「跨性别」女性正在压榨女性的生存空间。 https://t.co/ZcFM5APbSF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2023455047942914461",
+        "created_at": "2026-02-16T17:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023455047942914461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SNzhende2007/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/SNzhende2007/status/2022610358339551333",
+              "start": 29,
+              "url": "https://t.co/ZcFM5APbSF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023455047942914461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022610358339551333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你还没叮到咚鸡吗？「跨性别」女性正在压榨女性的生存空间。 https://t.co/ZcFM5APbSF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628358190655246338",
+        "conversation_id": "2022610358339551333",
+        "created_at": "2026-02-14T09:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022610358339551333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022610358339551333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 119382,
+          "like_count": 264,
+          "quote_count": 33,
+          "reply_count": 56,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "男娘完全在压榨跨女生存空间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 1007,
+          "like_count": 7216,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2441
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T11:37:28.000Z",
+        "description": "她/祂/07/sub/虐腹/跨女/lesfem/(g/acc)",
+        "id": "1628358190655246338",
+        "name": "贞德",
+        "pinned_tweet_id": "2018572850706432204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762302331314667520/gTSuaeNo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2836,
+          "following_count": 400,
+          "like_count": 9982,
+          "listed_count": 3,
+          "media_count": 369,
+          "tweet_count": 2507
+        },
+        "username": "SNzhende2007",
+        "verified": false
+      }
+    ]
+  }
+}

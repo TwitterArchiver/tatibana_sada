@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985563369173405938",
+    "created_at": "2025-11-04T09:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T10:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985642658291929178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818119930329608192",
+          "start": 0,
+          "username": "KarlRitt3r"
+        },
+        {
+          "end": 27,
+          "id": "1466640500467769346",
+          "start": 12,
+          "username": "Biden_is_bitch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985642658291929178",
+    "in_reply_to_user_id": "1818119930329608192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985636287970480587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarlRitt3r @Biden_is_bitch 何不药曲健人一边一国，这叫建成索多玛示范区"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985563369173405938",
+        "created_at": "2025-11-04T09:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T10:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985642658291929178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818119930329608192",
+              "start": 0,
+              "username": "KarlRitt3r"
+            },
+            {
+              "end": 27,
+              "id": "1466640500467769346",
+              "start": 12,
+              "username": "Biden_is_bitch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985642658291929178",
+        "in_reply_to_user_id": "1818119930329608192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985636287970480587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarlRitt3r @Biden_is_bitch 何不药曲健人一边一国，这叫建成索多玛示范区"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818119930329608192",
+        "conversation_id": "1985563369173405938",
+        "created_at": "2025-11-04T09:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T10:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985636287970480587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1466640500467769346",
+              "start": 0,
+              "username": "Biden_is_bitch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985636287970480587",
+        "in_reply_to_user_id": "1466640500467769346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985563369173405938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Biden_is_bitch 这29%是什么拟人生物啊，磕点药算了还真想全民吸毒吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1982595504287699299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 723,
+          "like_count": 4569,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1729
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T03:02:40.000Z",
+        "description": "得福不知今日享，神宗皇帝太平年",
+        "id": "1818119930329608192",
+        "name": "王佐Jünger",
+        "pinned_tweet_id": "1982235961787302287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981968920572465152/ZK8I-jX8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 62,
+          "like_count": 1019,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 2818
+        },
+        "username": "KarlRitt3r",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-03T05:29:06.000Z",
+        "description": "现实主义者之所以误判对手，是因为他认为对手跟自己一样理性—马基雅维利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KwouL",
+                "end": 23,
+                "expanded_url": "https://t.me/KwouL",
+                "start": 0,
+                "url": "https://t.co/vm817skdMe"
+              }
+            ]
+          }
+        },
+        "id": "1466640500467769346",
+        "location": "Regnum Teutonicorum",
+        "name": "无忧宫匿名用户",
+        "pinned_tweet_id": "1966816275067175055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881349672708833280/b41PBgNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 218,
+          "like_count": 14271,
+          "listed_count": 8,
+          "media_count": 2869,
+          "tweet_count": 17752
+        },
+        "url": "https://t.co/vm817skdMe",
+        "username": "Biden_is_bitch",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2081446845725938051",
+    "created_at": "2026-07-26T18:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081446845725938051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4698pjxbs/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/4698pjxbs/status/1907479132423757864",
+          "start": 5,
+          "url": "https://t.co/kp2LiqQFeU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081446845725938051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907479132423757864",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想操你 https://t.co/kp2LiqQFeU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2081446845725938051",
+        "created_at": "2026-07-26T18:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081446845725938051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4698pjxbs/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/4698pjxbs/status/1907479132423757864",
+              "start": 5,
+              "url": "https://t.co/kp2LiqQFeU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081446845725938051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907479132423757864",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想操你 https://t.co/kp2LiqQFeU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854099041396899840",
+        "conversation_id": "1907479132423757864",
+        "created_at": "2025-04-02T17:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T18:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907479132423757864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907479132423757864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 26450,
+          "like_count": 126,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有互FO需求的朋友可以点赞本条或者留言哦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 1446,
+          "like_count": 10179,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3412
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T09:52:30.000Z",
+        "description": "🚪114514/腰椎间盘突出/静脉曲张/过敏性鼻炎/碳水摄入成瘾",
+        "id": "1854099041396899840",
+        "name": "张春桥🇵🇸🇺🇦",
+        "pinned_tweet_id": "1907479132423757864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080026995795042304/SQ_xrPH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 880,
+          "like_count": 10684,
+          "listed_count": 10,
+          "media_count": 181,
+          "tweet_count": 6559
+        },
+        "url": "",
+        "username": "4698pjxbs",
+        "verified": false
+      }
+    ]
+  }
+}

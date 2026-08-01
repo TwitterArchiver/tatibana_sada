@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2058662707922981098",
+    "created_at": "2026-05-25T19:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T20:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058993802153693559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1220627112295428096",
+          "start": 0,
+          "username": "BeiJing_Talking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058993802153693559",
+    "in_reply_to_user_id": "1220627112295428096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058662707922981098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeiJing_Talking 日本人要多反思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058662707922981098",
+        "created_at": "2026-05-25T19:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T20:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058993802153693559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1220627112295428096",
+              "start": 0,
+              "username": "BeiJing_Talking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058993802153693559",
+        "in_reply_to_user_id": "1220627112295428096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058662707922981098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeiJing_Talking 日本人要多反思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1220627112295428096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743196",
+              "name": "Forza"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743196",
+              "name": "Forza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898463822381057",
+              "name": "Racing games"
+            }
+          }
+        ],
+        "conversation_id": "2058662707922981098",
+        "created_at": "2026-05-24T21:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T22:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058662707922981098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pirat_nation/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/pirat_nation/status/2058578776489910313",
+              "start": 35,
+              "url": "https://t.co/4qrKQTYKWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058662707922981098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14355,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058578776489910313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這真的很丟人 全球好評的一款遊戲 卻因為舞台在日本 被中國人差評 🤮 https://t.co/4qrKQTYKWz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1210,
+          "like_count": 8634,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2884
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-24T08:39:30.000Z",
+        "description": "觀念師 / 油管頻道「北靜 不靜音」BeiJing Talking：https://t.co/usTPllyehN / 作家 / 小說作品：「一」「天市」「獄門疆」「虛舟之呂」 / 劇本作品：「時空隱士」 / 個人電子書店：https://t.co/Ldv01VdKvZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "YouTube.com/@BeiJing_Talki…",
+                "end": 57,
+                "expanded_url": "http://YouTube.com/@BeiJing_Talking",
+                "start": 34,
+                "url": "https://t.co/usTPllyehN"
+              },
+              {
+                "display_url": "Bei-Jing.myshopify.com",
+                "end": 135,
+                "expanded_url": "http://Bei-Jing.myshopify.com",
+                "start": 112,
+                "url": "https://t.co/Ldv01VdKvZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "BeiJing.2084Studio.com",
+                "end": 23,
+                "expanded_url": "https://BeiJing.2084Studio.com",
+                "start": 0,
+                "url": "https://t.co/uD9m1aPirX"
+              }
+            ]
+          }
+        },
+        "id": "1220627112295428096",
+        "location": "Tian City",
+        "name": "北靜 Bei.Jing",
+        "pinned_tweet_id": "2058930049122799840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053171506717339654/ZYLPCk6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6896,
+          "following_count": 1162,
+          "like_count": 27420,
+          "listed_count": 32,
+          "media_count": 4511,
+          "tweet_count": 34388
+        },
+        "url": "https://t.co/uD9m1aPirX",
+        "username": "BeiJing_Talking",
+        "verified": true
+      }
+    ]
+  }
+}

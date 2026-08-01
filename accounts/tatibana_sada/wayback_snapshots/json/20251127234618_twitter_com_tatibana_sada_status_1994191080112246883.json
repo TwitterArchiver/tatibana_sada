@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1994191080112246883",
+    "created_at": "2025-11-27T23:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T00:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994191080112246883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692711484474929152",
+          "start": 3,
+          "username": "dongbagel114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994191080112246883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993753695872536868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dongbagel114: 女的可能到45岁才会了解一个事实就是她们的情绪和感受真的和猪粪一样廉价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1994191080112246883",
+        "created_at": "2025-11-27T23:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T00:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994191080112246883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692711484474929152",
+              "start": 3,
+              "username": "dongbagel114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994191080112246883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993753695872536868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dongbagel114: 女的可能到45岁才会了解一个事实就是她们的情绪和感受真的和猪粪一样廉价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692711484474929152",
+        "conversation_id": "1993753695872536868",
+        "created_at": "2025-11-26T18:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993753695872536868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oceantides_moo…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/oceantides_moon/status/1993560644919214139",
+              "start": 36,
+              "url": "https://t.co/NYShNmBYWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993753695872536868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 37080,
+          "like_count": 358,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993560644919214139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女的可能到45岁才会了解一个事实就是她们的情绪和感受真的和猪粪一样廉价 https://t.co/NYShNmBYWp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 953,
+          "like_count": 6357,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2286
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T01:34:11.000Z",
+        "description": "曲婉婷资深粉丝，喜欢东北臭脚白袜体育生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dongbabysima.com",
+                "end": 23,
+                "expanded_url": "http://www.dongbabysima.com",
+                "start": 0,
+                "url": "https://t.co/lrqxU0mWz7"
+              }
+            ]
+          }
+        },
+        "id": "1692711484474929152",
+        "location": "满猪利亚",
+        "name": "马艳莉",
+        "pinned_tweet_id": "1748738182114382279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988070472823828480/XIC3uGM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 706,
+          "like_count": 5581,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2389
+        },
+        "url": "https://t.co/lrqxU0mWz7",
+        "username": "dongbagel114",
+        "verified": false
+      }
+    ]
+  }
+}

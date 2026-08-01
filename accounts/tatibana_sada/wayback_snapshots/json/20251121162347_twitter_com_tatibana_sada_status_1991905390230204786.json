@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1926704903545552897"
+      ],
+      "media_source_tweet_id": [
+        "1926705082680136175"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991905390230204786",
+    "created_at": "2025-11-21T16:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T17:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991905390230204786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1246119337921892352",
+          "start": 3,
+          "username": "SupremeLeaderXi"
+        },
+        {
+          "end": 31,
+          "id": "1576821224184770560",
+          "start": 21,
+          "username": "ShuoaShuo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4vGqdtCy5i",
+          "end": 68,
+          "expanded_url": "https://x.com/SupremeLeaderXi/status/1926705082680136175/video/1",
+          "media_key": "13_1926704903545552897",
+          "start": 45,
+          "url": "https://t.co/4vGqdtCy5i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991905390230204786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926705082680136175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SupremeLeaderXi: @ShuoaShuo 笑出来的自己上局里自首😡 https://t.co/4vGqdtCy5i"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9427,
+        "height": 1280,
+        "media_key": "13_1926704903545552897",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1926704903545552897/img/kqlaKrQ1YD2BLV5L.jpg",
+        "public_metrics": {
+          "view_count": 1126
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926704903545552897/vid/avc1/320x568/MUKS3O86aITA1kuB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926704903545552897/vid/avc1/480x852/efqy44kqlm-zZFhq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926704903545552897/vid/avc1/720x1280/7Km1HPdWZPFqzuDg.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1926704903545552897/pl/RRwGsduUETNnwHOD.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1926704903545552897"
+          ],
+          "media_source_tweet_id": [
+            "1926705082680136175"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991905390230204786",
+        "created_at": "2025-11-21T16:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T17:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991905390230204786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1246119337921892352",
+              "start": 3,
+              "username": "SupremeLeaderXi"
+            },
+            {
+              "end": 31,
+              "id": "1576821224184770560",
+              "start": 21,
+              "username": "ShuoaShuo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4vGqdtCy5i",
+              "end": 68,
+              "expanded_url": "https://x.com/SupremeLeaderXi/status/1926705082680136175/video/1",
+              "media_key": "13_1926704903545552897",
+              "start": 45,
+              "url": "https://t.co/4vGqdtCy5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991905390230204786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926705082680136175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SupremeLeaderXi: @ShuoaShuo 笑出来的自己上局里自首😡 https://t.co/4vGqdtCy5i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1926704903545552897"
+          ]
+        },
+        "author_id": "1246119337921892352",
+        "conversation_id": "1926679483530072485",
+        "created_at": "2025-05-25T18:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T19:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926705082680136175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1576821224184770560",
+              "start": 0,
+              "username": "ShuoaShuo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4vGqdtCy5i",
+              "end": 47,
+              "expanded_url": "https://x.com/SupremeLeaderXi/status/1926705082680136175/video/1",
+              "media_key": "13_1926704903545552897",
+              "start": 24,
+              "url": "https://t.co/4vGqdtCy5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926705082680136175",
+        "in_reply_to_user_id": "1576821224184770560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2512,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926679483530072485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuoaShuo 笑出来的自己上局里自首😡 https://t.co/4vGqdtCy5i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 891,
+          "like_count": 5867,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2124
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-03T16:56:23.000Z",
+        "description": "尼马思乐全过程人民民主帝国最高领袖\nSupreme Leader of the Whole-process People's Democratic Empire of N.M.S.L.\n𝙿𝚊𝚛𝚘𝚍𝚢. 𝙽𝚘 𝚘𝚏𝚏𝚎𝚗𝚜𝚎 𝚝𝚘 𝙿𝚘𝚘𝚑. 🐻",
+        "id": "1246119337921892352",
+        "location": "梁家河 Liangjiahe",
+        "name": "习维尼 Xi Winnie 🍥 目标：150岁",
+        "pinned_tweet_id": "1930093058277945860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848075759052849152/uhBxNmK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 34,
+          "like_count": 165854,
+          "listed_count": 10,
+          "media_count": 2894,
+          "tweet_count": 7935
+        },
+        "username": "SupremeLeaderXi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T06:27:44.000Z",
+        "description": "自由主义| 同情社民| 反对极左和极右| 喜欢看左人派系无限分解和自相残杀的乐子人| 资本与权力的勾结是剥削之源，取消市场经济是贫穷和独裁之源，唯有用民主法制和言论自由扩大工人政治力量，禁止官僚寻租，逼迫资本家之间相互残酷市场竞争，同时具备自由、公平和繁荣的国度才会降临。暴力革命和剥夺私有产权只会导致更恶的剥削",
+        "id": "1576821224184770560",
+        "name": "赵紫阳改革归来，看资本官僚主义土崩瓦解 自由与公平终将到来",
+        "pinned_tweet_id": "1615208777111994368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606149202412998656/-X5YppyN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3730,
+          "following_count": 492,
+          "like_count": 34588,
+          "listed_count": 23,
+          "media_count": 1073,
+          "tweet_count": 14097
+        },
+        "username": "ShuoaShuo",
+        "verified": false
+      }
+    ]
+  }
+}

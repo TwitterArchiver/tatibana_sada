@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2064331959892082799",
+    "created_at": "2026-06-09T20:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T21:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064442156119712214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853777198018404352",
+          "start": 0,
+          "username": "huthawar17115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064442156119712214",
+    "in_reply_to_user_id": "1853777198018404352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064331959892082799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huthawar17115 潇洒尽头谁为峰，一见腊哥皆是空，黄巢献忠非丈夫，焚书坑儒胜祖龙"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064331959892082799].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064331959892082799",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064331959892082799"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064331959892082799",
+        "created_at": "2026-06-09T20:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T21:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064442156119712214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853777198018404352",
+              "start": 0,
+              "username": "huthawar17115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064442156119712214",
+        "in_reply_to_user_id": "1853777198018404352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064331959892082799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huthawar17115 潇洒尽头谁为峰，一见腊哥皆是空，黄巢献忠非丈夫，焚书坑儒胜祖龙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1304,
+          "like_count": 9245,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3199
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T12:32:14.000Z",
+        "description": "Roma catholic🇻🇦☨/欢迎互fo/🚪1919180VND",
+        "id": "1853777198018404352",
+        "location": "距离你4.2光年",
+        "name": "✠坂下葡萄汽水☨🥤🇻🇦",
+        "pinned_tweet_id": "2009624763724136527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023342430033219584/qAux-j0y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 1775,
+          "like_count": 48967,
+          "listed_count": 6,
+          "media_count": 1214,
+          "tweet_count": 16452
+        },
+        "username": "huthawar17115",
+        "verified": false
+      }
+    ]
+  }
+}

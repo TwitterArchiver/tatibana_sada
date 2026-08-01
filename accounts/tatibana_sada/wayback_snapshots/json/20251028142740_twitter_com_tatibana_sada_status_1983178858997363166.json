@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1983178858997363166",
+    "created_at": "2025-10-28T14:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T15:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983178858997363166"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983178858997363166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因此也的确是不应该后悔了。\n不想再管什么思考什么了。似乎最佳也仍然是OD之后，安心的睡觉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1983178858997363166",
+        "created_at": "2025-10-28T14:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T15:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983178858997363166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983178858997363166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因此也的确是不应该后悔了。\n不想再管什么思考什么了。似乎最佳也仍然是OD之后，安心的睡觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 642,
+          "like_count": 3645,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1628
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

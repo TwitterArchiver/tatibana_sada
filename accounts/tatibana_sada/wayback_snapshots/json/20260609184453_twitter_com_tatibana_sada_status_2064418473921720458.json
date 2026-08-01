@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2064391506719605179",
+    "created_at": "2026-06-09T18:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064418473921720458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2005934722736902144",
+          "start": 0,
+          "username": "PCKCOOL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064418473921720458",
+    "in_reply_to_user_id": "2005934722736902144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064391506719605179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PCKCOOL 乳房太大，合乎周礼吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2064390985023676416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYwqcva4AARlXp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2064391008520200192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYwr0RbYAAH6vq.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064391506719605179",
+        "created_at": "2026-06-09T18:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064418473921720458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2005934722736902144",
+              "start": 0,
+              "username": "PCKCOOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064418473921720458",
+        "in_reply_to_user_id": "2005934722736902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064391506719605179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PCKCOOL 乳房太大，合乎周礼吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064390985023676416",
+            "3_2064391008520200192"
+          ]
+        },
+        "author_id": "2005934722736902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026287953",
+              "name": "Ford"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026287953",
+              "name": "Ford"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026287953",
+              "name": "Ford"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10046942598",
+              "name": "Ford Latino"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Luxury",
+              "id": "847528646185070592",
+              "name": "Luxury Cars"
+            }
+          }
+        ],
+        "conversation_id": "2064391506719605179",
+        "created_at": "2026-06-09T16:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064391506719605179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FwVQjafva7",
+              "end": 296,
+              "expanded_url": "https://x.com/PCKCOOL/status/2064391506719605179/photo/1",
+              "media_key": "3_2064390985023676416",
+              "start": 273,
+              "url": "https://t.co/FwVQjafva7"
+            },
+            {
+              "display_url": "pic.x.com/FwVQjafva7",
+              "end": 296,
+              "expanded_url": "https://x.com/PCKCOOL/status/2064391506719605179/photo/1",
+              "media_key": "3_2064391008520200192",
+              "start": 273,
+              "url": "https://t.co/FwVQjafva7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064391506719605179",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 1013,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "FENGTIAN ONE\nFengtian One was a bulletproof luxury car custom-built by Packard Motor Company of the United States in 1921 for Zhang Zuolin（Its replica displayed in China bears a Ford emblem, yet the vehicle itself actually had no direct connection with Ford Motor Compan…） https://t.co/FwVQjafva7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1298,
+          "like_count": 9206,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 3184
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T09:33:34.000Z",
+        "description": "English🇬🇧🇺🇸 Chinese🇨🇳🇸🇬",
+        "id": "2005934722736902144",
+        "location": "Hongkong",
+        "name": "PCKCOOL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021790687566368768/pLBSR8-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9934,
+          "following_count": 84,
+          "like_count": 482,
+          "listed_count": 29,
+          "media_count": 113,
+          "tweet_count": 285
+        },
+        "username": "PCKCOOL",
+        "verified": false
+      }
+    ]
+  }
+}

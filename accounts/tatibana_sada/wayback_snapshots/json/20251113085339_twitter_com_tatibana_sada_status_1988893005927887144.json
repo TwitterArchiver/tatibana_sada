@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1988784920991526912"
+      ],
+      "media_source_tweet_id": [
+        "1988784927027196127"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988893005927887144",
+    "created_at": "2025-11-13T08:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T09:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988893005927887144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1967441162689826816",
+          "start": 3,
+          "username": "MangoSchwarz"
+        },
+        {
+          "end": 27,
+          "id": "1905943170552041473",
+          "start": 18,
+          "username": "Osididit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lidfBwky7k",
+          "end": 72,
+          "expanded_url": "https://x.com/MangoSchwarz/status/1988784927027196127/photo/1",
+          "media_key": "16_1988784920991526912",
+          "start": 49,
+          "url": "https://t.co/lidfBwky7k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988893005927887144",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988784927027196127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MangoSchwarz: @Osididit Someone who loves me https://t.co/lidfBwky7k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 164,
+        "media_key": "16_1988784920991526912",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G5mVWT5acAAit-k.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G5mVWT5acAAit-k.mp4"
+          }
+        ],
+        "width": 164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1988784920991526912"
+          ],
+          "media_source_tweet_id": [
+            "1988784927027196127"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988893005927887144",
+        "created_at": "2025-11-13T08:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T09:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988893005927887144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1967441162689826816",
+              "start": 3,
+              "username": "MangoSchwarz"
+            },
+            {
+              "end": 27,
+              "id": "1905943170552041473",
+              "start": 18,
+              "username": "Osididit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lidfBwky7k",
+              "end": 72,
+              "expanded_url": "https://x.com/MangoSchwarz/status/1988784927027196127/photo/1",
+              "media_key": "16_1988784920991526912",
+              "start": 49,
+              "url": "https://t.co/lidfBwky7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988893005927887144",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988784927027196127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MangoSchwarz: @Osididit Someone who loves me https://t.co/lidfBwky7k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1988784920991526912"
+          ]
+        },
+        "author_id": "1967441162689826816",
+        "conversation_id": "1988740347871232072",
+        "created_at": "2025-11-13T01:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T02:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988784927027196127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1905943170552041473",
+              "start": 0,
+              "username": "Osididit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lidfBwky7k",
+              "end": 54,
+              "expanded_url": "https://x.com/MangoSchwarz/status/1988784927027196127/photo/1",
+              "media_key": "16_1988784920991526912",
+              "start": 31,
+              "url": "https://t.co/lidfBwky7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988784927027196127",
+        "in_reply_to_user_id": "1905943170552041473",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1203,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988740347871232072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Osididit Someone who loves me https://t.co/lidfBwky7k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 843,
+          "like_count": 5385,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1953
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T04:11:51.000Z",
+        "description": "🔞🔞\nOld account got hacked, time for a new chapter",
+        "id": "1967441162689826816",
+        "name": "Mango",
+        "pinned_tweet_id": "1969314610990768315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967446247406714880/H5rI5eyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 989,
+          "like_count": 462,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 109
+        },
+        "username": "MangoSchwarz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T11:20:54.000Z",
+        "description": "Hi, I'm Osi! She/her!  For 🔞🖤🔥https://t.co/yFfl4DellQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Osidid",
+                "end": 53,
+                "expanded_url": "http://patreon.com/Osidid",
+                "start": 30,
+                "url": "https://t.co/yFfl4DellQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Osidid",
+                "end": 23,
+                "expanded_url": "http://patreon.com/Osidid",
+                "start": 0,
+                "url": "https://t.co/yFfl4DellQ"
+              }
+            ]
+          }
+        },
+        "id": "1905943170552041473",
+        "name": "Osidid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960831248810549248/6GgtcOyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57510,
+          "following_count": 138,
+          "like_count": 452,
+          "listed_count": 124,
+          "media_count": 69,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/yFfl4DellQ",
+        "username": "Osididit",
+        "verified": true
+      }
+    ]
+  }
+}

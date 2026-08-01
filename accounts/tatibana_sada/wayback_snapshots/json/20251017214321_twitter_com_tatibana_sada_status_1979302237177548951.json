@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979081742314099070",
+    "created_at": "2025-10-17T21:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T22:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979302237177548951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1491568506898649088",
+          "start": 0,
+          "username": "a2013bc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979302237177548951",
+    "in_reply_to_user_id": "1491568506898649088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979081742314099070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a2013bc 别大太死，睡的要来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979081742314099070",
+        "created_at": "2025-10-17T21:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T22:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979302237177548951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1491568506898649088",
+              "start": 0,
+              "username": "a2013bc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979302237177548951",
+        "in_reply_to_user_id": "1491568506898649088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979081742314099070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a2013bc 别大太死，睡的要来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491568506898649088",
+        "conversation_id": "1979081742314099070",
+        "created_at": "2025-10-17T07:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T08:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979081742314099070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979081742314099070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3123,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别睡太死，大的要来了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 557,
+          "like_count": 2979,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1477
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T00:24:05.000Z",
+        "description": "",
+        "id": "1491568506898649088",
+        "location": "宿舍",
+        "name": "恐虐神选阿萨德🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806289308728672256/01sqJGA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 1263,
+          "like_count": 15042,
+          "listed_count": 6,
+          "media_count": 1620,
+          "tweet_count": 23651
+        },
+        "username": "a2013bc",
+        "verified": false
+      }
+    ]
+  }
+}

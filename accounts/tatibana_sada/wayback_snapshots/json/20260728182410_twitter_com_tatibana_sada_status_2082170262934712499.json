@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2082170262934712499",
+    "created_at": "2026-07-28T18:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T19:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082170262934712499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sui_aini/statu…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/Sui_aini/status/2081917152429244692",
+          "start": 60,
+          "url": "https://t.co/p6yCnixjNL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082170262934712499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081917152429244692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果指派性别没有任何意义，请问为何跨友会这么跳脚？据说多伦多天降伟人Amber曾这样说：「比起跨女我更想当afab」。 https://t.co/p6yCnixjNL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2082170262934712499",
+        "created_at": "2026-07-28T18:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082170262934712499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sui_aini/statu…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/Sui_aini/status/2081917152429244692",
+              "start": 60,
+              "url": "https://t.co/p6yCnixjNL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082170262934712499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081917152429244692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果指派性别没有任何意义，请问为何跨友会这么跳脚？据说多伦多天降伟人Amber曾这样说：「比起跨女我更想当afab」。 https://t.co/p6yCnixjNL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2081917152429244692",
+        "created_at": "2026-07-28T01:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081917152429244692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081917152429244692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8264,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "afab跨、amab跨都能说出口，一般说这种话的，不是蠢比就是坏比，把跨儿分割两列，贱死了啊，永远远离指派性别先行的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 1448,
+          "like_count": 10243,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3425
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）｜超可愛い@Sattakom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "Sattakom"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2451,
+          "following_count": 837,
+          "like_count": 6259,
+          "listed_count": 4,
+          "media_count": 802,
+          "tweet_count": 6507
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      }
+    ]
+  }
+}

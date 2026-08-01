@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057752548963201170",
+    "created_at": "2026-05-22T09:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057752548963201170"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LilyS2Bella/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/LilyS2Bella/status/2056126315305329048",
+          "start": 13,
+          "url": "https://t.co/l6v5np6ICI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057752548963201170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056126315305329048",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是韩国人，听韩国人说 https://t.co/l6v5np6ICI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057752548963201170",
+        "created_at": "2026-05-22T09:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057752548963201170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LilyS2Bella/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/LilyS2Bella/status/2056126315305329048",
+              "start": 13,
+              "url": "https://t.co/l6v5np6ICI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057752548963201170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056126315305329048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是韩国人，听韩国人说 https://t.co/l6v5np6ICI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554827563310399489",
+        "conversation_id": "2056126315305329048",
+        "created_at": "2026-05-17T21:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T22:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056126315305329048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056126315305329048",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 433807,
+          "like_count": 91,
+          "quote_count": 112,
+          "reply_count": 32,
+          "retweet_count": 12
+        },
+        "reply_settings": "following",
+        "text": "Korea is the oldest civilization in East Asia. Starting with Gojoseon in 2333 BC, it holds a 4,359-year history. It is the true premier nation of the region, established even before China. 🇰🇷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 1168,
+          "like_count": 8290,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2732
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T14:00:57.000Z",
+        "description": "INTJ 8w7. Thoughts on everything. Analysis of world issues.",
+        "id": "1554827563310399489",
+        "location": "🇰🇷 ",
+        "name": "𝕃 𝕚 𝕝 𝕪 🌷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056936311265873920/nKjwhzIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 57,
+          "like_count": 40732,
+          "listed_count": 2,
+          "media_count": 3150,
+          "tweet_count": 33745
+        },
+        "username": "LilyS2Bella",
+        "verified": false
+      }
+    ]
+  }
+}

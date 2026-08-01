@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013552626877480960"
+      ],
+      "media_source_tweet_id": [
+        "2013552690794569733"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2013556859526094901",
+    "created_at": "2026-01-20T10:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T11:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013556859526094901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2013549020074123264",
+          "start": 3,
+          "username": "Fragrooooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gGLjiGCOqp",
+          "end": 64,
+          "expanded_url": "https://x.com/Fragrooooo/status/2013552690794569733/photo/1",
+          "media_key": "3_2013552626877480960",
+          "start": 41,
+          "url": "https://t.co/gGLjiGCOqp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013556859526094901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013552690794569733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fragrooooo: 乙女椿复活！\n欢迎互关！\n转关赞抽五个青提茉莉！ https://t.co/gGLjiGCOqp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013552626877480960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GTciWWQAATxvL.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013552626877480960"
+          ],
+          "media_source_tweet_id": [
+            "2013552690794569733"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2013556859526094901",
+        "created_at": "2026-01-20T10:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T11:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013556859526094901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2013549020074123264",
+              "start": 3,
+              "username": "Fragrooooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGLjiGCOqp",
+              "end": 64,
+              "expanded_url": "https://x.com/Fragrooooo/status/2013552690794569733/photo/1",
+              "media_key": "3_2013552626877480960",
+              "start": 41,
+              "url": "https://t.co/gGLjiGCOqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013556859526094901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013552690794569733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fragrooooo: 乙女椿复活！\n欢迎互关！\n转关赞抽五个青提茉莉！ https://t.co/gGLjiGCOqp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013552626877480960"
+          ]
+        },
+        "author_id": "2013549020074123264",
+        "conversation_id": "2013552690794569733",
+        "created_at": "2026-01-20T10:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T11:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013552690794569733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGLjiGCOqp",
+              "end": 48,
+              "expanded_url": "https://x.com/Fragrooooo/status/2013552690794569733/photo/1",
+              "media_key": "3_2013552626877480960",
+              "start": 25,
+              "url": "https://t.co/gGLjiGCOqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013552690794569733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "乙女椿复活！\n欢迎互关！\n转关赞抽五个青提茉莉！ https://t.co/gGLjiGCOqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 997,
+          "like_count": 6935,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2398
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T09:54:27.000Z",
+        "description": "前世破前fo被封，重活一世我一定…… tg:@Muddledist 欢迎互关 出邮票和卡通",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Muddledist"
+              }
+            ]
+          }
+        },
+        "id": "2013549020074123264",
+        "location": "傲慢之环",
+        "name": "乙女椿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013550894890016768/w7SlXO_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 10,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "Fragrooooo",
+        "verified": false
+      }
+    ]
+  }
+}

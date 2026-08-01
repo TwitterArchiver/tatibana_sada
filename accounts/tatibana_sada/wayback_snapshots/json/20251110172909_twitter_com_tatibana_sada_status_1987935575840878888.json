@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987935575840878888",
+    "created_at": "2025-11-10T17:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T18:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987935575840878888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuanlikesmeow/…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/kuanlikesmeow/status/1987661845503557978",
+          "start": 47,
+          "url": "https://t.co/4MltvHE4wK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987935575840878888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 47,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987661845503557978",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说起来真的是一个蛮好玩的表述。我记得之前在某个鉴证群被发牛子了。然后我告诉他犯了左倾的错误。 https://t.co/4MltvHE4wK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987935575840878888",
+        "created_at": "2025-11-10T17:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T18:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987935575840878888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuanlikesmeow/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/kuanlikesmeow/status/1987661845503557978",
+              "start": 47,
+              "url": "https://t.co/4MltvHE4wK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987935575840878888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987661845503557978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来真的是一个蛮好玩的表述。我记得之前在某个鉴证群被发牛子了。然后我告诉他犯了左倾的错误。 https://t.co/4MltvHE4wK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794081831274307584",
+        "conversation_id": "1987661845503557978",
+        "created_at": "2025-11-09T23:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T00:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987661845503557978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HysteriaAndLov…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/HysteriaAndLove/status/1987660993292579147",
+              "start": 32,
+              "url": "https://t.co/7Fzo3vapMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987661845503557978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4663,
+          "like_count": 5,
+          "quote_count": 9,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987660993292579147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老子三观比你鸡巴都要正，更何况连个鸡吧都没有的人三观怎么能正？ https://t.co/7Fzo3vapMK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 795,
+          "like_count": 5011,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1852
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T19:03:43.000Z",
+        "description": "堵桥达人，/09 05 06/ 现居带美利坚，曾获搬💩大赛冠军。平等的对待和尊重每个人，不管你是男是女还是彩虹人。什么东西都发。骂人的保护好你的浮木，因为老子是出生乌鲁鲁，我的浮木早已放进3x3里了",
+        "id": "1794081831274307584",
+        "location": "Texas, USA",
+        "name": "乌鲁鲁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958623578489749506/BoxpZ3rA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 110,
+          "like_count": 1450,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 367
+        },
+        "username": "kuanlikesmeow",
+        "verified": false
+      }
+    ]
+  }
+}

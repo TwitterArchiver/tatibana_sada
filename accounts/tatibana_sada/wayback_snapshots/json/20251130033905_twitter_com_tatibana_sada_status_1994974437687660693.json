@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1994737503623156020",
+    "created_at": "2025-11-30T03:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T04:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994974437687660693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688892925646929920",
+          "start": 0,
+          "username": "oxxxX_x_Xxxxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994974437687660693",
+    "in_reply_to_user_id": "1688892925646929920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994737503623156020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxxxX_x_Xxxxo 但我其实觉得这两个群体也不是对立的。反而应该是点出售卖英雄菜的伟大企业家。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1994737503623156020",
+        "created_at": "2025-11-30T03:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994974437687660693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688892925646929920",
+              "start": 0,
+              "username": "oxxxX_x_Xxxxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994974437687660693",
+        "in_reply_to_user_id": "1688892925646929920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994737503623156020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxxxX_x_Xxxxo 但我其实觉得这两个群体也不是对立的。反而应该是点出售卖英雄菜的伟大企业家。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688892925646929920",
+        "conversation_id": "1994737503623156020",
+        "created_at": "2025-11-29T11:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T12:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994737503623156020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994737503623156020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2109,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我尊重质疑取消演唱会的互关们的抱怨\n同样的我会勇敢地表达自己的观点\n你不能只认为自己疫情封控大学三年网课学无所成是代价\n而看不到那些在并无有效救治手段时就前赴后继支援湖北的医护建筑工人成为了真正的代价\n“他们只是牺牲了生命，而我可是被疯狂在家啊”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 963,
+          "like_count": 6545,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2330
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T12:40:44.000Z",
+        "description": "",
+        "id": "1688892925646929920",
+        "name": "中立守序的石墩子",
+        "pinned_tweet_id": "1889227364565200974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985975481779564544/0u03xQaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 1336,
+          "like_count": 62106,
+          "listed_count": 2,
+          "media_count": 2210,
+          "tweet_count": 23023
+        },
+        "username": "oxxxX_x_Xxxxo",
+        "verified": false
+      }
+    ]
+  }
+}

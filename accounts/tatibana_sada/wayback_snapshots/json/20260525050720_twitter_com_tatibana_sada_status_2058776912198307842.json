@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2058776912198307842",
+    "created_at": "2026-05-25T05:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T06:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058776912198307842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 75,
+          "id": "1424779836938022913",
+          "start": 62,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058776912198307842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058745798477631977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: 大家好，我是amber/水母🪼，是🏳️‍⚧️跨女/TS，现居🇨🇦多伦多，之前的账号@amber_toffee已被永封无法找回，本账号为我的现任主账号（小号已tag）。希望大家帮我转发扩散此帖，助我寻回互fo亲友，感激不尽。\n\n为填补资金…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [amber_toffee].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "amber_toffee",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "amber_toffee"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058745794337923072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIiZGpXYAAnZE-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058745794329468928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIiZGnWYAAPJAS.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058776912198307842",
+        "created_at": "2026-05-25T05:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058776912198307842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 75,
+              "id": "1424779836938022913",
+              "start": 62,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058776912198307842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058745798477631977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: 大家好，我是amber/水母🪼，是🏳️‍⚧️跨女/TS，现居🇨🇦多伦多，之前的账号@amber_toffee已被永封无法找回，本账号为我的现任主账号（小号已tag）。希望大家帮我转发扩散此帖，助我寻回互fo亲友，感激不尽。\n\n为填补资金…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058745794337923072",
+            "3_2058745794329468928"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2058745798477631977",
+        "created_at": "2026-05-25T03:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058745798477631977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 54,
+              "id": "1424779836938022913",
+              "start": 41,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVPEIoj4sX",
+              "end": 179,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2058745798477631977/photo/1",
+              "media_key": "3_2058745794337923072",
+              "start": 156,
+              "url": "https://t.co/OVPEIoj4sX"
+            },
+            {
+              "display_url": "pic.x.com/OVPEIoj4sX",
+              "end": 179,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2058745798477631977/photo/1",
+              "media_key": "3_2058745794329468928",
+              "start": 156,
+              "url": "https://t.co/OVPEIoj4sX"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "3797791ff9c0e4c6"
+        },
+        "id": "2058745798477631977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3040,
+          "like_count": 120,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是amber/水母🪼，是🏳️‍⚧️跨女/TS，现居🇨🇦多伦多，之前的账号@amber_toffee已被永封无法找回，本账号为我的现任主账号（小号已tag）。希望大家帮我转发扩散此帖，助我寻回互fo亲友，感激不尽。\n\n为填补资金短缺，我提供付费🚪、性心理咨询和英语培训服务，欢迎有兴趣的朋友私聊联系我。 https://t.co/OVPEIoj4sX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 1199,
+          "like_count": 8535,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2850
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎\n🐍@noaayoyaoaya\n⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 20,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️she/her・🇨🇦 Toronto",
+        "name": "amber",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3905,
+          "following_count": 855,
+          "like_count": 3745,
+          "listed_count": 8,
+          "media_count": 70,
+          "tweet_count": 1662
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979086556410548241",
+    "created_at": "2025-10-18T07:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T08:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979455711806705922"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 17,
+          "tag": "堕招娣是一种人道主义"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942157232382283776",
+          "start": 0,
+          "username": "DxFyCOPqOP21834"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979455711806705922",
+    "in_reply_to_user_id": "1942157232382283776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979086556410548241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DxFyCOPqOP21834 #堕招娣是一种人道主义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979086556410548241",
+        "created_at": "2025-10-18T07:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T08:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979455711806705922"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 17,
+              "tag": "堕招娣是一种人道主义"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942157232382283776",
+              "start": 0,
+              "username": "DxFyCOPqOP21834"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979455711806705922",
+        "in_reply_to_user_id": "1942157232382283776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979086556410548241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DxFyCOPqOP21834 #堕招娣是一种人道主义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942157232382283776",
+        "conversation_id": "1979086556410548241",
+        "created_at": "2025-10-17T07:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T08:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979086556410548241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jike112_jike/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/jike112_jike/status/1978846527125647837",
+              "start": 28,
+              "url": "https://t.co/1qK6iFwh4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979086556410548241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 860,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978846527125647837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男畜出生的那一刻就应该弄死，免得生到这个世界上遭受苦难 https://t.co/1qK6iFwh4E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 559,
+          "like_count": 3019,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1486
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T09:42:29.000Z",
+        "description": "",
+        "id": "1942157232382283776",
+        "name": "hma9999",
+        "pinned_tweet_id": "1977852443196109209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942157265110478848/up2c1WXn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 29,
+          "like_count": 385,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 932
+        },
+        "username": "DxFyCOPqOP21834",
+        "verified": false
+      }
+    ]
+  }
+}

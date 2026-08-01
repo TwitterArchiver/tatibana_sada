@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980455694152401066",
+    "created_at": "2025-10-21T09:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T10:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980566144361853384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1940236928248627200",
+          "start": 0,
+          "username": "lirui8964"
+        },
+        {
+          "end": 22,
+          "id": "1842194704508796928",
+          "start": 11,
+          "username": "zongke1898"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980566144361853384",
+    "in_reply_to_user_id": "1940236928248627200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980565898353340572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lirui8964 @zongke1898 我想，我不太能够回答。因为我是真正的自由主义者嘛。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980455694152401066",
+        "created_at": "2025-10-21T09:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980566144361853384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1940236928248627200",
+              "start": 0,
+              "username": "lirui8964"
+            },
+            {
+              "end": 22,
+              "id": "1842194704508796928",
+              "start": 11,
+              "username": "zongke1898"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980566144361853384",
+        "in_reply_to_user_id": "1940236928248627200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980565898353340572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lirui8964 @zongke1898 我想，我不太能够回答。因为我是真正的自由主义者嘛。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940236928248627200",
+        "conversation_id": "1980455694152401066",
+        "created_at": "2025-10-21T09:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980565898353340572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 26,
+              "id": "1842194704508796928",
+              "start": 15,
+              "username": "zongke1898"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980565898353340572",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980527831609491727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @zongke1898 真正的威权主义者为什么不支持赢家通杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 585,
+          "like_count": 3225,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1544
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T02:32:31.000Z",
+        "description": "过政治生活，做现代人/\n现代宪政民主/公民民族主义/公民抵抗/公共协商",
+        "id": "1940236928248627200",
+        "name": "荒诞主义者",
+        "pinned_tweet_id": "1977217057495433592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945265759304699904/g_0buqmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 550,
+          "like_count": 7768,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1082
+        },
+        "username": "lirui8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T13:27:07.000Z",
+        "description": "天下大乱，形势大好！     \n                             \n武攻文卫，天翻地覆！@luchishui1898\n        一切权力归劳动者！推翻中帝！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "luchishui1898"
+              }
+            ]
+          }
+        },
+        "id": "1842194704508796928",
+        "name": "康生.(Константин.)",
+        "pinned_tweet_id": "1844014253705211930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970197416638062594/dOdintF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2719,
+          "following_count": 152,
+          "like_count": 16261,
+          "listed_count": 21,
+          "media_count": 476,
+          "tweet_count": 4375
+        },
+        "username": "zongke1898",
+        "verified": false
+      }
+    ]
+  }
+}

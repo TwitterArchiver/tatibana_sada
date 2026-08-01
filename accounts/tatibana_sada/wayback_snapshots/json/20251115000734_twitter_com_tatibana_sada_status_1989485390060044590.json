@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1989344005805744402",
+    "created_at": "2025-11-15T00:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T01:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989485390060044590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896061942785310720",
+          "start": 0,
+          "username": "notThujaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989485390060044590",
+    "in_reply_to_user_id": "1896061942785310720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989344005805744402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notThujaS 如果一个顺直家庭能养出一个彩虹孩子，一个彩虹家庭也会养出一个彩虹孩子，论证彩虹优越论的论据要显著的比台湾自古属于中国的论据丰富有力。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1989344005805744402",
+        "created_at": "2025-11-15T00:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T01:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989485390060044590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896061942785310720",
+              "start": 0,
+              "username": "notThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989485390060044590",
+        "in_reply_to_user_id": "1896061942785310720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989344005805744402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notThujaS 如果一个顺直家庭能养出一个彩虹孩子，一个彩虹家庭也会养出一个彩虹孩子，论证彩虹优越论的论据要显著的比台湾自古属于中国的论据丰富有力。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896061942785310720",
+        "conversation_id": "1989344005805744402",
+        "created_at": "2025-11-14T14:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989344005805744402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/T8O9K6Y4O/stat…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/T8O9K6Y4O/status/1988978679918329978",
+              "start": 136,
+              "url": "https://t.co/uvCqgd6zsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989344005805744402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3513,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988978679918329978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我求你们了。结婚没问题，得到法律承认？歇歇吧，真话，太难了铁子\n\n婚后要孩子怎么办？\n答：领养！\n领养后会给孩子灌什么样的价值观？\n答：不知道！\n反正我比我爹妈教育的好！\n\n铁子你切记，主流思想之所以叫主流思想，确实不一定因为它是最正确的，但绝对是因为它能被更多人认可的 https://t.co/uvCqgd6zsy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 852,
+          "like_count": 5481,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1973
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:56:37.000Z",
+        "description": "🇨🇳纯种劳保/07 12 1/不论你是男人女人变杏人，平等歧视每一个神人         愿你在鉴证与对骂与炫压抑之后，吃上一口我精挑细选的上等好💩        我的浮木死了，别问了我回关的。2000fo直播杜桥延期，最近太忙太忙了😭///DXL_888不是我小号，别理那个支黑（唉他还要纠缠到什么时候）",
+        "id": "1896061942785310720",
+        "location": "热河省省会",
+        "name": "传奇出生鸟鲁鲁（浮木克星）",
+        "pinned_tweet_id": "1989282671789523284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989280532107313152/-jA_2_sj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2813,
+          "following_count": 841,
+          "like_count": 6069,
+          "listed_count": 8,
+          "media_count": 351,
+          "tweet_count": 3439
+        },
+        "username": "notThujaS",
+        "verified": false
+      }
+    ]
+  }
+}

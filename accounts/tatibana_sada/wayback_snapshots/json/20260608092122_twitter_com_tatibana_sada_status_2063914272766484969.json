@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2063914272766484969",
+    "created_at": "2026-06-08T09:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063914272766484969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dear_xiaogui/s…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/dear_xiaogui/status/2063674316068139485",
+          "start": 37,
+          "url": "https://t.co/ByIK6VoZQA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063914272766484969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063674316068139485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "None of them can compared with「昭明文选」 https://t.co/ByIK6VoZQA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 437,
+        "media_key": "3_2063673680895369216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOkR2oXYAAuPHL.png",
+        "width": 525
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2063914272766484969",
+        "created_at": "2026-06-08T09:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063914272766484969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dear_xiaogui/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/dear_xiaogui/status/2063674316068139485",
+              "start": 37,
+              "url": "https://t.co/ByIK6VoZQA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063914272766484969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063674316068139485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "None of them can compared with「昭明文选」 https://t.co/ByIK6VoZQA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063673680895369216"
+          ]
+        },
+        "author_id": "1507875009011851268",
+        "conversation_id": "2063674316068139485",
+        "created_at": "2026-06-07T17:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063674316068139485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WjnjhbXcEl",
+              "end": 42,
+              "expanded_url": "https://x.com/dear_xiaogui/status/2063674316068139485/photo/1",
+              "media_key": "3_2063673680895369216",
+              "start": 19,
+              "url": "https://t.co/WjnjhbXcEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063674316068139485",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 279,
+          "impression_count": 44741,
+          "like_count": 4907,
+          "quote_count": 31,
+          "reply_count": 5,
+          "retweet_count": 722
+        },
+        "reply_settings": "everyone",
+        "text": "we can have both 🫶 https://t.co/WjnjhbXcEl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2063904337219539353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1267,
+          "like_count": 9064,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3091
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-27T00:20:02.000Z",
+        "description": "21+| #病案本 #2ha main | pfp by 初恋狗妹\nMB stan | Professional Xqc bullier 🍼 | He Yu kin 🦊\nchaotic puppy tops x formidable cool beauties✨",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 5,
+                "tag": "病案本"
+              },
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "2ha"
+              }
+            ]
+          }
+        },
+        "id": "1507875009011851268",
+        "location": "NOT SPOILER FREE",
+        "name": "🩸❄Jun | HEXIE BRAINROT ❄🩸",
+        "pinned_tweet_id": "1732468168499573227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062609871476862976/0o2gjXqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21696,
+          "following_count": 352,
+          "like_count": 30918,
+          "listed_count": 31,
+          "media_count": 4094,
+          "tweet_count": 27699
+        },
+        "username": "dear_xiaogui",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979521765534830653",
+    "created_at": "2025-10-19T09:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T10:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979845546614686166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942157232382283776",
+          "start": 0,
+          "username": "DxFyCOPqOP21834"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979845546614686166",
+    "in_reply_to_user_id": "1942157232382283776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979521765534830653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DxFyCOPqOP21834 眼妆是比较典型的cos妆，但是不知道为什么鼻没有怎么上妆。山根有妆的空间，不过鼻头的钝感需要医美来救。不过已经算average漫展coser了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1979521221340360704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3isEBdW8AAy8W1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 850,
+        "media_key": "3_1979521756248379392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3isjKJXkAARtcF.png",
+        "width": 599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979521765534830653",
+        "created_at": "2025-10-19T09:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T10:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979845546614686166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942157232382283776",
+              "start": 0,
+              "username": "DxFyCOPqOP21834"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979845546614686166",
+        "in_reply_to_user_id": "1942157232382283776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979521765534830653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DxFyCOPqOP21834 眼妆是比较典型的cos妆，但是不知道为什么鼻没有怎么上妆。山根有妆的空间，不过鼻头的钝感需要医美来救。不过已经算average漫展coser了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979521221340360704",
+            "3_1979521756248379392"
+          ]
+        },
+        "author_id": "1942157232382283776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1979521765534830653",
+        "created_at": "2025-10-18T12:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T13:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979521765534830653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9CrrPgega",
+              "end": 86,
+              "expanded_url": "https://x.com/DxFyCOPqOP21834/status/1979521765534830653/photo/1",
+              "media_key": "3_1979521221340360704",
+              "start": 63,
+              "url": "https://t.co/v9CrrPgega"
+            },
+            {
+              "display_url": "pic.x.com/v9CrrPgega",
+              "end": 86,
+              "expanded_url": "https://x.com/DxFyCOPqOP21834/status/1979521765534830653/photo/1",
+              "media_key": "3_1979521756248379392",
+              "start": 63,
+              "url": "https://t.co/v9CrrPgega"
+            },
+            {
+              "display_url": "x.com/Sora06222206/s…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/Sora06222206/status/1979246240811618569",
+              "start": 87,
+              "url": "https://t.co/yRjdyrizpk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979521765534830653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 577,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979246240811618569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男孩子们纷纷出来为驴同站台声援 不知道这些形似吉他张的公跨能不能得到驴同的亲睐了，究竟是双向奔赴还是恨海晴天 让我们拭目以待 https://t.co/v9CrrPgega https://t.co/yRjdyrizpk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 563,
+          "like_count": 3068,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1493
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T09:42:29.000Z",
+        "description": "",
+        "id": "1942157232382283776",
+        "name": "hma9999",
+        "pinned_tweet_id": "1977852443196109209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942157265110478848/up2c1WXn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 28,
+          "like_count": 408,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 970
+        },
+        "username": "DxFyCOPqOP21834",
+        "verified": false
+      }
+    ]
+  }
+}

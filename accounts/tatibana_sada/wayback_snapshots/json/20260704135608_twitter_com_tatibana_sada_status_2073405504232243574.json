@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2073405504232243574",
+    "created_at": "2026-07-04T13:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073405504232243574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1993732660238471168",
+          "start": 3,
+          "username": "MRA1292068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073405504232243574",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073385048779153497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MRA1292068: People find it amusing when big sisters violently mistreat their little brothers; boys are the oppressed gender, yet parent…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2073405504232243574",
+        "created_at": "2026-07-04T13:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073405504232243574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1993732660238471168",
+              "start": 3,
+              "username": "MRA1292068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073405504232243574",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073385048779153497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MRA1292068: People find it amusing when big sisters violently mistreat their little brothers; boys are the oppressed gender, yet parent…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993732660238471168",
+        "conversation_id": "2073385048779153497",
+        "created_at": "2026-07-04T12:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073385048779153497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gaomushroomgao…",
+              "end": 216,
+              "expanded_url": "https://x.com/gaomushroomgao/status/2073021265288499568?s=20",
+              "start": 193,
+              "url": "https://t.co/y5NhiKp8t2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073385048779153497",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 96,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073021265288499568",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "People find it amusing when big sisters violently mistreat their little brothers; boys are the oppressed gender, yet parents encourage sisters to violently mistreat their little brothers—scum.\nhttps://t.co/y5NhiKp8t2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1385,
+          "like_count": 9608,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3290
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T17:24:57.000Z",
+        "description": "#Prohibitviolenceagainstsons  #BanFeminism #BanMGM  #BanTradcons  https://t.co/cHR8Rv9gSp   https://t.co/adC70AGU9t",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 0,
+                "tag": "Prohibitviolenceagainstsons"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "tag": "BanFeminism"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "BanMGM"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "tag": "BanTradcons"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@Promale-p3u",
+                "end": 89,
+                "expanded_url": "https://www.youtube.com/@Promale-p3u",
+                "start": 66,
+                "url": "https://t.co/cHR8Rv9gSp"
+              },
+              {
+                "display_url": "promaleactivismradical.wordpress.com/wp-admin/i",
+                "end": 115,
+                "expanded_url": "https://promaleactivismradical.wordpress.com/wp-admin/i",
+                "start": 92,
+                "url": "https://t.co/adC70AGU9t"
+              }
+            ]
+          }
+        },
+        "id": "1993732660238471168",
+        "name": "Pro-Male activism Radical",
+        "pinned_tweet_id": "2047249514503811521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048072772639977472/TscL5-bU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 189,
+          "like_count": 4970,
+          "listed_count": 3,
+          "media_count": 884,
+          "tweet_count": 6470
+        },
+        "url": "",
+        "username": "MRA1292068",
+        "verified": true
+      }
+    ]
+  }
+}

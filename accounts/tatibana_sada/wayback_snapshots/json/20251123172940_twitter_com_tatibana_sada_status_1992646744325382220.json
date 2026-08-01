@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1992640013759402275",
+    "created_at": "2025-11-23T17:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T18:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992646744325382220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1969030119181455360",
+          "start": 0,
+          "username": "YouXi57930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992646744325382220",
+    "in_reply_to_user_id": "1969030119181455360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992645486671720915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YouXi57930 相友相敌。跨的意识形态是我最凶恶的敌人，跨的实践策略是我最喜爱的材料"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1992645484037668864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dMgp9aAAAtMLt.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992640013759402275",
+        "created_at": "2025-11-23T17:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992646744325382220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1969030119181455360",
+              "start": 0,
+              "username": "YouXi57930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992646744325382220",
+        "in_reply_to_user_id": "1969030119181455360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992645486671720915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YouXi57930 相友相敌。跨的意识形态是我最凶恶的敌人，跨的实践策略是我最喜爱的材料"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992645484037668864"
+          ]
+        },
+        "author_id": "1969030119181455360",
+        "conversation_id": "1992640013759402275",
+        "created_at": "2025-11-23T17:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992645486671720915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5lbmgtxYL",
+              "end": 55,
+              "expanded_url": "https://x.com/YouXi57930/status/1992645486671720915/photo/1",
+              "media_key": "3_1992645484037668864",
+              "start": 32,
+              "url": "https://t.co/a5lbmgtxYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992645486671720915",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992644238602015101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 不是哥們，你怎麼做到這麼像跨的？ https://t.co/a5lbmgtxYL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 912,
+          "like_count": 6039,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2195
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T13:26:26.000Z",
+        "description": "Uneducated;goth;misassembled-queer;inland refuge&survivor;non-binary-like;moody-lullaby;throttled liberal;informal guardian;lonely;年上控;含糖時間過長。理性克制但活得撕心裂肺驚心動魄的動物",
+        "id": "1969030119181455360",
+        "location": "Pripyat",
+        "name": "Luduswalker🏳️‍🌈",
+        "pinned_tweet_id": "1987215877553455243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990672813015928832/CIvI0dBu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 256,
+          "like_count": 4698,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 989
+        },
+        "username": "YouXi57930",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988642500383502471",
+    "created_at": "2025-11-12T16:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988642500383502471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/caswerlebel05/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/caswerlebel05/status/1988426966731812940",
+          "start": 16,
+          "url": "https://t.co/vuGqCcXDEQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988642500383502471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988426966731812940",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "瞧！这个杯子想要再次成为空杯… https://t.co/vuGqCcXDEQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988642500383502471",
+        "created_at": "2025-11-12T16:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988642500383502471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/caswerlebel05/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/caswerlebel05/status/1988426966731812940",
+              "start": 16,
+              "url": "https://t.co/vuGqCcXDEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988642500383502471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988426966731812940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "瞧！这个杯子想要再次成为空杯… https://t.co/vuGqCcXDEQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969945327567581184",
+        "conversation_id": "1988426966731812940",
+        "created_at": "2025-11-12T02:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988426966731812940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988426966731812940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "太阳啊，伟大的星球，离开了你所照耀的人们，你的幸福在哪里呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 828,
+          "like_count": 5315,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1938
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T02:02:36.000Z",
+        "description": "一只獾🦡转世。建制壬——我只想抱着我的明日香玩偶和二手淘的王安石文集过好当下生活。",
+        "id": "1969945327567581184",
+        "location": "江宁府",
+        "name": "V.Vans•獾郎🦡",
+        "pinned_tweet_id": "1987355965931565118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987509011487522816/0SX0qMZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 412,
+          "like_count": 5807,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 1467
+        },
+        "username": "caswerlebel05",
+        "verified": false
+      }
+    ]
+  }
+}

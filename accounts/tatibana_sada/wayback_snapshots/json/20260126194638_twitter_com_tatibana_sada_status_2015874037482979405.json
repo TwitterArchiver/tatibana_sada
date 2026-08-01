@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2015700442874048804",
+    "created_at": "2026-01-26T19:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T20:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015874037482979405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "331651596",
+          "start": 0,
+          "username": "LightCavalryCZ"
+        },
+        {
+          "end": 31,
+          "id": "1635476041438461952",
+          "start": 16,
+          "username": "JiaweiShen2568"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015874037482979405",
+    "in_reply_to_user_id": "331651596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015733024575688873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LightCavalryCZ @JiaweiShen2568 这个主要是，这个基因被传播的好像中国人都是一言不合就动刀动枪的了。实际上是压制情感的作用。实际效果是，平时被压榨也没什么反应，麻木不仁，社会乱了草菅人命疯狂杀人也没有心理负担。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2015700442874048804",
+        "created_at": "2026-01-26T19:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T20:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015874037482979405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "331651596",
+              "start": 0,
+              "username": "LightCavalryCZ"
+            },
+            {
+              "end": 31,
+              "id": "1635476041438461952",
+              "start": 16,
+              "username": "JiaweiShen2568"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015874037482979405",
+        "in_reply_to_user_id": "331651596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015733024575688873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightCavalryCZ @JiaweiShen2568 这个主要是，这个基因被传播的好像中国人都是一言不合就动刀动枪的了。实际上是压制情感的作用。实际效果是，平时被压榨也没什么反应，麻木不仁，社会乱了草菅人命疯狂杀人也没有心理负担。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "331651596",
+        "conversation_id": "2015700442874048804",
+        "created_at": "2026-01-26T10:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015733024575688873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1635476041438461952",
+              "start": 0,
+              "username": "JiaweiShen2568"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015733024575688873",
+        "in_reply_to_user_id": "1635476041438461952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7381,
+          "like_count": 376,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015700442874048804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaweiShen2568 我实在不知道被几个保安大白封在小区里，社区主任上门能正反手大耳瓜子抽到爽的一群人能有什么「狂战士基因」，这个基因是只有喝大了之后对家人生效，还是只有当官了之后对平民生效啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 995,
+          "like_count": 6980,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2408
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-08T14:20:08.000Z",
+        "description": "",
+        "id": "331651596",
+        "location": "Tianjin",
+        "name": "曹哲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1351507883058360321/g94--rth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21982,
+          "following_count": 57,
+          "like_count": 419,
+          "listed_count": 104,
+          "media_count": 412,
+          "tweet_count": 2619
+        },
+        "username": "LightCavalryCZ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-14T03:01:07.000Z",
+        "description": "最近听到字节跳槽出来的管理带来一些新的词汇，以前腾讯是拉通，字节喜欢说对齐。\n我不懂啥是对齐。有人说就是对齐思路，比如你在网上和人对线，那就是对齐。我说抱歉，真对齐不了一点儿。",
+        "id": "1635476041438461952",
+        "location": "广州，深圳",
+        "name": "渡边君",
+        "pinned_tweet_id": "1949724676168786000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698170245012410368/-hDgjw5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18505,
+          "following_count": 1848,
+          "like_count": 48989,
+          "listed_count": 88,
+          "media_count": 4395,
+          "tweet_count": 35525
+        },
+        "username": "JiaweiShen2568",
+        "verified": true
+      }
+    ]
+  }
+}

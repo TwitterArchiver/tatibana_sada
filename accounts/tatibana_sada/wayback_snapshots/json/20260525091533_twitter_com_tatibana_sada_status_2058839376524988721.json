@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2058839376524988721",
+    "created_at": "2026-05-25T09:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058839376524988721"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058839376524988721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的本性，严格来说，应当是称职的ATM奴。\n在qq发了大概快200的红包，我的发情渐渐的平息了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058839376524988721",
+        "created_at": "2026-05-25T09:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058839376524988721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058839376524988721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的本性，严格来说，应当是称职的ATM奴。\n在qq发了大概快200的红包，我的发情渐渐的平息了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 1201,
+          "like_count": 8569,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2870
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

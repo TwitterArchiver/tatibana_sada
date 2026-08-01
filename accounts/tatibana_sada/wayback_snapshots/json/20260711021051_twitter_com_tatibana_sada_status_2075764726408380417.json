@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2075764726408380417",
+    "created_at": "2026-07-11T02:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T03:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075764726408380417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lafariakzoz/st…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/Lafariakzoz/status/2075579148710674638",
+          "start": 142,
+          "url": "https://t.co/u1oQYQ9oqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075764726408380417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075579148710674638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我很遗憾但江湖时代的中国就是大号的拉美，官商勾结腐败横行。\n地球村和全球化。以及江浙沪的世界公民们，他们和西海岸的精英交杯换盏，觉得叫嚷着反腐的乡毋宁和铁锈带失去工作的白垃圾一样都是螳臂当车的杂音，一点不能融入这个时代。\n很遗憾，不过，你吃吃凤梨，嚼嚼松鸡，你的死期到了，资产阶级。 https://t.co/u1oQYQ9oqq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2075764726408380417",
+        "created_at": "2026-07-11T02:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T03:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075764726408380417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lafariakzoz/st…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/Lafariakzoz/status/2075579148710674638",
+              "start": 142,
+              "url": "https://t.co/u1oQYQ9oqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075764726408380417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075579148710674638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很遗憾但江湖时代的中国就是大号的拉美，官商勾结腐败横行。\n地球村和全球化。以及江浙沪的世界公民们，他们和西海岸的精英交杯换盏，觉得叫嚷着反腐的乡毋宁和铁锈带失去工作的白垃圾一样都是螳臂当车的杂音，一点不能融入这个时代。\n很遗憾，不过，你吃吃凤梨，嚼嚼松鸡，你的死期到了，资产阶级。 https://t.co/u1oQYQ9oqq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023213522055028736",
+        "conversation_id": "2075511140520497180",
+        "created_at": "2026-07-10T13:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075579148710674638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "QinYueLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075579148710674638",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 39763,
+          "like_count": 536,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075511140520497180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QinYueLe 我不会说江胡是好的领袖 但是那会儿确实是中国有历史以来民风最开放 思潮最自由的时代 再加上加入wto和全球经济上行 在08年北京奥运会达到了顶峰 08年之后每年都像在走下坡路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 1421,
+          "like_count": 9930,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3374
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T01:51:20.000Z",
+        "description": "美好的每一天 不连续存在",
+        "id": "2023213522055028736",
+        "location": "Leningrad，USSR",
+        "name": "Lafaria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059729895387992064/5UXLiNVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 14,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "Lafariakzoz",
+        "verified": false
+      }
+    ]
+  }
+}

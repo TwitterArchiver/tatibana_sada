@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078371427175333888"
+      ],
+      "media_source_tweet_id": [
+        "2078371430027407797"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078379425314533468",
+    "created_at": "2026-07-18T07:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078379425314533468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981638054688501760",
+          "start": 3,
+          "username": "ashasw114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AbRaIjRRNU",
+          "end": 41,
+          "expanded_url": "https://x.com/ashasw114514/status/2078371430027407797/photo/1",
+          "media_key": "3_2078371427175333888",
+          "start": 18,
+          "url": "https://t.co/AbRaIjRRNU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078379425314533468",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078371430027407797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ashasw114514: https://t.co/AbRaIjRRNU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1734,
+        "media_key": "3_2078371427175333888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfbzSQbgAA__9P.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078371427175333888"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078371430027407797",
+        "created_at": "2026-07-18T06:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078371430027407797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AbRaIjRRNU",
+              "end": 23,
+              "expanded_url": "https://x.com/ashasw114514/status/2078371430027407797/photo/1",
+              "media_key": "3_2078371427175333888",
+              "start": 0,
+              "url": "https://t.co/AbRaIjRRNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078371430027407797",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AbRaIjRRNU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078371427175333888"
+          ],
+          "media_source_tweet_id": [
+            "2078371430027407797"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078379425314533468",
+        "created_at": "2026-07-18T07:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078379425314533468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981638054688501760",
+              "start": 3,
+              "username": "ashasw114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AbRaIjRRNU",
+              "end": 41,
+              "expanded_url": "https://x.com/ashasw114514/status/2078371430027407797/photo/1",
+              "media_key": "3_2078371427175333888",
+              "start": 18,
+              "url": "https://t.co/AbRaIjRRNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078379425314533468",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078371430027407797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ashasw114514: https://t.co/AbRaIjRRNU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 1436,
+          "like_count": 10061,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3396
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4931,
+          "following_count": 3706,
+          "like_count": 9048,
+          "listed_count": 12,
+          "media_count": 753,
+          "tweet_count": 6507
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

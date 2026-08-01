@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1994952807720612190",
+    "created_at": "2025-11-30T06:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T07:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995012865997377622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1949538579199488000",
+          "start": 0,
+          "username": "FTMbutxiaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995012865997377622",
+    "in_reply_to_user_id": "1949538579199488000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994952807720612190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FTMbutxiaomao 木村叔，我小人家的第一件学兰帽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1889,
+        "media_key": "3_1994952805355065346",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G69_AbrbkAI0ZfK.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1994952807720612190",
+        "created_at": "2025-11-30T06:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995012865997377622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1949538579199488000",
+              "start": 0,
+              "username": "FTMbutxiaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995012865997377622",
+        "in_reply_to_user_id": "1949538579199488000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994952807720612190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FTMbutxiaomao 木村叔，我小人家的第一件学兰帽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994952805355065346"
+          ]
+        },
+        "author_id": "1949538579199488000",
+        "conversation_id": "1994952807720612190",
+        "created_at": "2025-11-30T02:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994952807720612190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6HGbh09usc",
+              "end": 41,
+              "expanded_url": "https://x.com/FTMbutxiaomao/status/1994952807720612190/photo/1",
+              "media_key": "3_1994952805355065346",
+              "start": 18,
+              "url": "https://t.co/6HGbh09usc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994952807720612190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点想入坑DK惹，先放购物车再说叭 https://t.co/6HGbh09usc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 966,
+          "like_count": 6570,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2334
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T18:33:24.000Z",
+        "description": "ftm（he/him）首次hrt日20250923/性取向双/家长反对党/来互fo喵～/🚪88（24小时陪聊/➕里推和q还有涩涩电报群）和🚪188（除此之外还可以定制涩图和视频/聊h），入🚪19🈲里推 @FTMbutdelitui 感谢哥哥姐姐们支持咱这只穷猫猫喵🥺🩷让咱有米买睾酮和漂亮衣服还有护肤化妆品喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "FTMbutdelitui"
+              }
+            ]
+          }
+        },
+        "id": "1949538579199488000",
+        "name": "Butꉂ ᳐˶ᵒ ᵕ ˂˶ ᳐ฅ🏳️‍⚧️（🚪88/188有涩图和视频）",
+        "pinned_tweet_id": "1991067265219887426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990801280600846340/dESJ0aZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 1680,
+          "like_count": 10200,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 731
+        },
+        "username": "FTMbutxiaomao",
+        "verified": false
+      }
+    ]
+  }
+}

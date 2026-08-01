@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987944696497533140",
+    "created_at": "2025-11-10T18:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T19:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987944696497533140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KamiyaSara8972…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/KamiyaSara8972/status/1987798917023719555",
+          "start": 17,
+          "url": "https://t.co/c1OmkgbVld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987944696497533140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987798917023719555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你是underhorizon吗？ https://t.co/c1OmkgbVld"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987944696497533140",
+        "created_at": "2025-11-10T18:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T19:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987944696497533140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KamiyaSara8972…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/KamiyaSara8972/status/1987798917023719555",
+              "start": 17,
+              "url": "https://t.co/c1OmkgbVld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987944696497533140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987798917023719555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是underhorizon吗？ https://t.co/c1OmkgbVld"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504387273919401987",
+        "conversation_id": "1987798917023719555",
+        "created_at": "2025-11-10T08:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T09:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987798917023719555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KamiyaSara8972…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/KamiyaSara8972/status/1987796459748770158",
+              "start": 58,
+              "url": "https://t.co/8mteJNjaVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987798917023719555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987796459748770158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "几笔勾勒出这种父母的形象，过得苦、将未来寄托在孩子身上、奉献的姿态，后悔，绝对别成为某种人，以及根本没教会孩子什么 https://t.co/8mteJNjaVg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 793,
+          "like_count": 4992,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1842
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T09:21:07.000Z",
+        "description": "",
+        "id": "1504387273919401987",
+        "name": "神谷纱良🍠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981746734402277377/camrKgh5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 368,
+          "like_count": 25090,
+          "listed_count": 3,
+          "media_count": 858,
+          "tweet_count": 30838
+        },
+        "username": "KamiyaSara8972",
+        "verified": false
+      }
+    ]
+  }
+}

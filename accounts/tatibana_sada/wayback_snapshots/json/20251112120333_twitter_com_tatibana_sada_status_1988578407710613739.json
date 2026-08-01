@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988578407710613739",
+    "created_at": "2025-11-12T12:03:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:03:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988578407710613739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/5cmdkOARZbuaVA…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/5cmdkOARZbuaVAG/status/1988333871793140169",
+          "start": 10,
+          "url": "https://t.co/6r0O7imWMK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988578407710613739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988333871793140169",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这才是有德性的女人 https://t.co/6r0O7imWMK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988333863949471744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5f7HVeWkAAb535.jpg",
+        "width": 1542
+      },
+      {
+        "height": 669,
+        "media_key": "3_1988333863534317569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5f7HT7X0AEWhPh.jpg",
+        "width": 720
+      },
+      {
+        "height": 1048,
+        "media_key": "3_1988333869947318272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5f7Hr0WcAAJX0b.jpg",
+        "width": 388
+      },
+      {
+        "height": 901,
+        "media_key": "3_1988333864289230848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5f7HWvW4AAlM6s.jpg",
+        "width": 894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988578407710613739",
+        "created_at": "2025-11-12T12:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988578407710613739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/5cmdkOARZbuaVA…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/5cmdkOARZbuaVAG/status/1988333871793140169",
+              "start": 10,
+              "url": "https://t.co/6r0O7imWMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988578407710613739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988333871793140169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这才是有德性的女人 https://t.co/6r0O7imWMK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988333863949471744",
+            "3_1988333863534317569",
+            "3_1988333869947318272",
+            "3_1988333864289230848"
+          ]
+        },
+        "author_id": "1363489029430403073",
+        "conversation_id": "1988333871793140169",
+        "created_at": "2025-11-11T19:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T20:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988333871793140169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqysiAFs2v",
+              "end": 165,
+              "expanded_url": "https://x.com/5cmdkOARZbuaVAG/status/1988333871793140169/photo/1",
+              "media_key": "3_1988333863949471744",
+              "start": 142,
+              "url": "https://t.co/OqysiAFs2v"
+            },
+            {
+              "display_url": "pic.x.com/OqysiAFs2v",
+              "end": 165,
+              "expanded_url": "https://x.com/5cmdkOARZbuaVAG/status/1988333871793140169/photo/1",
+              "media_key": "3_1988333863534317569",
+              "start": 142,
+              "url": "https://t.co/OqysiAFs2v"
+            },
+            {
+              "display_url": "pic.x.com/OqysiAFs2v",
+              "end": 165,
+              "expanded_url": "https://x.com/5cmdkOARZbuaVAG/status/1988333871793140169/photo/1",
+              "media_key": "3_1988333869947318272",
+              "start": 142,
+              "url": "https://t.co/OqysiAFs2v"
+            },
+            {
+              "display_url": "pic.x.com/OqysiAFs2v",
+              "end": 165,
+              "expanded_url": "https://x.com/5cmdkOARZbuaVAG/status/1988333871793140169/photo/1",
+              "media_key": "3_1988333864289230848",
+              "start": 142,
+              "url": "https://t.co/OqysiAFs2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988333871793140169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8784,
+          "like_count": 100,
+          "quote_count": 3,
+          "reply_count": 39,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "德国女人真的一点都不媚男，不穿高跟鞋没有白幼瘦，一切以自己为中心，老娘喜欢比天大\n班里女生个个提着十公斤左右的工具箱健步如飞，唯一两个化妆的还是黑暗哥特风\n我们工具箱里随便一件都是能取人性命的玩意儿，比如图一这把刻刀，别小瞧它，小巧锋利，藏在手心袖口，根本没人注意到，轻松戳进颈动脉 https://t.co/OqysiAFs2v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 809,
+          "like_count": 5192,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1910
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T14:02:24.000Z",
+        "description": "自由的女巫，反宗教的道士😎\n👸“我”本位。\n女巫“三倍定律”：无论你给予我任何，我必将三倍奉还🧙‍♀️\n道家金句：老子喜欢✌️\n不完全统计99%的男的都是蠢货，挨骂是必然。来吧，向我证明你是那1%",
+        "id": "1363489029430403073",
+        "name": "Wilde Hexe",
+        "pinned_tweet_id": "1955747936601825626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889719360555474945/DKKl6W8p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4262,
+          "following_count": 448,
+          "like_count": 95680,
+          "listed_count": 24,
+          "media_count": 2291,
+          "tweet_count": 50210
+        },
+        "username": "5cmdkOARZbuaVAG",
+        "verified": false
+      }
+    ]
+  }
+}

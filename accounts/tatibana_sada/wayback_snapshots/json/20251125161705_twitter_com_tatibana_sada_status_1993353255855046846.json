@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993131363621310464"
+      ],
+      "media_source_tweet_id": [
+        "1993131367421690117"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1993353255855046846",
+    "created_at": "2025-11-25T16:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T17:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993353255855046846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "628323799",
+          "start": 3,
+          "username": "Xiaosescu"
+        },
+        {
+          "end": 30,
+          "id": "1260553941714186241",
+          "start": 15,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EtR83drUuZ",
+          "end": 61,
+          "expanded_url": "https://x.com/Xiaosescu/status/1993131367421690117/photo/1",
+          "media_key": "3_1993131363621310464",
+          "start": 38,
+          "url": "https://t.co/EtR83drUuZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993353255855046846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993131367421690117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaosescu: @whyyoutouzhele 你们谁😂😂😂 https://t.co/EtR83drUuZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 239,
+        "media_key": "3_1993131363621310464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kGakdWkAAQf1P.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993131363621310464"
+          ],
+          "media_source_tweet_id": [
+            "1993131367421690117"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1993353255855046846",
+        "created_at": "2025-11-25T16:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993353255855046846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "628323799",
+              "start": 3,
+              "username": "Xiaosescu"
+            },
+            {
+              "end": 30,
+              "id": "1260553941714186241",
+              "start": 15,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtR83drUuZ",
+              "end": 61,
+              "expanded_url": "https://x.com/Xiaosescu/status/1993131367421690117/photo/1",
+              "media_key": "3_1993131363621310464",
+              "start": 38,
+              "url": "https://t.co/EtR83drUuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993353255855046846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993131367421690117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaosescu: @whyyoutouzhele 你们谁😂😂😂 https://t.co/EtR83drUuZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993131363621310464"
+          ]
+        },
+        "author_id": "628323799",
+        "conversation_id": "1993122469033455953",
+        "created_at": "2025-11-25T01:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T02:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993131367421690117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtR83drUuZ",
+              "end": 46,
+              "expanded_url": "https://x.com/Xiaosescu/status/1993131367421690117/photo/1",
+              "media_key": "3_1993131363621310464",
+              "start": 23,
+              "url": "https://t.co/EtR83drUuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993131367421690117",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 44971,
+          "like_count": 691,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993122469033455953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 你们谁😂😂😂 https://t.co/EtR83drUuZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 941,
+          "like_count": 6224,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2255
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-06T12:05:25.000Z",
+        "description": "Stay sharp.",
+        "id": "628323799",
+        "location": "四通桥",
+        "name": "稍有常识",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906816104174870528/G2dsseEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 788,
+          "like_count": 2271,
+          "listed_count": 15,
+          "media_count": 934,
+          "tweet_count": 10875
+        },
+        "username": "Xiaosescu",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149308,
+          "following_count": 980,
+          "like_count": 8355,
+          "listed_count": 8422,
+          "media_count": 37658,
+          "tweet_count": 44531
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

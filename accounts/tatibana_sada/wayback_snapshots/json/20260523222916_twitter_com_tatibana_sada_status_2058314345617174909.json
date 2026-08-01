@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2058024616535474607",
+    "created_at": "2026-05-23T22:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T23:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058314345617174909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1525377023660593157",
+          "start": 0,
+          "username": "dolphin_5ge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058314345617174909",
+    "in_reply_to_user_id": "1525377023660593157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058024616535474607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dolphin_5ge 可以repost吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2058024610269151232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-SeqoawAAfweo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058024616535474607",
+        "created_at": "2026-05-23T22:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T23:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058314345617174909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1525377023660593157",
+              "start": 0,
+              "username": "dolphin_5ge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058314345617174909",
+        "in_reply_to_user_id": "1525377023660593157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058024616535474607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dolphin_5ge 可以repost吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058024610269151232"
+          ]
+        },
+        "author_id": "1525377023660593157",
+        "conversation_id": "2058024616535474607",
+        "created_at": "2026-05-23T03:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058024616535474607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TXypfuDPW",
+              "end": 45,
+              "expanded_url": "https://x.com/dolphin_5ge/status/2058024616535474607/photo/1",
+              "media_key": "3_2058024610269151232",
+              "start": 22,
+              "url": "https://t.co/0TXypfuDPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058024616535474607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 282,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直没有发布的稿件\n因为怕你们觉得我幼稚 https://t.co/0TXypfuDPW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 1189,
+          "like_count": 8417,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2785
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T07:26:46.000Z",
+        "description": "無言フォロー失礼します。8964天安門。18歳。日本語(勉強中)。很喜欢昭和军歌、演歌ijn ija相关。精日🇯🇵支黑，特别针对黄蛆男。欢迎互fo！我特别温良呀，你们快来找我玩喵🐱所有均为约稿，绘画苦手(悲)\nb你你可能没错 只是我不想看你的内容我们互不打扰..",
+        "id": "1525377023660593157",
+        "name": "休想桃之夭夭",
+        "pinned_tweet_id": "2058004510577197112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046464818362904576/xItxpxdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 610,
+          "like_count": 14977,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1014
+        },
+        "username": "dolphin_5ge",
+        "verified": false
+      }
+    ]
+  }
+}

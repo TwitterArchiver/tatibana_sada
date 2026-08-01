@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996840535102050305",
+        "3_1996840535194259456"
+      ],
+      "media_source_tweet_id": [
+        "1996840542639210544",
+        "1996840542639210544"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1997102656184328237",
+    "created_at": "2025-12-06T00:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T01:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997102656184328237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1955698708647174144",
+          "start": 3,
+          "username": "LayiKD01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RNIHjlsrfu",
+          "end": 52,
+          "expanded_url": "https://x.com/LayiKD01/status/1996840542639210544/photo/1",
+          "media_key": "3_1996840535102050305",
+          "start": 29,
+          "url": "https://t.co/RNIHjlsrfu"
+        },
+        {
+          "display_url": "pic.x.com/RNIHjlsrfu",
+          "end": 52,
+          "expanded_url": "https://x.com/LayiKD01/status/1996840542639210544/photo/1",
+          "media_key": "3_1996840535194259456",
+          "start": 29,
+          "url": "https://t.co/RNIHjlsrfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997102656184328237",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996840542639210544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LayiKD01: 唉，同是跨招娣相煎何太急呢😄 https://t.co/RNIHjlsrfu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996840535102050305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Yz4w_b0AEk6Tx.jpg",
+        "width": 882
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996840535194259456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Yz4xVa0AAjSVB.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996840535102050305",
+            "3_1996840535194259456"
+          ],
+          "media_source_tweet_id": [
+            "1996840542639210544",
+            "1996840542639210544"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1997102656184328237",
+        "created_at": "2025-12-06T00:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T01:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997102656184328237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1955698708647174144",
+              "start": 3,
+              "username": "LayiKD01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RNIHjlsrfu",
+              "end": 52,
+              "expanded_url": "https://x.com/LayiKD01/status/1996840542639210544/photo/1",
+              "media_key": "3_1996840535102050305",
+              "start": 29,
+              "url": "https://t.co/RNIHjlsrfu"
+            },
+            {
+              "display_url": "pic.x.com/RNIHjlsrfu",
+              "end": 52,
+              "expanded_url": "https://x.com/LayiKD01/status/1996840542639210544/photo/1",
+              "media_key": "3_1996840535194259456",
+              "start": 29,
+              "url": "https://t.co/RNIHjlsrfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997102656184328237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996840542639210544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LayiKD01: 唉，同是跨招娣相煎何太急呢😄 https://t.co/RNIHjlsrfu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996840535102050305",
+            "3_1996840535194259456"
+          ]
+        },
+        "author_id": "1955698708647174144",
+        "conversation_id": "1996840542639210544",
+        "created_at": "2025-12-05T07:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T08:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996840542639210544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RNIHjlsrfu",
+              "end": 38,
+              "expanded_url": "https://x.com/LayiKD01/status/1996840542639210544/photo/1",
+              "media_key": "3_1996840535102050305",
+              "start": 15,
+              "url": "https://t.co/RNIHjlsrfu"
+            },
+            {
+              "display_url": "pic.x.com/RNIHjlsrfu",
+              "end": 38,
+              "expanded_url": "https://x.com/LayiKD01/status/1996840542639210544/photo/1",
+              "media_key": "3_1996840535194259456",
+              "start": 15,
+              "url": "https://t.co/RNIHjlsrfu"
+            },
+            {
+              "display_url": "x.com/baiyuewww/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/baiyuewww/status/1996427420963143930",
+              "start": 39,
+              "url": "https://t.co/PxLufoqJdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996840542639210544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 819,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996427420963143930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，同是跨招娣相煎何太急呢😄 https://t.co/RNIHjlsrfu https://t.co/PxLufoqJdN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 991,
+          "like_count": 6740,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2365
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T18:31:33.000Z",
+        "description": "激進男同 | 招娣滅絕主義者 | 亞伯拉罕三教&印度教&羌周教滅絕主義者 | 不按基因和外貌鑑人，按文化認同鑑人",
+        "id": "1955698708647174144",
+        "name": "激同小智（已黑化）",
+        "pinned_tweet_id": "1982352171309178917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979042336865755136/3TTJkBtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 24,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 148
+        },
+        "username": "LayiKD01",
+        "verified": false
+      }
+    ]
+  }
+}

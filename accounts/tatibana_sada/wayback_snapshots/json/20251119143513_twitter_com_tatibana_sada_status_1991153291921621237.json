@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990998190095548416"
+      ],
+      "media_source_tweet_id": [
+        "1990998193874604187"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991153291921621237",
+    "created_at": "2025-11-19T14:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T15:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991153291921621237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1548157400632270848",
+          "start": 3,
+          "username": "annayanamisuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wj3wJcpRuR",
+          "end": 52,
+          "expanded_url": "https://x.com/annayanamisuki/status/1990998193874604187/photo/1",
+          "media_key": "3_1990998190095548416",
+          "start": 29,
+          "url": "https://t.co/wj3wJcpRuR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991153291921621237",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990998193874604187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @annayanamisuki: based桑海宁 https://t.co/wj3wJcpRuR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 387,
+        "media_key": "3_1990998190095548416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FyTh0XQAAyTMt.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990998190095548416"
+          ],
+          "media_source_tweet_id": [
+            "1990998193874604187"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991153291921621237",
+        "created_at": "2025-11-19T14:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T15:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991153291921621237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1548157400632270848",
+              "start": 3,
+              "username": "annayanamisuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wj3wJcpRuR",
+              "end": 52,
+              "expanded_url": "https://x.com/annayanamisuki/status/1990998193874604187/photo/1",
+              "media_key": "3_1990998190095548416",
+              "start": 29,
+              "url": "https://t.co/wj3wJcpRuR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991153291921621237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990998193874604187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @annayanamisuki: based桑海宁 https://t.co/wj3wJcpRuR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990998190095548416"
+          ]
+        },
+        "author_id": "1548157400632270848",
+        "conversation_id": "1990998193874604187",
+        "created_at": "2025-11-19T04:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T05:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990998193874604187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wj3wJcpRuR",
+              "end": 32,
+              "expanded_url": "https://x.com/annayanamisuki/status/1990998193874604187/photo/1",
+              "media_key": "3_1990998190095548416",
+              "start": 9,
+              "url": "https://t.co/wj3wJcpRuR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990998193874604187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 17046,
+          "like_count": 286,
+          "quote_count": 5,
+          "reply_count": 38,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "based桑海宁 https://t.co/wj3wJcpRuR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 864,
+          "like_count": 5631,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2019
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-16T04:08:07.000Z",
+        "description": "Alt：@sima_musk｜High Commissioner of @enchenia in North America",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "sima_musk"
+              },
+              {
+                "end": 45,
+                "start": 36,
+                "username": "enchenia"
+              }
+            ]
+          }
+        },
+        "id": "1548157400632270848",
+        "location": "Boston, MA",
+        "name": "韦大厨今天吃两脚羊☭⃠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864175949681401857/nU4COn35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4350,
+          "following_count": 984,
+          "like_count": 45247,
+          "listed_count": 17,
+          "media_count": 1623,
+          "tweet_count": 8121
+        },
+        "username": "annayanamisuki",
+        "verified": false
+      }
+    ]
+  }
+}

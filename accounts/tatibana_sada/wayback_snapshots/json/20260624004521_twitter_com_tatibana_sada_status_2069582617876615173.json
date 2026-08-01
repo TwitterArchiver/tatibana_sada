@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069513383670317056"
+      ],
+      "media_source_tweet_id": [
+        "2069513387210318167"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2069582617876615173",
+    "created_at": "2026-06-24T00:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T01:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069582617876615173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1532168029013958658",
+          "start": 3,
+          "username": "AbeTheShinzo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TWLquDGaBX",
+          "end": 68,
+          "expanded_url": "https://x.com/AbeTheShinzo/status/2069513387210318167/photo/1",
+          "media_key": "3_2069513383670317056",
+          "start": 45,
+          "url": "https://t.co/TWLquDGaBX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069582617876615173",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069513387210318167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AbeTheShinzo: You have to trust the plan https://t.co/TWLquDGaBX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1185,
+        "media_key": "3_2069513383670317056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhjdSuWAAAlbqH.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069513383670317056"
+          ],
+          "media_source_tweet_id": [
+            "2069513387210318167"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2069582617876615173",
+        "created_at": "2026-06-24T00:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069582617876615173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1532168029013958658",
+              "start": 3,
+              "username": "AbeTheShinzo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWLquDGaBX",
+              "end": 68,
+              "expanded_url": "https://x.com/AbeTheShinzo/status/2069513387210318167/photo/1",
+              "media_key": "3_2069513383670317056",
+              "start": 45,
+              "url": "https://t.co/TWLquDGaBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069582617876615173",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069513387210318167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AbeTheShinzo: You have to trust the plan https://t.co/TWLquDGaBX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069513383670317056"
+          ]
+        },
+        "author_id": "1532168029013958658",
+        "conversation_id": "2069513387210318167",
+        "created_at": "2026-06-23T20:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069513387210318167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWLquDGaBX",
+              "end": 50,
+              "expanded_url": "https://x.com/AbeTheShinzo/status/2069513387210318167/photo/1",
+              "media_key": "3_2069513383670317056",
+              "start": 27,
+              "url": "https://t.co/TWLquDGaBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069513387210318167",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 6099,
+          "like_count": 807,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "You have to trust the plan https://t.co/TWLquDGaBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1337,
+          "like_count": 9395,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3237
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-02T01:11:44.000Z",
+        "description": "Trying to find the Truth | In search of adventure | Private: @AbeTheAlt | Eclectic music enjoyer | SW-7928-1769-2568",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "AbeTheAlt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.apple.com/profile/AbeThe…",
+                "end": 23,
+                "expanded_url": "https://music.apple.com/profile/AbeTheShinzo",
+                "start": 0,
+                "url": "https://t.co/rGJBklm153"
+              }
+            ]
+          }
+        },
+        "id": "1532168029013958658",
+        "location": "Plutarius-Æ",
+        "name": "Abe",
+        "pinned_tweet_id": "1919509323564110319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046570933352058880/yZ8vxmdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 1148,
+          "like_count": 57826,
+          "listed_count": 12,
+          "media_count": 2654,
+          "tweet_count": 10787
+        },
+        "url": "https://t.co/rGJBklm153",
+        "username": "AbeTheShinzo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2023662628187631882",
+    "created_at": "2026-02-17T07:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T08:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023662628187631882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "919005797018988545",
+          "start": 3,
+          "username": "chinatransition"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023662628187631882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023552581696393294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chinatransition: 民主政治很烧钱，搞不好就出问题\n\n以前泰国选举有两轮贿选。第一轮叫“铺地毯”，意思是给选民发一小笔现金，算是候选人向选民自荐。第二轮贿选取决于候选人之间竞争激烈程度。第二轮贿选通常发生在投票日前夜，这一夜被称为“狗吠之夜”，因为太多买票…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2023544444424003584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBUS83UboAAwYVD.jpg",
+        "width": 1456
+      },
+      {
+        "height": 680,
+        "media_key": "3_2023544562166173696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBUTDt8WkAAc-n2.jpg",
+        "width": 461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2023662628187631882",
+        "created_at": "2026-02-17T07:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T08:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023662628187631882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "919005797018988545",
+              "start": 3,
+              "username": "chinatransition"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023662628187631882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023552581696393294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chinatransition: 民主政治很烧钱，搞不好就出问题\n\n以前泰国选举有两轮贿选。第一轮叫“铺地毯”，意思是给选民发一小笔现金，算是候选人向选民自荐。第二轮贿选取决于候选人之间竞争激烈程度。第二轮贿选通常发生在投票日前夜，这一夜被称为“狗吠之夜”，因为太多买票…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023544444424003584",
+            "3_2023544562166173696"
+          ]
+        },
+        "author_id": "919005797018988545",
+        "conversation_id": "2023552581696393294",
+        "created_at": "2026-02-17T00:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T01:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023552581696393294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RcrJhFNNCI",
+              "end": 160,
+              "expanded_url": "https://x.com/chinatransition/status/2023552581696393294/photo/1",
+              "media_key": "3_2023544444424003584",
+              "start": 137,
+              "url": "https://t.co/RcrJhFNNCI"
+            },
+            {
+              "display_url": "pic.x.com/RcrJhFNNCI",
+              "end": 160,
+              "expanded_url": "https://x.com/chinatransition/status/2023552581696393294/photo/1",
+              "media_key": "3_2023544562166173696",
+              "start": 137,
+              "url": "https://t.co/RcrJhFNNCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023552581696393294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "chinademocrats.org/?p=6153",
+                "end": 749,
+                "expanded_url": "https://chinademocrats.org/?p=6153",
+                "start": 726,
+                "url": "https://t.co/JdOz38287N"
+              },
+              {
+                "display_url": "chinademocratictransition.substack.com/p/3ea",
+                "end": 795,
+                "expanded_url": "https://chinademocratictransition.substack.com/p/3ea",
+                "start": 772,
+                "url": "https://t.co/1fCfcageyi"
+              }
+            ]
+          },
+          "text": "民主政治很烧钱，搞不好就出问题\n\n以前泰国选举有两轮贿选。第一轮叫“铺地毯”，意思是给选民发一小笔现金，算是候选人向选民自荐。第二轮贿选取决于候选人之间竞争激烈程度。第二轮贿选通常发生在投票日前夜，这一夜被称为“狗吠之夜”，因为太多买票者深夜拜访村民，结果看家狗整夜狂吠。\n\n民主政治很烧钱，但是怎么募集资金和怎么利用资金是个难题，至今仍然存在很多模糊地带。\n\n1991年，比利时社会党领袖安德烈·库尔斯（André Cools）在自己家门口被人枪杀，事后调查发现：他卷入了法国和意大利军火制造商向比利时社会党提供的政治捐款以换取军火合同交易。这起丑闻迅速持续发酵，最终导致时任的北约秘书长威利·克拉斯（Willi Claes）被迫于1995年辞职（因为丑闻发生在他担任比利时经济部长期间）。\n\n2000年秋，乌克兰记者乔尔吉·贡加泽（Georgiy Gongadze）突遭绑架杀害，部分原因是他曾调查商界寡头涉嫌参与政治筹资有关的腐败交易。不到5年时间，2005年春，涉嫌指使杀害贡加泽的乌克兰前内务部长尤里·克拉夫琴科（Yuriy Kravchenko）就在即将出庭作证的几小时之前被人两枪爆头。\n\n政治筹资这么危险，还有很多案例长期游走在合法与非法边缘，很大原因还在于民主选举需要花钱。以前募集到的资金被用来买票和送礼，造成极其高昂的政治成本。随着大众传媒和新媒体崛起，募集资金的渠道更加灵活，同时政治成本也在下降。\n\n有关政治筹资，有哪些是我们必须了解的呢？\n\n------\n\n进一步探索这个问题，详见《中国民主季刊》2026年第1期制度设计专栏：迈克尔·平托-杜辛斯基《全球视野下的政治筹资》\n\n可免费下载本季《中国民主季刊》完整电子版： \nhttps://t.co/JdOz38287N\n\n读者也可前往本刊的Substack专栏：\nhttps://t.co/1fCfcageyi"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4324,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "民主政治很烧钱，搞不好就出问题\n\n以前泰国选举有两轮贿选。第一轮叫“铺地毯”，意思是给选民发一小笔现金，算是候选人向选民自荐。第二轮贿选取决于候选人之间竞争激烈程度。第二轮贿选通常发生在投票日前夜，这一夜被称为“狗吠之夜”，因为太多买票者深夜拜访村民，结果看家狗整夜狂吠。 https://t.co/RcrJhFNNCI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 1007,
+          "like_count": 7224,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2442
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-14T01:03:51.000Z",
+        "description": "一个为未来做准备的智库/主办《中国民主季刊》\n\nICDT: Institute for China's Democratic Transition,a think tank preparing for the future/Flagship publication: China Journal of Democracy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinademocrats.org",
+                "end": 23,
+                "expanded_url": "https://chinademocrats.org/",
+                "start": 0,
+                "url": "https://t.co/YpF5lToc6o"
+              }
+            ]
+          }
+        },
+        "id": "919005797018988545",
+        "location": "美国新泽西/New Jersey, USA",
+        "name": "中国民主转型研究所(ICDT)",
+        "pinned_tweet_id": "2020231400163541428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021953937088143360/TyyfnS52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15608,
+          "following_count": 1313,
+          "like_count": 493,
+          "listed_count": 98,
+          "media_count": 918,
+          "tweet_count": 2788
+        },
+        "url": "https://t.co/YpF5lToc6o",
+        "username": "chinatransition",
+        "verified": true
+      }
+    ]
+  }
+}

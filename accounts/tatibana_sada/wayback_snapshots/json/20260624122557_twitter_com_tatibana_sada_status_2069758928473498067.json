@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069643495858425856"
+      ],
+      "media_source_tweet_id": [
+        "2069643511688016236"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2069758928473498067",
+    "created_at": "2026-06-24T12:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T13:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069758928473498067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "888172653881638912",
+          "start": 3,
+          "username": "yovartija_nattv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pHP8cP1VgQ",
+          "end": 130,
+          "expanded_url": "https://x.com/yovartija_nattv/status/2069643511688016236/photo/1",
+          "media_key": "3_2069643495858425856",
+          "start": 107,
+          "url": "https://t.co/pHP8cP1VgQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069758928473498067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069643511688016236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yovartija_nattv: 大约24亿年前，蓝藻在缺乏充分研究当时地球环境承载能力、未广泛听取厌氧微生物群体意见的情况下，盲目推进“地球大氧化运动”，造成了一场影响地质环境和生物演化进程的生态剧变… https://t.co/pHP8cP1VgQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 693,
+        "media_key": "3_2069643495858425856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjZy0ZW0AAfNnz.jpg",
+        "width": 1041
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069643495858425856"
+          ],
+          "media_source_tweet_id": [
+            "2069643511688016236"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2069758928473498067",
+        "created_at": "2026-06-24T12:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069758928473498067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "888172653881638912",
+              "start": 3,
+              "username": "yovartija_nattv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pHP8cP1VgQ",
+              "end": 130,
+              "expanded_url": "https://x.com/yovartija_nattv/status/2069643511688016236/photo/1",
+              "media_key": "3_2069643495858425856",
+              "start": 107,
+              "url": "https://t.co/pHP8cP1VgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069758928473498067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069643511688016236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yovartija_nattv: 大约24亿年前，蓝藻在缺乏充分研究当时地球环境承载能力、未广泛听取厌氧微生物群体意见的情况下，盲目推进“地球大氧化运动”，造成了一场影响地质环境和生物演化进程的生态剧变… https://t.co/pHP8cP1VgQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069643495858425856"
+          ]
+        },
+        "author_id": "888172653881638912",
+        "conversation_id": "2069643511688016236",
+        "created_at": "2026-06-24T04:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069643511688016236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pHP8cP1VgQ",
+              "end": 108,
+              "expanded_url": "https://x.com/yovartija_nattv/status/2069643511688016236/photo/1",
+              "media_key": "3_2069643495858425856",
+              "start": 85,
+              "url": "https://t.co/pHP8cP1VgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069643511688016236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大约24亿年前，蓝藻在缺乏充分研究当时地球环境承载能力、未广泛听取厌氧微生物群体意见的情况下，盲目推进“地球大氧化运动”，造成了一场影响地质环境和生物演化进程的生态剧变\n\n蓝藻当时提出“光合作用能改变世界”的口号，片面强调释放氧气的积极意义，严重夸大了自身作用，忽视了氧气作为强氧化剂对当时以厌氧细菌为主的生态系统造成的巨大冲击。它们不顾多数厌氧生物的实际生存状况，将氧气大规模排放到海洋和大气之中，使得全球氧浓度在短时间内急剧上升，引发了大规模物种灭绝，史称“氧气浩劫”\n\n蓝藻说，我这一辈子干两件大事。一件是和二氧化碳斗了那么几亿年，把它赶到糖分子里去了。另一件是发动了大氧化事件。这件事情，适应的生物不多，灭绝的生物倒不少。\n\n事实证明，蓝藻错误发动的大氧化运动不是任何意义上的生态进步，也不可能通过简单的“产氧改革”来实现所谓的“生态跨越”。其行为客观上导致原有生态格局遭受严重破坏，古老微生物文明濒临灭绝，给地球生命进程带来了极为深刻的教训。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 8705,
+          "like_count": 168,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "大约24亿年前，蓝藻在缺乏充分研究当时地球环境承载能力、未广泛听取厌氧微生物群体意见的情况下，盲目推进“地球大氧化运动”，造成了一场影响地质环境和生物演化进程的生态剧变 https://t.co/pHP8cP1VgQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 1335,
+          "like_count": 9415,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3244
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T23:03:56.000Z",
+        "description": "Nonbinary of Tzeentch (她/she)\\Asexual\\North East Asia Study\\Pirate/SISU/Nihil\\Proud of what I am !\\辽北精神分析研究所\\Bluesky:@yovahti.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 117,
+                "username": "yovahti"
+              }
+            ]
+          }
+        },
+        "id": "888172653881638912",
+        "location": "IP属地：东北亚",
+        "name": "Yö/ttevakt|sama🏴‍☠️🇫🇮🏴",
+        "pinned_tweet_id": "1774675363718955425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030660011161165824/SLUIGWsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10396,
+          "following_count": 834,
+          "like_count": 44775,
+          "listed_count": 43,
+          "media_count": 1541,
+          "tweet_count": 5856
+        },
+        "url": "",
+        "username": "yovartija_nattv",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986120086995017926",
+    "created_at": "2025-11-05T17:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T18:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986120086995017926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chnjnhng738472…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/chnjnhng738472/status/1983724264902816187",
+          "start": 14,
+          "url": "https://t.co/bpilaZNr6j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986120086995017926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983724264902816187",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "So do i\n我爱男无罪 https://t.co/bpilaZNr6j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986120086995017926",
+        "created_at": "2025-11-05T17:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T18:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986120086995017926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chnjnhng738472…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/chnjnhng738472/status/1983724264902816187",
+              "start": 14,
+              "url": "https://t.co/bpilaZNr6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986120086995017926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983724264902816187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "So do i\n我爱男无罪 https://t.co/bpilaZNr6j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938140109792325632",
+        "conversation_id": "1983724264902816187",
+        "created_at": "2025-10-30T02:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T03:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983724264902816187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983724264902816187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么我觉得身边认识的大部分男性都会有很迷人的点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 756,
+          "like_count": 4783,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1812
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T07:40:26.000Z",
+        "description": "自律，忍耐，忏悔，祈祷。清洁，顺从。记主。",
+        "id": "1938140109792325632",
+        "location": "在那时",
+        "name": "在你死去前就要死去",
+        "pinned_tweet_id": "1983765851234038155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983786255386046464/pKLbSSvX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 229,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1110
+        },
+        "username": "chnjnhng738472",
+        "verified": false
+      }
+    ]
+  }
+}

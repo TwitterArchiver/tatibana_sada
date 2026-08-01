@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064069143289331712"
+      ],
+      "media_source_tweet_id": [
+        "2064069237728313525"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2064256953858310309",
+    "created_at": "2026-06-09T08:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064256953858310309"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 14,
+          "tag": "繪俄史藝術高等學院"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1463237049297735682",
+          "start": 3,
+          "username": "INU_Art_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jsadJMud39",
+          "end": 71,
+          "expanded_url": "https://x.com/INU_Art_/status/2064069237728313525/photo/1",
+          "media_key": "3_2064069143289331712",
+          "start": 48,
+          "url": "https://t.co/jsadJMud39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064256953858310309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064069237728313525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @INU_Art_: #繪俄史藝術高等學院\n\n小朋友哪有什麼壞心思，他只是想跟大家當朋友 https://t.co/jsadJMud39"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2064069143289331712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUL8y2bAAAVyxd.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064069143289331712"
+          ],
+          "media_source_tweet_id": [
+            "2064069237728313525"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064256953858310309",
+        "created_at": "2026-06-09T08:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064256953858310309"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 14,
+              "tag": "繪俄史藝術高等學院"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1463237049297735682",
+              "start": 3,
+              "username": "INU_Art_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsadJMud39",
+              "end": 71,
+              "expanded_url": "https://x.com/INU_Art_/status/2064069237728313525/photo/1",
+              "media_key": "3_2064069143289331712",
+              "start": 48,
+              "url": "https://t.co/jsadJMud39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064256953858310309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064069237728313525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @INU_Art_: #繪俄史藝術高等學院\n\n小朋友哪有什麼壞心思，他只是想跟大家當朋友 https://t.co/jsadJMud39"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064069143289331712"
+          ]
+        },
+        "author_id": "1463237049297735682",
+        "conversation_id": "2064069237728313525",
+        "created_at": "2026-06-08T19:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064069237728313525"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "繪俄史藝術高等學院"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsadJMud39",
+              "end": 57,
+              "expanded_url": "https://x.com/INU_Art_/status/2064069237728313525/photo/1",
+              "media_key": "3_2064069143289331712",
+              "start": 34,
+              "url": "https://t.co/jsadJMud39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064069237728313525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 17330,
+          "like_count": 760,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "#繪俄史藝術高等學院\n\n小朋友哪有什麼壞心思，他只是想跟大家當朋友 https://t.co/jsadJMud39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 1285,
+          "like_count": 9132,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3129
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-23T20:04:49.000Z",
+        "description": "練習中畫畫人 同人女帳號 @nulesgo  \n委託可看◆https://t.co/OtoB4QKb6R  \n也可以聯絡DC👉https://t.co/Rnrur0DSkO\n對接已交給小精靈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "nulesgo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "inuart.carrd.co",
+                "end": 52,
+                "expanded_url": "https://inuart.carrd.co/",
+                "start": 29,
+                "url": "https://t.co/OtoB4QKb6R"
+              },
+              {
+                "display_url": "discord.gg/pnehVc6PUY",
+                "end": 86,
+                "expanded_url": "https://discord.gg/pnehVc6PUY",
+                "start": 63,
+                "url": "https://t.co/Rnrur0DSkO"
+              }
+            ]
+          }
+        },
+        "id": "1463237049297735682",
+        "location": "Ai禁止🚫",
+        "name": "𝕀ℕ𝕌",
+        "pinned_tweet_id": "2057658687133737073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061367909663080448/dFjI-bwA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4117,
+          "following_count": 82,
+          "like_count": 1314,
+          "listed_count": 15,
+          "media_count": 153,
+          "tweet_count": 1997
+        },
+        "username": "INU_Art_",
+        "verified": false
+      }
+    ]
+  }
+}

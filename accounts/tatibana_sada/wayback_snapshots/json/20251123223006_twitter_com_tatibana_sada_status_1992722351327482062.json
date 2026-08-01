@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1992581548831658242",
+    "created_at": "2025-11-23T22:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T23:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992722351327482062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1760449581630758912",
+          "start": 0,
+          "username": "Freeman01234567"
+        },
+        {
+          "end": 33,
+          "id": "4752010152",
+          "start": 17,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992722351327482062",
+    "in_reply_to_user_id": "1760449581630758912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992720170960199991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freeman01234567 @garrulous_abyss 神仙客，何时来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992581548831658242",
+        "created_at": "2025-11-23T22:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T23:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992722351327482062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1760449581630758912",
+              "start": 0,
+              "username": "Freeman01234567"
+            },
+            {
+              "end": 33,
+              "id": "4752010152",
+              "start": 17,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992722351327482062",
+        "in_reply_to_user_id": "1760449581630758912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992720170960199991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freeman01234567 @garrulous_abyss 神仙客，何时来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760449581630758912",
+        "conversation_id": "1992581548831658242",
+        "created_at": "2025-11-23T22:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T23:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992720170960199991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 31,
+              "id": "4752010152",
+              "start": 15,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992720170960199991",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992658322974183646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @garrulous_abyss 你这是真的错乱了孩子，\n让医务室给你开点药。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 919,
+          "like_count": 6096,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2215
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T23:41:18.000Z",
+        "description": "天安门坦克手旅居纽约，登基哈基米教北美教皇🫅习粉/向支那人Xi学习 不退位。🧏Tanker from Tiananmen Square, Pope of the Hajim.Learn from Chinese President Xi and have no intention of abdicating.",
+        "id": "1760449581630758912",
+        "location": "The Bottom of Hell",
+        "name": "NewYork Tank🇺🇸纽约坦克",
+        "pinned_tweet_id": "1990878715744563551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944086677175111680/pD6rJWCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 1204,
+          "like_count": 11146,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 11445
+        },
+        "username": "Freeman01234567",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//奔四老登//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 131,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 108,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30348,
+          "following_count": 3647,
+          "like_count": 168947,
+          "listed_count": 101,
+          "media_count": 3679,
+          "tweet_count": 62093
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2063802890469380191",
+    "created_at": "2026-06-08T01:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T02:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063802890469380191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FemboyLoveerr/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/FemboyLoveerr/status/2063602662323654889",
+          "start": 4,
+          "url": "https://t.co/3RoygoC1yA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063802890469380191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063602662323654889",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁来了 https://t.co/3RoygoC1yA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2063602601950912514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNjog7bIAIkkkM.png",
+        "width": 637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2063802890469380191",
+        "created_at": "2026-06-08T01:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063802890469380191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FemboyLoveerr/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/FemboyLoveerr/status/2063602662323654889",
+              "start": 4,
+              "url": "https://t.co/3RoygoC1yA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063802890469380191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063602662323654889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁来了 https://t.co/3RoygoC1yA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063602601950912514"
+          ]
+        },
+        "author_id": "1847884802516799489",
+        "conversation_id": "2063602662323654889",
+        "created_at": "2026-06-07T12:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063602662323654889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sQb930YXPN",
+              "end": 23,
+              "expanded_url": "https://x.com/FemboyLoveerr/status/2063602662323654889/photo/1",
+              "media_key": "3_2063602601950912514",
+              "start": 0,
+              "url": "https://t.co/sQb930YXPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063602662323654889",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 984,
+          "impression_count": 20444,
+          "like_count": 3482,
+          "quote_count": 6,
+          "reply_count": 13,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sQb930YXPN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1264,
+          "like_count": 9036,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3079
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T06:19:06.000Z",
+        "description": "Hai :3",
+        "id": "1847884802516799489",
+        "name": ":3",
+        "pinned_tweet_id": "1878350352791093588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861534765490524160/JWCC3Hu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66660,
+          "following_count": 25,
+          "like_count": 12026,
+          "listed_count": 48,
+          "media_count": 1908,
+          "tweet_count": 7333
+        },
+        "username": "FemboyLoveerr",
+        "verified": false
+      }
+    ]
+  }
+}

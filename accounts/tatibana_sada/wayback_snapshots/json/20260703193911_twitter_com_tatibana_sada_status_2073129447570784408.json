@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2073129447570784408",
+    "created_at": "2026-07-03T19:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T20:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073129447570784408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2058786554433118208",
+          "start": 3,
+          "username": "thelongmarch86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073129447570784408",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073110410425704490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thelongmarch86: Japan gotta be the most cucked US colony of all time."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2073129447570784408",
+        "created_at": "2026-07-03T19:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073129447570784408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2058786554433118208",
+              "start": 3,
+              "username": "thelongmarch86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073129447570784408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073110410425704490",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thelongmarch86: Japan gotta be the most cucked US colony of all time."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058786554433118208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2073110410425704490",
+        "created_at": "2026-07-03T18:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073110410425704490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EndWokeness/st…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/EndWokeness/status/2073068970878308738",
+              "start": 54,
+              "url": "https://t.co/3xre8XMT3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073110410425704490",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 512,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073068970878308738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Japan gotta be the most cucked US colony of all time. https://t.co/3xre8XMT3b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1384,
+          "like_count": 9578,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3283
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T05:48:10.000Z",
+        "description": "Orthodox Marxist-Leninist. AI should be used for central planning. America needs to be balkanized.",
+        "id": "2058786554433118208",
+        "name": "Supreme Leader Loji",
+        "pinned_tweet_id": "2071104501000331583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058788310395301888/ZiKg5cnJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 46,
+          "like_count": 3640,
+          "listed_count": 9,
+          "media_count": 84,
+          "tweet_count": 1288
+        },
+        "url": "",
+        "username": "thelongmarch86",
+        "verified": false
+      }
+    ]
+  }
+}

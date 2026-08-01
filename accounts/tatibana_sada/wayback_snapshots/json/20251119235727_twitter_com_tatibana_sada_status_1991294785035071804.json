@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991056263342666071",
+    "created_at": "2025-11-19T23:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T00:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991294785035071804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1654297647518466048",
+          "start": 0,
+          "username": "AngeloMcna6787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991294785035071804",
+    "in_reply_to_user_id": "1654297647518466048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991056263342666071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngeloMcna6787 知名普鲁士五毛黑匪狗儿英明的指出：所有人都要感恩国家。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991056263342666071",
+        "created_at": "2025-11-19T23:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T00:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991294785035071804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654297647518466048",
+              "start": 0,
+              "username": "AngeloMcna6787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991294785035071804",
+        "in_reply_to_user_id": "1654297647518466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991056263342666071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngeloMcna6787 知名普鲁士五毛黑匪狗儿英明的指出：所有人都要感恩国家。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654297647518466048",
+        "conversation_id": "1991056263342666071",
+        "created_at": "2025-11-19T08:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991056263342666071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991056263342666071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3623,
+          "like_count": 19,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "潜在狗子最新视频的遭遇，无比生动地说明了人们为何应该支持中国共产党。\n我有个女性长辈，她支持中国共产党的一大原因就是，假如没有共产党，她的丈夫那样的人（相信阴谋论、蔑视知识与文化）就没人管了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 866,
+          "like_count": 5651,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2025
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T01:31:17.000Z",
+        "description": "康米",
+        "id": "1654297647518466048",
+        "location": "？",
+        "name": "Jamie Hume二代目",
+        "pinned_tweet_id": "1889948565918863379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660967912289751041/T6cHfnhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227,
+          "following_count": 165,
+          "like_count": 11604,
+          "listed_count": 21,
+          "media_count": 1362,
+          "tweet_count": 20986
+        },
+        "username": "AngeloMcna6787",
+        "verified": false
+      }
+    ]
+  }
+}

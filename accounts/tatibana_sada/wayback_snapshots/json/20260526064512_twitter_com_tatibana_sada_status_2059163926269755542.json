@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2058910468329394675",
+    "created_at": "2026-05-26T06:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T07:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059163926269755542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013905624887623680",
+          "start": 0,
+          "username": "mjiq171804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059163926269755542",
+    "in_reply_to_user_id": "2013905624887623680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059162090078867791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mjiq171804 那"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058910468329394675",
+        "created_at": "2026-05-26T06:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059163926269755542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013905624887623680",
+              "start": 0,
+              "username": "mjiq171804"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059163926269755542",
+        "in_reply_to_user_id": "2013905624887623680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059162090078867791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mjiq171804 那"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013905624887623680",
+        "conversation_id": "2058910468329394675",
+        "created_at": "2026-05-26T06:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059162090078867791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059162090078867791",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059158626745626932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 支"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 1213,
+          "like_count": 8664,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2902
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T09:25:26.000Z",
+        "description": "",
+        "id": "2013905624887623680",
+        "name": "马嘉祺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013905769775661056/Qx-gyOG1_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 20,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1922
+        },
+        "username": "mjiq171804",
+        "verified": false
+      }
+    ]
+  }
+}

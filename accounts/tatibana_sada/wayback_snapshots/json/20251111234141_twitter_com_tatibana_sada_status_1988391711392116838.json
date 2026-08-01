@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988195094684696576"
+      ],
+      "media_source_tweet_id": [
+        "1988195097750761890"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988391711392116838",
+    "created_at": "2025-11-11T23:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T00:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988391711392116838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1373755792948531200",
+          "start": 3,
+          "username": "_ASimpleSmile_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/guUQ2x7ok5",
+          "end": 46,
+          "expanded_url": "https://x.com/_ASimpleSmile_/status/1988195097750761890/photo/1",
+          "media_key": "3_1988195094684696576",
+          "start": 23,
+          "url": "https://t.co/guUQ2x7ok5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988391711392116838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988195097750761890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_ASimpleSmile_: 这我 https://t.co/guUQ2x7ok5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1252,
+        "media_key": "3_1988195094684696576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5d855rbAAAQUxm.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988195094684696576"
+          ],
+          "media_source_tweet_id": [
+            "1988195097750761890"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988391711392116838",
+        "created_at": "2025-11-11T23:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T00:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988391711392116838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1373755792948531200",
+              "start": 3,
+              "username": "_ASimpleSmile_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/guUQ2x7ok5",
+              "end": 46,
+              "expanded_url": "https://x.com/_ASimpleSmile_/status/1988195097750761890/photo/1",
+              "media_key": "3_1988195094684696576",
+              "start": 23,
+              "url": "https://t.co/guUQ2x7ok5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988391711392116838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988195097750761890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_ASimpleSmile_: 这我 https://t.co/guUQ2x7ok5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988195094684696576"
+          ]
+        },
+        "author_id": "1373755792948531200",
+        "conversation_id": "1988195097750761890",
+        "created_at": "2025-11-11T10:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T11:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988195097750761890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/guUQ2x7ok5",
+              "end": 26,
+              "expanded_url": "https://x.com/_ASimpleSmile_/status/1988195097750761890/photo/1",
+              "media_key": "3_1988195094684696576",
+              "start": 3,
+              "url": "https://t.co/guUQ2x7ok5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988195097750761890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 49446,
+          "like_count": 1282,
+          "quote_count": 3,
+          "reply_count": 30,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "这我 https://t.co/guUQ2x7ok5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 807,
+          "like_count": 5164,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1899
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T21:58:06.000Z",
+        "description": "咪 || 19岁 是在中中国人 || Non-binary || 181㎝ ??㎏ || 日常推为主 偶尔会发女装照 || meme享受者 || 男娘爱好者 || 中文/EN || 想要有很多朋友 所以欢迎互fo❤️ || 分身@ASimpleSmile2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 114,
+                "username": "ASimpleSmile2"
+              }
+            ]
+          }
+        },
+        "id": "1373755792948531200",
+        "location": "卧室",
+        "name": "你终究不是我的凉宫春日",
+        "pinned_tweet_id": "1985384536843448379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977625873001140224/iHhB895J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 1095,
+          "like_count": 97851,
+          "listed_count": 4,
+          "media_count": 1399,
+          "tweet_count": 7985
+        },
+        "username": "_ASimpleSmile_",
+        "verified": false
+      }
+    ]
+  }
+}

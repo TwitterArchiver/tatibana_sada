@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2073561402657407467",
+    "created_at": "2026-07-05T00:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T01:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073561402657407467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CPUP2024/statu…",
+          "end": 175,
+          "expanded_url": "https://twitter.com/CPUP2024/status/2073463028683809092",
+          "start": 152,
+          "url": "https://t.co/r0B8Lwk8py"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073561402657407467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073463028683809092",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "民主党国际的议程的自然外溢……帝国焦虑让阿美梨卡的国内议程不需要什么刻意资助的输出都能连带起一片，maga国际都能连带出韩日的共振的，甚至还把人家的kirk棺材请进来又唱又跳的哭丧。不过已经在阿美梨卡退潮了，现在人家抓住了经济分配斗争和Free Palestine的议程，文化战争就要退到龙套的地位了。 https://t.co/r0B8Lwk8py"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2073561402657407467",
+        "created_at": "2026-07-05T00:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T01:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073561402657407467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CPUP2024/statu…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/CPUP2024/status/2073463028683809092",
+              "start": 152,
+              "url": "https://t.co/r0B8Lwk8py"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073561402657407467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073463028683809092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "民主党国际的议程的自然外溢……帝国焦虑让阿美梨卡的国内议程不需要什么刻意资助的输出都能连带起一片，maga国际都能连带出韩日的共振的，甚至还把人家的kirk棺材请进来又唱又跳的哭丧。不过已经在阿美梨卡退潮了，现在人家抓住了经济分配斗争和Free Palestine的议程，文化战争就要退到龙套的地位了。 https://t.co/r0B8Lwk8py"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799308675158605825",
+        "conversation_id": "2073463028683809092",
+        "created_at": "2026-07-04T17:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073463028683809092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073463028683809092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 523,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有个明明自己可以说出来很多答案，但是还是想问你们的问题：\n为什么中国相当数量的人，对性少数的排斥到了让人难以想象的地步？大家认为，这是为什么，主要的原因是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 1390,
+          "like_count": 9649,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3295
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "你好，这里是葱 /左翼亲建制🇨🇳的评论者/仰慕☪️亲什叶派/“臭三好”🏳️‍🌈ally&挺跨挺酷儿/stand with🇵🇸🇷🇺Iran☫ /同情↖️ 毛左📕🚩 🇨🇳爱国者/会聊历史，会聊进步主义社会观察，会展示情绪/葱的生活小号是@mikulovermua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 116,
+                "username": "mikulovermua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn/",
+                "start": 0,
+                "url": "https://t.co/m1dLzTSfCB"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "中华苏维埃共和国胜利后的中华人民共和国",
+        "name": "赛高の葱娘酱miku🇨🇳☭☪︎——荣耀属于顿巴斯与加沙，胜利属于1949和1979",
+        "pinned_tweet_id": "2073083522861170770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047926163339984897/NWzhGcp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2687,
+          "following_count": 1951,
+          "like_count": 49618,
+          "listed_count": 35,
+          "media_count": 1137,
+          "tweet_count": 14325
+        },
+        "url": "https://t.co/m1dLzTSfCB",
+        "username": "CPUP2024",
+        "verified": false
+      }
+    ]
+  }
+}

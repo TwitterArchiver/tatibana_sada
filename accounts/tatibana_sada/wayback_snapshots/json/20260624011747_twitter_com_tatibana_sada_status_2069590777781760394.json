@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2069590777781760394",
+    "created_at": "2026-06-24T01:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069590777781760394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yantanzhang/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/yantanzhang/status/2069201768706424934",
+          "start": 8,
+          "url": "https://t.co/XnXYmNsL8G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069590777781760394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069201768706424934",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "c罗这招太狠了 https://t.co/XnXYmNsL8G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_2069126190565355520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcDTsAa8AAZZRP.jpg",
+        "width": 1299
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2069590777781760394",
+        "created_at": "2026-06-24T01:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069590777781760394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yantanzhang/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yantanzhang/status/2069201768706424934",
+              "start": 8,
+              "url": "https://t.co/XnXYmNsL8G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069590777781760394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069201768706424934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "c罗这招太狠了 https://t.co/XnXYmNsL8G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069126190565355520"
+          ]
+        },
+        "author_id": "1574300405026017280",
+        "conversation_id": "2069201768706424934",
+        "created_at": "2026-06-22T23:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T00:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069201768706424934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3OyAWAmfP",
+              "end": 48,
+              "expanded_url": "https://x.com/yantanzhang/status/2069201768706424934/photo/1",
+              "media_key": "3_2069126190565355520",
+              "start": 25,
+              "url": "https://t.co/g3OyAWAmfP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069201768706424934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 37512,
+          "like_count": 355,
+          "quote_count": 1,
+          "reply_count": 53,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "恋与深空联动现场，给旁边的梅西整得像个憨憨... https://t.co/g3OyAWAmfP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1339,
+          "like_count": 9402,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3240
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T07:30:49.000Z",
+        "description": "自由主义男性，拒绝宏大叙事，热爱新鲜事物，为男性发声超十年《舔狗经济学》《男性自救指南》作者",
+        "id": "1574300405026017280",
+        "name": "颜克权",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097044138274817/NdI_xr1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55248,
+          "following_count": 429,
+          "like_count": 4760,
+          "listed_count": 142,
+          "media_count": 6033,
+          "tweet_count": 7510
+        },
+        "url": "",
+        "username": "yantanzhang",
+        "verified": true
+      }
+    ]
+  }
+}

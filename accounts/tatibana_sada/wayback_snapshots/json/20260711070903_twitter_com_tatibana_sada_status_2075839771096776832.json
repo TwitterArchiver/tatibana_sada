@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2075839771096776832",
+    "created_at": "2026-07-11T07:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075839771096776832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xhjjk226724/st…",
+          "end": 175,
+          "expanded_url": "https://twitter.com/xhjjk226724/status/2075837616302555331",
+          "start": 152,
+          "url": "https://t.co/3Ef8kq6MQb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075839771096776832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075837616302555331",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "nope my baby😞我是坚定的汉民族主义者……因此，我一直都把中国共产党当作头号大敌看待。\n我甚至嫉妒共产党。如果你们不反腐就好了，那么今天我也许已经在反共的内战里冲锋陷阵了。甚至在今天他们已经扛起了反对大西洋主义的旗帜。你要定义我的坐标的话可以去unz review里随机找一个应该跟我差不多。 https://t.co/3Ef8kq6MQb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2075839771096776832",
+        "created_at": "2026-07-11T07:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075839771096776832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xhjjk226724/st…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/xhjjk226724/status/2075837616302555331",
+              "start": 152,
+              "url": "https://t.co/3Ef8kq6MQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075839771096776832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075837616302555331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "nope my baby😞我是坚定的汉民族主义者……因此，我一直都把中国共产党当作头号大敌看待。\n我甚至嫉妒共产党。如果你们不反腐就好了，那么今天我也许已经在反共的内战里冲锋陷阵了。甚至在今天他们已经扛起了反对大西洋主义的旗帜。你要定义我的坐标的话可以去unz review里随机找一个应该跟我差不多。 https://t.co/3Ef8kq6MQb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826830405997395968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2075764726408380417",
+        "created_at": "2026-07-11T07:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075837616302555331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075837616302555331",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075764726408380417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 大搞互联网审查和国家投资的国家资本主义也是资本主义，自由金融资本主义和国家工业资本主义都是资本主义没有什么内在不同，我只能说你们这种MCGA和MAGA都是被泛化左翼情绪误导的新时代所谓封建社会主义者。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 1423,
+          "like_count": 9959,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3380
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T03:55:00.000Z",
+        "description": "",
+        "id": "1826830405997395968",
+        "name": "Xhjjk🥀",
+        "pinned_tweet_id": "2074096622464860254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826830475404738560/jO91dZju_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 47,
+          "like_count": 39,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 1389
+        },
+        "url": "",
+        "username": "xhjjk226724",
+        "verified": false
+      }
+    ]
+  }
+}

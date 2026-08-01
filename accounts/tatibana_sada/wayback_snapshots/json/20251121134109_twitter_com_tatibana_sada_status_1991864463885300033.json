@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1991864463885300033",
+    "created_at": "2025-11-21T13:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T14:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991864463885300033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991864463885300033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991771060228759683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 网友投稿：11月20日，福建省厦门市松柏中学举行运动会期间，一名高二男生身着cosplay服装参加1000米长跑并获得第一名。随后，学校以“奇装异服、影响校容校纪及有侮辱女性之嫌”为由，取消该生本次比赛成绩，同时取消其所在班级本年度精神文…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1991714882195189766",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6P-If8acAYtbrO.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1991714930589114368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6P-LUObIAA_W3g.jpg",
+        "width": 1144
+      },
+      {
+        "height": 677,
+        "media_key": "3_1991715123057291270",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6P-WhOacAYLp9S.png",
+        "width": 417
+      },
+      {
+        "height": 857,
+        "media_key": "3_1991715167802126346",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6P-ZH6acAoE1jW.png",
+        "width": 751
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1991864463885300033",
+        "created_at": "2025-11-21T13:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991864463885300033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991864463885300033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991771060228759683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 网友投稿：11月20日，福建省厦门市松柏中学举行运动会期间，一名高二男生身着cosplay服装参加1000米长跑并获得第一名。随后，学校以“奇装异服、影响校容校纪及有侮辱女性之嫌”为由，取消该生本次比赛成绩，同时取消其所在班级本年度精神文…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991714882195189766",
+            "3_1991714930589114368",
+            "3_1991715123057291270",
+            "3_1991715167802126346"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1991771060228759683",
+        "created_at": "2025-11-21T07:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991771060228759683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/duANWgcrg2",
+              "end": 172,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1991771060228759683/photo/1",
+              "media_key": "3_1991714882195189766",
+              "start": 149,
+              "url": "https://t.co/duANWgcrg2"
+            },
+            {
+              "display_url": "pic.x.com/duANWgcrg2",
+              "end": 172,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1991771060228759683/photo/1",
+              "media_key": "3_1991714930589114368",
+              "start": 149,
+              "url": "https://t.co/duANWgcrg2"
+            },
+            {
+              "display_url": "pic.x.com/duANWgcrg2",
+              "end": 172,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1991771060228759683/photo/1",
+              "media_key": "3_1991715123057291270",
+              "start": 149,
+              "url": "https://t.co/duANWgcrg2"
+            },
+            {
+              "display_url": "pic.x.com/duANWgcrg2",
+              "end": 172,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1991771060228759683/photo/1",
+              "media_key": "3_1991715167802126346",
+              "start": 149,
+              "url": "https://t.co/duANWgcrg2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991771060228759683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "网友投稿：11月20日，福建省厦门市松柏中学举行运动会期间，一名高二男生身着cosplay服装参加1000米长跑并获得第一名。随后，学校以“奇装异服、影响校容校纪及有侮辱女性之嫌”为由，取消该生本次比赛成绩，同时取消其所在班级本年度精神文明班级评优资格。校方还在相关微信群内威胁学生不得将现场视频上传网络，并称此事已经对学校造成极大不良影响，敢上传网络抓到就“约谈”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 169063,
+          "like_count": 1215,
+          "quote_count": 26,
+          "reply_count": 118,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：11月20日，福建省厦门市松柏中学举行运动会期间，一名高二男生身着cosplay服装参加1000米长跑并获得第一名。随后，学校以“奇装异服、影响校容校纪及有侮辱女性之嫌”为由，取消该生本次比赛成绩，同时取消其所在班级本年度精神文明班级评优资格。校方还在相关微信群内威胁学生不得将现场视频 https://t.co/duANWgcrg2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 889,
+          "like_count": 5835,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 2119
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2145658,
+          "following_count": 979,
+          "like_count": 8346,
+          "listed_count": 8409,
+          "media_count": 37513,
+          "tweet_count": 44377
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

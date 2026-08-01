@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+          "id": "1045058369852067840",
+          "name": "Furries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1514304215165796352",
+          "name": "Furry fandom"
+        }
+      }
+    ],
+    "conversation_id": "2073225787554374035",
+    "created_at": "2026-07-04T02:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T03:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073225787554374035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Doxxylbox/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Doxxylbox/status/2073108872999342233",
+          "start": 4,
+          "url": "https://t.co/tx7YkurjiD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073225787554374035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073108872999342233",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁来了 https://t.co/tx7YkurjiD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073108700387028992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUpYRNXMAAlv8X.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          }
+        ],
+        "conversation_id": "2073225787554374035",
+        "created_at": "2026-07-04T02:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073225787554374035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Doxxylbox/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Doxxylbox/status/2073108872999342233",
+              "start": 4,
+              "url": "https://t.co/tx7YkurjiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073225787554374035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073108872999342233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁来了 https://t.co/tx7YkurjiD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073108700387028992"
+          ]
+        },
+        "author_id": "980276558333075456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          }
+        ],
+        "conversation_id": "2073108872999342233",
+        "created_at": "2026-07-03T18:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073108872999342233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UHKexOvGBq",
+              "end": 36,
+              "expanded_url": "https://x.com/Doxxylbox/status/2073108872999342233/photo/1",
+              "media_key": "3_2073108700387028992",
+              "start": 13,
+              "url": "https://t.co/UHKexOvGBq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073108872999342233",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2686,
+          "impression_count": 930325,
+          "like_count": 33143,
+          "quote_count": 209,
+          "reply_count": 362,
+          "retweet_count": 1673
+        },
+        "reply_settings": "everyone",
+        "text": "at Anthrocon https://t.co/UHKexOvGBq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1385,
+          "like_count": 9598,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3287
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-01T02:51:58.000Z",
+        "description": "this artist accepts EBT 🦋: https://t.co/iVRUSIXLUu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/doxxyl…",
+                "end": 50,
+                "expanded_url": "https://bsky.app/profile/doxxyl.bsky.social",
+                "start": 27,
+                "url": "https://t.co/iVRUSIXLUu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "furaffinity.net/user/doxxylbox/",
+                "end": 23,
+                "expanded_url": "https://www.furaffinity.net/user/doxxylbox/",
+                "start": 0,
+                "url": "https://t.co/DgCmikz5iK"
+              }
+            ]
+          }
+        },
+        "id": "980276558333075456",
+        "location": "ARCHIVE:",
+        "name": "doxxyl (AC)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040881076693094400/o7ieagGx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55876,
+          "following_count": 1169,
+          "like_count": 57738,
+          "listed_count": 124,
+          "media_count": 2267,
+          "tweet_count": 10193
+        },
+        "url": "https://t.co/DgCmikz5iK",
+        "username": "Doxxylbox",
+        "verified": false
+      }
+    ]
+  }
+}

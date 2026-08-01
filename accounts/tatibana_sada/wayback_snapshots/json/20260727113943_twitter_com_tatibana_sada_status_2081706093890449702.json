@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2081706093890449702",
+    "created_at": "2026-07-27T11:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081706093890449702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lilingling110/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/lilingling110/status/2081662719565173088",
+          "start": 22,
+          "url": "https://t.co/K2eoF4OvpZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081706093890449702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081662719565173088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日本已经实现了无产阶级当家作主掌握国家权力 https://t.co/K2eoF4OvpZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 573,
+        "media_key": "3_2081662714884358144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOONNcbbgAAidRE.jpg",
+        "width": 1159
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2081706093890449702",
+        "created_at": "2026-07-27T11:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081706093890449702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lilingling110/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/lilingling110/status/2081662719565173088",
+              "start": 22,
+              "url": "https://t.co/K2eoF4OvpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081706093890449702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081662719565173088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本已经实现了无产阶级当家作主掌握国家权力 https://t.co/K2eoF4OvpZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081662714884358144"
+          ]
+        },
+        "author_id": "1184424142864564224",
+        "conversation_id": "2081520216597749993",
+        "created_at": "2026-07-27T08:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081662719565173088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2060734093357416449",
+              "start": 0,
+              "username": "mydoordun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VD68tK20jP",
+              "end": 65,
+              "expanded_url": "https://x.com/lilingling110/status/2081662719565173088/photo/1",
+              "media_key": "3_2081662714884358144",
+              "start": 42,
+              "url": "https://t.co/VD68tK20jP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081662719565173088",
+        "in_reply_to_user_id": "2060734093357416449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081520216597749993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mydoordun 这样的0资产议员还有94个 使得平均只有2600万 历史最低 https://t.co/VD68tK20jP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 1445,
+          "like_count": 10185,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3413
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-16T11:01:46.000Z",
+        "description": "",
+        "id": "1184424142864564224",
+        "name": "A.K.A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1249009499861479424/StOxDvJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 929,
+          "like_count": 12965,
+          "listed_count": 10,
+          "media_count": 85,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "lilingling110",
+        "verified": false
+      }
+    ]
+  }
+}

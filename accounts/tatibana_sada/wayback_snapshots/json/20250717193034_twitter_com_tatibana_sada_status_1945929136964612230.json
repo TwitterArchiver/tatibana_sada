@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1945654220361023499",
+    "created_at": "2025-07-17T19:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T20:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945929136964612230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1755188079277801472",
+          "start": 0,
+          "username": "Chzonggemin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945929136964612230",
+    "in_reply_to_user_id": "1755188079277801472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945654220361023499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chzonggemin 新加坡以北伊犁以东都符合种族条件。\n剩下的无非就是认信周公了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1945654220361023499",
+        "created_at": "2025-07-17T19:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T20:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945929136964612230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1755188079277801472",
+              "start": 0,
+              "username": "Chzonggemin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945929136964612230",
+        "in_reply_to_user_id": "1755188079277801472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945654220361023499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chzonggemin 新加坡以北伊犁以东都符合种族条件。\n剩下的无非就是认信周公了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755188079277801472",
+        "conversation_id": "1945654220361023499",
+        "created_at": "2025-07-17T01:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T02:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945654220361023499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945654220361023499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7897,
+          "like_count": 81,
+          "quote_count": 3,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好奇皇汉民布是怎么界定“汉人”的\n是依据血缘，还是依据文化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 522,
+          "like_count": 2662,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1448
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T11:13:50.000Z",
+        "description": "布尔什维主义从过去到现在始终是条通向未来的道路",
+        "id": "1755188079277801472",
+        "location": "#Trotskyism is Bolshevism",
+        "name": "宗革",
+        "pinned_tweet_id": "1943312184940863669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940803093429620736/CoSFdhpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 614,
+          "like_count": 7820,
+          "listed_count": 9,
+          "media_count": 207,
+          "tweet_count": 3680
+        },
+        "username": "Chzonggemin",
+        "verified": false
+      }
+    ]
+  }
+}

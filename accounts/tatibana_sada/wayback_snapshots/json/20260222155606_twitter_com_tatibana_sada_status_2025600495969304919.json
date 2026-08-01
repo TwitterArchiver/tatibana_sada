@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2025600495969304919",
+    "created_at": "2026-02-22T15:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T16:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025600495969304919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974082673095118848",
+          "start": 3,
+          "username": "tuzhilaoye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025600495969304919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025533491442491872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuzhilaoye: 卧槽，我们反出生主义者，都对孕妇说不出这种话来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2025600495969304919",
+        "created_at": "2026-02-22T15:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025600495969304919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974082673095118848",
+              "start": 3,
+              "username": "tuzhilaoye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025600495969304919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025533491442491872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuzhilaoye: 卧槽，我们反出生主义者，都对孕妇说不出这种话来。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974082673095118848",
+        "conversation_id": "2025533491442491872",
+        "created_at": "2026-02-22T11:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025533491442491872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sagerrgyalpo/s…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/sagerrgyalpo/status/2025444715668406531",
+              "start": 25,
+              "url": "https://t.co/svSCgrXNEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025533491442491872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 756,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025444715668406531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽，我们反出生主义者，都对孕妇说不出这种话来。 https://t.co/svSCgrXNEo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 1011,
+          "like_count": 7289,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2452
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T12:02:49.000Z",
+        "description": "文洁· 秽土转生版 继续不定期普及#反出生主义 思想。",
+        "id": "1974082673095118848",
+        "name": "叶文洁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974083039274688513/PqtChwQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 433,
+          "like_count": 16563,
+          "listed_count": 13,
+          "media_count": 74,
+          "tweet_count": 3330
+        },
+        "username": "tuzhilaoye",
+        "verified": false
+      }
+    ]
+  }
+}

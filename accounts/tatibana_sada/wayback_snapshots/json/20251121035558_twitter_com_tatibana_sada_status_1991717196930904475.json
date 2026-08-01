@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991717194103922688"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991717196930904475",
+    "created_at": "2025-11-21T03:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T04:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991717196930904475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XfpXINjtN8",
+          "end": 48,
+          "expanded_url": "https://x.com/tatibana_sada/status/1991717196930904475/photo/1",
+          "media_key": "3_1991717194103922688",
+          "start": 25,
+          "url": "https://t.co/XfpXINjtN8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991717196930904475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我绝妙又恶毒的幽默感遭到了比屠杀亲妈还大的暴击。 https://t.co/XfpXINjtN8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991717194103922688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6QAPEeaIAAB17l.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991717194103922688"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991717196930904475",
+        "created_at": "2025-11-21T03:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T04:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991717196930904475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfpXINjtN8",
+              "end": 48,
+              "expanded_url": "https://x.com/tatibana_sada/status/1991717196930904475/photo/1",
+              "media_key": "3_1991717194103922688",
+              "start": 25,
+              "url": "https://t.co/XfpXINjtN8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991717196930904475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我绝妙又恶毒的幽默感遭到了比屠杀亲妈还大的暴击。 https://t.co/XfpXINjtN8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 884,
+          "like_count": 5807,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 2108
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

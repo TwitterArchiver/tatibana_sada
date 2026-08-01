@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980715350653300937",
+    "created_at": "2025-10-22T13:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T14:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980987829636526553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1698925020284891136",
+          "start": 0,
+          "username": "Tired_Erika99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980987829636526553",
+    "in_reply_to_user_id": "1698925020284891136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980715748239839309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tired_Erika99 哇，颇有高林老师之文风。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980715350653300937",
+        "created_at": "2025-10-22T13:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T14:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980987829636526553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1698925020284891136",
+              "start": 0,
+              "username": "Tired_Erika99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980987829636526553",
+        "in_reply_to_user_id": "1698925020284891136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980715748239839309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tired_Erika99 哇，颇有高林老师之文风。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698925020284891136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1255950086699315200",
+              "name": "Designer fashion"
+            }
+          }
+        ],
+        "conversation_id": "1980715350653300937",
+        "created_at": "2025-10-21T19:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T20:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980715748239839309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980715748239839309",
+        "in_reply_to_user_id": "1698925020284891136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "当然了这种东西其实根本没人在乎，毕竟我们都是普通人，说实在的你可以扪心自问，自己这辈子有多少次思考(不是念经)“真理”，又有多少次想“嘿，我换个什么手机，买个什么衣服，口红买夏奈尔还是YSL，旅行去桂林还是多攒点去日本”，又有多少次想“靠，今晚吃什么”\n\n绝大部分人一辈子想要的无非就是能不受拘束衣食温饱有个爱好消遣最好还能有点幸福，“早上4点起来念玫瑰经”的高人还是太少了，这也是各种所谓学术研究者基本上没什么影响力。更何况社会科学同一个专业都是鸡同鸭讲。普罗大众没闲心听！\n\n当然你会说不对啊，我最喜欢提的19世纪，巴黎那可是社会思潮风起云涌！但别忘了巴黎的教授们可是去剧院听讲座的，他们还兼职大V！甚至他们的学术指标还依托于人民的呼声！今非昔比，现在的学究离我们的生活还是太远，别说普通人，别说什么教授，你把夏多布里昂先生复活我也得先谈一句“你穿上我的靴子走两步还这么想吗!”“你还这么想你在我的生活环境里活得下去吗!”\n\n所以还是回归生活妥协一点吧。比如我始终认为“自始至终只有一场革命那就是工业革命！”“人的第一属性是阶级性！”但我有个朋友就坚定的认为“天降弥赛亚！”“拿破仑手握闪电建立资本主义”，但我们都觉得柠檬茶挺好喝的所以还是会一块儿喝柠檬茶。\n\n我特别喜欢的作家说过一句话\n“进步主义的观念和经验主义的生活方式并不矛盾”\n所以还是多喝柠檬茶吧(前提你不用减脂)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980715350653300937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当然了这种东西其实根本没人在乎，毕竟我们都是普通人，说实在的你可以扪心自问，自己这辈子有多少次思考(不是念经)“真理”，又有多少次想“嘿，我换个什么手机，买个什么衣服，口红买夏奈尔还是YSL，旅行去桂林还是多攒点去日本”，又有多少次想“靠，今晚吃什么”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 601,
+          "like_count": 3305,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1570
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T05:04:31.000Z",
+        "description": "大龄天残跨性别，鬼迷日眼脾气差 。墨尔本留学混日子之王 ClosedAI或者OpenSM用户 ❌Terf，顺直男，种族主义沙文主义大男子主义请直接屏蔽我",
+        "id": "1698925020284891136",
+        "location": "穷鬼之家",
+        "name": "Erika絵梨花🏳️‍⚧️",
+        "pinned_tweet_id": "1979921798654500988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785621696134926336/4B8W9KX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 193,
+          "like_count": 1759,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 270
+        },
+        "username": "Tired_Erika99",
+        "verified": true
+      }
+    ]
+  }
+}

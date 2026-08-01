@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069353847638917121"
+      ],
+      "media_source_tweet_id": [
+        "2069353851589988766"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2069388405482602854",
+    "created_at": "2026-06-23T11:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069388405482602854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908792625025024",
+          "start": 3,
+          "username": "NAR_command"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y7dIs2oOjZ",
+          "end": 40,
+          "expanded_url": "https://x.com/NAR_command/status/2069353851589988766/photo/1",
+          "media_key": "3_2069353847638917121",
+          "start": 17,
+          "url": "https://t.co/Y7dIs2oOjZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069388405482602854",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069353851589988766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NAR_command: https://t.co/Y7dIs2oOjZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 809,
+        "media_key": "3_2069353847638917121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfSXEsbAAE2aEN.jpg",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069353847638917121"
+          ],
+          "media_source_tweet_id": [
+            "2069353851589988766"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2069388405482602854",
+        "created_at": "2026-06-23T11:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069388405482602854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908792625025024",
+              "start": 3,
+              "username": "NAR_command"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7dIs2oOjZ",
+              "end": 40,
+              "expanded_url": "https://x.com/NAR_command/status/2069353851589988766/photo/1",
+              "media_key": "3_2069353847638917121",
+              "start": 17,
+              "url": "https://t.co/Y7dIs2oOjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069388405482602854",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069353851589988766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NAR_command: https://t.co/Y7dIs2oOjZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069353847638917121"
+          ]
+        },
+        "author_id": "2029908792625025024",
+        "conversation_id": "2069353851589988766",
+        "created_at": "2026-06-23T09:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069353851589988766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7dIs2oOjZ",
+              "end": 23,
+              "expanded_url": "https://x.com/NAR_command/status/2069353851589988766/photo/1",
+              "media_key": "3_2069353847638917121",
+              "start": 0,
+              "url": "https://t.co/Y7dIs2oOjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069353851589988766",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Y7dIs2oOjZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 1336,
+          "like_count": 9393,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3234
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:17:55.000Z",
+        "description": "ドールズフロントライン同人誌製作サークル\n反ロクサット主義者同盟 \n広報&空談&頽落的猥談&思想哲学&歴史上の人物の名言投稿\n複垢\n文頭のマークは投稿個体識別。\nNAR人民の名言やブラックジョークも載せていきますのでご容赦ください。\n雑談・創作Discordサーバー「NAR」参加者募集中、気軽にご応募ください",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/kind_slug5509/…",
+                "end": 23,
+                "expanded_url": "https://note.com/kind_slug5509/portal",
+                "start": 0,
+                "url": "https://t.co/UM6HlhMbad"
+              }
+            ]
+          }
+        },
+        "id": "2029908792625025024",
+        "location": "新ソ連　ジュガーノフ邸-地下ファイトクラブ",
+        "name": "NAR-武装少女中核",
+        "pinned_tweet_id": "2029917260366938584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029909480214007808/mulPJyyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 465,
+          "like_count": 7473,
+          "listed_count": 4,
+          "media_count": 1366,
+          "tweet_count": 6697
+        },
+        "url": "https://t.co/UM6HlhMbad",
+        "username": "NAR_command",
+        "verified": false
+      }
+    ]
+  }
+}

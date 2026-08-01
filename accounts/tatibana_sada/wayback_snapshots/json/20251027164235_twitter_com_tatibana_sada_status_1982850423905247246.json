@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1982850423905247246",
+    "created_at": "2025-10-27T16:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T17:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982850423905247246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1707741005490049024",
+          "start": 3,
+          "username": "tatibana_sada"
+        },
+        {
+          "end": 34,
+          "id": "1464319347736911877",
+          "start": 19,
+          "username": "sugihara_tatuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982850423905247246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982850203083563104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatibana_sada: @sugihara_tatuo 凯恩予我国家身，哈公赐我自由魂，一片忠心献米莱，誓死不当管制豚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1982850423905247246",
+        "created_at": "2025-10-27T16:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T17:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982850423905247246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1707741005490049024",
+              "start": 3,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 34,
+              "id": "1464319347736911877",
+              "start": 19,
+              "username": "sugihara_tatuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982850423905247246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982850203083563104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatibana_sada: @sugihara_tatuo 凯恩予我国家身，哈公赐我自由魂，一片忠心献米莱，誓死不当管制豚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1982801857891467738",
+        "created_at": "2025-10-27T16:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T17:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982850203083563104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464319347736911877",
+              "start": 0,
+              "username": "sugihara_tatuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982850203083563104",
+        "in_reply_to_user_id": "1464319347736911877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982801857891467738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugihara_tatuo 凯恩予我国家身，哈公赐我自由魂，一片忠心献米莱，誓死不当管制豚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 634,
+          "like_count": 3542,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1615
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T19:45:30.000Z",
+        "description": "斃れずば止まじ。邪恶的目田狗 退步的保守逼 无耻的死川黑。Federal Councillor of @enchenia。\n語言：漢/英/日/阿/西/波/拉。\n歷史架空作品「子夜之后」https://t.co/uE3gW318D2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "enchenia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitter.com/sugihara_tatuo…",
+                "end": 115,
+                "expanded_url": "https://twitter.com/sugihara_tatuo/status/1604130969434279936?s=19",
+                "start": 92,
+                "url": "https://t.co/uE3gW318D2"
+              }
+            ]
+          }
+        },
+        "id": "1464319347736911877",
+        "name": "杉原 辰雄 🌸⛩️ （淡推中）",
+        "pinned_tweet_id": "1604130969434279936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930606137369559040/5uqjgrcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4724,
+          "following_count": 766,
+          "like_count": 132952,
+          "listed_count": 24,
+          "media_count": 1224,
+          "tweet_count": 13176
+        },
+        "username": "sugihara_tatuo",
+        "verified": false
+      }
+    ]
+  }
+}

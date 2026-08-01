@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1992248817543168430",
+    "created_at": "2025-11-22T21:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T22:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992351642575045111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1401733664682102786",
+          "start": 0,
+          "username": "mukdengise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992351642575045111",
+    "in_reply_to_user_id": "1401733664682102786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992248817543168430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mukdengise 这些倒也算正经野味。主要吓到洋鬼子的还是吃猫吃狗吃老鼠。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992248817543168430",
+        "created_at": "2025-11-22T21:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T22:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992351642575045111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1401733664682102786",
+              "start": 0,
+              "username": "mukdengise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992351642575045111",
+        "in_reply_to_user_id": "1401733664682102786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992248817543168430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mukdengise 这些倒也算正经野味。主要吓到洋鬼子的还是吃猫吃狗吃老鼠。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "conversation_id": "1992248817543168430",
+        "created_at": "2025-11-22T15:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T16:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992248817543168430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992248817543168430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 660,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥西方国家对中国的印象是“啥都吃”？其实中国法律规定的可食用动物种类还挺少的，要说啥都吃还得看日本，在东京随随便便就能吃到熊肉、獾肉、浣熊肉、袋鼠肉、海狮肉、鲸豚肉、乌鸦肉、海龟肉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 904,
+          "like_count": 5966,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 2159
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "爱人类的探险者/IG: ilhajugvn/烹饪日常在 #花路食堂/桔：@__Ju___Ju__/里：@Lulu_ilha",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "花路食堂"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "__Ju___Ju__"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Lulu_ilha"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960404590417076226/igUxxyXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9258,
+          "following_count": 737,
+          "like_count": 136968,
+          "listed_count": 50,
+          "media_count": 1708,
+          "tweet_count": 22717
+        },
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

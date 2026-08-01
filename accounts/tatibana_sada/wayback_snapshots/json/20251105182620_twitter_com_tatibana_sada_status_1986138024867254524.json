@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1982443919452610704",
+    "created_at": "2025-11-05T18:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T19:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986138024867254524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750060586178842624",
+          "start": 0,
+          "username": "eren19noth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986138024867254524",
+    "in_reply_to_user_id": "1750060586178842624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982443919452610704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eren19noth 我想在这里是应该讨论一下的。是确实的厌恶这种生物学配置-文化向度外貌标准吗？那么与之相对的，现行的男性的这些，又在何角度有其或不有其意义价值？\n在我的话，这些都没有什么特别的本体论的意义和价值。唯一重要的是被赞颂的，历史上被超定于男性的美德——勇敢，忠实，慷慨，所谓公民武士是也。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1982443919452610704",
+        "created_at": "2025-11-05T18:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T19:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986138024867254524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750060586178842624",
+              "start": 0,
+              "username": "eren19noth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986138024867254524",
+        "in_reply_to_user_id": "1750060586178842624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982443919452610704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eren19noth 我想在这里是应该讨论一下的。是确实的厌恶这种生物学配置-文化向度外貌标准吗？那么与之相对的，现行的男性的这些，又在何角度有其或不有其意义价值？\n在我的话，这些都没有什么特别的本体论的意义和价值。唯一重要的是被赞颂的，历史上被超定于男性的美德——勇敢，忠实，慷慨，所谓公民武士是也。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750060586178842624",
+        "conversation_id": "1982443919452610704",
+        "created_at": "2025-10-26T13:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982443919452610704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982443919452610704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以说，我讨厌女性的一切，黑长而油亮的头发，尖细轻柔的嗓音，乳房，身体脂肪的分布，面部柔和的轮廓。我讨厌，女人，化妆过后的样子，我讨厌，女人间那种所谓的“互相吹捧”。当我意识到这些东西不是只存在于虚拟世界，而是每一个女人都是活人的时候，我感到很失望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 757,
+          "like_count": 4788,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1817
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T07:39:06.000Z",
+        "description": "He/him 他",
+        "id": "1750060586178842624",
+        "name": "ForcedVanilla",
+        "pinned_tweet_id": "1750889188978024744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966813145428881411/4CvVhlRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 159,
+          "like_count": 1262,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 479
+        },
+        "username": "eren19noth",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985984691858780593",
+    "created_at": "2025-11-05T17:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T18:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986127224723096045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977858284964159488",
+          "start": 0,
+          "username": "Quinnnankoku"
+        },
+        {
+          "end": 27,
+          "id": "1816371642211393537",
+          "start": 14,
+          "username": "huoqinge8963"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986127224723096045",
+    "in_reply_to_user_id": "1977858284964159488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986121679895207944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quinnnankoku @huoqinge8963 /抱起来撸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985984691858780593",
+        "created_at": "2025-11-05T17:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T18:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986127224723096045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977858284964159488",
+              "start": 0,
+              "username": "Quinnnankoku"
+            },
+            {
+              "end": 27,
+              "id": "1816371642211393537",
+              "start": 14,
+              "username": "huoqinge8963"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986127224723096045",
+        "in_reply_to_user_id": "1977858284964159488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986121679895207944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quinnnankoku @huoqinge8963 /抱起来撸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977858284964159488",
+        "conversation_id": "1985984691858780593",
+        "created_at": "2025-11-05T17:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T18:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986121679895207944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1816371642211393537",
+              "start": 0,
+              "username": "huoqinge8963"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986121679895207944",
+        "in_reply_to_user_id": "1816371642211393537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986121221352947740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huoqinge8963 我是路边的一条狗\n谁都可以踹一脚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 757,
+          "like_count": 4787,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1814
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T22:07:36.000Z",
+        "description": "炸号了@v5Family_ 推友找回中🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "v5Family_"
+              }
+            ]
+          }
+        },
+        "id": "1977858284964159488",
+        "name": "芥末苔藓💮",
+        "pinned_tweet_id": "1983385615346573455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984083700955693056/h05ilBTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 279,
+          "like_count": 5388,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2425
+        },
+        "username": "Quinnnankoku",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T07:15:52.000Z",
+        "description": "穷蛆/极端仇富/疯子/反人类 小号@huoqinge_nn         狗奴隶妈妈爱人玩具@silverbird18841",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "huoqinge_nn"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "silverbird18841"
+              }
+            ]
+          }
+        },
+        "id": "1816371642211393537",
+        "name": "霍青娥（🐱←重度依赖）",
+        "pinned_tweet_id": "1982424447861870825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816372320845586434/2hGEv4gu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 157,
+          "like_count": 17943,
+          "listed_count": 6,
+          "media_count": 516,
+          "tweet_count": 10209
+        },
+        "username": "huoqinge8963",
+        "verified": false
+      }
+    ]
+  }
+}

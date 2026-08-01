@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2073573351629718003",
+    "created_at": "2026-07-05T01:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T02:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073573351629718003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nihonpatriot/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/nihonpatriot/status/2072335522480177607",
+          "start": 6,
+          "url": "https://t.co/6DwW9fjWVj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073573351629718003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072335522480177607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？！强！？ https://t.co/6DwW9fjWVj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 184077,
+        "height": 542,
+        "media_key": "13_2072335400400732160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072335400400732160/img/-clGjf25JWlPLPY1.jpg",
+        "public_metrics": {
+          "view_count": 174821
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072335400400732160/vid/avc1/586x270/yJ3qGraKppYQvxl7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072335400400732160/vid/avc1/782x360/xWS9EBeSayc04MnV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072335400400732160/vid/avc1/1180x542/33NJ--w8Qmc-tvBh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072335400400732160/pl/-GyA0qHtkt2mIr02.m3u8?v=cfc"
+          }
+        ],
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2073573351629718003",
+        "created_at": "2026-07-05T01:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073573351629718003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nihonpatriot/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nihonpatriot/status/2072335522480177607",
+              "start": 6,
+              "url": "https://t.co/6DwW9fjWVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073573351629718003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072335522480177607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？！强！？ https://t.co/6DwW9fjWVj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072335400400732160"
+          ]
+        },
+        "author_id": "1753828604151205888",
+        "conversation_id": "2072335522480177607",
+        "created_at": "2026-07-01T15:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072335522480177607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yfw8nsZ9Cp",
+              "end": 38,
+              "expanded_url": "https://x.com/nihonpatriot/status/2072335522480177607/video/1",
+              "media_key": "13_2072335400400732160",
+              "start": 15,
+              "url": "https://t.co/Yfw8nsZ9Cp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072335522480177607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "北村議員が中国に警鐘を鳴らす\n\n「中国がこれまで他国で繰り返してきた「移民による乗っ取り戦略」を今、日本に対して仕掛けてる。中国共産党は、自国民を5〜10年かけて近隣諸国へ移民として送り込み、数を増やす。一定数に達したら工作員が「差別されている」と騒ぎを起こす。警察が介入したら「中国人を守る」という大義名分で人民解放軍を投入。その後、共産党員が「この国はもう嫌だ」と宣言。住民投票で独立させ、中国が承認・同盟国化。さらに「中国の一部になりたい」と乗っ取り工作を進める。最終的にその国を中国の支配下に置く」"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 557,
+          "impression_count": 314663,
+          "like_count": 16206,
+          "quote_count": 72,
+          "reply_count": 115,
+          "retweet_count": 4237
+        },
+        "reply_settings": "everyone",
+        "text": "北村議員が中国に警鐘を鳴らす https://t.co/Yfw8nsZ9Cp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 1390,
+          "like_count": 9651,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3296
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T17:11:47.000Z",
+        "description": "美しい日本を守りたい。サブ垢@nipponbushido",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "nipponbushido"
+              }
+            ]
+          }
+        },
+        "id": "1753828604151205888",
+        "name": "サキガケ",
+        "pinned_tweet_id": "2073062775178633393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059789190091689984/67Z_8p0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188214,
+          "following_count": 82393,
+          "like_count": 69827,
+          "listed_count": 340,
+          "media_count": 8939,
+          "tweet_count": 67883
+        },
+        "url": "",
+        "username": "nihonpatriot",
+        "verified": true
+      }
+    ]
+  }
+}

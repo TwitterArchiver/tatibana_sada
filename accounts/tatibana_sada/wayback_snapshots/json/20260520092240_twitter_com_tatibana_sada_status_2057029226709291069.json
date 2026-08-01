@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2056872457014009922",
+    "created_at": "2026-05-20T09:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057029226709291069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1570025151378366466",
+          "start": 0,
+          "username": "Alexi_0_"
+        },
+        {
+          "end": 23,
+          "id": "2041159531657416704",
+          "start": 10,
+          "username": "amber_digit2"
+        },
+        {
+          "end": 40,
+          "id": "1802167058005692416",
+          "start": 24,
+          "username": "GirliePsychosis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057029226709291069",
+    "in_reply_to_user_id": "1570025151378366466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056895396002046402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alexi_0_ @amber_digit2 @GirliePsychosis Amber是中国人啊。发英语的资料大概是想让你们能看懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2056872457014009922",
+        "created_at": "2026-05-20T09:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057029226709291069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1570025151378366466",
+              "start": 0,
+              "username": "Alexi_0_"
+            },
+            {
+              "end": 23,
+              "id": "2041159531657416704",
+              "start": 10,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 40,
+              "id": "1802167058005692416",
+              "start": 24,
+              "username": "GirliePsychosis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057029226709291069",
+        "in_reply_to_user_id": "1570025151378366466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056895396002046402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alexi_0_ @amber_digit2 @GirliePsychosis Amber是中国人啊。发英语的资料大概是想让你们能看懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570025151378366466",
+        "conversation_id": "2056872457014009922",
+        "created_at": "2026-05-20T00:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056895396002046402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 30,
+              "id": "1802167058005692416",
+              "start": 14,
+              "username": "GirliePsychosis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056895396002046402",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1128,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056891194286682273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @GirliePsychosis Why is everything you cite always western? Are you an expert on China and its laws or is everything you know secondhand and gathered from people that call it a literal enemy and adversary?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 1147,
+          "like_count": 8168,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2668
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T12:22:41.000Z",
+        "description": ".",
+        "id": "1570025151378366466",
+        "name": "Alexi_0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575705003989278720/QT5oTDrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 20,
+          "like_count": 122,
+          "listed_count": 11,
+          "media_count": 53,
+          "tweet_count": 936
+        },
+        "username": "Alexi_0_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 390,
+          "like_count": 548,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T02:31:31.000Z",
+        "description": "sometimes i want to say or share random stuff. no offence intended! (and this is also just a space to process my trauma) @eyebaws1 @strawberryxx11 @killlawfully",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 121,
+                "username": "eyebaws1"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "strawberryxx11"
+              },
+              {
+                "end": 160,
+                "start": 147,
+                "username": "killlawfully"
+              }
+            ]
+          }
+        },
+        "id": "1802167058005692416",
+        "location": "tumb wolfs-teeth",
+        "name": "girliepsychosis",
+        "pinned_tweet_id": "1925643725339861148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924770704035078144/ZXKeb01y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 906,
+          "like_count": 44556,
+          "listed_count": 2,
+          "media_count": 616,
+          "tweet_count": 21937
+        },
+        "username": "GirliePsychosis",
+        "verified": false
+      }
+    ]
+  }
+}

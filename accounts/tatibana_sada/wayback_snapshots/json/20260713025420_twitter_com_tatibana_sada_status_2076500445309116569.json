@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2076500445309116569",
+    "created_at": "2026-07-13T02:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T03:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076500445309116569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rgz197964/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/rgz197964/status/2076330454819697092",
+          "start": 7,
+          "url": "https://t.co/6gEife8WXj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076500445309116569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076330454819697092",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "环球同此凉热 https://t.co/6gEife8WXj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 751,
+        "media_key": "3_2076330383784955904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCbe7HaUAALMo2.png",
+        "width": 636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2076500445309116569",
+        "created_at": "2026-07-13T02:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076500445309116569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rgz197964/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/rgz197964/status/2076330454819697092",
+              "start": 7,
+              "url": "https://t.co/6gEife8WXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076500445309116569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076330454819697092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "环球同此凉热 https://t.co/6gEife8WXj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076330383784955904"
+          ]
+        },
+        "author_id": "1815410497992486912",
+        "conversation_id": "2076330454819697092",
+        "created_at": "2026-07-12T15:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076330454819697092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bUqOewghdG",
+              "end": 31,
+              "expanded_url": "https://x.com/rgz197964/status/2076330454819697092/photo/1",
+              "media_key": "3_2076330383784955904",
+              "start": 8,
+              "url": "https://t.co/bUqOewghdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076330454819697092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 67184,
+          "like_count": 1147,
+          "quote_count": 10,
+          "reply_count": 28,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "美しい国、日本 https://t.co/bUqOewghdG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 1424,
+          "like_count": 9970,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3382
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T15:36:16.000Z",
+        "description": "愛国心はパンツのようなものでみんな履いているが、もし頭にかぶって注目されようとする人が現れると、その人は必ず問題がある",
+        "id": "1815410497992486912",
+        "name": "TKTM@退役保守",
+        "pinned_tweet_id": "2057715935788880183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831912100735688704/DfpCRCGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 119,
+          "like_count": 2294,
+          "listed_count": 68,
+          "media_count": 474,
+          "tweet_count": 8831
+        },
+        "url": "",
+        "username": "rgz197964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "California",
+          "id": "856860158428798977",
+          "name": "California"
+        }
+      }
+    ],
+    "conversation_id": "2059160227413655564",
+    "created_at": "2026-05-26T06:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T07:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059160227413655564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1749967066428223488",
+          "start": 3,
+          "username": "PurrsonVT"
+        },
+        {
+          "end": 30,
+          "id": "1477393800154779650",
+          "start": 15,
+          "username": "AidanSimardone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059160227413655564",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059074852640702722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PurrsonVT: @AidanSimardone Remember when California hired a French company to build HSR, and after two years the company threw there ha…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          }
+        ],
+        "conversation_id": "2059160227413655564",
+        "created_at": "2026-05-26T06:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059160227413655564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1749967066428223488",
+              "start": 3,
+              "username": "PurrsonVT"
+            },
+            {
+              "end": 30,
+              "id": "1477393800154779650",
+              "start": 15,
+              "username": "AidanSimardone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059160227413655564",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059074852640702722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PurrsonVT: @AidanSimardone Remember when California hired a French company to build HSR, and after two years the company threw there ha…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749967066428223488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          }
+        ],
+        "conversation_id": "2059018463528505412",
+        "created_at": "2026-05-26T00:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T01:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059074852640702722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477393800154779650",
+              "start": 0,
+              "username": "AidanSimardone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059074852640702722",
+        "in_reply_to_user_id": "1477393800154779650",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 19726,
+          "like_count": 523,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059018463528505412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AidanSimardone Remember when California hired a French company to build HSR, and after two years the company threw there hands up and said “we are going to work with a less corrupt government” and then they went to Algeria and built the rail line ahead of schedule and under budget"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 1213,
+          "like_count": 8664,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2900
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T01:27:29.000Z",
+        "description": "Howdy! Im Purrson, the Lion Demon! L2D Art/Rigging @HoshinaLuna Vroid Mama @pacxyalien https://t.co/4X7OidKS0z, I stream from the back of a semi truck!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "HoshinaLuna"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "pacxyalien"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/purrsonvt",
+                "end": 110,
+                "expanded_url": "https://www.twitch.tv/purrsonvt",
+                "start": 87,
+                "url": "https://t.co/4X7OidKS0z"
+              }
+            ]
+          }
+        },
+        "id": "1749967066428223488",
+        "location": "Hyeprborea",
+        "name": "Leo Purrson🦁🔮",
+        "pinned_tweet_id": "1961676796987842904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794034933737959425/sXFNCshq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 502,
+          "like_count": 42717,
+          "listed_count": 1,
+          "media_count": 657,
+          "tweet_count": 8931
+        },
+        "username": "PurrsonVT",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-01T21:38:38.000Z",
+        "description": "Geopolitical analyst & immigration lawyer | Master of Global Affairs | Words in @newsweek, @Jacobin and @TheCradleMedia | “Smartest man in Canada” - CBC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "newsweek"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "Jacobin"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "TheCradleMedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/aidansimardone",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/aidansimardone",
+                "start": 0,
+                "url": "https://t.co/0j0cINjewp"
+              }
+            ]
+          }
+        },
+        "id": "1477393800154779650",
+        "name": "Aidan Simardone",
+        "pinned_tweet_id": "2057163621512142938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711518663751221248/P71MKiFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34184,
+          "following_count": 3321,
+          "like_count": 29457,
+          "listed_count": 243,
+          "media_count": 2408,
+          "tweet_count": 15741
+        },
+        "url": "https://t.co/0j0cINjewp",
+        "username": "AidanSimardone",
+        "verified": false
+      }
+    ]
+  }
+}

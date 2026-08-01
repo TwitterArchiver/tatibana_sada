@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1982602056608448674",
+    "created_at": "2025-10-28T03:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T04:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983013095388942809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1366668512043892739",
+          "start": 0,
+          "username": "Tsundoku3141592"
+        },
+        {
+          "end": 27,
+          "id": "1702156499781591040",
+          "start": 17,
+          "username": "Revo_Revi"
+        },
+        {
+          "end": 42,
+          "id": "1947652886273368065",
+          "start": 28,
+          "username": "bucketyishere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983013095388942809",
+    "in_reply_to_user_id": "1366668512043892739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982941102324986259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsundoku3141592 @Revo_Revi @bucketyishere 哇，还有海外maga"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1982602056608448674",
+        "created_at": "2025-10-28T03:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T04:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983013095388942809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1366668512043892739",
+              "start": 0,
+              "username": "Tsundoku3141592"
+            },
+            {
+              "end": 27,
+              "id": "1702156499781591040",
+              "start": 17,
+              "username": "Revo_Revi"
+            },
+            {
+              "end": 42,
+              "id": "1947652886273368065",
+              "start": 28,
+              "username": "bucketyishere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983013095388942809",
+        "in_reply_to_user_id": "1366668512043892739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982941102324986259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsundoku3141592 @Revo_Revi @bucketyishere 哇，还有海外maga"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366668512043892739",
+        "conversation_id": "1982602056608448674",
+        "created_at": "2025-10-27T22:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T23:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982941102324986259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1702156499781591040",
+              "start": 0,
+              "username": "Revo_Revi"
+            },
+            {
+              "end": 25,
+              "id": "1947652886273368065",
+              "start": 11,
+              "username": "bucketyishere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982941102324986259",
+        "in_reply_to_user_id": "1702156499781591040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982940588426281378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Revo_Revi @bucketyishere 毕竟是一个日常准时收看查理柯克，乔丹彼得森，本夏皮罗以及各路美国红州华人自媒体的中年老钟💀。。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 642,
+          "like_count": 3619,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1623
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-02T08:35:47.000Z",
+        "description": "DOOMED ANARCHO-EGO/MUTUALIST,半吊子文革/共和国时期研究, Chinese politics, 佢(keoi5), Chinese/English/learn Japanese and Cantonese, Cyborg, Gender Fluid, HRT since May 2022",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EisernfrontTsu…",
+                "end": 23,
+                "expanded_url": "https://t.me/EisernfrontTsundoku3141592",
+                "start": 0,
+                "url": "https://t.co/op1NaHsRAc"
+              }
+            ]
+          }
+        },
+        "id": "1366668512043892739",
+        "name": "Eiserne Front - Tsundoku/積ん読🏳️‍⚧️🏴🏹🏹🏹🧋",
+        "pinned_tweet_id": "1621450793378320384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812675542686019587/dCxJ0v6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3934,
+          "following_count": 3612,
+          "like_count": 56406,
+          "listed_count": 15,
+          "media_count": 873,
+          "tweet_count": 14357
+        },
+        "url": "https://t.co/op1NaHsRAc",
+        "username": "Tsundoku3141592",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T03:05:17.000Z",
+        "description": "以节目效果为纲",
+        "id": "1702156499781591040",
+        "location": "小护士体内",
+        "name": "真列宁党",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974968137440546817/KYgvxLGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 251,
+          "like_count": 11908,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 4585
+        },
+        "username": "Revo_Revi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T13:40:15.000Z",
+        "description": "世界上最后一桶沼泽食人族我的额头上有一只汉堡",
+        "id": "1947652886273368065",
+        "name": "给你桶完了",
+        "pinned_tweet_id": "1959477578546475359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980837719421894657/h7f0lmEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 243,
+          "like_count": 3859,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 1150
+        },
+        "username": "bucketyishere",
+        "verified": false
+      }
+    ]
+  }
+}

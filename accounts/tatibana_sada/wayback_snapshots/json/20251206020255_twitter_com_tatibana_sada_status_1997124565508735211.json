@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1997124565508735211",
+    "created_at": "2025-12-06T02:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T03:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997124565508735211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1295167822973173760",
+          "start": 3,
+          "username": "Kyrg1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997124565508735211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996905016461000862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyrg1989: 中国向台巴投掷了比东风导弹还可怕的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1997124565508735211",
+        "created_at": "2025-12-06T02:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T03:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997124565508735211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1295167822973173760",
+              "start": 3,
+              "username": "Kyrg1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997124565508735211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996905016461000862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyrg1989: 中国向台巴投掷了比东风导弹还可怕的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295167822973173760",
+        "conversation_id": "1996905016461000862",
+        "created_at": "2025-12-05T11:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T12:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996905016461000862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zayeefffly/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Zayeefffly/status/1996632665806770223",
+              "start": 20,
+              "url": "https://t.co/gqLKcfXZ7G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996905016461000862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 58652,
+          "like_count": 533,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996632665806770223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国向台巴投掷了比东风导弹还可怕的东西 https://t.co/gqLKcfXZ7G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 991,
+          "like_count": 6744,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2365
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-17T01:20:57.000Z",
+        "description": "#blacklivesmatter #Pride2022 #Metoo 性别男",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "blacklivesmatter"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "tag": "Pride2022"
+              },
+              {
+                "end": 35,
+                "start": 29,
+                "tag": "Metoo"
+              }
+            ]
+          }
+        },
+        "id": "1295167822973173760",
+        "location": "妙蛙底",
+        "name": "一个兴趣使然的黑人留学生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598085086318333953/j5yEKoD4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6141,
+          "following_count": 591,
+          "like_count": 122655,
+          "listed_count": 29,
+          "media_count": 1565,
+          "tweet_count": 60815
+        },
+        "username": "Kyrg1989",
+        "verified": false
+      }
+    ]
+  }
+}

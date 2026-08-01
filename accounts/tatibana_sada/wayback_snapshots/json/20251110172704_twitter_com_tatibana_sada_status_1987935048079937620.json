@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987934709696131177",
+    "created_at": "2025-11-10T17:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T18:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987935048079937620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1906297778483150848",
+          "start": 0,
+          "username": "kokuralia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987935048079937620",
+    "in_reply_to_user_id": "1906297778483150848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987934709696131177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokuralia 猜猜我老人家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987934709696131177",
+        "created_at": "2025-11-10T17:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T18:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987935048079937620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1906297778483150848",
+              "start": 0,
+              "username": "kokuralia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987935048079937620",
+        "in_reply_to_user_id": "1906297778483150848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987934709696131177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokuralia 猜猜我老人家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906297778483150848",
+        "conversation_id": "1987934709696131177",
+        "created_at": "2025-11-10T17:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T18:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987934709696131177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987934709696131177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉有些家伙真的属于0秒猜出性别，1秒猜出性别模态，2秒猜出性取向的那种人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 793,
+          "like_count": 4979,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1836
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T10:49:53.000Z",
+        "description": "咱们是可爱的扶她猫ftm🏳️‍⚧️/双性吸引与男性浪漫倾向/酷儿男权主义/反威权/利己主义/极度性压抑的非自愿独身者/友性少数与男性（反男反性少数者除外）/励志关注中推所有transmasc",
+        "id": "1906297778483150848",
+        "location": "一个incel黄左跨男的内心世界",
+        "name": "Kriemhild_Gretchen💎♂️🏳️‍⚧️",
+        "pinned_tweet_id": "1984996832892883185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906316722287812609/19sei3cf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 122,
+          "like_count": 3983,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 905
+        },
+        "username": "kokuralia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1989299525820055733",
+    "created_at": "2025-11-15T02:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T03:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989515017201611155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823049276102266881",
+          "start": 0,
+          "username": "a2p3py9644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989515017201611155",
+    "in_reply_to_user_id": "1823049276102266881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989299525820055733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a2p3py9644 这也是值得的一个提法。因为女性已经不弱势了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1989299525820055733",
+        "created_at": "2025-11-15T02:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T03:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989515017201611155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823049276102266881",
+              "start": 0,
+              "username": "a2p3py9644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989515017201611155",
+        "in_reply_to_user_id": "1823049276102266881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989299525820055733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a2p3py9644 这也是值得的一个提法。因为女性已经不弱势了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823049276102266881",
+        "conversation_id": "1989299525820055733",
+        "created_at": "2025-11-14T11:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989299525820055733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989299525820055733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 299,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女权是让弱者也能得到尊重。\n翻译: 女性出钱出力让(同性恋/难民/黑人/巴勒斯坦人/老人/儿童/动物/大自然/单亲妈妈)得到尊重，不劳而获不竞争就过上好日子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 852,
+          "like_count": 5507,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1987
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T17:31:54.000Z",
+        "description": "",
+        "id": "1823049276102266881",
+        "name": "Marga",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935635642936926208/E-D8B7Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 182,
+          "like_count": 4402,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 533
+        },
+        "username": "a2p3py9644",
+        "verified": false
+      }
+    ]
+  }
+}

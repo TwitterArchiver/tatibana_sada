@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2060046094076424684",
+    "created_at": "2026-05-28T19:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060081282160513371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837114188046684161",
+          "start": 0,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060081282160513371",
+    "in_reply_to_user_id": "1837114188046684161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060046094076424684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@winterfruit_1 我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 431,
+        "media_key": "3_2060046082575564800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbA_1zaAAAEays.jpg",
+        "width": 445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2060046094076424684",
+        "created_at": "2026-05-28T19:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060081282160513371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060081282160513371",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060046094076424684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060046082575564800"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2060046094076424684",
+        "created_at": "2026-05-28T17:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060046094076424684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxEnwrKYzI",
+              "end": 30,
+              "expanded_url": "https://x.com/winterfruit_1/status/2060046094076424684/photo/1",
+              "media_key": "3_2060046082575564800",
+              "start": 7,
+              "url": "https://t.co/bxEnwrKYzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060046094076424684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豌豆射手色图 https://t.co/bxEnwrKYzI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 1247,
+          "like_count": 8927,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3032
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 1474,
+          "like_count": 42162,
+          "listed_count": 6,
+          "media_count": 1834,
+          "tweet_count": 12511
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

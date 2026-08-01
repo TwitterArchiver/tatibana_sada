@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2060296452321300539",
+    "created_at": "2026-05-30T07:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060620622137622720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445400963632750596",
+          "start": 0,
+          "username": "Im_Just__Girl"
+        },
+        {
+          "end": 31,
+          "id": "1843201902550634496",
+          "start": 15,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060620622137622720",
+    "in_reply_to_user_id": "1445400963632750596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060385737565176024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im_Just__Girl @LwrDHYyuxR22499 幻视某位杭州人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2060296452321300539",
+        "created_at": "2026-05-30T07:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060620622137622720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445400963632750596",
+              "start": 0,
+              "username": "Im_Just__Girl"
+            },
+            {
+              "end": 31,
+              "id": "1843201902550634496",
+              "start": 15,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060620622137622720",
+        "in_reply_to_user_id": "1445400963632750596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060385737565176024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Just__Girl @LwrDHYyuxR22499 幻视某位杭州人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "2060296452321300539",
+        "created_at": "2026-05-29T15:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060385737565176024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060385737565176024",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060296452321300539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 脸型挺pass的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 1251,
+          "like_count": 8975,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 3055
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "可怜的有机小女孩，脾气也很坏，说不定哪天就死了|I'm a Good girl. Please don't hurt me.👧|🌈|OD雌二醇",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462232961372162/WYgmAow1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 913,
+          "like_count": 13574,
+          "listed_count": 6,
+          "media_count": 152,
+          "tweet_count": 7152
+        },
+        "username": "Im_Just__Girl",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058919180246646784/MUFZxWG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5414,
+          "following_count": 3029,
+          "like_count": 3065,
+          "listed_count": 19,
+          "media_count": 432,
+          "tweet_count": 2899
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

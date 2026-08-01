@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Privacy",
+          "id": "1088443224425807872",
+          "name": "Information Privacy Worldwide"
+        }
+      }
+    ],
+    "conversation_id": "1985929591718904107",
+    "created_at": "2025-11-05T11:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T12:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986039857643487480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1553221917389516800",
+          "start": 0,
+          "username": "viietth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986039857643487480",
+    "in_reply_to_user_id": "1553221917389516800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985929591718904107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@viietth 我想这里的一个点是，用民主党国际的话说，sex-gender的超定。\n不过我还是要推销一下我的性别超克论。xx与xy的区别，大概也就是黄种人比较难在短跑上和黑人竞争的同系物。这不过是生物学配置在妨碍某个个体做到其意欲的事情罢了。so大家何不来作bio hacker呢。\n日雌还是十一酸，跟吡拉西坦其实一样嘛。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          }
+        ],
+        "conversation_id": "1985929591718904107",
+        "created_at": "2025-11-05T11:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T12:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986039857643487480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1553221917389516800",
+              "start": 0,
+              "username": "viietth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986039857643487480",
+        "in_reply_to_user_id": "1553221917389516800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985929591718904107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@viietth 我想这里的一个点是，用民主党国际的话说，sex-gender的超定。\n不过我还是要推销一下我的性别超克论。xx与xy的区别，大概也就是黄种人比较难在短跑上和黑人竞争的同系物。这不过是生物学配置在妨碍某个个体做到其意欲的事情罢了。so大家何不来作bio hacker呢。\n日雌还是十一酸，跟吡拉西坦其实一样嘛。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553221917389516800",
+        "conversation_id": "1985929591718904107",
+        "created_at": "2025-11-05T04:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T05:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985929591718904107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985929591718904107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "顺男吃糖怎么回事，吃糖是性别认同不是性别表达吧，男生会吃糖吗会嘲笑吧，药娘可以说自己是男生，但除非男生都爱吃糖，药娘才能被当成男生，需要很长时间吧…而且吃糖还怎么…当男生呢，做爱前无氧+睾酮，当gay0…不了解gay0不cum可以吗，生孩子呢，兔兔呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 739,
+          "like_count": 4703,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1780
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T03:32:31.000Z",
+        "description": "普通黑暗绝食药娘/不互关/不私信/不回复",
+        "id": "1553221917389516800",
+        "name": "💜",
+        "pinned_tweet_id": "1948042189789077751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985310668367572992/yuHcsvVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 35,
+          "like_count": 872,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1631
+        },
+        "username": "viietth",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072283591829286914"
+      ],
+      "media_source_tweet_id": [
+        "2072283594345845235"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2072328431908610349",
+    "created_at": "2026-07-01T14:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T15:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072328431908610349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "762258293968375808",
+          "start": 3,
+          "username": "michch_mi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Et6JERU1zy",
+          "end": 64,
+          "expanded_url": "https://x.com/michch_mi/status/2072283594345845235/photo/1",
+          "media_key": "3_2072283591829286914",
+          "start": 41,
+          "url": "https://t.co/Et6JERU1zy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072328431908610349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072283594345845235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @michch_mi: 发喜币的才被判处30年，发李币的就在关注监狱环境了 https://t.co/Et6JERU1zy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1294,
+        "media_key": "3_2072283591829286914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMI68oTa8AI49bl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072283591829286914"
+          ],
+          "media_source_tweet_id": [
+            "2072283594345845235"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2072328431908610349",
+        "created_at": "2026-07-01T14:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072328431908610349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "762258293968375808",
+              "start": 3,
+              "username": "michch_mi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Et6JERU1zy",
+              "end": 64,
+              "expanded_url": "https://x.com/michch_mi/status/2072283594345845235/photo/1",
+              "media_key": "3_2072283591829286914",
+              "start": 41,
+              "url": "https://t.co/Et6JERU1zy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072328431908610349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072283594345845235",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @michch_mi: 发喜币的才被判处30年，发李币的就在关注监狱环境了 https://t.co/Et6JERU1zy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072283591829286914"
+          ]
+        },
+        "author_id": "762258293968375808",
+        "conversation_id": "2072283594345845235",
+        "created_at": "2026-07-01T11:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072283594345845235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Et6JERU1zy",
+              "end": 49,
+              "expanded_url": "https://x.com/michch_mi/status/2072283594345845235/photo/1",
+              "media_key": "3_2072283591829286914",
+              "start": 26,
+              "url": "https://t.co/Et6JERU1zy"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2071821027404112101",
+              "start": 50,
+              "url": "https://t.co/CLCz3aQYQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072283594345845235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071821027404112101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发喜币的才被判处30年，发李币的就在关注监狱环境了 https://t.co/Et6JERU1zy https://t.co/CLCz3aQYQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 1372,
+          "like_count": 9515,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3266
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-07T12:05:14.000Z",
+        "description": "",
+        "id": "762258293968375808",
+        "location": "Earth",
+        "name": "Mi.C",
+        "pinned_tweet_id": "1865375915351654475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064620556692144128/xvDWbc2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4070,
+          "following_count": 675,
+          "like_count": 55071,
+          "listed_count": 25,
+          "media_count": 4218,
+          "tweet_count": 19611
+        },
+        "url": "",
+        "username": "michch_mi",
+        "verified": false
+      }
+    ]
+  }
+}

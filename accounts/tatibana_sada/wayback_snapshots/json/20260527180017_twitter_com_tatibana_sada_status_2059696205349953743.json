@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059505742223421440",
+        "3_2059505742907047936"
+      ],
+      "media_source_tweet_id": [
+        "2059505745214001451",
+        "2059505745214001451"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059696205349953743",
+    "created_at": "2026-05-27T18:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059696205349953743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1513410916473192450",
+          "start": 3,
+          "username": "PamphletsY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DhKJQB5kFx",
+          "end": 110,
+          "expanded_url": "https://x.com/PamphletsY/status/2059505745214001451/photo/1",
+          "media_key": "3_2059505742223421440",
+          "start": 87,
+          "url": "https://t.co/DhKJQB5kFx"
+        },
+        {
+          "display_url": "pic.x.com/DhKJQB5kFx",
+          "end": 110,
+          "expanded_url": "https://x.com/PamphletsY/status/2059505745214001451/photo/1",
+          "media_key": "3_2059505742907047936",
+          "start": 87,
+          "url": "https://t.co/DhKJQB5kFx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059696205349953743",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 545
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059505745214001451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PamphletsY: 🚨🇺🇸 BREAKING —\n\nAfter 100 Days Mayor Mamdani has Executed 0 Landlords. https://t.co/DhKJQB5kFx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1165,
+        "media_key": "3_2059505742223421440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTVj5IasAA7QQz.jpg",
+        "width": 1032
+      },
+      {
+        "height": 853,
+        "media_key": "3_2059505742907047936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTVj7raAAAP5kI.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059505742223421440",
+            "3_2059505742907047936"
+          ],
+          "media_source_tweet_id": [
+            "2059505745214001451",
+            "2059505745214001451"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059696205349953743",
+        "created_at": "2026-05-27T18:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059696205349953743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1513410916473192450",
+              "start": 3,
+              "username": "PamphletsY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhKJQB5kFx",
+              "end": 110,
+              "expanded_url": "https://x.com/PamphletsY/status/2059505745214001451/photo/1",
+              "media_key": "3_2059505742223421440",
+              "start": 87,
+              "url": "https://t.co/DhKJQB5kFx"
+            },
+            {
+              "display_url": "pic.x.com/DhKJQB5kFx",
+              "end": 110,
+              "expanded_url": "https://x.com/PamphletsY/status/2059505745214001451/photo/1",
+              "media_key": "3_2059505742907047936",
+              "start": 87,
+              "url": "https://t.co/DhKJQB5kFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059696205349953743",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 545
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059505745214001451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PamphletsY: 🚨🇺🇸 BREAKING —\n\nAfter 100 Days Mayor Mamdani has Executed 0 Landlords. https://t.co/DhKJQB5kFx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059505742223421440",
+            "3_2059505742907047936"
+          ]
+        },
+        "author_id": "1513410916473192450",
+        "conversation_id": "2059505745214001451",
+        "created_at": "2026-05-27T05:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059505745214001451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhKJQB5kFx",
+              "end": 94,
+              "expanded_url": "https://x.com/PamphletsY/status/2059505745214001451/photo/1",
+              "media_key": "3_2059505742223421440",
+              "start": 71,
+              "url": "https://t.co/DhKJQB5kFx"
+            },
+            {
+              "display_url": "pic.x.com/DhKJQB5kFx",
+              "end": 94,
+              "expanded_url": "https://x.com/PamphletsY/status/2059505745214001451/photo/1",
+              "media_key": "3_2059505742907047936",
+              "start": 71,
+              "url": "https://t.co/DhKJQB5kFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059505745214001451",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 356,
+          "impression_count": 501173,
+          "like_count": 18503,
+          "quote_count": 231,
+          "reply_count": 180,
+          "retweet_count": 545
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🇺🇸 BREAKING —\n\nAfter 100 Days Mayor Mamdani has Executed 0 Landlords. https://t.co/DhKJQB5kFx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 1235,
+          "like_count": 8816,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2951
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T06:57:42.000Z",
+        "description": "🚨 ▂▃▅  🇵🇸 Free Palestine  ▅▃▂ 🚨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pamphlets.blog/links",
+                "end": 23,
+                "expanded_url": "http://pamphlets.blog/links",
+                "start": 0,
+                "url": "https://t.co/lsuoWGxDCX"
+              }
+            ]
+          }
+        },
+        "id": "1513410916473192450",
+        "location": "Mexico City",
+        "name": "Pamphlets",
+        "pinned_tweet_id": "2057958692335849859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024000126222823426/iAe0I-3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200309,
+          "following_count": 14692,
+          "like_count": 122974,
+          "listed_count": 1457,
+          "media_count": 35775,
+          "tweet_count": 73271
+        },
+        "url": "https://t.co/lsuoWGxDCX",
+        "username": "PamphletsY",
+        "verified": true
+      }
+    ]
+  }
+}

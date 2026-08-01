@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1979164993116369000",
+    "created_at": "2025-10-17T21:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T22:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979295983235420474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1935975585186271232",
+          "start": 0,
+          "username": "hahahabzd123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979295983235420474",
+    "in_reply_to_user_id": "1935975585186271232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979164996157223197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahahabzd123 哇哇，我字面的好爱你的态度和姿势。我仍然觉得有一些虚伪，但这是任何想要搓意识形态的人都不可避免的，谢谢。\nso你该是已经毛骨悚然的感受到我的图景是如何恶毒冷酷了。\n永劫回归，正义各自声张，永无「世界史化为世界法庭」。道德感和自我批判力，也只不过是技术性意味的总结错误的能力。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1979164993116369000",
+        "created_at": "2025-10-17T21:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T22:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979295983235420474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935975585186271232",
+              "start": 0,
+              "username": "hahahabzd123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979295983235420474",
+        "in_reply_to_user_id": "1935975585186271232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979164996157223197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahahabzd123 哇哇，我字面的好爱你的态度和姿势。我仍然觉得有一些虚伪，但这是任何想要搓意识形态的人都不可避免的，谢谢。\nso你该是已经毛骨悚然的感受到我的图景是如何恶毒冷酷了。\n永劫回归，正义各自声张，永无「世界史化为世界法庭」。道德感和自我批判力，也只不过是技术性意味的总结错误的能力。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935975585186271232",
+        "conversation_id": "1979164993116369000",
+        "created_at": "2025-10-17T12:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979164996157223197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979164996157223197",
+        "in_reply_to_user_id": "1935975585186271232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979164993116369000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "作为一个独立的、有反思能力的、并愿意为所有后果承担个人责任的主体去行动。这不基于一种确定性的行动，而更多是一种基于在不确定性中承担责任的行动。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 554,
+          "like_count": 2969,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1476
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T08:19:11.000Z",
+        "description": "De gustibus non est disputandum.",
+        "id": "1935975585186271232",
+        "name": "Rollo Thomas",
+        "pinned_tweet_id": "1975006226309345518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961048554644099072/rgcQl03l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 123,
+          "like_count": 364,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 756
+        },
+        "username": "hahahabzd123",
+        "verified": false
+      }
+    ]
+  }
+}

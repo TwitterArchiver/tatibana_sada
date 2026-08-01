@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2058784021967200377",
+    "created_at": "2026-05-25T05:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T06:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058784021967200377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1707741005490049024",
+          "start": 3,
+          "username": "tatibana_sada"
+        },
+        {
+          "end": 33,
+          "id": "1313307135766392833",
+          "start": 19,
+          "username": "NailoongBlair"
+        },
+        {
+          "end": 44,
+          "id": "583074864",
+          "start": 34,
+          "username": "luosiling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058784021967200377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058783129876431168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatibana_sada: @NailoongBlair @luosiling 不过说句题外话，舶来物骑劫本土自发议题也确实有。\n民主党国际一发话，全球「左派」政党都哗啦啦冒出了多元性别和种族平权议题，maga国际一发话，Japan都要is Back或者Fast了。甚…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2058783127057891328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJEWJ3agAAsDBW.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2058784021967200377",
+        "created_at": "2026-05-25T05:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058784021967200377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1707741005490049024",
+              "start": 3,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 33,
+              "id": "1313307135766392833",
+              "start": 19,
+              "username": "NailoongBlair"
+            },
+            {
+              "end": 44,
+              "id": "583074864",
+              "start": 34,
+              "username": "luosiling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058784021967200377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058783129876431168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatibana_sada: @NailoongBlair @luosiling 不过说句题外话，舶来物骑劫本土自发议题也确实有。\n民主党国际一发话，全球「左派」政党都哗啦啦冒出了多元性别和种族平权议题，maga国际一发话，Japan都要is Back或者Fast了。甚…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058783127057891328"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2058531609867964430",
+        "created_at": "2026-05-25T05:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058783129876431168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1313307135766392833",
+              "start": 0,
+              "username": "NailoongBlair"
+            },
+            {
+              "end": 25,
+              "id": "583074864",
+              "start": 15,
+              "username": "luosiling"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aXkhgQ0a9X",
+              "end": 209,
+              "expanded_url": "https://x.com/tatibana_sada/status/2058783129876431168/photo/1",
+              "media_key": "3_2058783127057891328",
+              "start": 186,
+              "url": "https://t.co/aXkhgQ0a9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058783129876431168",
+        "in_reply_to_user_id": "1313307135766392833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058777352574992660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NailoongBlair @luosiling 不过说句题外话，舶来物骑劫本土自发议题也确实有。\n民主党国际一发话，全球「左派」政党都哗啦啦冒出了多元性别和种族平权议题，maga国际一发话，Japan都要is Back或者Fast了。甚至还能看见韩国人喊We Are Charlie Kirk。美国人的自恋和焦虑和自我意识过剩外溢到全球。世界还要被这种萌物统治多久😱 https://t.co/aXkhgQ0a9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 1199,
+          "like_count": 8544,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 2853
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T02:36:47.000Z",
+        "description": "Democratic Socialist/Marxist🌹👊，Unionist ⚙️，Lutheran Christian✝️，“大中华胶”，Vive la Mai 68！definitely KOP（#YNWA） #我是麻酱\n，阿尔都塞-后结构-拉康精神分析，不擅长好好说话，暴脾气请见谅。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "YNWA"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "我是麻酱"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.whotwi.com/ShinoharaBlair",
+                "end": 23,
+                "expanded_url": "https://en.whotwi.com/ShinoharaBlair",
+                "start": 0,
+                "url": "https://t.co/Q9UcPnwpkx"
+              }
+            ]
+          }
+        },
+        "id": "1313307135766392833",
+        "location": "推特大街114514号",
+        "name": "AnonTokyo 奶龙布莱尔✝️👊🌹",
+        "pinned_tweet_id": "2044081542130217266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943261006546767873/HRZ-GVab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2869,
+          "following_count": 2662,
+          "like_count": 195104,
+          "listed_count": 26,
+          "media_count": 2293,
+          "tweet_count": 48247
+        },
+        "url": "https://t.co/Q9UcPnwpkx",
+        "username": "NailoongBlair",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-17T17:55:59.000Z",
+        "description": "《波士頓書評》：讀嚴肅的書，做有趣的人。\n郵件訂閱《波士頓書評》：boshidunshuping@gmail.com  \nhttps://t.co/SEIYuNJU93",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bostonreviewofbooks.substack.com/about",
+                "end": 84,
+                "expanded_url": "https://bostonreviewofbooks.substack.com/about",
+                "start": 61,
+                "url": "https://t.co/SEIYuNJU93"
+              }
+            ]
+          }
+        },
+        "id": "583074864",
+        "name": "波士頓書評Boston Review of Books",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007089182112444416/GKKfTMsv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6669,
+          "following_count": 213,
+          "like_count": 5937,
+          "listed_count": 36,
+          "media_count": 930,
+          "tweet_count": 2486
+        },
+        "username": "luosiling",
+        "verified": true
+      }
+    ]
+  }
+}

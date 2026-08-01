@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2064005520877637865",
+    "created_at": "2026-06-08T19:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T20:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064070015616479670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1990394435893620736",
+          "start": 0,
+          "username": "com_m222"
+        },
+        {
+          "end": 24,
+          "id": "1715380059278831619",
+          "start": 10,
+          "username": "Killer_Haruhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064070015616479670",
+    "in_reply_to_user_id": "1990394435893620736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064012578674626878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@com_m222 @Killer_Haruhi 维护全球和平，学习阿美梨卡好榜样罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064005520877637865",
+        "created_at": "2026-06-08T19:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064070015616479670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1990394435893620736",
+              "start": 0,
+              "username": "com_m222"
+            },
+            {
+              "end": 24,
+              "id": "1715380059278831619",
+              "start": 10,
+              "username": "Killer_Haruhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064070015616479670",
+        "in_reply_to_user_id": "1990394435893620736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064012578674626878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@com_m222 @Killer_Haruhi 维护全球和平，学习阿美梨卡好榜样罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990394435893620736",
+        "conversation_id": "2064005520877637865",
+        "created_at": "2026-06-08T15:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064012578674626878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1715380059278831619",
+              "start": 0,
+              "username": "Killer_Haruhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064012578674626878",
+        "in_reply_to_user_id": "1715380059278831619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064005520877637865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Killer_Haruhi 向世界展示自身近些年穷兵黩武的成果，能想象到这B航母下水这一天墙内Pink激动到上街打飞机的场面了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 1283,
+          "like_count": 9113,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3121
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T12:19:59.000Z",
+        "description": "",
+        "id": "1990394435893620736",
+        "name": "W..W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990411936073400320/i8F5Hqmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 44,
+          "like_count": 757,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 51
+        },
+        "username": "com_m222",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T14:51:03.000Z",
+        "description": "哭泣并不会使你得到自由。",
+        "id": "1715380059278831619",
+        "location": "Nakano City, Tokyo",
+        "name": "はるひ",
+        "pinned_tweet_id": "1796937239974625518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762474898814062592/wXU5QQn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 558,
+          "like_count": 47967,
+          "listed_count": 23,
+          "media_count": 947,
+          "tweet_count": 14672
+        },
+        "username": "Killer_Haruhi",
+        "verified": false
+      }
+    ]
+  }
+}

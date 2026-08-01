@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056983940632846336"
+      ],
+      "media_source_tweet_id": [
+        "2056983948060971203"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057034203234287978",
+    "created_at": "2026-05-20T09:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057034203234287978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1857802986837172224",
+          "start": 3,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zdpqxAIc11",
+          "end": 50,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2056983948060971203/photo/1",
+          "media_key": "3_2056983940632846336",
+          "start": 27,
+          "url": "https://t.co/zdpqxAIc11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057034203234287978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056983948060971203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LingJiaXin233: 要加关税这一块 https://t.co/zdpqxAIc11"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2056983940632846336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvf_uIaoAAWiEK.jpg",
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056983940632846336"
+          ],
+          "media_source_tweet_id": [
+            "2056983948060971203"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057034203234287978",
+        "created_at": "2026-05-20T09:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057034203234287978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1857802986837172224",
+              "start": 3,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zdpqxAIc11",
+              "end": 50,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2056983948060971203/photo/1",
+              "media_key": "3_2056983940632846336",
+              "start": 27,
+              "url": "https://t.co/zdpqxAIc11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057034203234287978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056983948060971203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LingJiaXin233: 要加关税这一块 https://t.co/zdpqxAIc11"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056983940632846336"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2056983948060971203",
+        "created_at": "2026-05-20T06:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056983948060971203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zdpqxAIc11",
+              "end": 31,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2056983948060971203/photo/1",
+              "media_key": "3_2056983940632846336",
+              "start": 8,
+              "url": "https://t.co/zdpqxAIc11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056983948060971203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2889,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要加关税这一块 https://t.co/zdpqxAIc11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 1148,
+          "like_count": 8170,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2669
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5505,
+          "following_count": 702,
+          "like_count": 17288,
+          "listed_count": 11,
+          "media_count": 1620,
+          "tweet_count": 4790
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

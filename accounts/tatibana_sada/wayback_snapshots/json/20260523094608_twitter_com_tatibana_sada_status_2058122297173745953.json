@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2058078065314673121",
+    "created_at": "2026-05-23T09:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058122297173745953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986828541930119168",
+          "start": 0,
+          "username": "shigure07288"
+        },
+        {
+          "end": 29,
+          "id": "1795719520939905024",
+          "start": 14,
+          "username": "pyridine_lemon"
+        },
+        {
+          "end": 43,
+          "id": "1839865017392394240",
+          "start": 30,
+          "username": "zhiyun114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058122297173745953",
+    "in_reply_to_user_id": "1986828541930119168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058109779810390435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigure07288 @pyridine_lemon @zhiyun114514 你独立发现了施密特难题。\n自由是什么？是否包括了反对自由的自由？不要忘记施密特一开始抒发他的观点的时候，是在劝谏魏玛政府赶紧铁拳，把狗屁自由扔到一边也要镇压上桌老鼠的纳粹。\n而人权根本意味上仍然是一种「超阶级的人性观」。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058078065314673121",
+        "created_at": "2026-05-23T09:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058122297173745953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986828541930119168",
+              "start": 0,
+              "username": "shigure07288"
+            },
+            {
+              "end": 29,
+              "id": "1795719520939905024",
+              "start": 14,
+              "username": "pyridine_lemon"
+            },
+            {
+              "end": 43,
+              "id": "1839865017392394240",
+              "start": 30,
+              "username": "zhiyun114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058122297173745953",
+        "in_reply_to_user_id": "1986828541930119168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058109779810390435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigure07288 @pyridine_lemon @zhiyun114514 你独立发现了施密特难题。\n自由是什么？是否包括了反对自由的自由？不要忘记施密特一开始抒发他的观点的时候，是在劝谏魏玛政府赶紧铁拳，把狗屁自由扔到一边也要镇压上桌老鼠的纳粹。\n而人权根本意味上仍然是一种「超阶级的人性观」。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986828541930119168",
+        "conversation_id": "2058078065314673121",
+        "created_at": "2026-05-23T08:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058109779810390435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795719520939905024",
+              "start": 0,
+              "username": "pyridine_lemon"
+            },
+            {
+              "end": 29,
+              "id": "1839865017392394240",
+              "start": 16,
+              "username": "zhiyun114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058109779810390435",
+        "in_reply_to_user_id": "1795719520939905024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058097340146385384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyridine_lemon @zhiyun114514 违背人权"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 1186,
+          "like_count": 8390,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2777
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“马克思主义或列宁主义”\n📕🌈|INTP-A|自发毛主义|左翼共产主义|自由意志社会主义|民主社会主义|左翼平民主义|反资本主义|反帝国主义|反修正主义|无神论|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "location": "中华公社",
+        "name": "時雨☭𝕷𝖊𝖋𝖙𝖈𝖔𝖒🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "2056211247075578047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037543089099915264/LekdR7Q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 640,
+          "like_count": 5924,
+          "listed_count": 7,
+          "media_count": 552,
+          "tweet_count": 7257
+        },
+        "username": "shigure07288",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T07:31:55.000Z",
+        "description": "伟大的改革开放万岁/小平同志万岁/中华民族万岁\n李克强、汪洋永垂不朽\n\n立场：中右翼/世俗主义/凯末尔主义\n\n社民、社自、温和建制派、温和自由派友好讨论，求同存异\n\n毛左、穆斯林、支黑之流的神人勿扰\n\n中国改革开放的胜利，既是全球化的胜利，也是世俗化的胜利！亚伯拉罕第四教必将被扫进历史的垃圾桶！",
+        "id": "1795719520939905024",
+        "location": "CusetVoidAldehyde's heart",
+        "name": "Cuset Lemon🍥",
+        "pinned_tweet_id": "2055335671418753098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056956792282947584/fJ6_cQEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 40,
+          "like_count": 104,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1176
+        },
+        "username": "pyridine_lemon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T03:10:03.000Z",
+        "description": "我叫知雲！(三世)\n(有多少人认识我？)\n二世:@zhi96886   小号:@mmj199747\n一世找不到了\n日本語を勉強したいのですが、今のところ五十音図しかできません🥺/社民/历史/想要互fo/拙见如有错误请指出来🥹/尽量的不极端\n\nもっと友達が欲しい\nI want to make more friend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "zhi96886"
+              },
+              {
+                "end": 49,
+                "start": 39,
+                "username": "mmj199747"
+              }
+            ]
+          }
+        },
+        "id": "1839865017392394240",
+        "location": "毛泽东帝国-邓小平尼亚-习近平堡",
+        "name": "矢口雨云",
+        "pinned_tweet_id": "2044422574466298172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036083407361642496/EoLSSXvX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 1298,
+          "like_count": 7396,
+          "listed_count": 5,
+          "media_count": 643,
+          "tweet_count": 3881
+        },
+        "username": "zhiyun114514",
+        "verified": true
+      }
+    ]
+  }
+}

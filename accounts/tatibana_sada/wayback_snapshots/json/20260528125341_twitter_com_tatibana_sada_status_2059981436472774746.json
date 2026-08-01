@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059933441534435745",
+    "created_at": "2026-05-28T12:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059981436472774746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1598557374046179328",
+          "start": 0,
+          "username": "huihui_mikumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059981436472774746",
+    "in_reply_to_user_id": "1598557374046179328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059933441534435745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huihui_mikumi 姦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059933441534435745",
+        "created_at": "2026-05-28T12:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059981436472774746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059981436472774746",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059933441534435745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 姦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2059933441534435745",
+        "created_at": "2026-05-28T09:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059933441534435745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059933441534435745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 620,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广东人吃福建人是什么梗啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 1242,
+          "like_count": 8896,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 3012
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 563,
+          "like_count": 583,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1302
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

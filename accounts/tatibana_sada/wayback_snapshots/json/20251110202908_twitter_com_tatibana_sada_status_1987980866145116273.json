@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987980838395596800"
+      ],
+      "media_source_tweet_id": [
+        "1987980850844340733"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987980866145116273",
+    "created_at": "2025-11-10T20:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T21:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987980866145116273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1707741005490049024",
+          "start": 3,
+          "username": "tatibana_sada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7HYC8Atmrt",
+          "end": 42,
+          "expanded_url": "https://x.com/tatibana_sada/status/1987980850844340733/photo/1",
+          "media_key": "3_1987980838395596800",
+          "start": 19,
+          "url": "https://t.co/7HYC8Atmrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987980866145116273",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987980850844340733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatibana_sada: https://t.co/7HYC8Atmrt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1588,
+        "media_key": "3_1987980838395596800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5a6CizaUAAH4HA.jpg",
+        "width": 2205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987980838395596800"
+          ],
+          "media_source_tweet_id": [
+            "1987980850844340733"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987980866145116273",
+        "created_at": "2025-11-10T20:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T21:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987980866145116273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1707741005490049024",
+              "start": 3,
+              "username": "tatibana_sada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7HYC8Atmrt",
+              "end": 42,
+              "expanded_url": "https://x.com/tatibana_sada/status/1987980850844340733/photo/1",
+              "media_key": "3_1987980838395596800",
+              "start": 19,
+              "url": "https://t.co/7HYC8Atmrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987980866145116273",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987980850844340733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatibana_sada: https://t.co/7HYC8Atmrt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987980838395596800"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987977158405550298",
+        "created_at": "2025-11-10T20:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T21:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987980850844340733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7HYC8Atmrt",
+              "end": 23,
+              "expanded_url": "https://x.com/tatibana_sada/status/1987980850844340733/photo/1",
+              "media_key": "3_1987980838395596800",
+              "start": 0,
+              "url": "https://t.co/7HYC8Atmrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987980850844340733",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987980155701391453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/7HYC8Atmrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 795,
+          "like_count": 5017,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1862
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

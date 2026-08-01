@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949132656110911488"
+      ],
+      "media_source_tweet_id": [
+        "1949132669536665783"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980978312278364271",
+    "created_at": "2025-10-22T12:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T13:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980978312278364271"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 21,
+          "tag": "Hirohito"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "裕仁"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "昭和天皇"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1707966761499295744",
+          "start": 3,
+          "username": "nekosama1919810"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EwgZxurd4I",
+          "end": 64,
+          "expanded_url": "https://x.com/nekosama1919810/status/1949132669536665783/photo/1",
+          "media_key": "3_1949132656110911488",
+          "start": 41,
+          "url": "https://t.co/EwgZxurd4I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980978312278364271",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949132669536665783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekosama1919810: #Hirohito #裕仁 #昭和天皇 https://t.co/EwgZxurd4I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1949132656110911488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwy10uOawAAihSn.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949132656110911488"
+          ],
+          "media_source_tweet_id": [
+            "1949132669536665783"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980978312278364271",
+        "created_at": "2025-10-22T12:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980978312278364271"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "Hirohito"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "裕仁"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "昭和天皇"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1707966761499295744",
+              "start": 3,
+              "username": "nekosama1919810"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwgZxurd4I",
+              "end": 64,
+              "expanded_url": "https://x.com/nekosama1919810/status/1949132669536665783/photo/1",
+              "media_key": "3_1949132656110911488",
+              "start": 41,
+              "url": "https://t.co/EwgZxurd4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980978312278364271",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949132669536665783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekosama1919810: #Hirohito #裕仁 #昭和天皇 https://t.co/EwgZxurd4I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949132656110911488"
+          ]
+        },
+        "author_id": "1707966761499295744",
+        "conversation_id": "1949132669536665783",
+        "created_at": "2025-07-26T15:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949132669536665783"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "Hirohito"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "裕仁"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "昭和天皇"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwgZxurd4I",
+              "end": 43,
+              "expanded_url": "https://x.com/nekosama1919810/status/1949132669536665783/photo/1",
+              "media_key": "3_1949132656110911488",
+              "start": 20,
+              "url": "https://t.co/EwgZxurd4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949132669536665783",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3712,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "#Hirohito #裕仁 #昭和天皇 https://t.co/EwgZxurd4I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 600,
+          "like_count": 3300,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1565
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T03:53:15.000Z",
+        "description": "狩/狩元/18/我有裕裕症/我喜欢裕仁请确定能接受再关注我/modern Japanese history/no politics/中文/English/無断転載禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "poipiku.com/11952288/",
+                "end": 23,
+                "expanded_url": "https://poipiku.com/11952288/",
+                "start": 0,
+                "url": "https://t.co/s798Dkzxug"
+              }
+            ]
+          }
+        },
+        "id": "1707966761499295744",
+        "name": "狩元🐰",
+        "pinned_tweet_id": "1949132669536665783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979954436299517952/I1uqKgYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 293,
+          "like_count": 8784,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 1401
+        },
+        "url": "https://t.co/s798Dkzxug",
+        "username": "nekosama1919810",
+        "verified": false
+      }
+    ]
+  }
+}

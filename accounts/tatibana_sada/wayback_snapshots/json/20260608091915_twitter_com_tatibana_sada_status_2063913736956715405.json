@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2063913736956715405",
+    "created_at": "2026-06-08T09:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063913736956715405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/manchuriatiger…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/manchuriatiger1/status/2063827135379488956",
+          "start": 4,
+          "url": "https://t.co/TfRsgj2pXT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063913736956715405",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063827135379488956",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何意味 https://t.co/TfRsgj2pXT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45700,
+        "height": 900,
+        "media_key": "13_2063476117173071872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063476117173071872/img/bFhUndu-X-XSPxlU.jpg",
+        "public_metrics": {
+          "view_count": 6500
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063476117173071872/vid/avc1/320x400/UlMZYJ6k75OdlOsM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063476117173071872/vid/avc1/480x600/tXZYpuwaSsW0MMkp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063476117173071872/vid/avc1/720x900/iPWbF9ssfaK1vZN8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063476117173071872/pl/R0ZyZMEqj6Hm-xIk.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2063913736956715405",
+        "created_at": "2026-06-08T09:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063913736956715405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manchuriatiger…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/manchuriatiger1/status/2063827135379488956",
+              "start": 4,
+              "url": "https://t.co/TfRsgj2pXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063913736956715405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063827135379488956",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/TfRsgj2pXT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063476117173071872"
+          ],
+          "media_source_tweet_id": [
+            "2063476199515738307"
+          ]
+        },
+        "author_id": "1118111263937064961",
+        "conversation_id": "2063827135379488956",
+        "created_at": "2026-06-08T03:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063827135379488956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgqrSdyoYx",
+              "end": 68,
+              "expanded_url": "https://x.com/Samhon852/status/2063476199515738307/video/1",
+              "media_key": "13_2063476117173071872",
+              "start": 45,
+              "url": "https://t.co/XgqrSdyoYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063827135379488956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 674,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很快就要消失的语言跟文化，挣扎个几把毛，没人愿意听叽叽喳喳的鸟语，跟特么噪音武器似的🙉🙉 https://t.co/XgqrSdyoYx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2063904337219539353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1267,
+          "like_count": 9064,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3090
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-16T11:17:53.000Z",
+        "description": "一提满洲就急眼的，定是纯种支那🐷",
+        "id": "1118111263937064961",
+        "location": "Manchuria,not China",
+        "name": "完颜腾飞🇸🇪🇪🇪🏳️‍🌈",
+        "pinned_tweet_id": "2044570500027007213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664882877149114380/gaJ1oeS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 7501,
+          "like_count": 14287,
+          "listed_count": 24,
+          "media_count": 2427,
+          "tweet_count": 29074
+        },
+        "username": "manchuriatiger1",
+        "verified": false
+      }
+    ]
+  }
+}

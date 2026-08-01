@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989281536798318592"
+      ],
+      "media_source_tweet_id": [
+        "1989281539197403434"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1989520496799748595",
+    "created_at": "2025-11-15T02:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T03:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989520496799748595"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "みずえな"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1568871261694234625",
+          "start": 3,
+          "username": "vmtpzk_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZqDBAlg5kD",
+          "end": 42,
+          "expanded_url": "https://x.com/vmtpzk_/status/1989281539197403434/photo/1",
+          "media_key": "3_1989281536798318592",
+          "start": 19,
+          "url": "https://t.co/ZqDBAlg5kD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989520496799748595",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 501
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989281539197403434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vmtpzk_: #みずえな https://t.co/ZqDBAlg5kD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_1989281536798318592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tZBJ8bYAA88sz.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989281536798318592"
+          ],
+          "media_source_tweet_id": [
+            "1989281539197403434"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1989520496799748595",
+        "created_at": "2025-11-15T02:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T03:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989520496799748595"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "みずえな"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1568871261694234625",
+              "start": 3,
+              "username": "vmtpzk_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZqDBAlg5kD",
+              "end": 42,
+              "expanded_url": "https://x.com/vmtpzk_/status/1989281539197403434/photo/1",
+              "media_key": "3_1989281536798318592",
+              "start": 19,
+              "url": "https://t.co/ZqDBAlg5kD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989520496799748595",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 501
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989281539197403434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vmtpzk_: #みずえな https://t.co/ZqDBAlg5kD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989281536798318592"
+          ]
+        },
+        "author_id": "1568871261694234625",
+        "conversation_id": "1989281539197403434",
+        "created_at": "2025-11-14T10:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T11:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989281539197403434"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "みずえな"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZqDBAlg5kD",
+              "end": 29,
+              "expanded_url": "https://x.com/vmtpzk_/status/1989281539197403434/photo/1",
+              "media_key": "3_1989281536798318592",
+              "start": 6,
+              "url": "https://t.co/ZqDBAlg5kD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989281539197403434",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 280,
+          "impression_count": 21306,
+          "like_count": 3118,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 501
+        },
+        "reply_settings": "everyone",
+        "text": "#みずえな https://t.co/ZqDBAlg5kD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 852,
+          "like_count": 5514,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1989
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T07:57:21.000Z",
+        "description": "プロセカ 🎀🎨 メイン | spin→ https://t.co/1T6pbiL9nN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/vmtpzk_",
+                "end": 43,
+                "expanded_url": "https://spin-spin.com/vmtpzk_",
+                "start": 20,
+                "url": "https://t.co/1T6pbiL9nN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "poipiku.com/7387205/",
+                "end": 23,
+                "expanded_url": "https://poipiku.com/7387205/",
+                "start": 0,
+                "url": "https://t.co/ZJwj69Qe5j"
+              }
+            ]
+          }
+        },
+        "id": "1568871261694234625",
+        "location": "Twitter アイコン使用OK",
+        "name": "ももん",
+        "pinned_tweet_id": "1930927600064774155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875510189899882496/h_8yGziw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26590,
+          "following_count": 47,
+          "like_count": 10255,
+          "listed_count": 39,
+          "media_count": 534,
+          "tweet_count": 5309
+        },
+        "url": "https://t.co/ZJwj69Qe5j",
+        "username": "vmtpzk_",
+        "verified": false
+      }
+    ]
+  }
+}

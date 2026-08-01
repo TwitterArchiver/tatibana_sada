@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2077948836426002929",
+    "created_at": "2026-07-17T02:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077948836426002929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TReverie/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/TReverie/status/2076191525856559607",
+          "start": 6,
+          "url": "https://t.co/mMOlD0y7hE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077948836426002929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076191525856559607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是否有点 https://t.co/mMOlD0y7hE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2077948836426002929",
+        "created_at": "2026-07-17T02:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077948836426002929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TReverie/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/TReverie/status/2076191525856559607",
+              "start": 6,
+              "url": "https://t.co/mMOlD0y7hE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077948836426002929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076191525856559607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是否有点 https://t.co/mMOlD0y7hE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975500696427581440",
+        "conversation_id": "2076191525856559607",
+        "created_at": "2026-07-12T06:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076191525856559607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076191525856559607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 28081,
+          "like_count": 535,
+          "quote_count": 2,
+          "reply_count": 203,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我一直希望美军今天就登陆中国，然后推翻中共。我希望中国共产党可以被彻底解散。如果我有生之年可以在中国遇到来消灭中共的美军，我会毫不犹豫地帮助他们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 1436,
+          "like_count": 10007,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3391
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "日本が大好きです\n中国共産党が大嫌いだ",
+        "id": "1975500696427581440",
+        "location": "China",
+        "name": "Tiny Reverie🇺🇸🇯🇵",
+        "pinned_tweet_id": "2048649828381626554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075140074082279424/_irIEz9p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12986,
+          "following_count": 2054,
+          "like_count": 25282,
+          "listed_count": 99,
+          "media_count": 1939,
+          "tweet_count": 5745
+        },
+        "url": "",
+        "username": "TReverie",
+        "verified": true
+      }
+    ]
+  }
+}

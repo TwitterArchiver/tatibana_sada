@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986111793039876451",
+    "created_at": "2025-11-05T16:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T17:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986115873854382409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818119930329608192",
+          "start": 0,
+          "username": "KarlRitt3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986115873854382409",
+    "in_reply_to_user_id": "1818119930329608192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986115075783204991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarlRitt3r 反对奶子是老中的文化传统，老祖宗的智慧🐰🐰🐰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986111793039876451",
+        "created_at": "2025-11-05T16:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986115873854382409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818119930329608192",
+              "start": 0,
+              "username": "KarlRitt3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986115873854382409",
+        "in_reply_to_user_id": "1818119930329608192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986115075783204991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarlRitt3r 反对奶子是老中的文化传统，老祖宗的智慧🐰🐰🐰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818119930329608192",
+        "conversation_id": "1986111793039876451",
+        "created_at": "2025-11-05T16:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986115075783204991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986115075783204991",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986111793039876451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 呃呃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 754,
+          "like_count": 4778,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1808
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T03:02:40.000Z",
+        "description": "得福不知今日享，神宗皇帝太平年",
+        "id": "1818119930329608192",
+        "name": "王佐Jünger",
+        "pinned_tweet_id": "1982235961787302287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981968920572465152/ZK8I-jX8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 62,
+          "like_count": 1026,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 2842
+        },
+        "username": "KarlRitt3r",
+        "verified": false
+      }
+    ]
+  }
+}

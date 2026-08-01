@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1981980361371599030",
+    "created_at": "2025-10-27T22:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T23:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982932994555060658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1059435390409498624",
+          "start": 0,
+          "username": "ifengxu"
+        },
+        {
+          "end": 16,
+          "id": "1917745219841449985",
+          "start": 9,
+          "username": "wd6xxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982932994555060658",
+    "in_reply_to_user_id": "1059435390409498624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982722741485851002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ifengxu @wd6xxj 器官朋友好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1981980361371599030",
+        "created_at": "2025-10-27T22:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T23:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982932994555060658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1059435390409498624",
+              "start": 0,
+              "username": "ifengxu"
+            },
+            {
+              "end": 16,
+              "id": "1917745219841449985",
+              "start": 9,
+              "username": "wd6xxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982932994555060658",
+        "in_reply_to_user_id": "1059435390409498624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982722741485851002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ifengxu @wd6xxj 器官朋友好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1059435390409498624",
+        "conversation_id": "1981980361371599030",
+        "created_at": "2025-10-27T08:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982722741485851002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1917745219841449985",
+              "start": 0,
+              "username": "wd6xxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982722741485851002",
+        "in_reply_to_user_id": "1917745219841449985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981980361371599030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wd6xxj 你还是好好的做个人吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 641,
+          "like_count": 3610,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1622
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-05T13:20:55.000Z",
+        "description": "我是一名IT工程师，很高兴认识大家",
+        "id": "1059435390409498624",
+        "location": "中国,江苏",
+        "name": "xxx-ideal-xxx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1264475650141765632/vzFrvQGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 200,
+          "like_count": 3751,
+          "listed_count": 6,
+          "media_count": 78,
+          "tweet_count": 6892
+        },
+        "username": "ifengxu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T00:57:56.000Z",
+        "description": "",
+        "id": "1917745219841449985",
+        "name": "非常快4号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917745534728806400/YLJiblBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3845,
+          "following_count": 329,
+          "like_count": 21708,
+          "listed_count": 23,
+          "media_count": 2308,
+          "tweet_count": 7300
+        },
+        "username": "wd6xxj",
+        "verified": false
+      }
+    ]
+  }
+}

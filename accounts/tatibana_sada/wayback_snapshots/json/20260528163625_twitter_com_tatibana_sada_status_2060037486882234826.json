@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059463210311565428",
+    "created_at": "2026-05-28T16:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060037486882234826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2049181136375398400",
+          "start": 0,
+          "username": "RussRespublican"
+        },
+        {
+          "end": 24,
+          "id": "1734893299801145344",
+          "start": 17,
+          "username": "_Kenir"
+        },
+        {
+          "end": 38,
+          "id": "1705181120000847872",
+          "start": 25,
+          "username": "KRKShRomanov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060037486882234826",
+    "in_reply_to_user_id": "2049181136375398400",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060037188838891854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RussRespublican @_Kenir @KRKShRomanov I don't know. I'm told that he just wants to make one to testify his knowledge about it"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059463210311565428",
+        "created_at": "2026-05-28T16:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060037486882234826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2049181136375398400",
+              "start": 0,
+              "username": "RussRespublican"
+            },
+            {
+              "end": 24,
+              "id": "1734893299801145344",
+              "start": 17,
+              "username": "_Kenir"
+            },
+            {
+              "end": 38,
+              "id": "1705181120000847872",
+              "start": 25,
+              "username": "KRKShRomanov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060037486882234826",
+        "in_reply_to_user_id": "2049181136375398400",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060037188838891854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RussRespublican @_Kenir @KRKShRomanov I don't know. I'm told that he just wants to make one to testify his knowledge about it"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049181136375398400",
+        "conversation_id": "2059463210311565428",
+        "created_at": "2026-05-28T16:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060037188838891854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 22,
+              "id": "1734893299801145344",
+              "start": 15,
+              "username": "_Kenir"
+            },
+            {
+              "end": 36,
+              "id": "1705181120000847872",
+              "start": 23,
+              "username": "KRKShRomanov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060037188838891854",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060032646324134097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @_Kenir @KRKShRomanov А бомба ему зачем?.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 1244,
+          "like_count": 8899,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3016
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T17:37:53.000Z",
+        "description": "",
+        "id": "2049181136375398400",
+        "name": "RussVolnobum🇷🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049183398871379969/bLwSQAcf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 64,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 461
+        },
+        "username": "RussRespublican",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T11:10:09.000Z",
+        "description": "🇰🇵+🇰🇷 economic alliance\n🇰🇷🇷🇺🇺🇲🫸🇨🇳🇵🇰🇮🇳🇮🇱🏳️‍⚧️🇪🇺\ni like progress: eco, SF tech, yuri\ni hate woke liberal: gay, commie, trans, drag queen",
+        "id": "1734893299801145344",
+        "location": "Neo Baekje Empire 2050",
+        "name": "Anti-nafo🇰🇷🇷🇺🇺🇲☯☧👑🐍",
+        "pinned_tweet_id": "2054879834770432373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041553021193367552/zA1pHFaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 1868,
+          "like_count": 6812,
+          "listed_count": 0,
+          "media_count": 494,
+          "tweet_count": 7783
+        },
+        "username": "_Kenir",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T11:25:14.000Z",
+        "description": "Urla l'anima nell'inverno della piana\n​Alza il passo e va: ti consacrerà l'Aurora\n​🇷🇺🇺🇦🇧🇾🇱🇹🇱🇻🇪🇪🇵🇱🇫🇮🇲🇩🇬🇪🇦🇲🇦🇿🇰🇿🇹🇯🇰🇬🇺🇿🇹🇲\n2/4PT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/KRKShRomanov",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/KRKShRomanov",
+                "start": 0,
+                "url": "https://t.co/tkntVXGnid"
+              }
+            ]
+          }
+        },
+        "id": "1705181120000847872",
+        "location": "Leningrad, USSR in N Field",
+        "name": "✝️🏳️キラРомановы綺晶🇷🇺☦️🦋🔫",
+        "pinned_tweet_id": "2009667948399710432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798760468158484480/fCtOLj4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 406,
+          "like_count": 57397,
+          "listed_count": 3,
+          "media_count": 785,
+          "tweet_count": 15986
+        },
+        "url": "https://t.co/tkntVXGnid",
+        "username": "KRKShRomanov",
+        "verified": false
+      }
+    ]
+  }
+}

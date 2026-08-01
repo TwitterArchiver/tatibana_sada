@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985846432939851778"
+      ],
+      "media_source_tweet_id": [
+        "1985846716483190840"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986066930328039697",
+    "created_at": "2025-11-05T13:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T14:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986066930328039697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1475292175894466560",
+          "start": 3,
+          "username": "NeferVRC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rbMrxaDtl4",
+          "end": 43,
+          "expanded_url": "https://x.com/NeferVRC/status/1985846716483190840/photo/1",
+          "media_key": "3_1985846432939851778",
+          "start": 20,
+          "url": "https://t.co/rbMrxaDtl4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986066930328039697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985846716483190840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NeferVRC: 生意気…… https://t.co/rbMrxaDtl4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_1985846432939851778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G48kzy3bQAI0NWc.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985846432939851778"
+          ],
+          "media_source_tweet_id": [
+            "1985846716483190840"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986066930328039697",
+        "created_at": "2025-11-05T13:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T14:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986066930328039697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1475292175894466560",
+              "start": 3,
+              "username": "NeferVRC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rbMrxaDtl4",
+              "end": 43,
+              "expanded_url": "https://x.com/NeferVRC/status/1985846716483190840/photo/1",
+              "media_key": "3_1985846432939851778",
+              "start": 20,
+              "url": "https://t.co/rbMrxaDtl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986066930328039697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985846716483190840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NeferVRC: 生意気…… https://t.co/rbMrxaDtl4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985846432939851778"
+          ]
+        },
+        "author_id": "1475292175894466560",
+        "conversation_id": "1985846716483190840",
+        "created_at": "2025-11-04T23:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T00:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985846716483190840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rbMrxaDtl4",
+              "end": 29,
+              "expanded_url": "https://x.com/NeferVRC/status/1985846716483190840/photo/1",
+              "media_key": "3_1985846432939851778",
+              "start": 6,
+              "url": "https://t.co/rbMrxaDtl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985846716483190840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2764,
+          "like_count": 222,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "生意気…… https://t.co/rbMrxaDtl4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 744,
+          "like_count": 4739,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1792
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-27T02:27:30.000Z",
+        "description": "ねふぇると読みます。少年アバター(特にSASIKIZU男性アバターや+Headアバター)が好きです。\nTwitterアイコン: おかゆちゃん @Akihoyuki_VRC\n ヘッダー&VRCアイコンイラスト: きりのはさん @_kirinoha_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Akihoyuki_VRC"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "_kirinoha_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_f8efa0c9-5d80-4ae1-9b98-63969300cdb9",
+                "start": 0,
+                "url": "https://t.co/N9xnDGoRw3"
+              }
+            ]
+          }
+        },
+        "id": "1475292175894466560",
+        "location": "𓋹𓍑𓋴",
+        "name": "Nefer",
+        "pinned_tweet_id": "1907355065243013494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500851187611889669/KxdoXYIv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 345,
+          "like_count": 5614,
+          "listed_count": 18,
+          "media_count": 1310,
+          "tweet_count": 8991
+        },
+        "url": "https://t.co/N9xnDGoRw3",
+        "username": "NeferVRC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192269799428096",
+          "name": "China politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192841529200640",
+          "name": "China political issues"
+        }
+      }
+    ],
+    "conversation_id": "2056720310163128743",
+    "created_at": "2026-05-19T12:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056720310163128743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "360815424",
+          "start": 3,
+          "username": "atwhatcostnews"
+        },
+        {
+          "end": 34,
+          "id": "1284037838066061313",
+          "start": 20,
+          "username": "angeloinchina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056720310163128743",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056606597623742872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atwhatcostnews: @angeloinchina Taiwan is not China! Angelo. Taiwan scholar found that Taiwanese has its source from EGYPT! I am not kid…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056720310163128743].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056720310163128743",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056720310163128743"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_2056606593152696320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqIzNOXwAAWfXA.jpg",
+        "width": 387
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056606593152696320"
+          ]
+        },
+        "author_id": "360815424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "2056595582714810371",
+        "created_at": "2026-05-19T05:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056606597623742872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1284037838066061313",
+              "start": 0,
+              "username": "angeloinchina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ib7G9DrBR7",
+              "end": 284,
+              "expanded_url": "https://x.com/atwhatcostnews/status/2056606597623742872/photo/1",
+              "media_key": "3_2056606593152696320",
+              "start": 261,
+              "url": "https://t.co/Ib7G9DrBR7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056606597623742872",
+        "in_reply_to_user_id": "1284037838066061313",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1573,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056595582714810371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angeloinchina Taiwan is not China! Angelo. Taiwan scholar found that Taiwanese has its source from EGYPT! I am not kidding. This is how bad that Taiwanese don’t want to be Chinese. 😂 They bypassed ancient China and entered a different dimension and time tree. https://t.co/Ib7G9DrBR7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 1138,
+          "like_count": 8076,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2649
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-23T20:16:14.000Z",
+        "description": "Research Fellow at Jeffery Ebstein Institute & Columnist at Main Street Journal \n🇸🇬🇺🇸",
+        "id": "360815424",
+        "location": "Princeton, NJ",
+        "name": "陶傑 Todd Johnson",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056112794852847616/bkz6UJ5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 1345,
+          "like_count": 8727,
+          "listed_count": 10,
+          "media_count": 2838,
+          "tweet_count": 8553
+        },
+        "username": "atwhatcostnews",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-17T08:11:07.000Z",
+        "description": "In China since 1995, geopolitical/financial analyst. https://t.co/VfUMtg39nL YT channel  https://t.co/OKvWu4H8s3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "substack.com/@angelogiuliano",
+                "end": 76,
+                "expanded_url": "https://substack.com/@angelogiuliano",
+                "start": 53,
+                "url": "https://t.co/VfUMtg39nL"
+              },
+              {
+                "display_url": "youtube.com/@angelogiulian…",
+                "end": 112,
+                "expanded_url": "https://www.youtube.com/@angelogiulianoz",
+                "start": 89,
+                "url": "https://t.co/OKvWu4H8s3"
+              }
+            ]
+          }
+        },
+        "id": "1284037838066061313",
+        "location": "Hong Kong",
+        "name": "Angelo Giuliano 🇨🇭🇮🇹",
+        "pinned_tweet_id": "1888419461436514605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1284038132720111616/KzYdhWcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290176,
+          "following_count": 4098,
+          "like_count": 24820,
+          "listed_count": 1551,
+          "media_count": 12340,
+          "tweet_count": 40059
+        },
+        "username": "angeloinchina",
+        "verified": true
+      }
+    ]
+  }
+}

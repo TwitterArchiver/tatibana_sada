@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991635959641960460",
+    "created_at": "2025-11-21T12:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T13:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991848602902368262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904810780467294208",
+          "start": 0,
+          "username": "yaozuzhinv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991848602902368262",
+    "in_reply_to_user_id": "1904810780467294208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991635959641960460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaozuzhinv 这个脸型是比较钝的。我觉得骨头不是主要问题，把肉减下来弧线能漂亮很多，并且这个原生的鼻子也不错，偏精致的，所以真的是潜力股。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991635955900686336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6O2WYlbIAAW72D.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991635959641960460",
+        "created_at": "2025-11-21T12:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T13:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991848602902368262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904810780467294208",
+              "start": 0,
+              "username": "yaozuzhinv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991848602902368262",
+        "in_reply_to_user_id": "1904810780467294208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991635959641960460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaozuzhinv 这个脸型是比较钝的。我觉得骨头不是主要问题，把肉减下来弧线能漂亮很多，并且这个原生的鼻子也不错，偏精致的，所以真的是潜力股。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991635955900686336"
+          ]
+        },
+        "author_id": "1904810780467294208",
+        "conversation_id": "1991635959641960460",
+        "created_at": "2025-11-20T22:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T23:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991635959641960460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HRX2ao35Nr",
+              "end": 25,
+              "expanded_url": "https://x.com/yaozuzhinv/status/1991635959641960460/photo/1",
+              "media_key": "3_1991635955900686336",
+              "start": 2,
+              "url": "https://t.co/HRX2ao35Nr"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1991635959641960460",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2048,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😔 https://t.co/HRX2ao35Nr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 888,
+          "like_count": 5825,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 2114
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T08:21:01.000Z",
+        "description": "11  14岁初三生 中抑重焦休学中 不是餐券 建政哥二次元宅男哥看片哥炒作狗请远离  此号无主",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pinterest.com",
+                "end": 23,
+                "expanded_url": "http://www.pinterest.com",
+                "start": 0,
+                "url": "https://t.co/M5lJiISvfc"
+              }
+            ]
+          }
+        },
+        "id": "1904810780467294208",
+        "location": "你落一滴泪  我灭一座城",
+        "name": "家养哈吉耀祖的生理女父亲",
+        "pinned_tweet_id": "1989689458182996061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991285366012424192/85zQiM3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 2593,
+          "like_count": 3844,
+          "listed_count": 3,
+          "media_count": 900,
+          "tweet_count": 7986
+        },
+        "url": "https://t.co/M5lJiISvfc",
+        "username": "yaozuzhinv",
+        "verified": false
+      }
+    ]
+  }
+}

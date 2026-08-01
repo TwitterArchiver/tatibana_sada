@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071992121733558272"
+      ],
+      "media_source_tweet_id": [
+        "2071994093018739179"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072330845583786490",
+    "created_at": "2026-07-01T14:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T15:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072330845583786490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "914028453174796293",
+          "start": 3,
+          "username": "Ajisai1207_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M8LYIoxRR0",
+          "end": 77,
+          "expanded_url": "https://x.com/Ajisai1207_/status/2071994093018739179/photo/1",
+          "media_key": "3_2071992121733558272",
+          "start": 54,
+          "url": "https://t.co/M8LYIoxRR0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072330845583786490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071994093018739179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ajisai1207_: 每次看到酷儿社群互相关爱的话语总觉得很暖心，有这样的同类谁还需要敌人呢。 https://t.co/M8LYIoxRR0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 218,
+        "media_key": "3_2071992121733558272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEx21lWMAAXfZ_.png",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071992121733558272"
+          ],
+          "media_source_tweet_id": [
+            "2071994093018739179"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072330845583786490",
+        "created_at": "2026-07-01T14:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072330845583786490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "914028453174796293",
+              "start": 3,
+              "username": "Ajisai1207_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8LYIoxRR0",
+              "end": 77,
+              "expanded_url": "https://x.com/Ajisai1207_/status/2071994093018739179/photo/1",
+              "media_key": "3_2071992121733558272",
+              "start": 54,
+              "url": "https://t.co/M8LYIoxRR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072330845583786490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071994093018739179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ajisai1207_: 每次看到酷儿社群互相关爱的话语总觉得很暖心，有这样的同类谁还需要敌人呢。 https://t.co/M8LYIoxRR0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071992121733558272"
+          ]
+        },
+        "author_id": "914028453174796293",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071994093018739179",
+        "created_at": "2026-06-30T16:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071994093018739179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8LYIoxRR0",
+              "end": 60,
+              "expanded_url": "https://x.com/Ajisai1207_/status/2071994093018739179/photo/1",
+              "media_key": "3_2071992121733558272",
+              "start": 37,
+              "url": "https://t.co/M8LYIoxRR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071994093018739179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3762,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "每次看到酷儿社群互相关爱的话语总觉得很暖心，有这样的同类谁还需要敌人呢。 https://t.co/M8LYIoxRR0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 1372,
+          "like_count": 9522,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3268
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 1031,
+          "like_count": 16832,
+          "listed_count": 14,
+          "media_count": 739,
+          "tweet_count": 7560
+        },
+        "url": "",
+        "username": "Ajisai1207_",
+        "verified": false
+      }
+    ]
+  }
+}

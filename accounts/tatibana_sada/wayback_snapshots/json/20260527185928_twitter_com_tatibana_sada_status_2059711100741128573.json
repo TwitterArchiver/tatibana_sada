@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059613843849105876",
+    "created_at": "2026-05-27T18:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059711100741128573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1008615379885670400",
+          "start": 0,
+          "username": "zhinarensml8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059711100741128573",
+    "in_reply_to_user_id": "1008615379885670400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059613843849105876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarensml8964 七生报国太少，懂支民有八个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059613843849105876",
+        "created_at": "2026-05-27T18:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059711100741128573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1008615379885670400",
+              "start": 0,
+              "username": "zhinarensml8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059711100741128573",
+        "in_reply_to_user_id": "1008615379885670400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059613843849105876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarensml8964 七生报国太少，懂支民有八个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1008615379885670400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "2059613843849105876",
+        "created_at": "2026-05-27T12:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059613843849105876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tanakaseiji15/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/tanakaseiji15/status/2059463251998744952",
+              "start": 47,
+              "url": "https://t.co/RqggPZ6p9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059613843849105876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1581,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059463251998744952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“为了大日本，我可以七生报国。”\n“既然这么爱日本，那就多交点税吧”\n“不行！我真有一头牛” https://t.co/RqggPZ6p9x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 1236,
+          "like_count": 8834,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2967
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-18T07:40:20.000Z",
+        "description": "新教旨支黑，只辱支不精日。不清真的猪肉爱好者\n一代目@zhinarencnm8964\n三代目@zhinarensb8964\n四代目@zhinarencs8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "zhinarencnm8964"
+              },
+              {
+                "end": 61,
+                "start": 46,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "1008615379885670400",
+        "location": "支那人民共和国",
+        "name": "萨麦尔之子✡️🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054311077811556352/SHVwh_ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 957,
+          "like_count": 38632,
+          "listed_count": 6,
+          "media_count": 650,
+          "tweet_count": 3365
+        },
+        "username": "zhinarensml8964",
+        "verified": false
+      }
+    ]
+  }
+}

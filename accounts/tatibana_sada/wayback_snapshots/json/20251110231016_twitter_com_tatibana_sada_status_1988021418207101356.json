@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987529746544992486",
+    "created_at": "2025-11-10T23:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T00:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988021418207101356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1562542885744316417",
+          "start": 0,
+          "username": "Calebkeyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988021418207101356",
+    "in_reply_to_user_id": "1562542885744316417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987529746544992486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Calebkeyi 学到vdv的空降技术了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987529746544992486",
+        "created_at": "2025-11-10T23:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T00:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988021418207101356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1562542885744316417",
+              "start": 0,
+              "username": "Calebkeyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988021418207101356",
+        "in_reply_to_user_id": "1562542885744316417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987529746544992486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Calebkeyi 学到vdv的空降技术了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562542885744316417",
+        "conversation_id": "1987529746544992486",
+        "created_at": "2025-11-09T14:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T15:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987529746544992486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nexta_tv/statu…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/nexta_tv/status/1987463679898517524",
+              "start": 130,
+              "url": "https://t.co/3IHqa0DOSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987529746544992486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 232312,
+          "like_count": 776,
+          "quote_count": 21,
+          "reply_count": 211,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987463679898517524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "俄罗斯学生霸凌致中国学生自杀\n\n20岁的张策文于10月下旬失踪，后被发现死于圣彼得堡一栋高层建筑下方。她的父亲一直在焦急地寻找她，并发布视频恳求帮助。\n\n据他所述，同学们因为她俄语不好而嘲笑和羞辱她。不堪忍受持续不断的欺凌，这位年轻女子最终结束了自己的生命。 https://t.co/3IHqa0DOSG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 797,
+          "like_count": 5044,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1869
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T20:50:39.000Z",
+        "description": "Chinese volunteer in Ukraine. 在乌克兰🇺🇦的中国志愿者 乌克兰慈善机构创始人founder:https://t.co/FPZi7MENGs 机构账户：https://t.co/e6UyDVwNuR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "loveukraine.in.ua",
+                "end": 84,
+                "expanded_url": "https://www.loveukraine.in.ua",
+                "start": 61,
+                "url": "https://t.co/FPZi7MENGs"
+              },
+              {
+                "display_url": "secure.wayforpay.com/donate/d202bc7…",
+                "end": 113,
+                "expanded_url": "https://secure.wayforpay.com/donate/d202bc7a1ccf5",
+                "start": 90,
+                "url": "https://t.co/e6UyDVwNuR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@calebkxywzan4…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@calebkxywzan4851?si=V2gESFdjwxvXJYIp",
+                "start": 0,
+                "url": "https://t.co/JQN5TIkQjB"
+              }
+            ]
+          }
+        },
+        "id": "1562542885744316417",
+        "location": "kherson ukraine",
+        "name": "柯义在乌克兰🇺🇦",
+        "pinned_tweet_id": "1909519238470983861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590950310297669637/krvVjzJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24120,
+          "following_count": 1345,
+          "like_count": 8473,
+          "listed_count": 84,
+          "media_count": 1525,
+          "tweet_count": 4320
+        },
+        "url": "https://t.co/JQN5TIkQjB",
+        "username": "Calebkeyi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2056092789864358075",
+    "created_at": "2026-05-17T19:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T20:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056092789864358075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944225210284314624",
+          "start": 3,
+          "username": "NMD_China"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056092789864358075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056054593621291338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NMD_China: 我说约炮机器人再来回复习近平就失去一个齐心有没有支持的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2056092789864358075",
+        "created_at": "2026-05-17T19:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056092789864358075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944225210284314624",
+              "start": 3,
+              "username": "NMD_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056092789864358075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056054593621291338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NMD_China: 我说约炮机器人再来回复习近平就失去一个齐心有没有支持的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944225210284314624",
+        "conversation_id": "2056054593621291338",
+        "created_at": "2026-05-17T16:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056054593621291338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056054593621291338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我说约炮机器人再来回复习近平就失去一个齐心有没有支持的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1125,
+          "like_count": 7892,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2591
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "一个因为穷困潦倒无法确诊的脑残患者\n旷世巨作——我的一张大字报：我的劣根性\n你说的对所以我们睡大觉吧\n逃生舱@tiegang114514\n**死男同出没注意**",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "tiegang114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu7DxP"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "鱼",
+        "pinned_tweet_id": "2020139501327192168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041026221488918528/MFIE1Xyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2756,
+          "following_count": 906,
+          "like_count": 161129,
+          "listed_count": 22,
+          "media_count": 1248,
+          "tweet_count": 4618
+        },
+        "url": "https://t.co/APOiQu7DxP",
+        "username": "NMD_China",
+        "verified": false
+      }
+    ]
+  }
+}

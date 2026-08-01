@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069265109420261376"
+      ],
+      "media_source_tweet_id": [
+        "2069265122036785533"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2069575856591401288",
+    "created_at": "2026-06-24T00:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T01:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069575856591401288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "833544146388291584",
+          "start": 3,
+          "username": "KEKEGO_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bLzuL533u9",
+          "end": 36,
+          "expanded_url": "https://x.com/KEKEGO_/status/2069265122036785533/photo/1",
+          "media_key": "3_2069265109420261376",
+          "start": 13,
+          "url": "https://t.co/bLzuL533u9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069575856591401288",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3847
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069265122036785533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KEKEGO_: https://t.co/bLzuL533u9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2770,
+        "media_key": "3_2069265109420261376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeBp1EawAA_QnA.jpg",
+        "width": 2563
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069265109420261376"
+          ],
+          "media_source_tweet_id": [
+            "2069265122036785533"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2069575856591401288",
+        "created_at": "2026-06-24T00:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069575856591401288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "833544146388291584",
+              "start": 3,
+              "username": "KEKEGO_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bLzuL533u9",
+              "end": 36,
+              "expanded_url": "https://x.com/KEKEGO_/status/2069265122036785533/photo/1",
+              "media_key": "3_2069265109420261376",
+              "start": 13,
+              "url": "https://t.co/bLzuL533u9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069575856591401288",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3847
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069265122036785533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KEKEGO_: https://t.co/bLzuL533u9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069265109420261376"
+          ]
+        },
+        "author_id": "833544146388291584",
+        "conversation_id": "2069265122036785533",
+        "created_at": "2026-06-23T03:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T04:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069265122036785533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bLzuL533u9",
+              "end": 23,
+              "expanded_url": "https://x.com/KEKEGO_/status/2069265122036785533/photo/1",
+              "media_key": "3_2069265109420261376",
+              "start": 0,
+              "url": "https://t.co/bLzuL533u9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069265122036785533",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2510,
+          "impression_count": 373433,
+          "like_count": 29540,
+          "quote_count": 56,
+          "reply_count": 72,
+          "retweet_count": 3847
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bLzuL533u9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1337,
+          "like_count": 9394,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3235
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-20T05:09:45.000Z",
+        "description": "虽然我们很不一样，但至少爱是一样的\nE-mail:1554177002@qq.com\n制品、交流QQ群：813608329\n柯柯狗KEKEGO，全平台同名。",
+        "id": "833544146388291584",
+        "location": "People's Republic of China",
+        "name": "柯柯狗KEKEGO",
+        "pinned_tweet_id": "1937463936947044667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067091302756614144/8tev3Cm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7982,
+          "following_count": 322,
+          "like_count": 311,
+          "listed_count": 40,
+          "media_count": 261,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "KEKEGO_",
+        "verified": false
+      }
+    ]
+  }
+}

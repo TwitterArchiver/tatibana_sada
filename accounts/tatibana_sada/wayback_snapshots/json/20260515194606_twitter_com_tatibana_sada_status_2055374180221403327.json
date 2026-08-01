@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2055357608270385535",
+    "created_at": "2026-05-15T19:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T20:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055374180221403327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1458897076696526848",
+          "start": 0,
+          "username": "Lucky424313"
+        },
+        {
+          "end": 23,
+          "id": "1663701168839872512",
+          "start": 13,
+          "username": "MAGAVoice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055374180221403327",
+    "in_reply_to_user_id": "1458897076696526848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055358584784122329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucky424313 @MAGAVoice 还是韩国人最孝顺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2055358579792822273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYZvRKaQAEW6i4.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2055357608270385535",
+        "created_at": "2026-05-15T19:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055374180221403327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1458897076696526848",
+              "start": 0,
+              "username": "Lucky424313"
+            },
+            {
+              "end": 23,
+              "id": "1663701168839872512",
+              "start": 13,
+              "username": "MAGAVoice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055374180221403327",
+        "in_reply_to_user_id": "1458897076696526848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055358584784122329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucky424313 @MAGAVoice 还是韩国人最孝顺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055358579792822273"
+          ]
+        },
+        "author_id": "1458897076696526848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2055357608270385535",
+        "created_at": "2026-05-15T18:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055358584784122329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1663701168839872512",
+              "start": 0,
+              "username": "MAGAVoice"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0twinHpXi",
+              "end": 123,
+              "expanded_url": "https://x.com/Lucky424313/status/2055358584784122329/photo/1",
+              "media_key": "3_2055358579792822273",
+              "start": 100,
+              "url": "https://t.co/K0twinHpXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055358584784122329",
+        "in_reply_to_user_id": "1663701168839872512",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055357608270385535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MAGAVoice 결국은 미국이 승리했고 트럼프 대통령이 승리했다\n트럼프 대통령은 시진핑보다 한수 위였고\n다 꿰뚫어보며 리드해나갔다\n역시 성공한 사업가출신의 훌륭한 미국 대통령 https://t.co/K0twinHpXi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1081,
+          "like_count": 7739,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2550
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-11T20:39:41.000Z",
+        "description": "Yoon Again & MKGA & MAGA\nAntiCommunism\n전 세계 우파님들과 소통하고 싶습니다🇰🇷🇺🇸🇯🇵\n정치•경제•안보•코인\n#자유대한민국\n제 모든 글은 하이라이트에 저장 됩니다!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "자유대한민국"
+              }
+            ]
+          }
+        },
+        "id": "1458897076696526848",
+        "name": "행운🇰🇷🇺🇸🇯🇵🇮🇱",
+        "pinned_tweet_id": "2040729700897829199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029995997708046337/p2k88cNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 1421,
+          "like_count": 8361,
+          "listed_count": 2,
+          "media_count": 954,
+          "tweet_count": 9653
+        },
+        "username": "Lucky424313",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-31T00:17:33.000Z",
+        "description": "Want to take back OUR country? JOIN ME 🇺🇸 Donald Trump won🥇Proud Patriot. Pro Elon Musk",
+        "id": "1663701168839872512",
+        "location": "TURN ON NOTIFICATIONS 🔔",
+        "name": "MAGA Voice",
+        "pinned_tweet_id": "2048234351230656613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866679989141377027/aex88zyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476663,
+          "following_count": 522,
+          "like_count": 221219,
+          "listed_count": 3083,
+          "media_count": 24338,
+          "tweet_count": 133526
+        },
+        "username": "MAGAVoice",
+        "verified": true
+      }
+    ]
+  }
+}

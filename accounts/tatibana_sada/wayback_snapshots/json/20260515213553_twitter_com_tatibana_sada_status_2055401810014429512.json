@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2055168249147662695",
+    "created_at": "2026-05-15T21:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T22:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055401810014429512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976910283999510528",
+          "start": 0,
+          "username": "Yukiha8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055401810014429512",
+    "in_reply_to_user_id": "1976910283999510528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055168249147662695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukiha8964 但是他那一张说手软不得的照片挺美的🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2055168249147662695",
+        "created_at": "2026-05-15T21:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T22:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055401810014429512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976910283999510528",
+              "start": 0,
+              "username": "Yukiha8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055401810014429512",
+        "in_reply_to_user_id": "1976910283999510528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055168249147662695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukiha8964 但是他那一张说手软不得的照片挺美的🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976910283999510528",
+        "conversation_id": "2055168249147662695",
+        "created_at": "2026-05-15T06:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055168249147662695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055168249147662695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "期待邓小平有人性是否有点要求过高了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1085,
+          "like_count": 7749,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2555
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T07:18:55.000Z",
+        "description": "邓小平最想碾死的账号。里，只想自嗨键政割勿扰 \n🥰支那人の共産主義者と犬は立ち入り禁止",
+        "id": "1976910283999510528",
+        "location": "北京东城区 富强胡同6号",
+        "name": "柚木 葉8964🇯🇵",
+        "pinned_tweet_id": "2042500265811853639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028694643874074624/ZAsDd1ZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 200,
+          "like_count": 1639,
+          "listed_count": 0,
+          "media_count": 2102,
+          "tweet_count": 7986
+        },
+        "username": "Yukiha8964",
+        "verified": false
+      }
+    ]
+  }
+}

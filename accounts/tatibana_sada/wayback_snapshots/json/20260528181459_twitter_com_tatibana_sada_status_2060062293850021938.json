@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      }
+    ],
+    "conversation_id": "2059479655321846238",
+    "created_at": "2026-05-28T18:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060062293850021938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1734893299801145344",
+          "start": 0,
+          "username": "_Kenir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060062293850021938",
+    "in_reply_to_user_id": "1734893299801145344",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059479655321846238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Kenir So I'm a good Chinese (\nBy the way, Maoist in China means almost every position……pro trans or anti it(a trans MAOIST girl i met in Chongqing when i was participate in the Linguistics Olympia final in china), pro the revival or anti the Chinese IMPERIALISM……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059479652675293185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJS91R_bEAEFqmK.jpg",
+        "width": 952
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059479653199560704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJS91T8awAAbaDg.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "2059479655321846238",
+        "created_at": "2026-05-28T18:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060062293850021938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1734893299801145344",
+              "start": 0,
+              "username": "_Kenir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060062293850021938",
+        "in_reply_to_user_id": "1734893299801145344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059479655321846238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Kenir So I'm a good Chinese (\nBy the way, Maoist in China means almost every position……pro trans or anti it(a trans MAOIST girl i met in Chongqing when i was participate in the Linguistics Olympia final in china), pro the revival or anti the Chinese IMPERIALISM……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059479652675293185",
+            "3_2059479653199560704"
+          ]
+        },
+        "author_id": "1734893299801145344",
+        "conversation_id": "2059479655321846238",
+        "created_at": "2026-05-27T03:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059479655321846238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LPSIyMrR90",
+              "end": 199,
+              "expanded_url": "https://x.com/_Kenir/status/2059479655321846238/photo/1",
+              "media_key": "3_2059479652675293185",
+              "start": 176,
+              "url": "https://t.co/LPSIyMrR90"
+            },
+            {
+              "display_url": "pic.x.com/LPSIyMrR90",
+              "end": 199,
+              "expanded_url": "https://x.com/_Kenir/status/2059479655321846238/photo/1",
+              "media_key": "3_2059479653199560704",
+              "start": 176,
+              "url": "https://t.co/LPSIyMrR90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059479655321846238",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Dear followers, look at this. There are many anti-Russian people even among Chinese Maoists. Beware! They mainly upload shitty flags like 🇨🇳🇪🇺🇺🇦🇵🇸🏳️‍🌈🏳️‍⚧️🚩 to their profiles. https://t.co/LPSIyMrR90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 1246,
+          "like_count": 8913,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3019
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T11:10:09.000Z",
+        "description": "🇰🇵+🇰🇷 economic alliance\n🇰🇷🇷🇺🇺🇲🫸🇨🇳🇵🇰🇮🇳🇮🇱🏳️‍⚧️🇪🇺\ni like progress: eco, SF tech, yuri\ni hate woke liberal: gay, commie, trans, drag queen",
+        "id": "1734893299801145344",
+        "location": "Neo Baekje Empire 2050",
+        "name": "Anti-nafo🇰🇷🇷🇺🇺🇲☯☧👑🐍",
+        "pinned_tweet_id": "2054879834770432373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041553021193367552/zA1pHFaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 1868,
+          "like_count": 6818,
+          "listed_count": 0,
+          "media_count": 495,
+          "tweet_count": 7794
+        },
+        "username": "_Kenir",
+        "verified": false
+      }
+    ]
+  }
+}

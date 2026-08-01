@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2055357087308251501",
+    "created_at": "2026-05-15T19:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T20:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055367987700568397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "151930383",
+          "start": 0,
+          "username": "GordonGChang"
+        },
+        {
+          "end": 19,
+          "id": "120295432",
+          "start": 14,
+          "username": "CPAC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055367987700568397",
+    "in_reply_to_user_id": "151930383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055357087308251501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GordonGChang @CPAC 章同志，中国还需要几年才能崩溃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2055357087308251501",
+        "created_at": "2026-05-15T19:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055367987700568397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "151930383",
+              "start": 0,
+              "username": "GordonGChang"
+            },
+            {
+              "end": 19,
+              "id": "120295432",
+              "start": 14,
+              "username": "CPAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055367987700568397",
+        "in_reply_to_user_id": "151930383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055357087308251501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GordonGChang @CPAC 章同志，中国还需要几年才能崩溃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "151930383",
+        "conversation_id": "2055357087308251501",
+        "created_at": "2026-05-15T18:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055357087308251501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "120295432",
+              "start": 35,
+              "username": "CPAC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cpac/status/20…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/cpac/status/2055340055959396493",
+              "start": 41,
+              "url": "https://t.co/nfFeBQzPSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055357087308251501",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2051,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055340055959396493",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "America is No. 1—by a wide margin. @CPAC https://t.co/nfFeBQzPSA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1081,
+          "like_count": 7738,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2547
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-04T16:23:14.000Z",
+        "description": "Author of Plan Red: China’s Project to Destroy America, The Coming Collapse of China, and China Is Going To War.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gordonchang.com",
+                "end": 23,
+                "expanded_url": "http://www.gordonchang.com",
+                "start": 0,
+                "url": "https://t.co/NoOEsA7THp"
+              }
+            ]
+          }
+        },
+        "id": "151930383",
+        "name": "Gordon G. Chang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1183859425905430529/zJMuSq9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437584,
+          "following_count": 927,
+          "like_count": 14,
+          "listed_count": 2278,
+          "media_count": 432,
+          "tweet_count": 45557
+        },
+        "url": "https://t.co/NoOEsA7THp",
+        "username": "GordonGChang",
+        "verified": true
+      },
+      {
+        "created_at": "2010-03-06T01:28:33.000Z",
+        "description": "The latest in the CPAC Freedom First Movement 🇺🇸 Home to the most influential gatherings of FREEDOM FIGHTERS in the world 🌎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "CPAC.org",
+                "end": 23,
+                "expanded_url": "http://CPAC.org",
+                "start": 0,
+                "url": "https://t.co/1l1gi5duEq"
+              }
+            ]
+          }
+        },
+        "id": "120295432",
+        "location": "Where Globalism Goes to Die",
+        "name": "CPAC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262269,
+          "following_count": 5018,
+          "like_count": 13287,
+          "listed_count": 1687,
+          "media_count": 15118,
+          "tweet_count": 57223
+        },
+        "url": "https://t.co/1l1gi5duEq",
+        "username": "CPAC",
+        "verified": true
+      }
+    ]
+  }
+}

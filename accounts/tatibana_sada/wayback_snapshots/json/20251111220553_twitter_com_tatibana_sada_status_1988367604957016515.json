@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988367604957016515",
+    "created_at": "2025-11-11T22:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T23:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988367604957016515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Forkjae/status…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/Forkjae/status/1988117340249354486",
+          "start": 130,
+          "url": "https://t.co/iiDAm1slFm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988367604957016515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988117340249354486",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是唯一具有代表性的言论，「女性问题」（是的，是那个林家人翻译的德意志问题的仿写）的最高表现。我一直是乐见于这种话更加明确的表露出来的。\n现行的识别技术的outdated，这样子一看更是无以复加了。不可能简单平移依靠荣誉和责任的拴男技术。\n可能未来是教团化。 https://t.co/iiDAm1slFm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988367604957016515",
+        "created_at": "2025-11-11T22:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T23:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988367604957016515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Forkjae/status…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/Forkjae/status/1988117340249354486",
+              "start": 130,
+              "url": "https://t.co/iiDAm1slFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988367604957016515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988117340249354486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是唯一具有代表性的言论，「女性问题」（是的，是那个林家人翻译的德意志问题的仿写）的最高表现。我一直是乐见于这种话更加明确的表露出来的。\n现行的识别技术的outdated，这样子一看更是无以复加了。不可能简单平移依靠荣誉和责任的拴男技术。\n可能未来是教团化。 https://t.co/iiDAm1slFm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901387423747325952",
+        "conversation_id": "1988117340249354486",
+        "created_at": "2025-11-11T05:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988117340249354486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988117340249354486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8931,
+          "like_count": 260,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "少对女人指手画脚，女人不欠这个世界美的义务，不欠这个世界守贞的义务，不欠这个世界真善美的义务，不欠这个世界任何好的性格特质的义务"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 805,
+          "like_count": 5123,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1894
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T21:38:41.000Z",
+        "description": "像第一次我见你城市中有警报",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kparad1se",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kparad1se",
+                "start": 0,
+                "url": "https://t.co/cZYfBHx9Za"
+              }
+            ]
+          }
+        },
+        "id": "1901387423747325952",
+        "name": "你的牙也软绵绵",
+        "pinned_tweet_id": "1985416030093787499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987460413198618624/ZVg3lYPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 45,
+          "like_count": 8599,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 2116
+        },
+        "url": "https://t.co/cZYfBHx9Za",
+        "username": "Forkjae",
+        "verified": false
+      }
+    ]
+  }
+}

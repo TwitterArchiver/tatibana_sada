@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057019746034610327",
+    "created_at": "2026-05-20T12:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057070561621360680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1559270042105249792",
+          "start": 0,
+          "username": "twtw252525"
+        },
+        {
+          "end": 23,
+          "id": "1746470058761887744",
+          "start": 12,
+          "username": "qingyue820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057070561621360680",
+    "in_reply_to_user_id": "1559270042105249792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057049969564303743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twtw252525 @qingyue820 江青是真的在公开场合说过共产主义就是女人当家的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057019746034610327",
+        "created_at": "2026-05-20T12:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057070561621360680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1559270042105249792",
+              "start": 0,
+              "username": "twtw252525"
+            },
+            {
+              "end": 23,
+              "id": "1746470058761887744",
+              "start": 12,
+              "username": "qingyue820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057070561621360680",
+        "in_reply_to_user_id": "1559270042105249792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057049969564303743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twtw252525 @qingyue820 江青是真的在公开场合说过共产主义就是女人当家的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559270042105249792",
+        "conversation_id": "2057019746034610327",
+        "created_at": "2026-05-20T10:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057049969564303743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1746470058761887744",
+              "start": 0,
+              "username": "qingyue820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057049969564303743",
+        "in_reply_to_user_id": "1746470058761887744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 504,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057019746034610327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingyue820 年轻人就是思想活跃，女权竟然和江青联系起来，江青和毛刚在一起的时候这个现在的普通女人一样，在权力悬殊那么大的年代，她对权利能有啥想法，那时候是乖乖女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 1148,
+          "like_count": 8187,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2673
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T20:05:32.000Z",
+        "description": "党国一点希望都没有，不让建政就不建政，谁也改变不了它衰败的命运，远远的看戏就好。",
+        "id": "1559270042105249792",
+        "name": "继续躺平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846902189018828802/l6s-Wc-Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 491,
+          "like_count": 7429,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 12546
+        },
+        "username": "twtw252525",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:51:44.000Z",
+        "description": "AI/资讯/投研/币圈一站式教学/\n币安链接https://t.co/xAQ4lkbJZH🎉\n币安邀请码qingyue\n直播通知/观点交流/私人微信/投研社群获取方式请进https://t.co/UeAXCqNvad",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "maxweb.chat/join?ref=QINGY…",
+                "end": 45,
+                "expanded_url": "https://www.maxweb.chat/join?ref=QINGYUE",
+                "start": 22,
+                "url": "https://t.co/xAQ4lkbJZH"
+              },
+              {
+                "display_url": "t.me/+RN-t7Qw6hB42N…",
+                "end": 108,
+                "expanded_url": "https://t.me/+RN-t7Qw6hB42Njll",
+                "start": 85,
+                "url": "https://t.co/UeAXCqNvad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@qingyuex",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@qingyuex",
+                "start": 0,
+                "url": "https://t.co/b8jhPrIfuH"
+              }
+            ]
+          }
+        },
+        "id": "1746470058761887744",
+        "location": "YouTube正在更新",
+        "name": "清月已经不困了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872408779700264961/olmDhjmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41782,
+          "following_count": 79,
+          "like_count": 51,
+          "listed_count": 144,
+          "media_count": 201,
+          "tweet_count": 1287
+        },
+        "url": "https://t.co/b8jhPrIfuH",
+        "username": "qingyue820",
+        "verified": true
+      }
+    ]
+  }
+}

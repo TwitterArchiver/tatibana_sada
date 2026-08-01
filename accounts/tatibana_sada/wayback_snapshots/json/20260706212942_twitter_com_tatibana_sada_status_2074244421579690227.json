@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2074244421579690227",
+    "created_at": "2026-07-06T21:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T22:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074244421579690227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Black_Soraru/s…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/Black_Soraru/status/2074008485139026006",
+          "start": 72,
+          "url": "https://t.co/fqr1dXeBUu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074244421579690227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074008485139026006",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在有一个十全十美的文案来论证闹钟只是例行射导弹，一点没有什么胆子来挑战伟大的台湾日本美国，只差台湾或者日本来雇佣我来论证闹钟为什么又输了。 https://t.co/fqr1dXeBUu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074008476544843776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhbuImawAAdFsD.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2074244421579690227",
+        "created_at": "2026-07-06T21:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T22:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074244421579690227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Black_Soraru/s…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/Black_Soraru/status/2074008485139026006",
+              "start": 72,
+              "url": "https://t.co/fqr1dXeBUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074244421579690227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074008485139026006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在有一个十全十美的文案来论证闹钟只是例行射导弹，一点没有什么胆子来挑战伟大的台湾日本美国，只差台湾或者日本来雇佣我来论证闹钟为什么又输了。 https://t.co/fqr1dXeBUu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074008476544843776"
+          ]
+        },
+        "author_id": "3757886960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "description",
+              "id": "1978712361704841216",
+              "name": "test_1016"
+            }
+          }
+        ],
+        "conversation_id": "2074008485139026006",
+        "created_at": "2026-07-06T05:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074008485139026006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Qx04Dufhz",
+              "end": 38,
+              "expanded_url": "https://x.com/Black_Soraru/status/2074008485139026006/photo/1",
+              "media_key": "3_2074008476544843776",
+              "start": 15,
+              "url": "https://t.co/1Qx04Dufhz"
+            },
+            {
+              "display_url": "x.com/Kantei_Saigai/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Kantei_Saigai/status/2073994126362906930",
+              "start": 39,
+              "url": "https://t.co/xtgFet2xpv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074008485139026006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4188,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073994126362906930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "例行打一发巨浪给你们闹麻了😁 https://t.co/1Qx04Dufhz https://t.co/xtgFet2xpv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 1400,
+          "like_count": 9733,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3320
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-02T10:17:19.000Z",
+        "description": "https://t.co/WjxSLJerkm /非市民阶级的市民阶级/从自发走向自觉",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "black-soraru.bsky.social",
+                "end": 23,
+                "expanded_url": "http://black-soraru.bsky.social",
+                "start": 0,
+                "url": "https://t.co/WjxSLJerkm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/lenin/…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/lenin/192004/index.htm",
+                "start": 0,
+                "url": "https://t.co/r0spqwewyl"
+              }
+            ]
+          }
+        },
+        "id": "3757886960",
+        "location": "市民社会",
+        "name": "四季",
+        "pinned_tweet_id": "1991479610928996380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600131977113260033/v3ihp_Jt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 697,
+          "like_count": 66205,
+          "listed_count": 6,
+          "media_count": 1919,
+          "tweet_count": 19153
+        },
+        "url": "https://t.co/r0spqwewyl",
+        "username": "Black_Soraru",
+        "verified": false
+      }
+    ]
+  }
+}

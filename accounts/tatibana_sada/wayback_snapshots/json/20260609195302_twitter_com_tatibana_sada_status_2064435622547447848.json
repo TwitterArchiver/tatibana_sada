@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2064373955281187067",
+    "created_at": "2026-06-09T19:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T20:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064435622547447848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1554692587151593472",
+          "start": 0,
+          "username": "kukukumik0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064435622547447848",
+    "in_reply_to_user_id": "1554692587151593472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064373955281187067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukukumik0 把你小学推我，我现在投胎还来得及吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064373955281187067",
+        "created_at": "2026-06-09T19:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064435622547447848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554692587151593472",
+              "start": 0,
+              "username": "kukukumik0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064435622547447848",
+        "in_reply_to_user_id": "1554692587151593472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064373955281187067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukukumik0 把你小学推我，我现在投胎还来得及吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554692587151593472",
+        "conversation_id": "2064373955281187067",
+        "created_at": "2026-06-09T15:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064373955281187067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064373955281187067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 702,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉性同意年龄上调除了影响未成年性别研究博士的就业问题，别的基本上没影响\n性同意年龄跟强奸没什么关系，更多的是防止诱奸，我上小学的时候就已经有同学在无套做爱了，更别提现在的小孩多精了，十三四岁收门槛崩老头钓龟男的大有人在，这两天还老刷到织女虚空索敌恋童癖，合着十五六岁也成幼女了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1302,
+          "like_count": 9231,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3194
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T04:56:22.000Z",
+        "description": "",
+        "id": "1554692587151593472",
+        "location": "京都 北宇治",
+        "name": "宝宝在说什么小猪话呀！",
+        "pinned_tweet_id": "2015122127389950277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009230113897107457/u-PvlGQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 1529,
+          "like_count": 55278,
+          "listed_count": 12,
+          "media_count": 542,
+          "tweet_count": 19157
+        },
+        "username": "kukukumik0",
+        "verified": false
+      }
+    ]
+  }
+}

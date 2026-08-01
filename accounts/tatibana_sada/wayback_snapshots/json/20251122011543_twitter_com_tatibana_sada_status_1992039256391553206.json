@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1992039256391553206",
+    "created_at": "2025-11-22T01:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T02:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992039256391553206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1959096880039886848",
+          "start": 3,
+          "username": "pany77095"
+        },
+        {
+          "end": 25,
+          "id": "1975500696427581440",
+          "start": 15,
+          "username": "TReverie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992039256391553206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990325747177898412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pany77095: @TReverie_ X粉蛆基本操作：\n1.看看逼\n2.同城的有没有\n3.操死你\n4.草泥马狗汉奸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992039256391553206",
+        "created_at": "2025-11-22T01:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T02:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992039256391553206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1959096880039886848",
+              "start": 3,
+              "username": "pany77095"
+            },
+            {
+              "end": 25,
+              "id": "1975500696427581440",
+              "start": 15,
+              "username": "TReverie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992039256391553206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990325747177898412",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pany77095: @TReverie_ X粉蛆基本操作：\n1.看看逼\n2.同城的有没有\n3.操死你\n4.草泥马狗汉奸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959096880039886848",
+        "conversation_id": "1990297666321084763",
+        "created_at": "2025-11-17T07:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T08:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990325747177898412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975500696427581440",
+              "start": 0,
+              "username": "TReverie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990325747177898412",
+        "in_reply_to_user_id": "1975500696427581440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2014,
+          "like_count": 124,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990297666321084763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TReverie_ X粉蛆基本操作：\n1.看看逼\n2.同城的有没有\n3.操死你\n4.草泥马狗汉奸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 897,
+          "like_count": 5914,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 2142
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T03:34:46.000Z",
+        "description": "错误全在美方，责任全在美方，资产全在美方，子女全在美方",
+        "id": "1959096880039886848",
+        "location": "阿富汗",
+        "name": "习近平今天5️⃣了吗",
+        "pinned_tweet_id": "1991869130421440557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959097119559524353/3NBQ24Ch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 135,
+          "like_count": 9183,
+          "listed_count": 12,
+          "media_count": 1298,
+          "tweet_count": 4855
+        },
+        "username": "pany77095",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "包蜜😋 | 情绪超级不稳，喜欢三天两头切换状态 | 反共的我看到一个fo一个 | Blue Archive | 反支性，支持脱支 | Stand up for yourself",
+        "id": "1975500696427581440",
+        "location": "London, England",
+        "name": "Tiny Reverie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987433052960923712/V6mQbiI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 504,
+          "like_count": 6720,
+          "listed_count": 6,
+          "media_count": 472,
+          "tweet_count": 2136
+        },
+        "username": "TReverie_",
+        "verified": true
+      }
+    ]
+  }
+}

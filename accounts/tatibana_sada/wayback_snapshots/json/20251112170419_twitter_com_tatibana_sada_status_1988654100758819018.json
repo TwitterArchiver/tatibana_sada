@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988653011695186072",
+    "created_at": "2025-11-12T17:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T18:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988654100758819018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988654100758819018",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988653011695186072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoynqi3 你不了解就不要瞎钦点了，红丸圈里顺直男反而是保护动物，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988653011695186072",
+        "created_at": "2025-11-12T17:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T18:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988654100758819018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988654100758819018",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988653011695186072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoynqi3 你不了解就不要瞎钦点了，红丸圈里顺直男反而是保护动物，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "1988653011695186072",
+        "created_at": "2025-11-12T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988653011695186072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988653011695186072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操啊真的好好笑，怎么顺直男也喜欢上同性恋这个时尚单品了，他们不是最容不下自己的阳刚被“玷污”吗。他们不是要一生守护自己的屁眼，即使无人问津吗。\n为了打拳也是拼了。\n我就问一句，哪个神人男同是红丸理论的拥护者。\n红丸和同性恋，这种组合真的是太猎奇了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 830,
+          "like_count": 5325,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1944
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "1976511377679487385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672979337656631298/mQbOFn-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3360,
+          "following_count": 180,
+          "like_count": 24844,
+          "listed_count": 16,
+          "media_count": 237,
+          "tweet_count": 5980
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

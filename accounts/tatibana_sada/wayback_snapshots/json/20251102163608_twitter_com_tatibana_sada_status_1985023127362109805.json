@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985023120261160960"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985023127362109805",
+    "created_at": "2025-11-02T16:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T17:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985023127362109805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y84imjzbf9",
+          "end": 33,
+          "expanded_url": "https://x.com/tatibana_sada/status/1985023127362109805/photo/1",
+          "media_key": "3_1985023120261160960",
+          "start": 10,
+          "url": "https://t.co/Y84imjzbf9"
+        },
+        {
+          "display_url": "x.com/Fiiiissssshhhh…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/Fiiiissssshhhhh/status/1984304818660553070",
+          "start": 34,
+          "url": "https://t.co/632s0hRDWg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985023127362109805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984304818660553070",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁懂我老人家的权瘾 https://t.co/Y84imjzbf9 https://t.co/632s0hRDWg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985023120261160960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4w4AsIaoAAFjAO.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984304801187041280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mqtBDbEAA3IK0.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985023120261160960"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985023127362109805",
+        "created_at": "2025-11-02T16:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T17:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985023127362109805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y84imjzbf9",
+              "end": 33,
+              "expanded_url": "https://x.com/tatibana_sada/status/1985023127362109805/photo/1",
+              "media_key": "3_1985023120261160960",
+              "start": 10,
+              "url": "https://t.co/Y84imjzbf9"
+            },
+            {
+              "display_url": "x.com/Fiiiissssshhhh…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Fiiiissssshhhhh/status/1984304818660553070",
+              "start": 34,
+              "url": "https://t.co/632s0hRDWg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985023127362109805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984304818660553070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁懂我老人家的权瘾 https://t.co/Y84imjzbf9 https://t.co/632s0hRDWg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984304801187041280"
+          ]
+        },
+        "author_id": "3265760526",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984304818660553070",
+        "created_at": "2025-10-31T17:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T18:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984304818660553070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtrQn0aeKf",
+              "end": 58,
+              "expanded_url": "https://x.com/Fiiiissssshhhhh/status/1984304818660553070/photo/1",
+              "media_key": "3_1984304801187041280",
+              "start": 35,
+              "url": "https://t.co/TtrQn0aeKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984304818660553070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8627,
+          "like_count": 23,
+          "quote_count": 20,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一个小测试，链接放下面\n我好像只有活一天是一天，明天地球就爆炸的死感 https://t.co/TtrQn0aeKf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 699,
+          "like_count": 4092,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1663
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-02T07:00:46.000Z",
+        "description": "一条死鱼/会一点音乐/纯正恋爱脑/INTP /@LinOREJ💗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "LinOREJ"
+              }
+            ]
+          }
+        },
+        "id": "3265760526",
+        "name": "🐟",
+        "pinned_tweet_id": "1790196571734511690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702652402439262208/ur4CmDvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6452,
+          "following_count": 508,
+          "like_count": 10025,
+          "listed_count": 10,
+          "media_count": 700,
+          "tweet_count": 6972
+        },
+        "username": "Fiiiissssshhhhh",
+        "verified": false
+      }
+    ]
+  }
+}

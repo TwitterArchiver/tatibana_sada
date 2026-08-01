@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1989332107840434579",
+    "created_at": "2025-11-14T13:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T14:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989332107840434579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1989279644512661889",
+          "start": 11,
+          "url": "https://t.co/zebjF5b3ih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989332107840434579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989279644512661889",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开弓战服怎么不叫我？ https://t.co/zebjF5b3ih"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 716,
+        "media_key": "3_1989257539956178944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tDMWvbAAA9JS-.jpg",
+        "width": 956
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1989257607018938368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tDQQkbgAAr465.jpg",
+        "width": 647
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1989257654460727296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tDTBTbwAA35vm.jpg",
+        "width": 689
+      },
+      {
+        "height": 747,
+        "media_key": "3_1989258331018665984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tD6ZraoAAZC5o.png",
+        "width": 411
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1989332107840434579",
+        "created_at": "2025-11-14T13:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T14:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989332107840434579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1989279644512661889",
+              "start": 11,
+              "url": "https://t.co/zebjF5b3ih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989332107840434579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989279644512661889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开弓战服怎么不叫我？ https://t.co/zebjF5b3ih"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989257539956178944",
+            "3_1989257607018938368",
+            "3_1989257654460727296",
+            "3_1989258331018665984"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989279644512661889",
+        "created_at": "2025-11-14T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989279644512661889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ieSVPowlZM",
+              "end": 139,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1989279644512661889/photo/1",
+              "media_key": "3_1989257539956178944",
+              "start": 116,
+              "url": "https://t.co/ieSVPowlZM"
+            },
+            {
+              "display_url": "pic.x.com/ieSVPowlZM",
+              "end": 139,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1989279644512661889/photo/1",
+              "media_key": "3_1989257607018938368",
+              "start": 116,
+              "url": "https://t.co/ieSVPowlZM"
+            },
+            {
+              "display_url": "pic.x.com/ieSVPowlZM",
+              "end": 139,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1989279644512661889/photo/1",
+              "media_key": "3_1989257654460727296",
+              "start": 116,
+              "url": "https://t.co/ieSVPowlZM"
+            },
+            {
+              "display_url": "pic.x.com/ieSVPowlZM",
+              "end": 139,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1989279644512661889/photo/1",
+              "media_key": "3_1989258331018665984",
+              "start": 116,
+              "url": "https://t.co/ieSVPowlZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989279644512661889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 66001,
+          "like_count": 462,
+          "quote_count": 5,
+          "reply_count": 67,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "11月12日， 广东省佛山市三水中学，学校在举办校运会时突发意外，一名即将高考的女学生被射箭表演的弓箭射穿脸部，随后女孩被紧急送医，据网友爆料出事的时候学校领导都在讲台上一动不动，一副事不关己的样子，只有一名赖姓领导下来查看情况。 https://t.co/ieSVPowlZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 849,
+          "like_count": 5429,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1963
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2138741,
+          "following_count": 979,
+          "like_count": 8326,
+          "listed_count": 8400,
+          "media_count": 37269,
+          "tweet_count": 44126
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

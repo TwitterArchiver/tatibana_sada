@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071704236283572224"
+      ],
+      "media_source_tweet_id": [
+        "2071704245393633471"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      }
+    ],
+    "conversation_id": "2071796947166585128",
+    "created_at": "2026-06-30T03:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T04:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071796947166585128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1345333468213874688",
+          "start": 3,
+          "username": "SakunaiHinata"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cLDABXNQUP",
+          "end": 140,
+          "expanded_url": "https://x.com/SakunaiHinata/status/2071704245393633471/photo/1",
+          "media_key": "3_2071704236283572224",
+          "start": 117,
+          "url": "https://t.co/cLDABXNQUP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071796947166585128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071704245393633471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @SakunaiHinata: 日本左右政治立场大调查　中国汉语版\n归类了日本政治圈各大立场\n\n日本保守派有三类：\n亲美保守、反移民保守、亲俄保守\n\n日本进步派有四类：\n日本左翼、令和支持者、新日本赤军、しばき隊\n\n供大家参考 https://t.co/cLDABXNQUP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2071704236283572224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMAsBstasAAou-c.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071704236283572224"
+          ],
+          "media_source_tweet_id": [
+            "2071704245393633471"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2071796947166585128",
+        "created_at": "2026-06-30T03:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071796947166585128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1345333468213874688",
+              "start": 3,
+              "username": "SakunaiHinata"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cLDABXNQUP",
+              "end": 140,
+              "expanded_url": "https://x.com/SakunaiHinata/status/2071704245393633471/photo/1",
+              "media_key": "3_2071704236283572224",
+              "start": 117,
+              "url": "https://t.co/cLDABXNQUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071796947166585128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071704245393633471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @SakunaiHinata: 日本左右政治立场大调查　中国汉语版\n归类了日本政治圈各大立场\n\n日本保守派有三类：\n亲美保守、反移民保守、亲俄保守\n\n日本进步派有四类：\n日本左翼、令和支持者、新日本赤军、しばき隊\n\n供大家参考 https://t.co/cLDABXNQUP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071704236283572224"
+          ]
+        },
+        "author_id": "1345333468213874688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2071704245393633471",
+        "created_at": "2026-06-29T21:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T22:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071704245393633471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cLDABXNQUP",
+              "end": 121,
+              "expanded_url": "https://x.com/SakunaiHinata/status/2071704245393633471/photo/1",
+              "media_key": "3_2071704236283572224",
+              "start": 98,
+              "url": "https://t.co/cLDABXNQUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071704245393633471",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 689,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "other",
+        "text": "日本左右政治立场大调查　中国汉语版\n归类了日本政治圈各大立场\n\n日本保守派有三类：\n亲美保守、反移民保守、亲俄保守\n\n日本进步派有四类：\n日本左翼、令和支持者、新日本赤军、しばき隊\n\n供大家参考 https://t.co/cLDABXNQUP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1367,
+          "like_count": 9485,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3259
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T11:38:04.000Z",
+        "description": "Japanese Railfan // デジタル模型鉄 // 川越市出身非ネイティブ日本人 // 中国漢語母語話者(台湾中文・日本語訛り) // 知中派&親台家 // 日台友好一中一台 //多趣味雑多 // 台派・台湾建国派と連帯 // 反ポリコレ // キャラ設は東津萌米穂姫 // 我不是台灣人",
+        "id": "1345333468213874688",
+        "location": "武蔵共和国高麗郡飯能市",
+        "name": "咲内ひなた",
+        "pinned_tweet_id": "2019616168076812673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060542627540516864/YEVEL1js_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12592,
+          "following_count": 2308,
+          "like_count": 56741,
+          "listed_count": 31,
+          "media_count": 15840,
+          "tweet_count": 34755
+        },
+        "url": "",
+        "username": "SakunaiHinata",
+        "verified": true
+      }
+    ]
+  }
+}

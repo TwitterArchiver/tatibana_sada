@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1982894777264943282",
+    "created_at": "2025-11-01T09:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T10:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984547673924649307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1575535501406539776",
+          "start": 0,
+          "username": "LGBwithoutT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984547673924649307",
+    "in_reply_to_user_id": "1575535501406539776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983112370382897329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LGBwithoutT 欸，友友你是不是被举办多了还是什么，spam了我都没看到。\n不予立案也是合规的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_1983112363160285188",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VuL_PasAQbNgM.jpg",
+        "width": 1280
+      },
+      {
+        "height": 440,
+        "media_key": "3_1983112363177033728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VuL_TaQAAlpH-.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1982894777264943282",
+        "created_at": "2025-11-01T09:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T10:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984547673924649307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1575535501406539776",
+              "start": 0,
+              "username": "LGBwithoutT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984547673924649307",
+        "in_reply_to_user_id": "1575535501406539776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983112370382897329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LGBwithoutT 欸，友友你是不是被举办多了还是什么，spam了我都没看到。\n不予立案也是合规的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983112363160285188",
+            "3_1983112363177033728"
+          ]
+        },
+        "author_id": "1575535501406539776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1982894777264943282",
+        "created_at": "2025-10-28T10:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983112370382897329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/naya1fansadox/…",
+              "end": 46,
+              "expanded_url": "https://x.com/naya1fansadox/status/1924082939278528958",
+              "start": 23,
+              "url": "https://t.co/5MoY488F6t"
+            },
+            {
+              "display_url": "pic.x.com/dCRf7LfNIT",
+              "end": 70,
+              "expanded_url": "https://x.com/LGBwithoutT/status/1983112370382897329/photo/1",
+              "media_key": "3_1983112363160285188",
+              "start": 47,
+              "url": "https://t.co/dCRf7LfNIT"
+            },
+            {
+              "display_url": "pic.x.com/dCRf7LfNIT",
+              "end": 70,
+              "expanded_url": "https://x.com/LGBwithoutT/status/1983112370382897329/photo/1",
+              "media_key": "3_1983112363177033728",
+              "start": 47,
+              "url": "https://t.co/dCRf7LfNIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983112370382897329",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924082939278528958",
+            "type": "quoted"
+          },
+          {
+            "id": "1982894777264943282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 不予立案哦。\n\nhttps://t.co/5MoY488F6t https://t.co/dCRf7LfNIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 685,
+          "like_count": 3983,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1656
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-29T17:19:03.000Z",
+        "description": "gender: womxn ｜ title: CisMx ｜ pronouns: shx/hxr",
+        "id": "1575535501406539776",
+        "location": "New Egypt, NJ",
+        "name": "LGBwithoutT",
+        "pinned_tweet_id": "1841335590429601881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952444867675893760/CjmkBUR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 185,
+          "like_count": 74,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 1041
+        },
+        "username": "LGBwithoutT",
+        "verified": false
+      }
+    ]
+  }
+}

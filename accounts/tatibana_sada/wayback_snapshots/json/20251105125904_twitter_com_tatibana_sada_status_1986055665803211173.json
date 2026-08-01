@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986037256101244928"
+      ],
+      "media_source_tweet_id": [
+        "1986037260610109538"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986055665803211173",
+    "created_at": "2025-11-05T12:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T13:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986055665803211173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1917947892503085056",
+          "start": 3,
+          "username": "9emR2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zy6EKgKzjc",
+          "end": 34,
+          "expanded_url": "https://x.com/9emR2/status/1986037260610109538/photo/1",
+          "media_key": "3_1986037256101244928",
+          "start": 11,
+          "url": "https://t.co/zy6EKgKzjc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986055665803211173",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986037260610109538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9emR2: https://t.co/zy6EKgKzjc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_1986037256101244928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_SXKibMAA34R1.jpg",
+        "width": 866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986037256101244928"
+          ],
+          "media_source_tweet_id": [
+            "1986037260610109538"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986055665803211173",
+        "created_at": "2025-11-05T12:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986055665803211173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1917947892503085056",
+              "start": 3,
+              "username": "9emR2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zy6EKgKzjc",
+              "end": 34,
+              "expanded_url": "https://x.com/9emR2/status/1986037260610109538/photo/1",
+              "media_key": "3_1986037256101244928",
+              "start": 11,
+              "url": "https://t.co/zy6EKgKzjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986055665803211173",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986037260610109538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9emR2: https://t.co/zy6EKgKzjc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986037256101244928"
+          ]
+        },
+        "author_id": "1917947892503085056",
+        "conversation_id": "1986037260610109538",
+        "created_at": "2025-11-05T11:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T12:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986037260610109538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zy6EKgKzjc",
+              "end": 23,
+              "expanded_url": "https://x.com/9emR2/status/1986037260610109538/photo/1",
+              "media_key": "3_1986037256101244928",
+              "start": 0,
+              "url": "https://t.co/zy6EKgKzjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986037260610109538",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 977,
+          "like_count": 136,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zy6EKgKzjc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 742,
+          "like_count": 4724,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1787
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T14:23:17.000Z",
+        "description": "創作BL🔞（エン）https://t.co/JaQ3DhvdEv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/10161691",
+                "end": 32,
+                "expanded_url": "https://www.pixiv.net/users/10161691",
+                "start": 9,
+                "url": "https://t.co/JaQ3DhvdEv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ame08.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://ame08.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/9cbYJLzu0O"
+              }
+            ]
+          }
+        },
+        "id": "1917947892503085056",
+        "location": "男の子の百合",
+        "name": "🌧️",
+        "pinned_tweet_id": "1953740676384141796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917949363172806656/PFrvatIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7447,
+          "following_count": 3,
+          "like_count": 1865,
+          "listed_count": 12,
+          "media_count": 45,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/9cbYJLzu0O",
+        "username": "9emR2",
+        "verified": false
+      }
+    ]
+  }
+}

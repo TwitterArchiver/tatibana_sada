@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991733044705915237",
+    "created_at": "2025-11-21T04:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T05:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991733044705915237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaojingcanxue…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/xiaojingcanxue/status/1991578627188879815",
+          "start": 67,
+          "url": "https://t.co/oX3NgEs2E4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991733044705915237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991578627188879815",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国只有三种人有资格自称为革命者：毒贩，黑帮，走私犯。涅恰耶夫曰：「我们要同镖悍的强盗界——俄国真正的、唯一的革命者——联合起来。」 https://t.co/oX3NgEs2E4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1836,
+        "media_key": "3_1991578543726440448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6OCIjkasAATyaJ.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991733044705915237",
+        "created_at": "2025-11-21T04:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T05:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991733044705915237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaojingcanxue…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/xiaojingcanxue/status/1991578627188879815",
+              "start": 67,
+              "url": "https://t.co/oX3NgEs2E4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991733044705915237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991578627188879815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国只有三种人有资格自称为革命者：毒贩，黑帮，走私犯。涅恰耶夫曰：「我们要同镖悍的强盗界——俄国真正的、唯一的革命者——联合起来。」 https://t.co/oX3NgEs2E4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991578543726440448"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "1991578627188879815",
+        "created_at": "2025-11-20T18:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T19:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991578627188879815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3aoCvJDbU2",
+              "end": 45,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1991578627188879815/photo/1",
+              "media_key": "3_1991578543726440448",
+              "start": 22,
+              "url": "https://t.co/3aoCvJDbU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991578627188879815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 17284,
+          "like_count": 199,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "想象中的古代农民起义与真实的古代农民起义。 https://t.co/3aoCvJDbU2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 884,
+          "like_count": 5814,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 2112
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235444,
+          "following_count": 1843,
+          "like_count": 192,
+          "listed_count": 1225,
+          "media_count": 27046,
+          "tweet_count": 34500
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1994209267868381338",
+    "created_at": "2025-11-28T00:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T01:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994209267868381338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MichaelHXHX/st…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/MichaelHXHX/status/1993563041083146726",
+          "start": 27,
+          "url": "https://t.co/XKTwnuNlc7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994209267868381338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993563041083146726",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "洋鬼子都学到反攻倒算了，鄙国核心科技流出乱象不容忽视 https://t.co/XKTwnuNlc7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_1993563035135623171",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qPBKKbwAMXkGt.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1994209267868381338",
+        "created_at": "2025-11-28T00:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T01:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994209267868381338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MichaelHXHX/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/MichaelHXHX/status/1993563041083146726",
+              "start": 27,
+              "url": "https://t.co/XKTwnuNlc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994209267868381338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993563041083146726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "洋鬼子都学到反攻倒算了，鄙国核心科技流出乱象不容忽视 https://t.co/XKTwnuNlc7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993563035135623171"
+          ]
+        },
+        "author_id": "3423094444",
+        "conversation_id": "1993563041083146726",
+        "created_at": "2025-11-26T06:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T07:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993563041083146726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wJW5hMeEHu",
+              "end": 57,
+              "expanded_url": "https://x.com/MichaelHXHX/status/1993563041083146726/photo/1",
+              "media_key": "3_1993563035135623171",
+              "start": 34,
+              "url": "https://t.co/wJW5hMeEHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993563041083146726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 380313,
+          "like_count": 1487,
+          "quote_count": 15,
+          "reply_count": 98,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "川普表示，他要对去年拜登赦免的火鸡取消赦免，那只火鸡将被端进餐桌。 https://t.co/wJW5hMeEHu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 956,
+          "like_count": 6397,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2288
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-14T22:48:35.000Z",
+        "description": "在美走天下，重新开始键政。曾经IT人、半退休状态、中间偏右人士，但反川普反专制反独裁！",
+        "id": "3423094444",
+        "location": "Singapore",
+        "name": "Michael",
+        "pinned_tweet_id": "1992945396784808039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846769436814139392/ttPYcAif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9986,
+          "following_count": 354,
+          "like_count": 22967,
+          "listed_count": 79,
+          "media_count": 1542,
+          "tweet_count": 9927
+        },
+        "username": "MichaelHXHX",
+        "verified": false
+      }
+    ]
+  }
+}

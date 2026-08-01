@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2082320029576798513",
+    "created_at": "2026-07-29T04:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T05:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082320029576798513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thctroche/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/thctroche/status/2082228947018826238",
+          "start": 20,
+          "url": "https://t.co/qlqVQl8hoL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082320029576798513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082228947018826238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我只是向你解释了你被互关单取的原因罢了 https://t.co/qlqVQl8hoL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2082320029576798513",
+        "created_at": "2026-07-29T04:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082320029576798513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thctroche/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/thctroche/status/2082228947018826238",
+              "start": 20,
+              "url": "https://t.co/qlqVQl8hoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082320029576798513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082228947018826238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只是向你解释了你被互关单取的原因罢了 https://t.co/qlqVQl8hoL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948035186584670209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2082228947018826238",
+        "created_at": "2026-07-28T22:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082228947018826238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatibana_sada/…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/tatibana_sada/status/2082157156460339694",
+              "start": 54,
+              "url": "https://t.co/BiHJXI69pG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082228947018826238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082157156460339694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你这就是偷换概念了。我拿亲身经历说话，结果因为这话不符合“政治语境”我就不能说？这对预防犯罪有任何帮助吗？ https://t.co/BiHJXI69pG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 1450,
+          "like_count": 10252,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3426
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T15:01:34.000Z",
+        "description": "我只是个爱情的骗徒，是爱情的小坏蛋。Queer poly pan 🍳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shianbey",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shianbey",
+                "start": 0,
+                "url": "https://t.co/Ml7rVTPl25"
+              }
+            ]
+          }
+        },
+        "id": "1948035186584670209",
+        "location": "Pennsylvania, USA",
+        "name": "大麻軟糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074265713225728000/_GkUdFFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 319,
+          "like_count": 3095,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 1902
+        },
+        "url": "https://t.co/Ml7rVTPl25",
+        "username": "thctroche",
+        "verified": false
+      }
+    ]
+  }
+}

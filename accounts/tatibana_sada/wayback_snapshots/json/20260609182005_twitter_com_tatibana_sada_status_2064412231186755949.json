@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064412228472999936"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2030573131036049875",
+    "created_at": "2026-06-09T18:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064412231186755949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019645673709395968",
+          "start": 0,
+          "username": "Shinkai2638_8"
+        },
+        {
+          "end": 31,
+          "id": "1943353846971142146",
+          "start": 15,
+          "username": "chinagotohell64"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aUmrbiwtit",
+          "end": 84,
+          "expanded_url": "https://x.com/tatibana_sada/status/2064412231186755949/photo/1",
+          "media_key": "3_2064412228472999936",
+          "start": 61,
+          "url": "https://t.co/aUmrbiwtit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064412231186755949",
+    "in_reply_to_user_id": "2019645673709395968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030573131036049875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shinkai2638_8 @chinagotohell64 宝宝，你下一个头可以用一下「小野田的丛林万夜」，颜值蛮高 https://t.co/aUmrbiwtit"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 583,
+        "media_key": "3_2064412228472999936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZD--wbEAA0-X0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1382,
+        "media_key": "3_2030573123666575360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4Lf16aAAAE_pT.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064412228472999936"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2030573131036049875",
+        "created_at": "2026-06-09T18:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064412231186755949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019645673709395968",
+              "start": 0,
+              "username": "Shinkai2638_8"
+            },
+            {
+              "end": 31,
+              "id": "1943353846971142146",
+              "start": 15,
+              "username": "chinagotohell64"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aUmrbiwtit",
+              "end": 84,
+              "expanded_url": "https://x.com/tatibana_sada/status/2064412231186755949/photo/1",
+              "media_key": "3_2064412228472999936",
+              "start": 61,
+              "url": "https://t.co/aUmrbiwtit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064412231186755949",
+        "in_reply_to_user_id": "2019645673709395968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030573131036049875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shinkai2638_8 @chinagotohell64 宝宝，你下一个头可以用一下「小野田的丛林万夜」，颜值蛮高 https://t.co/aUmrbiwtit"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030573123666575360"
+          ]
+        },
+        "author_id": "2019645673709395968",
+        "conversation_id": "2030573131036049875",
+        "created_at": "2026-03-08T09:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030573131036049875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 120,
+              "id": "2019645673709395968",
+              "start": 106,
+              "username": "Shinkai2638_8"
+            },
+            {
+              "end": 149,
+              "id": "1943353846971142146",
+              "start": 133,
+              "username": "chinagotohell64"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vh4kMx3N5N",
+              "end": 184,
+              "expanded_url": "https://x.com/Shinkai2638_8/status/2030573131036049875/photo/1",
+              "media_key": "3_2030573123666575360",
+              "start": 161,
+              "url": "https://t.co/Vh4kMx3N5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030573131036049875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9705,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "各位好，我是新海輝八代目帳號，第七代蜘蛛破防檢舉所以炸了😂第八代請多多指教🫡\n\n然後有蜘蛛故意使用我的帳號ID，從第八代開始正式放棄 shinagotohell 開頭的ID\n\n今天是26年3月8日第八代所以ID是@Shinkai2638_8 ，可以去我的永久備用帳 @chinagotohell64 查驗，其餘皆仿冒謝謝 https://t.co/Vh4kMx3N5N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1295,
+          "like_count": 9197,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 3175
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T05:33:55.000Z",
+        "description": "★ 親米親日 ★ 元台湾籍の日本兵 @chinagotohell64(永久備用帳) ★8代目アカウント ★ tâi-oân-lâng káng tâi-oân-ōe ★前帳號 @7shinagotohell",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "chinagotohell64"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "7shinagotohell"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@shinagotohell…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@shinagotohell1213?si=k8ogexidp5oha0zj",
+                "start": 0,
+                "url": "https://t.co/Jm7mBnTlLK"
+              }
+            ]
+          }
+        },
+        "id": "2019645673709395968",
+        "location": "大日本帝國高雄州",
+        "name": "新海輝⁸ 🎌",
+        "pinned_tweet_id": "2030573131036049875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030570680706822144/s-yvNvR3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 503,
+          "like_count": 4513,
+          "listed_count": 3,
+          "media_count": 216,
+          "tweet_count": 1096
+        },
+        "url": "https://t.co/Jm7mBnTlLK",
+        "username": "Shinkai2638_8",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T16:57:36.000Z",
+        "description": "★新海輝本人的永久副帳號，假設主帳被封會在這邊公布新帳號，也請去這裡追蹤主帳➡️ @Shinkai26421_9 ★ 除此帳公布的帳號外，其餘冒名者皆為假冒★ 活著的前帳號：@shinagotohell6 @Shinkai2638_8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "Shinkai26421_9"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "shinagotohell6"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "Shinkai2638_8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@shinagotohell…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@shinagotohell1213?si=dggCbVW-isFzZwRD",
+                "start": 0,
+                "url": "https://t.co/OzzYCXW3sC"
+              }
+            ]
+          }
+        },
+        "id": "1943353846971142146",
+        "location": "南京",
+        "name": "新海 輝∞ 🎌✝️🇻🇦",
+        "pinned_tweet_id": "2046085328986062956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999366743010234368/u2_f8SCN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 315,
+          "like_count": 1243,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/OzzYCXW3sC",
+        "username": "chinagotohell64",
+        "verified": false
+      }
+    ]
+  }
+}

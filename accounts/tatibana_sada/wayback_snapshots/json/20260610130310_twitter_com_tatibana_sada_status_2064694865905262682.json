@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2064694865905262682",
+    "created_at": "2026-06-10T13:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064694865905262682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1913185939591245825",
+          "start": 3,
+          "username": "NaillinsH"
+        },
+        {
+          "end": 30,
+          "id": "1527586768891125760",
+          "start": 15,
+          "username": "wangxizhiKYWYW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064694865905262682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064658378568474708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NaillinsH: @wangxizhiKYWYW 早就该搞点民族主义了,汉族至上才对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2064694865905262682",
+        "created_at": "2026-06-10T13:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064694865905262682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1913185939591245825",
+              "start": 3,
+              "username": "NaillinsH"
+            },
+            {
+              "end": 30,
+              "id": "1527586768891125760",
+              "start": 15,
+              "username": "wangxizhiKYWYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064694865905262682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064658378568474708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NaillinsH: @wangxizhiKYWYW 早就该搞点民族主义了,汉族至上才对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913185939591245825",
+        "conversation_id": "2064369835749044481",
+        "created_at": "2026-06-10T10:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064658378568474708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1527586768891125760",
+              "start": 0,
+              "username": "wangxizhiKYWYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064658378568474708",
+        "in_reply_to_user_id": "1527586768891125760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064369835749044481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangxizhiKYWYW 早就该搞点民族主义了,汉族至上才对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 1309,
+          "like_count": 9290,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3214
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T11:00:57.000Z",
+        "description": "",
+        "id": "1913185939591245825",
+        "name": "Naillins Hao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913185978803752960/CIb91j_j_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 27,
+          "like_count": 1666,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "NaillinsH",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T09:47:40.000Z",
+        "description": "半文盲|\n我是回民见不得这个|\n为梁启超乐园而奋斗|\n学无止境|\n啊哈哈哈，我不识字|",
+        "id": "1527586768891125760",
+        "location": "汉地",
+        "name": "怒尼威",
+        "pinned_tweet_id": "2040417016893636890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010168349041537025/dgUXtGIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 919,
+          "like_count": 42931,
+          "listed_count": 4,
+          "media_count": 3442,
+          "tweet_count": 13460
+        },
+        "username": "wangxizhiKYWYW",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991323684389216532",
+    "created_at": "2025-11-21T05:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T06:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991742984526918073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479510124079185921",
+          "start": 0,
+          "username": "LCA176232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991742984526918073",
+    "in_reply_to_user_id": "1479510124079185921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991323684389216532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LCA176232 这只说明了鄙国女性伟大的穷酸和睿智的无耻，谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2216,
+        "media_key": "3_1991323680710750208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6KaVk2WcAAfaQv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991323684389216532",
+        "created_at": "2025-11-21T05:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T06:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991742984526918073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479510124079185921",
+              "start": 0,
+              "username": "LCA176232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991742984526918073",
+        "in_reply_to_user_id": "1479510124079185921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991323684389216532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LCA176232 这只说明了鄙国女性伟大的穷酸和睿智的无耻，谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991323680710750208"
+          ]
+        },
+        "author_id": "1479510124079185921",
+        "conversation_id": "1991323684389216532",
+        "created_at": "2025-11-20T01:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T02:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991323684389216532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4kSVTJogW",
+              "end": 32,
+              "expanded_url": "https://x.com/LCA176232/status/1991323684389216532/photo/1",
+              "media_key": "3_1991323680710750208",
+              "start": 9,
+              "url": "https://t.co/q4kSVTJogW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991323684389216532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 210474,
+          "like_count": 481,
+          "quote_count": 7,
+          "reply_count": 84,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "“姐弟恋的前提” https://t.co/q4kSVTJogW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 886,
+          "like_count": 5819,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 2113
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T17:48:08.000Z",
+        "description": "只有这个号和小号@FPL99386519是本人的，其他的均为假冒。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "FPL99386519"
+              }
+            ]
+          }
+        },
+        "id": "1479510124079185921",
+        "location": "Hong Kong",
+        "name": "大漠孤鹰⛓",
+        "pinned_tweet_id": "1985612462985744585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837533564059242499/yQxLlDc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44461,
+          "following_count": 909,
+          "like_count": 99610,
+          "listed_count": 122,
+          "media_count": 11932,
+          "tweet_count": 15586
+        },
+        "username": "LCA176232",
+        "verified": true
+      }
+    ]
+  }
+}

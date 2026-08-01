@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989620786286809088"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1989620788891427111",
+    "created_at": "2025-11-15T09:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T10:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989620788891427111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QyocO7izGY",
+          "end": 42,
+          "expanded_url": "https://x.com/tatibana_sada/status/1989620788891427111/photo/1",
+          "media_key": "3_1989620786286809088",
+          "start": 19,
+          "url": "https://t.co/QyocO7izGY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989620788891427111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以后不准喊我万岁。烦请喊8964岁。 https://t.co/QyocO7izGY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 315,
+        "media_key": "3_1989620786286809088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yNkExb0AAZbuI.jpg",
+        "width": 264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989620786286809088"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1989620788891427111",
+        "created_at": "2025-11-15T09:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T10:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989620788891427111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyocO7izGY",
+              "end": 42,
+              "expanded_url": "https://x.com/tatibana_sada/status/1989620788891427111/photo/1",
+              "media_key": "3_1989620786286809088",
+              "start": 19,
+              "url": "https://t.co/QyocO7izGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989620788891427111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后不准喊我万岁。烦请喊8964岁。 https://t.co/QyocO7izGY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 856,
+          "like_count": 5559,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1997
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

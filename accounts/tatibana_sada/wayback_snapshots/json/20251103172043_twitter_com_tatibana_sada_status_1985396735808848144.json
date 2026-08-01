@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985329768661979535",
+    "created_at": "2025-11-03T17:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T18:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985396735808848144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985396735808848144",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985329768661979535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 忠诚的说，是的确的想，没有比您老人家这样子的态度更加高尚的了。虽然我的修辞比较奇妙，不过也约莫能届到吧。用我最爱的采子哥的话说，这才是真正的Ubermensch。自由的开放的，敢于把自己抛向未知的新世界的了不起的人啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985329768661979535",
+        "created_at": "2025-11-03T17:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T18:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985396735808848144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985396735808848144",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985329768661979535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 忠诚的说，是的确的想，没有比您老人家这样子的态度更加高尚的了。虽然我的修辞比较奇妙，不过也约莫能届到吧。用我最爱的采子哥的话说，这才是真正的Ubermensch。自由的开放的，敢于把自己抛向未知的新世界的了不起的人啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1985329768661979535",
+        "created_at": "2025-11-03T12:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985329768661979535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985329768661979535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最可悲的是连接触真相的勇气都没有\n\n我最讨厌女权的时候去读了时下最流行的女性主义著作，我最鄙夷宗教的时候去问海外留学的朋友为什么人类信仰宗教，我最反封建迷信的时候自学中西方占算命理，我讨厌但我去了解，了解了才有资格评判，但通常了解了以后会放下批判\n\n不去接触而直接否认，那是专制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1982595504287699299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 718,
+          "like_count": 4476,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1717
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "理想退休后成为贩冰冰-走在违法背德前线-我是精神病一点就炸-接受指正不接受指点-不认可可以去死♡同类fo必回-漏fo请私♪点赞评论bot-讨厌闲聊基本不回♡喜欢sex与drug独自沉迷勿骚扰♡non-binary友跨友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1984215393586786544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 219,
+          "like_count": 1564,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 488
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1978886703252201675",
+    "created_at": "2025-10-17T08:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T09:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979097620795560437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1934706208989913088",
+          "start": 0,
+          "username": "ibelulo192147"
+        },
+        {
+          "end": 147,
+          "id": "1313307135766392833",
+          "start": 133,
+          "username": "NailoongBlair"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979097620795560437",
+    "in_reply_to_user_id": "1934706208989913088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978886703252201675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ibelulo192147 盎伟平自由主义属于伟大的霍布斯论域。我野爹林国华这样精妙的总结，「浅薄冷酷且智慧」。伟大的轰轰烈烈的清教徒宗教大革命的时候，广大清卫兵是真的在烧教堂斗牧师玩破四旧，so最后结论不折腾，「压迫你的不是国王而是邻居」，这就是盎伟平自由主义。@nailoongblair"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1978886703252201675",
+        "created_at": "2025-10-17T08:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979097620795560437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1934706208989913088",
+              "start": 0,
+              "username": "ibelulo192147"
+            },
+            {
+              "end": 147,
+              "id": "1313307135766392833",
+              "start": 133,
+              "username": "NailoongBlair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979097620795560437",
+        "in_reply_to_user_id": "1934706208989913088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978886703252201675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ibelulo192147 盎伟平自由主义属于伟大的霍布斯论域。我野爹林国华这样精妙的总结，「浅薄冷酷且智慧」。伟大的轰轰烈烈的清教徒宗教大革命的时候，广大清卫兵是真的在烧教堂斗牧师玩破四旧，so最后结论不折腾，「压迫你的不是国王而是邻居」，这就是盎伟平自由主义。@nailoongblair"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934706208989913088",
+        "conversation_id": "1978886703252201675",
+        "created_at": "2025-10-16T18:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T19:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978886703252201675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a2013bc/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/a2013bc/status/1978450718597025812",
+              "start": 22,
+              "url": "https://t.co/1Jm3pVPSr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978886703252201675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1345,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978450718597025812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自由民主果真是当今世界上影响力最大的邪教。 https://t.co/1Jm3pVPSr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 551,
+          "like_count": 2924,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1466
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T20:15:05.000Z",
+        "description": "毁灭与重生",
+        "id": "1934706208989913088",
+        "name": "ibelulo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940362442954973185/f3qy907o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 84,
+          "like_count": 12667,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 446
+        },
+        "username": "ibelulo192147",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T02:36:47.000Z",
+        "description": "Democratic Socialist/Marxist🌹👊，Unionist ⚙️，Lutheran Christian✝️，Anti-LINO，Vive la Mai 68！definitely KOP（#YNWA） #我是麻酱\n，阿尔都塞-后结构-拉康精神分析，不擅长好好说话，暴脾气请见谅。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "YNWA"
+              },
+              {
+                "end": 116,
+                "start": 111,
+                "tag": "我是麻酱"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.whotwi.com/ShinoharaBlair",
+                "end": 23,
+                "expanded_url": "https://en.whotwi.com/ShinoharaBlair",
+                "start": 0,
+                "url": "https://t.co/Q9UcPnwpkx"
+              }
+            ]
+          }
+        },
+        "id": "1313307135766392833",
+        "location": "推特大街114514号",
+        "name": "AnonTokyo 奶龙布莱尔✝️👊🌹",
+        "pinned_tweet_id": "1978844718051020999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943261006546767873/HRZ-GVab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2685,
+          "following_count": 2552,
+          "like_count": 184012,
+          "listed_count": 22,
+          "media_count": 2135,
+          "tweet_count": 42362
+        },
+        "url": "https://t.co/Q9UcPnwpkx",
+        "username": "NailoongBlair",
+        "verified": false
+      }
+    ]
+  }
+}

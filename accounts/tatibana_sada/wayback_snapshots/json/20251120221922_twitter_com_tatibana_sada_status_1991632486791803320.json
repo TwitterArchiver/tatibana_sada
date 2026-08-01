@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991231432069640690",
+    "created_at": "2025-11-20T22:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T23:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991632486791803320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "283511225",
+          "start": 0,
+          "username": "suwakopro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991632486791803320",
+    "in_reply_to_user_id": "283511225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991231432069640690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suwakopro 刘仲敬是简中互联网的终点，历史的终结"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991231432069640690",
+        "created_at": "2025-11-20T22:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T23:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991632486791803320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "283511225",
+              "start": 0,
+              "username": "suwakopro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991632486791803320",
+        "in_reply_to_user_id": "283511225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991231432069640690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suwakopro 刘仲敬是简中互联网的终点，历史的终结"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "283511225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1991231432069640690",
+        "created_at": "2025-11-19T19:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T20:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991231432069640690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991231432069640690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刚刚看到一个说法，国内的中产对于山姆会员店阿里化这么敏感的原因就是因为山姆相当于从外部输入了秩序，本土化了之后就会被内地同化。\n现在想想，steam在某种程度上也扮演着同样的角色。steam对于国内的单机游戏市场相当于重新建立了市场秩序。而电影市场就因为失序导致崩盘。同样的，国内的app store也是扮演着秩序提供者的角色。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 22903,
+          "like_count": 168,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚看到一个说法，国内的中产对于山姆会员店阿里化这么敏感的原因就是因为山姆相当于从外部输入了秩序，本土化了之后就会被内地同化。\n现在想想，steam在某种程度上也扮演着同样的角色。steam对于国内的单机游戏市场相当于重新建立了市场秩序。而电影市场就因为失序导致崩盘。同样的，国内的app"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 880,
+          "like_count": 5807,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2094
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-17T12:45:21.000Z",
+        "description": "🚀 e/acc 技术乐观主义者 | 💻 静态强类型类型爱好者 | 🎲 发言随机生成 | 📊 实证分析大于规范分析 | 🌐 水平思考 | @suwako@mas.to | https://t.co/AeMdArn8vl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/suwako…",
+                "end": 108,
+                "expanded_url": "https://bsky.app/profile/suwakopro.bsky.social",
+                "start": 85,
+                "url": "https://t.co/AeMdArn8vl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "suwako.dev",
+                "end": 23,
+                "expanded_url": "http://suwako.dev",
+                "start": 0,
+                "url": "https://t.co/YXdJuK3lSY"
+              }
+            ]
+          }
+        },
+        "id": "283511225",
+        "location": "幻想乡",
+        "name": "Suwako — e/acc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950033754472505344/sSZSno4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 623,
+          "like_count": 18019,
+          "listed_count": 9,
+          "media_count": 91,
+          "tweet_count": 7141
+        },
+        "url": "https://t.co/YXdJuK3lSY",
+        "username": "suwakopro",
+        "verified": true
+      }
+    ]
+  }
+}

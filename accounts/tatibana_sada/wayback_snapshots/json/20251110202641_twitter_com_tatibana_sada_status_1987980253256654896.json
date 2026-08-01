@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987980253256654896",
+    "created_at": "2025-11-10T20:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T21:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987980253256654896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1707741005490049024",
+          "start": 3,
+          "username": "tatibana_sada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987980253256654896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987980155701391453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatibana_sada: 所以事实上我心目中的模范女人在拉康意味上是不折不扣的男人。并且我一点也不怕地图炮的指控的说，我觉得没完成象征性阉割，成为「男人」，那么是人籍很存疑的——至少我会说，没有公民的德性。\n疯也可以啊，那至少得为了什么伟大理念伟大斗争伟大工程疯。懂…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987980253256654896",
+        "created_at": "2025-11-10T20:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T21:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987980253256654896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1707741005490049024",
+              "start": 3,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987980253256654896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987980155701391453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatibana_sada: 所以事实上我心目中的模范女人在拉康意味上是不折不扣的男人。并且我一点也不怕地图炮的指控的说，我觉得没完成象征性阉割，成为「男人」，那么是人籍很存疑的——至少我会说，没有公民的德性。\n疯也可以啊，那至少得为了什么伟大理念伟大斗争伟大工程疯。懂…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987977158405550298",
+        "created_at": "2025-11-10T20:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T21:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987980155701391453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987980155701391453",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987979023004430533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以事实上我心目中的模范女人在拉康意味上是不折不扣的男人。并且我一点也不怕地图炮的指控的说，我觉得没完成象征性阉割，成为「男人」，那么是人籍很存疑的——至少我会说，没有公民的德性。\n疯也可以啊，那至少得为了什么伟大理念伟大斗争伟大工程疯。懂得把自己交付给什么主张是一种宝贵的能力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 795,
+          "like_count": 5017,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1860
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

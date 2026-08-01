@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1412579054855671809",
+          "name": "Google Innovation"
+        }
+      }
+    ],
+    "conversation_id": "2057932373530927375",
+    "created_at": "2026-05-23T05:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T06:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058059366809706823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1937369493493415937",
+          "start": 0,
+          "username": "8tsukoyomi"
+        },
+        {
+          "end": 27,
+          "id": "1709230006864314368",
+          "start": 12,
+          "username": "banglamarigold"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058059366809706823",
+    "in_reply_to_user_id": "1937369493493415937",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058053824389189778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8tsukoyomi @banglamarigold Really? I don't know that India is used by China.  But I know some stories that Chinese tech companies being extorted by government after investing there. From China's social media"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          }
+        ],
+        "conversation_id": "2057932373530927375",
+        "created_at": "2026-05-23T05:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058059366809706823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1937369493493415937",
+              "start": 0,
+              "username": "8tsukoyomi"
+            },
+            {
+              "end": 27,
+              "id": "1709230006864314368",
+              "start": 12,
+              "username": "banglamarigold"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058059366809706823",
+        "in_reply_to_user_id": "1937369493493415937",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058053824389189778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8tsukoyomi @banglamarigold Really? I don't know that India is used by China.  But I know some stories that Chinese tech companies being extorted by government after investing there. From China's social media"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937369493493415937",
+        "conversation_id": "2057932373530927375",
+        "created_at": "2026-05-23T05:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058053824389189778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1709230006864314368",
+              "start": 0,
+              "username": "banglamarigold"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058053824389189778",
+        "in_reply_to_user_id": "1709230006864314368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057932373530927375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banglamarigold Accept it.. our govt is being hysterically used by 🇨🇳 and 🇺🇸 and we all are being used by our govt."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 1186,
+          "like_count": 8367,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2762
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T04:37:48.000Z",
+        "description": "Author 📚|Market Researcher 📊|Content Writer✍️|Long-Term Investor 📈|Intellectually Challenged Dude|Realitic| Critical Thinker🤔| Future Industraliast 🏙|",
+        "id": "1937369493493415937",
+        "location": "India",
+        "name": "Vaibhav Maheshwari 🇮🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939964740928720896/CoW4oqJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 97,
+          "like_count": 2080,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2166
+        },
+        "username": "8tsukoyomi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-03T15:33:12.000Z",
+        "description": "19 year old | she/her | নিজেকে ভালবাসুন, এবং নিজেকে ঘৃণা করা ছেড়ে দিতে শিখুন | Bangladeshi ☭⚢⚧︎🏳️‍⚧️ | 🇧🇩🍁🌺🔻🐅❤️💛",
+        "id": "1709230006864314368",
+        "location": "🃏🌾 পৃথিবী 🌍🐅",
+        "name": "Ujala / উজালা",
+        "pinned_tweet_id": "2054939680030728391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007587941804072960/yUjWcVzG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 705,
+          "like_count": 9410,
+          "listed_count": 3,
+          "media_count": 976,
+          "tweet_count": 12471
+        },
+        "username": "banglamarigold",
+        "verified": false
+      }
+    ]
+  }
+}

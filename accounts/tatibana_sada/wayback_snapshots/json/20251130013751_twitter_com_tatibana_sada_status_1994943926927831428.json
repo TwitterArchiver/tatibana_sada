@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994937389316182016"
+      ],
+      "media_source_tweet_id": [
+        "1994938167615742094"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1994943926927831428",
+    "created_at": "2025-11-30T01:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T02:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994943926927831428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "914028453174796293",
+          "start": 3,
+          "username": "Ajisai1207_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UHqGVlEMRv",
+          "end": 132,
+          "expanded_url": "https://x.com/Ajisai1207_/status/1994938167615742094/photo/1",
+          "media_key": "3_1994937389316182016",
+          "start": 109,
+          "url": "https://t.co/UHqGVlEMRv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994943926927831428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994938167615742094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ajisai1207_: 科尔宾的新党要在你的党，我的党，人民联盟或者FTM党之间选个名字。我个人认为FTM党或Their party会有最佳的喜剧效果，但如果党代会过度混乱导致连名字都取不出可能也挺合适的。 https://t.co/UHqGVlEMRv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994937389316182016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G69w_GdWEAAwTwJ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994937389316182016"
+          ],
+          "media_source_tweet_id": [
+            "1994938167615742094"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1994943926927831428",
+        "created_at": "2025-11-30T01:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994943926927831428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "914028453174796293",
+              "start": 3,
+              "username": "Ajisai1207_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UHqGVlEMRv",
+              "end": 132,
+              "expanded_url": "https://x.com/Ajisai1207_/status/1994938167615742094/photo/1",
+              "media_key": "3_1994937389316182016",
+              "start": 109,
+              "url": "https://t.co/UHqGVlEMRv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994943926927831428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994938167615742094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ajisai1207_: 科尔宾的新党要在你的党，我的党，人民联盟或者FTM党之间选个名字。我个人认为FTM党或Their party会有最佳的喜剧效果，但如果党代会过度混乱导致连名字都取不出可能也挺合适的。 https://t.co/UHqGVlEMRv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994937389316182016"
+          ]
+        },
+        "author_id": "914028453174796293",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1994938167615742094",
+        "created_at": "2025-11-30T01:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994938167615742094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UHqGVlEMRv",
+              "end": 115,
+              "expanded_url": "https://x.com/Ajisai1207_/status/1994938167615742094/photo/1",
+              "media_key": "3_1994937389316182016",
+              "start": 92,
+              "url": "https://t.co/UHqGVlEMRv"
+            },
+            {
+              "display_url": "x.com/PolitlcsUK/sta…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/PolitlcsUK/status/1994481503208968564",
+              "start": 116,
+              "url": "https://t.co/GyWlXIgr0b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994938167615742094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994481503208968564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "科尔宾的新党要在你的党，我的党，人民联盟或者FTM党之间选个名字。我个人认为FTM党或Their party会有最佳的喜剧效果，但如果党代会过度混乱导致连名字都取不出可能也挺合适的。 https://t.co/UHqGVlEMRv https://t.co/GyWlXIgr0b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 963,
+          "like_count": 6516,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2327
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 927,
+          "like_count": 12835,
+          "listed_count": 14,
+          "media_count": 536,
+          "tweet_count": 5925
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2074380386604622238",
+    "created_at": "2026-07-07T06:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074380386604622238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3423094444",
+          "start": 3,
+          "username": "MichaelHXHX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074380386604622238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074352039149408537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MichaelHXHX: 美国队大败比利时队的十大原因：\n\n1）拜登的责任\n2）比利时踢球舞弊\n3）比利时邮寄球球\n4）美国队中有非法移民\n5）美国队混入LGBT参赛\n6）计球器被左逼入侵了\n7）美国队中有深层球员\n8）主裁判是左逼，裁判不公\n9）举办城市西雅图是左逼之…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2074380386604622238",
+        "created_at": "2026-07-07T06:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074380386604622238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3423094444",
+              "start": 3,
+              "username": "MichaelHXHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074380386604622238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074352039149408537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MichaelHXHX: 美国队大败比利时队的十大原因：\n\n1）拜登的责任\n2）比利时踢球舞弊\n3）比利时邮寄球球\n4）美国队中有非法移民\n5）美国队混入LGBT参赛\n6）计球器被左逼入侵了\n7）美国队中有深层球员\n8）主裁判是左逼，裁判不公\n9）举办城市西雅图是左逼之…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3423094444",
+        "conversation_id": "2074352039149408537",
+        "created_at": "2026-07-07T04:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:36:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074351705177891047",
+          "2074352039149408537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074352039149408537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3389,
+          "like_count": 180,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "美国队大败比利时队的十大原因：\n\n1）拜登的责任\n2）比利时踢球舞弊\n3）比利时邮寄球球\n4）美国队中有非法移民\n5）美国队混入LGBT参赛\n6）计球器被左逼入侵了\n7）美国队中有深层球员\n8）主裁判是左逼，裁判不公\n9）举办城市西雅图是左逼之城\n10）如果是哈里斯上台，美国队要输1:10"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 1403,
+          "like_count": 9753,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3324
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-14T22:48:35.000Z",
+        "description": "重新开始键政。曾经IT人、半退休状态、中间偏右人士，但反川反专制反独裁！",
+        "id": "3423094444",
+        "location": "Singapore",
+        "name": "Michael",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846769436814139392/ttPYcAif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11112,
+          "following_count": 567,
+          "like_count": 32099,
+          "listed_count": 93,
+          "media_count": 2198,
+          "tweet_count": 12445
+        },
+        "url": "",
+        "username": "MichaelHXHX",
+        "verified": true
+      }
+    ]
+  }
+}

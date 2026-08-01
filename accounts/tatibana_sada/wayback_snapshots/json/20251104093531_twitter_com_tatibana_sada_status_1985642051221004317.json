@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985410070264549376"
+      ],
+      "media_source_tweet_id": [
+        "1985410154050081144"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985642051221004317",
+    "created_at": "2025-11-04T09:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T10:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985642051221004317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314417471525253120",
+          "start": 3,
+          "username": "gumi_gorira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g1Hy7uKFAT",
+          "end": 40,
+          "expanded_url": "https://x.com/gumi_gorira/status/1985410154050081144/photo/1",
+          "media_key": "3_1985410070264549376",
+          "start": 17,
+          "url": "https://t.co/g1Hy7uKFAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985642051221004317",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 195
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985410154050081144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gumi_gorira: https://t.co/g1Hy7uKFAT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3541,
+        "media_key": "3_1985410070264549376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G42X8JOaEAAd1ud.jpg",
+        "width": 2508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985410070264549376"
+          ],
+          "media_source_tweet_id": [
+            "1985410154050081144"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985642051221004317",
+        "created_at": "2025-11-04T09:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T10:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985642051221004317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314417471525253120",
+              "start": 3,
+              "username": "gumi_gorira"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1Hy7uKFAT",
+              "end": 40,
+              "expanded_url": "https://x.com/gumi_gorira/status/1985410154050081144/photo/1",
+              "media_key": "3_1985410070264549376",
+              "start": 17,
+              "url": "https://t.co/g1Hy7uKFAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985642051221004317",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985410154050081144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gumi_gorira: https://t.co/g1Hy7uKFAT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985410070264549376"
+          ]
+        },
+        "author_id": "1314417471525253120",
+        "conversation_id": "1985410154050081144",
+        "created_at": "2025-11-03T18:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T19:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985410154050081144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1Hy7uKFAT",
+              "end": 23,
+              "expanded_url": "https://x.com/gumi_gorira/status/1985410154050081144/photo/1",
+              "media_key": "3_1985410070264549376",
+              "start": 0,
+              "url": "https://t.co/g1Hy7uKFAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985410154050081144",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 23406,
+          "like_count": 2342,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/g1Hy7uKFAT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1982595504287699299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 723,
+          "like_count": 4568,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1728
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T04:08:50.000Z",
+        "description": "🍮🍑メディア欄に絵があります！|🙏Skeb以外のご依頼は休止中です。🔺Unauthorized use of my illustrations is prohibited.🔻\nhttps://t.co/8B3bJalUKE←Skeb　https://t.co/hLfDOZo1BS←通販",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@gumi_gorira",
+                "end": 111,
+                "expanded_url": "http://skeb.jp/@gumi_gorira",
+                "start": 88,
+                "url": "https://t.co/8B3bJalUKE"
+              },
+              {
+                "display_url": "gondareu.booth.pm",
+                "end": 140,
+                "expanded_url": "https://gondareu.booth.pm/",
+                "start": 117,
+                "url": "https://t.co/hLfDOZo1BS"
+              }
+            ]
+          }
+        },
+        "id": "1314417471525253120",
+        "name": "やまおか",
+        "pinned_tweet_id": "1978052490483626390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983999837302628352/fFjx1nVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10640,
+          "following_count": 407,
+          "like_count": 82539,
+          "listed_count": 88,
+          "media_count": 111,
+          "tweet_count": 10314
+        },
+        "username": "gumi_gorira",
+        "verified": false
+      }
+    ]
+  }
+}

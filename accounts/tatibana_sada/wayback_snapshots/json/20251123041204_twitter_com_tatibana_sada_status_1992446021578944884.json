@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991022023439757518",
+    "created_at": "2025-11-23T04:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T05:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992446021578944884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928710897989730304",
+          "start": 0,
+          "username": "wang101jack"
+        },
+        {
+          "end": 26,
+          "id": "1890343594248036352",
+          "start": 13,
+          "username": "lihongzhi425"
+        },
+        {
+          "end": 38,
+          "id": "1977712625942474752",
+          "start": 27,
+          "username": "sfwinnacht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992446021578944884",
+    "in_reply_to_user_id": "1928710897989730304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991125858312958141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang101jack @lihongzhi425 @sfwinnacht 如果在正义和邪恶之间你选择利益，地狱里最深的一层会为你保留一个房间。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991022023439757518",
+        "created_at": "2025-11-23T04:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992446021578944884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928710897989730304",
+              "start": 0,
+              "username": "wang101jack"
+            },
+            {
+              "end": 26,
+              "id": "1890343594248036352",
+              "start": 13,
+              "username": "lihongzhi425"
+            },
+            {
+              "end": 38,
+              "id": "1977712625942474752",
+              "start": 27,
+              "username": "sfwinnacht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992446021578944884",
+        "in_reply_to_user_id": "1928710897989730304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991125858312958141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang101jack @lihongzhi425 @sfwinnacht 如果在正义和邪恶之间你选择利益，地狱里最深的一层会为你保留一个房间。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928710897989730304",
+        "conversation_id": "1991022023439757518",
+        "created_at": "2025-11-19T12:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T13:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991125858312958141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1977712625942474752",
+              "start": 0,
+              "username": "sfwinnacht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991125858312958141",
+        "in_reply_to_user_id": "1977712625942474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4209,
+          "like_count": 250,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991022023439757518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sfwinnacht 不会真有人觉得区域动荡自己能捞到好处吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 904,
+          "like_count": 5969,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 2164
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T07:11:38.000Z",
+        "description": "平等、自由、科学\n不想做男生或女生，只想做自己。",
+        "id": "1928710897989730304",
+        "location": "哥布林洞窟最深处",
+        "name": "墨逸🪿🪿🪿",
+        "pinned_tweet_id": "1973409229160792262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984418964366307329/qROvRDnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 668,
+          "like_count": 10241,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1826
+        },
+        "username": "wang101jack",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T10:14:29.000Z",
+        "description": "中共改革派、改开派、邓路线江/团派|59主义，任何极左极右全部碾平|不喜欢就ban|李康梦单推|红统|白纸革命|不互fo找找自己问题|膜蛤|膜涛|逃生舱@zhaohongzhi1126",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "zhaohongzhi1126"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/6668964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/6668964",
+                "start": 0,
+                "url": "https://t.co/GM4EsvvYHh"
+              }
+            ]
+          }
+        },
+        "id": "1890343594248036352",
+        "location": "刘家峡水电站",
+        "name": "李洪志🇨🇳",
+        "pinned_tweet_id": "1976684323727421668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903147664205627392/OMT9YL9A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 681,
+          "like_count": 3936,
+          "listed_count": 3,
+          "media_count": 727,
+          "tweet_count": 3372
+        },
+        "url": "https://t.co/GM4EsvvYHh",
+        "username": "lihongzhi425",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T12:27:21.000Z",
+        "description": "算了，想想还是不做自我介绍了\n你杠我就是你对，你支持什么就万岁",
+        "id": "1977712625942474752",
+        "location": "兰德索尔",
+        "name": "❄️Dreaming❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986406960074485760/rj2a9qFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 169,
+          "like_count": 1514,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1084
+        },
+        "username": "sfwinnacht",
+        "verified": false
+      }
+    ]
+  }
+}

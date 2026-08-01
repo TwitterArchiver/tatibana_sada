@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988513072202272916",
+    "created_at": "2025-11-12T14:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T15:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988622531394195748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2440011140",
+          "start": 0,
+          "username": "NeworderforYou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988622531394195748",
+    "in_reply_to_user_id": "2440011140",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988513072202272916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeworderforYou 哇还有六指琴魔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988513068817780736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ieGbobEAAbx8c.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988513072202272916",
+        "created_at": "2025-11-12T14:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T15:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988622531394195748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2440011140",
+              "start": 0,
+              "username": "NeworderforYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988622531394195748",
+        "in_reply_to_user_id": "2440011140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988513072202272916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeworderforYou 哇还有六指琴魔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988513068817780736"
+          ]
+        },
+        "author_id": "2440011140",
+        "conversation_id": "1988513072202272916",
+        "created_at": "2025-11-12T07:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988513072202272916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vl9mXQV4cP",
+              "end": 23,
+              "expanded_url": "https://x.com/NeworderforYou/status/1988513072202272916/photo/1",
+              "media_key": "3_1988513068817780736",
+              "start": 0,
+              "url": "https://t.co/Vl9mXQV4cP"
+            },
+            {
+              "display_url": "x.com/cnm84414714538…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/cnm844147145381/status/1988512030664384839",
+              "start": 24,
+              "url": "https://t.co/6LM1V3Rz9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988513072202272916",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1534,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988512030664384839",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Vl9mXQV4cP https://t.co/6LM1V3Rz9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 822,
+          "like_count": 5274,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1924
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-12T13:21:22.000Z",
+        "description": "五千年太近，五十年太远",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12377.cn",
+                "end": 23,
+                "expanded_url": "https://www.12377.cn/",
+                "start": 0,
+                "url": "https://t.co/QoMf426pqO"
+              }
+            ]
+          }
+        },
+        "id": "2440011140",
+        "location": "0.01km",
+        "name": "🍉赫兹³",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678712746169475072/ZpI3TbJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 508,
+          "like_count": 4617,
+          "listed_count": 23,
+          "media_count": 1424,
+          "tweet_count": 9093
+        },
+        "url": "https://t.co/QoMf426pqO",
+        "username": "NeworderforYou",
+        "verified": false
+      }
+    ]
+  }
+}

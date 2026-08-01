@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989305974323318784",
+        "3_1989305974314913792"
+      ],
+      "media_source_tweet_id": [
+        "1989305979276808609",
+        "1989305979276808609"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1989483092575396328",
+    "created_at": "2025-11-14T23:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T00:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989483092575396328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1951304134847873024",
+          "start": 3,
+          "username": "Rei_rkgk__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Q9nRSfxTA",
+          "end": 49,
+          "expanded_url": "https://x.com/Rei_rkgk__/status/1989305979276808609/photo/1",
+          "media_key": "3_1989305974323318784",
+          "start": 26,
+          "url": "https://t.co/2Q9nRSfxTA"
+        },
+        {
+          "display_url": "pic.x.com/2Q9nRSfxTA",
+          "end": 49,
+          "expanded_url": "https://x.com/Rei_rkgk__/status/1989305979276808609/photo/1",
+          "media_key": "3_1989305974314913792",
+          "start": 26,
+          "url": "https://t.co/2Q9nRSfxTA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989483092575396328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989305979276808609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rei_rkgk__: 並べたかっただけ。 https://t.co/2Q9nRSfxTA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989305974323318784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tvPm0akAAJeGc.jpg",
+        "width": 1380
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989305974314913792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tvPmyaUAAmdEa.jpg",
+        "width": 1388
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989305974323318784",
+            "3_1989305974314913792"
+          ],
+          "media_source_tweet_id": [
+            "1989305979276808609",
+            "1989305979276808609"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1989483092575396328",
+        "created_at": "2025-11-14T23:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T00:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989483092575396328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1951304134847873024",
+              "start": 3,
+              "username": "Rei_rkgk__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Q9nRSfxTA",
+              "end": 49,
+              "expanded_url": "https://x.com/Rei_rkgk__/status/1989305979276808609/photo/1",
+              "media_key": "3_1989305974323318784",
+              "start": 26,
+              "url": "https://t.co/2Q9nRSfxTA"
+            },
+            {
+              "display_url": "pic.x.com/2Q9nRSfxTA",
+              "end": 49,
+              "expanded_url": "https://x.com/Rei_rkgk__/status/1989305979276808609/photo/1",
+              "media_key": "3_1989305974314913792",
+              "start": 26,
+              "url": "https://t.co/2Q9nRSfxTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989483092575396328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989305979276808609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rei_rkgk__: 並べたかっただけ。 https://t.co/2Q9nRSfxTA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989305974323318784",
+            "3_1989305974314913792"
+          ]
+        },
+        "author_id": "1951304134847873024",
+        "conversation_id": "1989305979276808609",
+        "created_at": "2025-11-14T12:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989305979276808609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Q9nRSfxTA",
+              "end": 33,
+              "expanded_url": "https://x.com/Rei_rkgk__/status/1989305979276808609/photo/1",
+              "media_key": "3_1989305974323318784",
+              "start": 10,
+              "url": "https://t.co/2Q9nRSfxTA"
+            },
+            {
+              "display_url": "pic.x.com/2Q9nRSfxTA",
+              "end": 33,
+              "expanded_url": "https://x.com/Rei_rkgk__/status/1989305979276808609/photo/1",
+              "media_key": "3_1989305974314913792",
+              "start": 10,
+              "url": "https://t.co/2Q9nRSfxTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989305979276808609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 6605,
+          "like_count": 977,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "並べたかっただけ。 https://t.co/2Q9nRSfxTA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 852,
+          "like_count": 5479,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1972
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T15:29:05.000Z",
+        "description": "@NLH_00_のｻﾌﾞ┊︎🗝→@Rei_des_08",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "NLH_00_"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Rei_des_08"
+              }
+            ]
+          }
+        },
+        "id": "1951304134847873024",
+        "location": "アイコンとヘッダーは頂きました！！！",
+        "name": "¿?のサブ垢",
+        "pinned_tweet_id": "1951449606795214984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202618145595393/qYpFeC7U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4126,
+          "following_count": 88,
+          "like_count": 1792,
+          "listed_count": 7,
+          "media_count": 80,
+          "tweet_count": 1518
+        },
+        "username": "Rei_rkgk__",
+        "verified": false
+      }
+    ]
+  }
+}

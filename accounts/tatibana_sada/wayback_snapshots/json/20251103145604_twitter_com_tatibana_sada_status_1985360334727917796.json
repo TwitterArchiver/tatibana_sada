@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985360334727917796",
+    "created_at": "2025-11-03T14:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T15:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985360334727917796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xngqnqn1/statu…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/xngqnqn1/status/1985357255567691900",
+          "start": 28,
+          "url": "https://t.co/bHzv1dTqYZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985360334727917796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985357255567691900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推友们不知道我跟你们提一嘴，老谷歌差点成了我的老相好。 https://t.co/bHzv1dTqYZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985360334727917796",
+        "created_at": "2025-11-03T14:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985360334727917796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xngqnqn1/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/xngqnqn1/status/1985357255567691900",
+              "start": 28,
+              "url": "https://t.co/bHzv1dTqYZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985360334727917796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985357255567691900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推友们不知道我跟你们提一嘴，老谷歌差点成了我的老相好。 https://t.co/bHzv1dTqYZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625782314151350274",
+        "conversation_id": "1985258084449890450",
+        "created_at": "2025-11-03T14:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985357255567691900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "816363062894563328",
+              "start": 0,
+              "username": "templar3271"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985357255567691900",
+        "in_reply_to_user_id": "816363062894563328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985258084449890450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@templar3271 草…但其实…梵公子王环宇柯里斯老谷歌才是专业的。任十八过于注重广度，但不专业。我看李新野明明是抄袭了那几个专业人士！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 709,
+          "like_count": 4361,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1700
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T09:01:38.000Z",
+        "description": "",
+        "id": "1625782314151350274",
+        "name": "性侵寝",
+        "pinned_tweet_id": "1977748762077319303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981754361312129024/TehMH9qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 184,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1675
+        },
+        "username": "xngqnqn1",
+        "verified": false
+      }
+    ]
+  }
+}

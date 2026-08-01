@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986002679026573312"
+      ],
+      "media_source_tweet_id": [
+        "1986002683803918815"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986067606156321122",
+    "created_at": "2025-11-05T13:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T14:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986067606156321122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708032299445735424",
+          "start": 3,
+          "username": "t4_yokai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gqhi9D5rgV",
+          "end": 37,
+          "expanded_url": "https://x.com/t4_yokai/status/1986002683803918815/photo/1",
+          "media_key": "3_1986002679026573312",
+          "start": 14,
+          "url": "https://t.co/gqhi9D5rgV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986067606156321122",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986002683803918815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @t4_yokai: https://t.co/gqhi9D5rgV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986002679026573312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-y6g5aYAAo_WW.jpg",
+        "width": 1358
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986002679026573312"
+          ],
+          "media_source_tweet_id": [
+            "1986002683803918815"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986067606156321122",
+        "created_at": "2025-11-05T13:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T14:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986067606156321122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708032299445735424",
+              "start": 3,
+              "username": "t4_yokai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gqhi9D5rgV",
+              "end": 37,
+              "expanded_url": "https://x.com/t4_yokai/status/1986002683803918815/photo/1",
+              "media_key": "3_1986002679026573312",
+              "start": 14,
+              "url": "https://t.co/gqhi9D5rgV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986067606156321122",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986002683803918815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @t4_yokai: https://t.co/gqhi9D5rgV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986002679026573312"
+          ]
+        },
+        "author_id": "1708032299445735424",
+        "conversation_id": "1986002683803918815",
+        "created_at": "2025-11-05T09:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T10:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986002683803918815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gqhi9D5rgV",
+              "end": 23,
+              "expanded_url": "https://x.com/t4_yokai/status/1986002683803918815/photo/1",
+              "media_key": "3_1986002679026573312",
+              "start": 0,
+              "url": "https://t.co/gqhi9D5rgV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986002683803918815",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 6521,
+          "like_count": 934,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gqhi9D5rgV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 745,
+          "like_count": 4740,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1793
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T08:13:39.000Z",
+        "description": "◇絵が好きです。◇中性的な雰囲気が得意。◇お仕事に関するご相談受け付けております 。サブ垢▶︎(@sub_kowa)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "sub_kowa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/t4kuw4",
+                "end": 23,
+                "expanded_url": "https://lit.link/t4kuw4",
+                "start": 0,
+                "url": "https://t.co/8gXwiJqiX1"
+              }
+            ]
+          }
+        },
+        "id": "1708032299445735424",
+        "location": "イラストの無断使用及び転載は禁止しております。",
+        "name": "たくわ。",
+        "pinned_tweet_id": "1976583089452351552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920385949105573889/NAfKA4gS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10723,
+          "following_count": 126,
+          "like_count": 1307,
+          "listed_count": 54,
+          "media_count": 143,
+          "tweet_count": 1000
+        },
+        "url": "https://t.co/8gXwiJqiX1",
+        "username": "t4_yokai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1982062407729217823",
+    "created_at": "2025-10-26T23:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T00:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982597704179167280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1698001955422175232",
+          "start": 0,
+          "username": "d07207333210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982597704179167280",
+    "in_reply_to_user_id": "1698001955422175232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982062407729217823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d07207333210 说起来这真的是马上要流行起来的思路。\n一些男权正在讨论，捧一个男娘王出来，然后说女权都是terf，我们才是多元文化人权的代表。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1982062407729217823",
+        "created_at": "2025-10-26T23:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T00:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982597704179167280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1698001955422175232",
+              "start": 0,
+              "username": "d07207333210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982597704179167280",
+        "in_reply_to_user_id": "1698001955422175232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982062407729217823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d07207333210 说起来这真的是马上要流行起来的思路。\n一些男权正在讨论，捧一个男娘王出来，然后说女权都是terf，我们才是多元文化人权的代表。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698001955422175232",
+        "conversation_id": "1982062407729217823",
+        "created_at": "2025-10-25T12:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T13:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982062407729217823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linmaomao2020/…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/linmaomao2020/status/1981420031377625480",
+              "start": 112,
+              "url": "https://t.co/91P6Ezqrl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982062407729217823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2715,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981420031377625480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死爹东西你最亲爱的魏德尔就一群白男推出来装点门面的和南亚移民结成伴侣的女同性恋，目的就是为了把党内90%的公的议员支持的压迫女性的政策，粉饰成“保守的传统家庭可以保护女性”，以后男的干坏事女在台前洗地背锅，这就是你支持的哈 https://t.co/91P6Ezqrl0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 631,
+          "like_count": 3517,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1612
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T15:56:46.000Z",
+        "description": "非二元/键政/哲学/日常话题",
+        "id": "1698001955422175232",
+        "name": "邓曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887491431230799872/ycq9KVCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 772,
+          "like_count": 18423,
+          "listed_count": 4,
+          "media_count": 355,
+          "tweet_count": 4143
+        },
+        "username": "d07207333210",
+        "verified": false
+      }
+    ]
+  }
+}

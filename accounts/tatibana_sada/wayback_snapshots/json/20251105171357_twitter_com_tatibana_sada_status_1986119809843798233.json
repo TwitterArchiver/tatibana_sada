@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986119809843798233",
+    "created_at": "2025-11-05T17:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T18:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986119809843798233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chnjnhng738472…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/chnjnhng738472/status/1984870138588381208",
+          "start": 30,
+          "url": "https://t.co/y9xC7Mrl1L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986119809843798233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984870138588381208",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "wow！！！还有辞章之道！\n谁懂阿里激推看到这个的幸福感。 https://t.co/y9xC7Mrl1L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1984870105684045824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4us2EaW8AADe2z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986119809843798233",
+        "created_at": "2025-11-05T17:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T18:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986119809843798233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chnjnhng738472…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/chnjnhng738472/status/1984870138588381208",
+              "start": 30,
+              "url": "https://t.co/y9xC7Mrl1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986119809843798233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984870138588381208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wow！！！还有辞章之道！\n谁懂阿里激推看到这个的幸福感。 https://t.co/y9xC7Mrl1L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984870105684045824"
+          ]
+        },
+        "author_id": "1938140109792325632",
+        "conversation_id": "1984870138588381208",
+        "created_at": "2025-11-02T06:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T07:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984870138588381208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qy7h7Lv5fI",
+              "end": 27,
+              "expanded_url": "https://x.com/chnjnhng738472/status/1984870138588381208/photo/1",
+              "media_key": "3_1984870105684045824",
+              "start": 4,
+              "url": "https://t.co/qy7h7Lv5fI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984870138588381208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑纳！ https://t.co/qy7h7Lv5fI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 756,
+          "like_count": 4781,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1811
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T07:40:26.000Z",
+        "description": "自律，忍耐，忏悔，祈祷。清洁，顺从。记主。",
+        "id": "1938140109792325632",
+        "location": "在那时",
+        "name": "在你死去前就要死去",
+        "pinned_tweet_id": "1983765851234038155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983786255386046464/pKLbSSvX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 229,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1110
+        },
+        "username": "chnjnhng738472",
+        "verified": false
+      }
+    ]
+  }
+}

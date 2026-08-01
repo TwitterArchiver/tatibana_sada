@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2055252054696661113",
+    "created_at": "2026-05-15T19:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T20:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055377231304892556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2035474392386506752",
+          "start": 0,
+          "username": "Alyxhoppe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055377231304892556",
+    "in_reply_to_user_id": "2035474392386506752",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055252054696661113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alyxhoppe China is more ancap that any westerner thoughts...... before xi 2012 took power. Even after it."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34435,
+        "height": 480,
+        "media_key": "13_2055252017723944960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055252017723944960/img/i27c_SWLA__xCr0M.jpg",
+        "public_metrics": {
+          "view_count": 222
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055252017723944960/vid/avc1/320x320/R5wk4EOosij_MHLJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055252017723944960/vid/avc1/480x480/02HIT27ds8eZIhiT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055252017723944960/pl/qGC3l8FMH21sKkQS.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2055252054696661113",
+        "created_at": "2026-05-15T19:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055377231304892556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2035474392386506752",
+              "start": 0,
+              "username": "Alyxhoppe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055377231304892556",
+        "in_reply_to_user_id": "2035474392386506752",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055252054696661113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alyxhoppe China is more ancap that any westerner thoughts...... before xi 2012 took power. Even after it."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055252017723944960"
+          ]
+        },
+        "author_id": "2035474392386506752",
+        "conversation_id": "2055252054696661113",
+        "created_at": "2026-05-15T11:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055252054696661113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BmMmXwGMB3",
+              "end": 65,
+              "expanded_url": "https://x.com/Alyxhoppe/status/2055252054696661113/video/1",
+              "media_key": "13_2055252017723944960",
+              "start": 42,
+              "url": "https://t.co/BmMmXwGMB3"
+            },
+            {
+              "display_url": "x.com/BrandonSoFlo/s…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/BrandonSoFlo/status/2054561306867347456",
+              "start": 66,
+              "url": "https://t.co/Hq8tE27j79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055252054696661113",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 686,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054561306867347456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "\"North korea bad. Leftist bad, china bad\" https://t.co/BmMmXwGMB3 https://t.co/Hq8tE27j79"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1082,
+          "like_count": 7741,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2552
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T21:52:04.000Z",
+        "description": "this account for my hobby || 22 || libertarian  || feel yourself here as home",
+        "id": "2035474392386506752",
+        "name": "Alyx_Femboy",
+        "pinned_tweet_id": "2042571310916641256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039273060948393985/_PAD52ZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 108,
+          "like_count": 184,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 200
+        },
+        "username": "Alyxhoppe",
+        "verified": false
+      }
+    ]
+  }
+}

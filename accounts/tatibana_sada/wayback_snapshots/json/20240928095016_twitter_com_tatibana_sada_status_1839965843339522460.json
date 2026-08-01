@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1839965843339522460",
+    "created_at": "2024-09-28T09:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T10:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1839965843339522460"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1839965843339522460",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一针日雌推入体，我命由我不由天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1839965843339522460",
+        "created_at": "2024-09-28T09:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T10:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839965843339522460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1839965843339522460",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一针日雌推入体，我命由我不由天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 512,
+          "like_count": 2804,
+          "listed_count": 1,
+          "tweet_count": 1436
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

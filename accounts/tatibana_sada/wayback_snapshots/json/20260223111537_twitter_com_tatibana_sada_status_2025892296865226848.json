@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2025600269502091668",
+    "created_at": "2026-02-23T11:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T12:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025892296865226848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1622255626066731010",
+          "start": 0,
+          "username": "SagerRgyalpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025892296865226848",
+    "in_reply_to_user_id": "1622255626066731010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025600269502091668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SagerRgyalpo 男性是一种处境"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1590,
+        "media_key": "3_2025600217618472960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxgqnQaYAAFfca.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1592,
+        "media_key": "3_2025600217631076353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxgqnTasAEwF8y.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1509,
+        "media_key": "3_2025600217605906432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxgqnNaoAA6XJB.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2025600269502091668",
+        "created_at": "2026-02-23T11:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025892296865226848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1622255626066731010",
+              "start": 0,
+              "username": "SagerRgyalpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025892296865226848",
+        "in_reply_to_user_id": "1622255626066731010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025600269502091668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SagerRgyalpo 男性是一种处境"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025600217618472960",
+            "3_2025600217631076353",
+            "3_2025600217605906432"
+          ]
+        },
+        "author_id": "1622255626066731010",
+        "conversation_id": "2025600269502091668",
+        "created_at": "2026-02-22T15:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025600269502091668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/buFiX55Hth",
+              "end": 67,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2025600269502091668/photo/1",
+              "media_key": "3_2025600217618472960",
+              "start": 44,
+              "url": "https://t.co/buFiX55Hth"
+            },
+            {
+              "display_url": "pic.x.com/buFiX55Hth",
+              "end": 67,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2025600269502091668/photo/1",
+              "media_key": "3_2025600217631076353",
+              "start": 44,
+              "url": "https://t.co/buFiX55Hth"
+            },
+            {
+              "display_url": "pic.x.com/buFiX55Hth",
+              "end": 67,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2025600269502091668/photo/1",
+              "media_key": "3_2025600217605906432",
+              "start": 44,
+              "url": "https://t.co/buFiX55Hth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025600269502091668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 39187,
+          "like_count": 175,
+          "quote_count": 4,
+          "reply_count": 18,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "湛江妈祖换童事件：大量女权人士质疑官方通告的真实性，她们坚称上轿的十岁短发儿童为男孩。 https://t.co/buFiX55Hth"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 1010,
+          "like_count": 7316,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2456
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "欢迎私信投稿｜女男平等｜gender equality｜반여권｜アンチフェミ｜антифем｜🕊️☮️｜🚫🪶",
+        "id": "1622255626066731010",
+        "location": "Russia",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998597064276717571/syqfEMmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8991,
+          "following_count": 880,
+          "like_count": 1041,
+          "listed_count": 30,
+          "media_count": 1519,
+          "tweet_count": 3499
+        },
+        "username": "SagerRgyalpo",
+        "verified": true
+      }
+    ]
+  }
+}

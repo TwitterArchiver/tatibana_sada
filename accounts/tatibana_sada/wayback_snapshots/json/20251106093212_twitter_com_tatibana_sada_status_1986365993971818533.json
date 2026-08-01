@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986365981862899712"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986365993971818533",
+    "created_at": "2025-11-06T09:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T10:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986365993971818533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ht1kB0FdO9",
+          "end": 62,
+          "expanded_url": "https://x.com/tatibana_sada/status/1986365993971818533/photo/1",
+          "media_key": "3_1986365981862899712",
+          "start": 39,
+          "url": "https://t.co/Ht1kB0FdO9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986365993971818533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "暂定淡推一段时日。\n是该处理一点事情了。\n约莫也是期望着了，能很快复活的话。 https://t.co/Ht1kB0FdO9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 831,
+        "media_key": "3_1986365981862899712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5D9VhbbsAAkySE.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986365981862899712"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986365993971818533",
+        "created_at": "2025-11-06T09:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T10:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986365993971818533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ht1kB0FdO9",
+              "end": 62,
+              "expanded_url": "https://x.com/tatibana_sada/status/1986365993971818533/photo/1",
+              "media_key": "3_1986365981862899712",
+              "start": 39,
+              "url": "https://t.co/Ht1kB0FdO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986365993971818533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暂定淡推一段时日。\n是该处理一点事情了。\n约莫也是期望着了，能很快复活的话。 https://t.co/Ht1kB0FdO9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 773,
+          "like_count": 4880,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1832
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

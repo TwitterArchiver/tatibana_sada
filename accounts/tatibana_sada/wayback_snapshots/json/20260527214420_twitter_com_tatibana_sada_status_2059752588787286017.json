@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059738350010188024",
+    "created_at": "2026-05-27T21:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T22:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059752588787286017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1978352432301387776",
+          "start": 0,
+          "username": "zhngjing322708"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059752588787286017",
+    "in_reply_to_user_id": "1978352432301387776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059738350010188024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngjing322708 看看黑丝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2177,
+        "media_key": "3_2059738342653382656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWpHBQbUAAakR-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059738350010188024",
+        "created_at": "2026-05-27T21:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T22:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059752588787286017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1978352432301387776",
+              "start": 0,
+              "username": "zhngjing322708"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059752588787286017",
+        "in_reply_to_user_id": "1978352432301387776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059738350010188024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngjing322708 看看黑丝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059738342653382656"
+          ]
+        },
+        "author_id": "1978352432301387776",
+        "conversation_id": "2059738350010188024",
+        "created_at": "2026-05-27T20:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T21:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059738350010188024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20597…",
+              "end": 36,
+              "expanded_url": "https://x.com/i/status/2059728810178699606",
+              "start": 13,
+              "url": "https://t.co/PHWxxGWJ3K"
+            },
+            {
+              "display_url": "pic.x.com/hU0mhMht9b",
+              "end": 60,
+              "expanded_url": "https://x.com/zhngjing322708/status/2059738350010188024/photo/1",
+              "media_key": "3_2059738342653382656",
+              "start": 37,
+              "url": "https://t.co/hU0mhMht9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059738350010188024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059728810178699606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他誹謗我😭，我怎麼成澀推了https://t.co/PHWxxGWJ3K https://t.co/hU0mhMht9b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 1238,
+          "like_count": 8868,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2984
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T06:49:29.000Z",
+        "description": "自由若沒有社會主義，就是特權與不公；社會主義若沒有自由，就是奴役與野蠻.中國共產黨新左派|左翼|自由意志社會主義|民主社會主義|共產主義|Liberté· Égalité· Fraternité🇫🇷|王粉，或許是夢女|妹妹@Zhmgws19120101",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 111,
+                "username": "Zhmgws19120101"
+              }
+            ]
+          }
+        },
+        "id": "1978352432301387776",
+        "name": "征酱☭❂🇹🇼🇨🇳🇨🇵",
+        "pinned_tweet_id": "2057599852926955851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048333279439527936/OofHnm3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 257,
+          "like_count": 10486,
+          "listed_count": 5,
+          "media_count": 1233,
+          "tweet_count": 3987
+        },
+        "username": "zhngjing322708",
+        "verified": false
+      }
+    ]
+  }
+}

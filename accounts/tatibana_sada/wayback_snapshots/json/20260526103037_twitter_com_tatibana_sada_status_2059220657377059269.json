@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059219870852788272",
+    "created_at": "2026-05-26T10:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059220657377059269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965448764686303235",
+          "start": 0,
+          "username": "mio_negimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059220657377059269",
+    "in_reply_to_user_id": "1965448764686303235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059219870852788272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio_negimeow 我知道你们格外喜爱粉红色泡泡麻醉剂了，不用特别提醒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059219870852788272",
+        "created_at": "2026-05-26T10:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059220657377059269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965448764686303235",
+              "start": 0,
+              "username": "mio_negimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059220657377059269",
+        "in_reply_to_user_id": "1965448764686303235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059219870852788272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio_negimeow 我知道你们格外喜爱粉红色泡泡麻醉剂了，不用特别提醒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965448764686303235",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2059219870852788272",
+        "created_at": "2026-05-26T10:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059219870852788272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatibana_sada/…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/tatibana_sada/status/2058910468329394675",
+              "start": 127,
+              "url": "https://t.co/IyJMdgwmUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059219870852788272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058910468329394675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么说吧，前几天玩本地模型，部署了一个Uncensored model\n我和它聊“死亡”和“自杀”，它可以冷静到极致，说出很多突破人伦底线的话\n诚然，有些东西在社会学角度完全成立\n但成立≠你可以冠冕堂皇把这些话说出来，并且获得关注\n这是人和畜生的区别。 https://t.co/IyJMdgwmUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 1217,
+          "like_count": 8718,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2914
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:14:58.000Z",
+        "description": "aka. Snowmiku❄️｜姛｜Feminist ｜喜欢探索世界的理工女 ｜ 日常碎碎念  |  是什么呢？顾名思义是一只葱，那为什么是酱葱呢，因为葱酱很可爱！（无端//）",
+        "id": "1965448764686303235",
+        "name": "酱葱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993376877587972104/nec22BPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 73,
+          "like_count": 873,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 486
+        },
+        "username": "mio_negimeow",
+        "verified": false
+      }
+    ]
+  }
+}

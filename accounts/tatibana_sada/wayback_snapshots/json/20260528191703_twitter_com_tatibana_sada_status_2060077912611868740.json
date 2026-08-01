@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059795251187843076"
+      ],
+      "media_source_tweet_id": [
+        "2059795253410885885"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2060077912611868740",
+    "created_at": "2026-05-28T19:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060077912611868740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sFwLaUflu5",
+          "end": 48,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2059795253410885885/photo/1",
+          "media_key": "3_2059795251187843076",
+          "start": 25,
+          "url": "https://t.co/sFwLaUflu5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060077912611868740",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059795253410885885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: 望周知 https://t.co/sFwLaUflu5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2059795251187843076",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXc3iEWgAQTqH2.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059795251187843076"
+          ],
+          "media_source_tweet_id": [
+            "2059795253410885885"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2060077912611868740",
+        "created_at": "2026-05-28T19:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060077912611868740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sFwLaUflu5",
+              "end": 48,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2059795253410885885/photo/1",
+              "media_key": "3_2059795251187843076",
+              "start": 25,
+              "url": "https://t.co/sFwLaUflu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060077912611868740",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059795253410885885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: 望周知 https://t.co/sFwLaUflu5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059795251187843076"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2059795253410885885",
+        "created_at": "2026-05-28T00:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059795253410885885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sFwLaUflu5",
+              "end": 27,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2059795253410885885/photo/1",
+              "media_key": "3_2059795251187843076",
+              "start": 4,
+              "url": "https://t.co/sFwLaUflu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059795253410885885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 16327,
+          "like_count": 179,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "望周知 https://t.co/sFwLaUflu5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 1247,
+          "like_count": 8922,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3029
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🥰 https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya\n⚜️@irisdesombres\n📣 @amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "amber_digit"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5356,
+          "following_count": 916,
+          "like_count": 4061,
+          "listed_count": 12,
+          "media_count": 92,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

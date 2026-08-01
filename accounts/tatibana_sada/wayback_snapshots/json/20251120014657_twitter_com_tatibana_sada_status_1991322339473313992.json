@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990391319194468352"
+      ],
+      "media_source_tweet_id": [
+        "1990980096484659522"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991322339473313992",
+    "created_at": "2025-11-20T01:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T02:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991322339473313992"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "瑞希",
+          "probability": 0.569,
+          "start": 25,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1634578050653507585",
+          "start": 3,
+          "username": "__Nailis__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3aVhEAgJ9E",
+          "end": 51,
+          "expanded_url": "https://x.com/__Nailis__/status/1990980096484659522/photo/1",
+          "media_key": "3_1990391319194468352",
+          "start": 28,
+          "url": "https://t.co/3aVhEAgJ9E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991322339473313992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990980096484659522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Nailis__: ロストアンブレラの瑞希 https://t.co/3aVhEAgJ9E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2280,
+        "media_key": "3_1990391319194468352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59KW_ibgAA0xPf.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990391319194468352"
+          ],
+          "media_source_tweet_id": [
+            "1990980096484659522"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991322339473313992",
+        "created_at": "2025-11-20T01:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T02:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991322339473313992"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "瑞希",
+              "probability": 0.569,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634578050653507585",
+              "start": 3,
+              "username": "__Nailis__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3aVhEAgJ9E",
+              "end": 51,
+              "expanded_url": "https://x.com/__Nailis__/status/1990980096484659522/photo/1",
+              "media_key": "3_1990391319194468352",
+              "start": 28,
+              "url": "https://t.co/3aVhEAgJ9E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991322339473313992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990980096484659522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Nailis__: ロストアンブレラの瑞希 https://t.co/3aVhEAgJ9E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990391319194468352"
+          ]
+        },
+        "author_id": "1634578050653507585",
+        "conversation_id": "1990980096484659522",
+        "created_at": "2025-11-19T03:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T04:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990980096484659522"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "瑞希",
+              "probability": 0.5304,
+              "start": 9,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3aVhEAgJ9E",
+              "end": 35,
+              "expanded_url": "https://x.com/__Nailis__/status/1990980096484659522/photo/1",
+              "media_key": "3_1990391319194468352",
+              "start": 12,
+              "url": "https://t.co/3aVhEAgJ9E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990980096484659522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 13437,
+          "like_count": 1897,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "ロストアンブレラの瑞希 https://t.co/3aVhEAgJ9E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 870,
+          "like_count": 5678,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 2036
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T15:32:36.000Z",
+        "description": "プロセカイラスト投稿してます。\nニーゴ推し\nイラストは全てAI生成です。\npixiv:https://t.co/LzFbbFlKDx\nお題箱:https://t.co/1aF1L7zkdE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/87610448",
+                "end": 66,
+                "expanded_url": "http://pixiv.net/users/87610448",
+                "start": 43,
+                "url": "https://t.co/LzFbbFlKDx"
+              },
+              {
+                "display_url": "odaibako.net/u/__Nailis__",
+                "end": 94,
+                "expanded_url": "http://odaibako.net/u/__Nailis__",
+                "start": 71,
+                "url": "https://t.co/1aF1L7zkdE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nailis3206/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nailis3206/",
+                "start": 0,
+                "url": "https://t.co/uCN1a6BewU"
+              }
+            ]
+          }
+        },
+        "id": "1634578050653507585",
+        "location": "ComfyUI,Krita",
+        "name": "Nailis",
+        "pinned_tweet_id": "1800404761268904005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762479072628903936/nlYbqZS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54425,
+          "following_count": 26,
+          "like_count": 3593,
+          "listed_count": 205,
+          "media_count": 3707,
+          "tweet_count": 5046
+        },
+        "url": "https://t.co/uCN1a6BewU",
+        "username": "__Nailis__",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "id": "1517551468953227264",
+          "name": "Bank of Japan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+          "id": "1011352563667558400",
+          "name": "Economic Issues in Japan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1417415621281673217",
+          "name": "Central Banks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1517551468953227264",
+          "name": "Bank of Japan"
+        }
+      }
+    ],
+    "conversation_id": "2075033133079290167",
+    "created_at": "2026-07-09T01:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T02:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075033133079290167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "share.google/o7rjCEyn9Ed4GE…",
+          "end": 23,
+          "expanded_url": "https://share.google/o7rjCEyn9Ed4GEOSF",
+          "start": 0,
+          "url": "https://t.co/6wXlKMvgkb"
+        },
+        {
+          "display_url": "x.com/yutokanzakirea…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/yutokanzakireal/status/2074183366048641243",
+          "start": 24,
+          "url": "https://t.co/oNUWqmu7q0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075033133079290167",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074183366048641243",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/6wXlKMvgkb https://t.co/oNUWqmu7q0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1517551468953227264",
+              "name": "Bank of Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1417415621281673217",
+              "name": "Central Banks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517551468953227264",
+              "name": "Bank of Japan"
+            }
+          }
+        ],
+        "conversation_id": "2075033133079290167",
+        "created_at": "2026-07-09T01:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075033133079290167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "share.google/o7rjCEyn9Ed4GE…",
+              "end": 23,
+              "expanded_url": "https://share.google/o7rjCEyn9Ed4GEOSF",
+              "start": 0,
+              "url": "https://t.co/6wXlKMvgkb"
+            },
+            {
+              "display_url": "x.com/yutokanzakirea…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yutokanzakireal/status/2074183366048641243",
+              "start": 24,
+              "url": "https://t.co/oNUWqmu7q0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075033133079290167",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074183366048641243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/6wXlKMvgkb https://t.co/oNUWqmu7q0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876336840153640960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1517551468953227264",
+              "name": "Bank of Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1417415621281673217",
+              "name": "Central Banks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1517551468953227264",
+              "name": "Bank of Japan"
+            }
+          }
+        ],
+        "conversation_id": "2074183366048641243",
+        "created_at": "2026-07-06T17:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074183366048641243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074183366048641243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4159,
+          "impression_count": 6753990,
+          "like_count": 14056,
+          "quote_count": 946,
+          "reply_count": 1036,
+          "retweet_count": 2425
+        },
+        "reply_settings": "everyone",
+        "text": "日本銀行が準備している措置は、数十億の人々の生活に影響を与えるでしょう。\n\n西側諸国の皆様、深くお詫び申し上げます。\n\nこれは個人的な問題ではありません。\n\n神のご加護がありますように。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1412,
+          "like_count": 9817,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 3348
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T18:35:52.000Z",
+        "description": "BoJ. 中央銀行、デジタル通貨、国境を越えた決済。 安全のため匿名。断片的な真実。それはすべて嘘だ。",
+        "id": "1876336840153640960",
+        "name": "Yuto 🇯🇵",
+        "pinned_tweet_id": "1889249726895173699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960359050421448704/yj7xVqG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32209,
+          "following_count": 0,
+          "like_count": 1212,
+          "listed_count": 144,
+          "media_count": 3,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "yutokanzakireal",
+        "verified": true
+      }
+    ]
+  }
+}

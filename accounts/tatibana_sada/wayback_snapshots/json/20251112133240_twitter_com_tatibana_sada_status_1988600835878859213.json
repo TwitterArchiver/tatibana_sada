@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988251181076947442",
+    "created_at": "2025-11-12T13:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T14:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988600835878859213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "17757389",
+          "start": 0,
+          "username": "linfavourite"
+        },
+        {
+          "end": 27,
+          "id": "1665710956264169473",
+          "start": 14,
+          "username": "SharkyShark0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988600835878859213",
+    "in_reply_to_user_id": "17757389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988532647417549291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linfavourite @SharkyShark0 这本来就是正统马克思主义的论调啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988251181076947442",
+        "created_at": "2025-11-12T13:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988600835878859213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "17757389",
+              "start": 0,
+              "username": "linfavourite"
+            },
+            {
+              "end": 27,
+              "id": "1665710956264169473",
+              "start": 14,
+              "username": "SharkyShark0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988600835878859213",
+        "in_reply_to_user_id": "17757389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988532647417549291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linfavourite @SharkyShark0 这本来就是正统马克思主义的论调啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17757389",
+        "conversation_id": "1988251181076947442",
+        "created_at": "2025-11-12T09:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T10:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988532647417549291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1665710956264169473",
+              "start": 0,
+              "username": "SharkyShark0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988532647417549291",
+        "in_reply_to_user_id": "1665710956264169473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988528560353767819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SharkyShark0 「社會主義是資本主義下的產物。」\n\n你自己讀一讀覺得好笑不？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 818,
+          "like_count": 5244,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1918
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-30T16:56:52.000Z",
+        "description": "支持人權、民主、自由。 支持LGBTQIA+社群。 鋼鐵反共主義。 自由女性主義。 無神論。 極其離地。 雲吸貓。 肉食動物。 甜食黨。 境外勢力。 性別認同：男。談書帳：@LinFavBooks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 86,
+                "username": "LinFavBooks"
+              }
+            ]
+          }
+        },
+        "id": "17757389",
+        "name": "坐在桌上沉思的貓咪",
+        "pinned_tweet_id": "1458075494956421129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964515169574539266/zxGwrvO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2982,
+          "following_count": 1946,
+          "like_count": 408400,
+          "listed_count": 17,
+          "media_count": 3180,
+          "tweet_count": 225904
+        },
+        "username": "linfavourite",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-05T13:23:40.000Z",
+        "description": "理性客观，不该中立的时候绝不中立。\n有反对意见欢迎一起探讨，骂人我会block。",
+        "id": "1665710956264169473",
+        "location": "疯狂宇宙",
+        "name": "鲨鲨零",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665755213477842948/-s5QqqmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 325,
+          "like_count": 54109,
+          "listed_count": 5,
+          "media_count": 98,
+          "tweet_count": 4103
+        },
+        "username": "SharkyShark0",
+        "verified": false
+      }
+    ]
+  }
+}

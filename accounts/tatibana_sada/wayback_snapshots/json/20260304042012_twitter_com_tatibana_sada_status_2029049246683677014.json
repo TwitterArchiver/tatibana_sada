@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2029049192682012674"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2029049246683677014",
+    "created_at": "2026-03-04T04:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T05:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029049246683677014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hiOaAPZaot",
+          "end": 35,
+          "expanded_url": "https://x.com/tatibana_sada/status/2029049246683677014/video/1",
+          "media_key": "7_2029049192682012674",
+          "start": 12,
+          "url": "https://t.co/hiOaAPZaot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029049246683677014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这他妈是什么水手😱😱😱 https://t.co/hiOaAPZaot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28867,
+        "height": 1280,
+        "media_key": "7_2029049192682012674",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2029049192682012674/pu/img/2zJ6NrZah4ikF1Nx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029049192682012674/pu/vid/avc1/320x706/jLcUT2BRbzFGL8Kt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029049192682012674/pu/vid/avc1/480x1058/VtC7Ol3lZN4XMEom.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029049192682012674/pu/vid/avc1/580x1280/GxI5UbeEIJHoaUAQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2029049192682012674/pu/pl/dgd3L4rPDRk4bYpt.m3u8?tag=12"
+          }
+        ],
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2029049192682012674"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2029049246683677014",
+        "created_at": "2026-03-04T04:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029049246683677014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiOaAPZaot",
+              "end": 35,
+              "expanded_url": "https://x.com/tatibana_sada/status/2029049246683677014/video/1",
+              "media_key": "7_2029049192682012674",
+              "start": 12,
+              "url": "https://t.co/hiOaAPZaot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029049246683677014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这他妈是什么水手😱😱😱 https://t.co/hiOaAPZaot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 1006,
+          "like_count": 7419,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2474
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1963997598450336007",
+    "created_at": "2025-11-12T11:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T12:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988576405538639971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420072716963520520",
+          "start": 0,
+          "username": "meiqinyuban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988576405538639971",
+    "in_reply_to_user_id": "1420072716963520520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963997598450336007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiqinyuban 这张图里露出的骨相是没有问题的，很建议化个眼妆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1963997595472433152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0GFaEnbEAAwhNT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1963997598450336007",
+        "created_at": "2025-11-12T11:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988576405538639971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420072716963520520",
+              "start": 0,
+              "username": "meiqinyuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988576405538639971",
+        "in_reply_to_user_id": "1420072716963520520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963997598450336007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiqinyuban 这张图里露出的骨相是没有问题的，很建议化个眼妆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963997595472433152"
+          ]
+        },
+        "author_id": "1420072716963520520",
+        "conversation_id": "1963997598450336007",
+        "created_at": "2025-09-05T16:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T17:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963997598450336007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ojweug2e40",
+              "end": 25,
+              "expanded_url": "https://x.com/meiqinyuban/status/1963997598450336007/photo/1",
+              "media_key": "3_1963997595472433152",
+              "start": 2,
+              "url": "https://t.co/Ojweug2e40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963997598450336007",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2996,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👀 https://t.co/Ojweug2e40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 809,
+          "like_count": 5191,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1908
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "河北邯郸 中国CN/EN 双性恋 性别中立 纯爱天下第一！ 前雷石/视易系网络版KTV系统维保，娱乐级街机音游玩家/电子DIY  GNU/Linux  把我当男的当女的都行 或许是男娘（？ 在沧州黄骅上学，专科在读需要互fo请私信窝！",
+        "id": "1420072716963520520",
+        "location": "Handan Hebei China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "1963997598450336007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965688044788600832/HaT0uDQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 746,
+          "like_count": 12356,
+          "listed_count": 1,
+          "media_count": 1096,
+          "tweet_count": 6453
+        },
+        "username": "meiqinyuban",
+        "verified": false
+      }
+    ]
+  }
+}

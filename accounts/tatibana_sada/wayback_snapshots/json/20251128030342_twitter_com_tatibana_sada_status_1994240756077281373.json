@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1993806943115464760",
+    "created_at": "2025-11-28T03:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T04:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994240756077281373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963088360110530560",
+          "start": 0,
+          "username": "charlotte1020W"
+        },
+        {
+          "end": 26,
+          "id": "822282723616137216",
+          "start": 16,
+          "username": "Z_Rex2017"
+        },
+        {
+          "end": 43,
+          "id": "1933225223416864768",
+          "start": 27,
+          "username": "Araya_Touka_222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994240756077281373",
+    "in_reply_to_user_id": "1963088360110530560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994185506268004638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@charlotte1020W @Z_Rex2017 @Araya_Touka_222 大一统是一个大暴君，大混战是十个小暴君"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1993806943115464760",
+        "created_at": "2025-11-28T03:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994240756077281373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963088360110530560",
+              "start": 0,
+              "username": "charlotte1020W"
+            },
+            {
+              "end": 26,
+              "id": "822282723616137216",
+              "start": 16,
+              "username": "Z_Rex2017"
+            },
+            {
+              "end": 43,
+              "id": "1933225223416864768",
+              "start": 27,
+              "username": "Araya_Touka_222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994240756077281373",
+        "in_reply_to_user_id": "1963088360110530560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994185506268004638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charlotte1020W @Z_Rex2017 @Araya_Touka_222 大一统是一个大暴君，大混战是十个小暴君"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963088360110530560",
+        "conversation_id": "1993806943115464760",
+        "created_at": "2025-11-27T23:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T00:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994185506268004638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "822282723616137216",
+              "start": 0,
+              "username": "Z_Rex2017"
+            },
+            {
+              "end": 27,
+              "id": "1933225223416864768",
+              "start": 11,
+              "username": "Araya_Touka_222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994185506268004638",
+        "in_reply_to_user_id": "822282723616137216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994175176020275394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z_Rex2017 @Araya_Touka_222 大一統和大混戰並不是南北極的對立關係，中間也有過度。大一統思想指的是權利高度集中，某些程度上與封建帝制有相似之處"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 958,
+          "like_count": 6427,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2296
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T03:55:23.000Z",
+        "description": "18/流淌漢血和鮮卑血的荊楚人/intj/思維絕對理性/對本國歸屬感不強/精神狀態不明/接受噴幹部的，極度反感扭曲事實者/平等痛恨憎惡國內亂象/擊碎形式主義，踏破官僚主義",
+        "id": "1963088360110530560",
+        "location": "奣曟天穹聯盟國",
+        "name": "元胤希（源自🇨🇳暫居🇺🇸）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963088500477038592/bjJJq-Px_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 19,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 407
+        },
+        "username": "charlotte1020W",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-20T03:20:53.000Z",
+        "description": "English teacher in China / hardcore atheist/ interested in: biology, anthropology, history, politics, etc. 支持民主，反对民选。",
+        "id": "822282723616137216",
+        "name": "Psychohistorian",
+        "pinned_tweet_id": "1508622084108582913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508648569435492353/WbyULHJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 553,
+          "like_count": 6861,
+          "listed_count": 28,
+          "media_count": 1110,
+          "tweet_count": 45746
+        },
+        "username": "Z_Rex2017",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T18:11:38.000Z",
+        "description": "中文/English/Français \n现居魁北克的ACGN享受者\n我推：爱尔奎特，新谷灯華，咲畑梨深，荻浜茜，克蕾雅(大剑)\nJe me souviens!\n⚠ 我是挺🇺🇦🇮🇱的反川反绿右🐶。\n逃生仓：@Jaime_Rimi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 103,
+                "username": "Jaime_Rimi"
+              }
+            ]
+          }
+        },
+        "id": "1933225223416864768",
+        "location": "Québec ",
+        "name": "灯華⚜️",
+        "pinned_tweet_id": "1967171868399407510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933232115555975169/fCyh7BT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 7497,
+          "like_count": 27593,
+          "listed_count": 3,
+          "media_count": 451,
+          "tweet_count": 4071
+        },
+        "username": "Araya_Touka_222",
+        "verified": true
+      }
+    ]
+  }
+}

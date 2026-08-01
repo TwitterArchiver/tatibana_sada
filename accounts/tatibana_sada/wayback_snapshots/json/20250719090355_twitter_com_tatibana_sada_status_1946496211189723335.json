@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1946337556825583775",
+    "created_at": "2025-07-19T09:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T10:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946496211189723335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1502457747283001347",
+          "start": 0,
+          "username": "amongus1818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946496211189723335",
+    "in_reply_to_user_id": "1502457747283001347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946337556825583775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amongus1818 这有什么不好的？\n支黑三境界：共产党怎么这么坏压迫我们温和中国人/共产党怎么这么好镇压你们万恶支那人/共产党怎么这么坏拦住支那人争当张献忠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1946337556825583775",
+        "created_at": "2025-07-19T09:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T10:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946496211189723335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1502457747283001347",
+              "start": 0,
+              "username": "amongus1818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946496211189723335",
+        "in_reply_to_user_id": "1502457747283001347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946337556825583775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amongus1818 这有什么不好的？\n支黑三境界：共产党怎么这么坏压迫我们温和中国人/共产党怎么这么好镇压你们万恶支那人/共产党怎么这么坏拦住支那人争当张献忠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502457747283001347",
+        "conversation_id": "1946337556825583775",
+        "created_at": "2025-07-18T22:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T23:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946337556825583775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946337556825583775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 10393,
+          "like_count": 128,
+          "quote_count": 7,
+          "reply_count": 75,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "共产党要是倒了，中国人只会更悲惨。 \n\n你就用脚后跟想想：假如明天，所有的党员干部、官员、法院、警察、军队什么的都没了。\n你们中国人是上街强奸妇女，抢劫店铺和有钱人，找平时看着不爽的人殴打，欺负弱小。\n还是积极的组织起来，搞人人平等、搞民主？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 520,
+          "like_count": 2664,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1449
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T01:34:08.000Z",
+        "description": "#反出生主义 理论大师。 以前是支黑，现在是人类黑。 这个宇宙，谁tm爱来谁来。  三体人占领地球后，其实并不会比人类好，它们只是一群自认为胜利的可怜接盘侠而已。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "反出生主义"
+              }
+            ]
+          }
+        },
+        "id": "1502457747283001347",
+        "name": "叶文洁",
+        "pinned_tweet_id": "1866153072499589348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754534211510267905/_4wEQ15H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5850,
+          "following_count": 1008,
+          "like_count": 56908,
+          "listed_count": 41,
+          "media_count": 559,
+          "tweet_count": 18754
+        },
+        "username": "amongus1818",
+        "verified": false
+      }
+    ]
+  }
+}

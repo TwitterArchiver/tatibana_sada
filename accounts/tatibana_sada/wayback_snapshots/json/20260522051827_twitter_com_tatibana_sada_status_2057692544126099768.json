@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2056887278858072109",
+    "created_at": "2026-05-22T05:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057692544126099768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "898354241613438976",
+          "start": 0,
+          "username": "dorayarou292941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057692544126099768",
+    "in_reply_to_user_id": "898354241613438976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056887278858072109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dorayarou292941 贵国人民真的觉得这很得体吗。老实说我觉得这像是对李在明的性骚扰。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2056887278858072109",
+        "created_at": "2026-05-22T05:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057692544126099768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "898354241613438976",
+              "start": 0,
+              "username": "dorayarou292941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057692544126099768",
+        "in_reply_to_user_id": "898354241613438976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056887278858072109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dorayarou292941 贵国人民真的觉得这很得体吗。老实说我觉得这像是对李在明的性骚扰。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "898354241613438976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2056887278858072109",
+        "created_at": "2026-05-19T23:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T00:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056887278858072109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PressSec_JP/st…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/PressSec_JP/status/2056884284112437636",
+              "start": 129,
+              "url": "https://t.co/1U5sXOEgEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056887278858072109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 209,
+                "start": 204,
+                "tag": "高市早苗"
+              },
+              {
+                "end": 217,
+                "start": 210,
+                "tag": "シャトル外交"
+              },
+              {
+                "end": 224,
+                "start": 218,
+                "tag": "日韓新時代"
+              }
+            ]
+          },
+          "text": "高市総理の外交センス、ガチで神すぎる👏\n\n李在明大統領のふるさと安東で\n「何か困ったことがあったらしょっちゅう電話し合おうね！\n次回は日本にお越しいただきます。温泉にしようかな……美しい場所にお連れしたいな」\n\nって言った瞬間、李在明大統領が横で大拍手‼️\n\n4ヶ月で4回会談、ふるさと同士のシャトル外交。\nサプライチェーン・エネルギー・AI・安保、全部ガチで前進。\nこれこそが本物の信頼関係🇯🇵❤️🇰🇷\n\n#高市早苗 #シャトル外交 #日韓新時代"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 133011,
+          "like_count": 2245,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056884284112437636",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高市総理の外交センス、ガチで神すぎる👏\n\n李在明大統領のふるさと安東で\n「何か困ったことがあったらしょっちゅう電話し合おうね！\n次回は日本にお越しいただきます。温泉にしようかな……美しい場所にお連れしたいな」\n\nって言った瞬間、李在明大統領が横で大拍手‼️ https://t.co/1U5sXOEgEN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 1165,
+          "like_count": 8265,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2723
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-18T01:21:56.000Z",
+        "description": "24♂です。　　\n思想強めの冷笑系。　　\nフォロバは基本しませんのであしからず。\n（すごく共感した場合はするかも……）\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　※申し訳ありませんが、思想上の理由により🍊支持者の方とは仲良くできません。",
+        "id": "898354241613438976",
+        "name": "銅鑼野郎Χ",
+        "pinned_tweet_id": "2053942834286542978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021165980131655682/nk3fjqJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 182,
+          "like_count": 10227,
+          "listed_count": 50,
+          "media_count": 346,
+          "tweet_count": 7582
+        },
+        "username": "dorayarou292941",
+        "verified": true
+      }
+    ]
+  }
+}

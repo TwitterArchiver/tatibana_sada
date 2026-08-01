@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of European Commission",
+          "id": "1151432219002454016",
+          "name": "Ursula von der Leyen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of European Commission",
+          "id": "1151432219002454016",
+          "name": "Ursula von der Leyen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of European Commission",
+          "id": "1151432219002454016",
+          "name": "Ursula von der Leyen"
+        }
+      }
+    ],
+    "conversation_id": "2071803422433841265",
+    "created_at": "2026-06-30T03:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T04:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071803422433841265"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/daily_romania/…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/daily_romania/status/2070789817340747949",
+          "start": 51,
+          "url": "https://t.co/ApHK7plvnR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071803422433841265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070789817340747949",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "物理学说，冷空气重会下沉，所以这叫先凉带动后凉，让一部分人先凉快起来，最终实现共同凉快。涓滴凉快学。 https://t.co/ApHK7plvnR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2070789813091860480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzsXQ3WgAArqqr.jpg",
+        "width": 600
+      },
+      {
+        "height": 533,
+        "media_key": "3_2070789814828298240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzsXXVWcAAQuNp.jpg",
+        "width": 598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          }
+        ],
+        "conversation_id": "2071803422433841265",
+        "created_at": "2026-06-30T03:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071803422433841265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daily_romania/…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/daily_romania/status/2070789817340747949",
+              "start": 51,
+              "url": "https://t.co/ApHK7plvnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071803422433841265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070789817340747949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "物理学说，冷空气重会下沉，所以这叫先凉带动后凉，让一部分人先凉快起来，最终实现共同凉快。涓滴凉快学。 https://t.co/ApHK7plvnR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070789813091860480",
+            "3_2070789814828298240"
+          ]
+        },
+        "author_id": "1714517217134456832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          }
+        ],
+        "conversation_id": "2070789817340747949",
+        "created_at": "2026-06-27T08:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070789817340747949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pYyBlKfHRN",
+              "end": 194,
+              "expanded_url": "https://x.com/daily_romania/status/2070789817340747949/photo/1",
+              "media_key": "3_2070789813091860480",
+              "start": 171,
+              "url": "https://t.co/pYyBlKfHRN"
+            },
+            {
+              "display_url": "pic.x.com/pYyBlKfHRN",
+              "end": 194,
+              "expanded_url": "https://x.com/daily_romania/status/2070789817340747949/photo/1",
+              "media_key": "3_2070789814828298240",
+              "start": 171,
+              "url": "https://t.co/pYyBlKfHRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070789817340747949",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 259,
+          "impression_count": 365312,
+          "like_count": 6348,
+          "quote_count": 90,
+          "reply_count": 209,
+          "retweet_count": 864
+        },
+        "reply_settings": "everyone",
+        "text": "Air conditioning for employees on floors 1–7 of the EU headquarters in Brussels was shut down due to \"overloading\", Ursula von der Leyen’s floor was allowed to keep it on https://t.co/pYyBlKfHRN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1367,
+          "like_count": 9491,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3261
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T05:42:22.000Z",
+        "description": "Nationalism | Romania & Europe",
+        "id": "1714517217134456832",
+        "name": "Daily Romania",
+        "pinned_tweet_id": "2033192000996954327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925978702908620800/7BmFXanf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140413,
+          "following_count": 496,
+          "like_count": 97528,
+          "listed_count": 527,
+          "media_count": 5158,
+          "tweet_count": 15912
+        },
+        "url": "",
+        "username": "daily_romania",
+        "verified": true
+      }
+    ]
+  }
+}

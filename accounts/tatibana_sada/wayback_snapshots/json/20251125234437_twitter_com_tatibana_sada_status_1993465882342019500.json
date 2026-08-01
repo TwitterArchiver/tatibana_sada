@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1993262294030336205",
+    "created_at": "2025-11-25T23:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T00:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993465882342019500"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "三日月やよい",
+          "probability": 0.4322,
+          "start": 31,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1746459006422671360",
+          "start": 0,
+          "username": "geminiab0101"
+        },
+        {
+          "end": 30,
+          "id": "973964358",
+          "start": 14,
+          "username": "violahelloworld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993465882342019500",
+    "in_reply_to_user_id": "1746459006422671360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993436723431506223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geminiab0101 @violahelloworld 三日月やよい？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1993262294030336205",
+        "created_at": "2025-11-25T23:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T00:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993465882342019500"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "三日月やよい",
+              "probability": 0.4322,
+              "start": 31,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1746459006422671360",
+              "start": 0,
+              "username": "geminiab0101"
+            },
+            {
+              "end": 30,
+              "id": "973964358",
+              "start": 14,
+              "username": "violahelloworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993465882342019500",
+        "in_reply_to_user_id": "1746459006422671360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993436723431506223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geminiab0101 @violahelloworld 三日月やよい？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746459006422671360",
+        "conversation_id": "1993262294030336205",
+        "created_at": "2025-11-25T21:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T22:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993436723431506223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "973964358",
+              "start": 0,
+              "username": "violahelloworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993436723431506223",
+        "in_reply_to_user_id": "973964358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 885,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993326619549687835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@violahelloworld 原名“三月xx（日名字不会写）”，IP公开前，人设是澳洲。IP公开后不知道为啥就注销账号了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 946,
+          "like_count": 6259,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2268
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:07:41.000Z",
+        "description": "双子座，AB型。 \n“打破忍者世界规则的人，我们称之为废物… 可是，不珍惜同伴的人连废物都不如！ ”  By 宇智波带土Uchiha Obito。\n善良比立场重要。会封锁没有教养的人。 \n爱好：打游戏，旅游，看动漫，电影，日剧和YouTube，还有做饭和动物🦒😁",
+        "id": "1746459006422671360",
+        "location": "Japan",
+        "name": "双生",
+        "pinned_tweet_id": "1963559525551935561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883994014191362048/d0PLaa7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 628,
+          "like_count": 31065,
+          "listed_count": 18,
+          "media_count": 848,
+          "tweet_count": 5318
+        },
+        "username": "geminiab0101",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-27T14:14:30.000Z",
+        "description": "",
+        "id": "973964358",
+        "location": "🌎🌏",
+        "name": "Viola.HelloWorld",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978594102930259968/R8nr-YQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6786,
+          "following_count": 637,
+          "like_count": 230025,
+          "listed_count": 17,
+          "media_count": 4770,
+          "tweet_count": 79539
+        },
+        "username": "violahelloworld",
+        "verified": false
+      }
+    ]
+  }
+}

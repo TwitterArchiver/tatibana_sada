@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2076137312422092816",
+    "created_at": "2026-07-12T02:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076137312422092816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Bros_of_SalotS…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Bros_of_SalotSa/status/2076125898542289256",
+          "start": 12,
+          "url": "https://t.co/vdynlMGOjz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076137312422092816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076125898542289256",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草，十月烽火堂堂复活 https://t.co/vdynlMGOjz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 660,
+        "media_key": "3_2076125896206131200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_hgLhbIAALEUF.jpg",
+        "width": 464
+      },
+      {
+        "height": 500,
+        "media_key": "3_2076125896231235584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_hgLnaMAA_cQA.jpg",
+        "width": 368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2076137312422092816",
+        "created_at": "2026-07-12T02:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076137312422092816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bros_of_SalotS…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Bros_of_SalotSa/status/2076125898542289256",
+              "start": 12,
+              "url": "https://t.co/vdynlMGOjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076137312422092816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076125898542289256",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草，十月烽火堂堂复活 https://t.co/vdynlMGOjz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076125896206131200",
+            "3_2076125896231235584"
+          ]
+        },
+        "author_id": "1652627644012449792",
+        "conversation_id": "2076125898542289256",
+        "created_at": "2026-07-12T02:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076125898542289256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gev77Sa6So",
+              "end": 166,
+              "expanded_url": "https://x.com/Bros_of_SalotSa/status/2076125898542289256/photo/1",
+              "media_key": "3_2076125896206131200",
+              "start": 143,
+              "url": "https://t.co/gev77Sa6So"
+            },
+            {
+              "display_url": "pic.x.com/gev77Sa6So",
+              "end": 166,
+              "expanded_url": "https://x.com/Bros_of_SalotSa/status/2076125898542289256/photo/1",
+              "media_key": "3_2076125896231235584",
+              "start": 143,
+              "url": "https://t.co/gev77Sa6So"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076125898542289256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日革命观察\n我发现现在广大无产劳动阶级男性用退出和非暴力反抗行为对抗母狗和中国走资派权贵，这本身是好的but其中有些声音蚌出来说这证明要给底层男性一个活路要倾听男性声音要多分配给男性。我嗯嗯？！这不还是一套投降派乞讨思想么？这种右倾投降风必须整顿！必须清算母狗抓起来栓住！必须反资！ https://t.co/gev77Sa6So"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 1424,
+          "like_count": 9970,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3381
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T10:55:17.000Z",
+        "description": "是本人，前面两个号都被“共产主义同志”背刺弄没了\n\n操你妈！连我的尖锐意见都容忍不了，玩举报是吧？\n\n你们这逼觉悟还共你妈逼呢！\n\n别让老子逮到你们这些披着共产主义皮的社自民小反革命，还有脸一口一个“同志”？走着瞧，共产主义一定会胜利的，共产之后杀你们全家！",
+        "id": "1652627644012449792",
+        "location": "列宁墓旁",
+        "name": "十月烽火",
+        "pinned_tweet_id": "1655991228054540288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655989181989154818/TEpVepMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 60,
+          "like_count": 27,
+          "listed_count": 9,
+          "media_count": 81,
+          "tweet_count": 560
+        },
+        "url": "",
+        "username": "Bros_of_SalotSa",
+        "verified": false
+      }
+    ]
+  }
+}

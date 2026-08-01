@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987848080784507365",
+    "created_at": "2026-05-28T10:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059948024194052430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1599390012692389890",
+          "start": 0,
+          "username": "guts91826714"
+        },
+        {
+          "end": 26,
+          "id": "1850917736697982976",
+          "start": 14,
+          "username": "LKuang85350"
+        },
+        {
+          "end": 41,
+          "id": "1492135656356651024",
+          "start": 27,
+          "username": "rongtangjushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059948024194052430",
+    "in_reply_to_user_id": "1599390012692389890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988440179485667813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guts91826714 @LKuang85350 @rongtangjushi 我草，这个有点冷门，我小学追的都是菊耀露中和金钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_1988440170199461888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hbzLHbMAAYmWe.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987848080784507365",
+        "created_at": "2026-05-28T10:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059948024194052430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1599390012692389890",
+              "start": 0,
+              "username": "guts91826714"
+            },
+            {
+              "end": 26,
+              "id": "1850917736697982976",
+              "start": 14,
+              "username": "LKuang85350"
+            },
+            {
+              "end": 41,
+              "id": "1492135656356651024",
+              "start": 27,
+              "username": "rongtangjushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059948024194052430",
+        "in_reply_to_user_id": "1599390012692389890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988440179485667813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guts91826714 @LKuang85350 @rongtangjushi 我草，这个有点冷门，我小学追的都是菊耀露中和金钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988440170199461888"
+          ]
+        },
+        "author_id": "1599390012692389890",
+        "conversation_id": "1987848080784507365",
+        "created_at": "2025-11-12T02:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988440179485667813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1850917736697982976",
+              "start": 0,
+              "username": "LKuang85350"
+            },
+            {
+              "end": 27,
+              "id": "1492135656356651024",
+              "start": 13,
+              "username": "rongtangjushi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Yzw72RpH9",
+              "end": 51,
+              "expanded_url": "https://x.com/guts91826714/status/1988440179485667813/photo/1",
+              "media_key": "3_1988440170199461888",
+              "start": 28,
+              "url": "https://t.co/9Yzw72RpH9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988440179485667813",
+        "in_reply_to_user_id": "1850917736697982976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988166130167689645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LKuang85350 @rongtangjushi https://t.co/9Yzw72RpH9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 1239,
+          "like_count": 8884,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2995
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T13:07:55.000Z",
+        "description": "",
+        "id": "1599390012692389890",
+        "name": "guts",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018696422808502272/ZGB310fi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 1713,
+          "like_count": 1548,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 98
+        },
+        "username": "guts91826714",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T15:09:34.000Z",
+        "description": "",
+        "id": "1850917736697982976",
+        "name": "观南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856401498865053697/eJjL8S1c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 124
+        },
+        "username": "LKuang85350",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T13:57:27.000Z",
+        "description": "神戸の漢学者。出身は山梨県富士吉田市。漢詩・漢文なら、日本一(になりたい)。\n和琴/琴(七弦琴)/琵琶/尺八/日本武術(剣・槍・棒)/香道（志野流）",
+        "id": "1492135656356651024",
+        "name": "蓉堂居士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505466177815920640/LU9bih6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17869,
+          "following_count": 3277,
+          "like_count": 97438,
+          "listed_count": 186,
+          "media_count": 1021,
+          "tweet_count": 26196
+        },
+        "username": "rongtangjushi",
+        "verified": true
+      }
+    ]
+  }
+}

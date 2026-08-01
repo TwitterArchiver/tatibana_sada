@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1985314561747276284",
+    "created_at": "2025-11-05T15:49:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T16:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986098576217481350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1264131297619804160",
+          "start": 0,
+          "username": "EgonuBoskovic"
+        },
+        {
+          "end": 30,
+          "id": "1779196203223363584",
+          "start": 15,
+          "username": "castrateaddict"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986098576217481350",
+    "in_reply_to_user_id": "1264131297619804160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985314561747276284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EgonuBoskovic @castrateaddict 这叫文艺复兴，我看是该喊万岁。\n工作与时日之类的古典学great books确实有一种深入骨髓的厌女乃至畏女感。读了这些我才觉得nakedape他老人家说的史前性别总体战是确实存在的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1985314561747276284",
+        "created_at": "2025-11-05T15:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T16:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986098576217481350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1264131297619804160",
+              "start": 0,
+              "username": "EgonuBoskovic"
+            },
+            {
+              "end": 30,
+              "id": "1779196203223363584",
+              "start": 15,
+              "username": "castrateaddict"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986098576217481350",
+        "in_reply_to_user_id": "1264131297619804160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985314561747276284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EgonuBoskovic @castrateaddict 这叫文艺复兴，我看是该喊万岁。\n工作与时日之类的古典学great books确实有一种深入骨髓的厌女乃至畏女感。读了这些我才觉得nakedape他老人家说的史前性别总体战是确实存在的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1264131297619804160",
+        "conversation_id": "1985314561747276284",
+        "created_at": "2025-11-03T11:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T12:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985314561747276284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985314561747276284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7014,
+          "like_count": 182,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "蛆站米格道有一种说法：要不是女人有生育价值，在远古时期就会被我们男人都宰杀光，地球不需要女人\n至此，我已经知道我们的敌人是个啥智商了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 749,
+          "like_count": 4761,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1799
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-23T09:49:31.000Z",
+        "description": "性别女，爱好打拳，坦克，剪鸡手，6B4T，易block人，勿关注。可以不追星，但不可以停止为郑爽发声。反代孕不反男的非蠢即坏",
+        "id": "1264131297619804160",
+        "name": "谢绝娣",
+        "pinned_tweet_id": "1527248958720180225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538515298902753280/p8QpZcZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5413,
+          "following_count": 95,
+          "like_count": 72490,
+          "listed_count": 29,
+          "media_count": 6795,
+          "tweet_count": 44329
+        },
+        "username": "EgonuBoskovic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T17:13:48.000Z",
+        "description": "11bt，Radfem，男蠸是待屠的殖民系統。女人無國，女驢有別。志在剿滅iv劣種，復興女系社會。【Women share no boundaries beyond nations and parties.】主張女㽖分離；專門抨擊哭喪式女身厭惡及無意識的陰莖崇拜。不反醜刑的反跨是100%浪費時間",
+        "id": "1779196203223363584",
+        "location": "CHT、ENG、JPN",
+        "name": "媻姑",
+        "pinned_tweet_id": "1982286085582647390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779197849567363072/rZhovEKG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 63,
+          "like_count": 8323,
+          "listed_count": 8,
+          "media_count": 165,
+          "tweet_count": 2150
+        },
+        "username": "castrateaddict",
+        "verified": false
+      }
+    ]
+  }
+}

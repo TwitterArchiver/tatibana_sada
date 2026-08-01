@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2082130815312691345",
+    "created_at": "2026-07-28T15:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T16:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082130815312691345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GesanglovesCat…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/GesanglovesCats/status/2082104215464231087",
+          "start": 43,
+          "url": "https://t.co/56Vr5216Fe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082130815312691345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082104215464231087",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "女权抓男拳，反贼抓外宣，netouyo发现朝鲜人，小粉红偶遇五十万，环球同此凉热是也 https://t.co/56Vr5216Fe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1959,
+        "media_key": "3_2082104209944518658",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUev1sWoAInrwX.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082104209957134336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUev1vXIAA1O1B.jpg",
+        "width": 946
+      },
+      {
+        "height": 1081,
+        "media_key": "3_2082104209982304260",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUev11XMAQGi7T.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2082130815312691345",
+        "created_at": "2026-07-28T15:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082130815312691345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GesanglovesCat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/GesanglovesCats/status/2082104215464231087",
+              "start": 43,
+              "url": "https://t.co/56Vr5216Fe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082130815312691345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082104215464231087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女权抓男拳，反贼抓外宣，netouyo发现朝鲜人，小粉红偶遇五十万，环球同此凉热是也 https://t.co/56Vr5216Fe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082104209944518658",
+            "3_2082104209957134336",
+            "3_2082104209982304260"
+          ]
+        },
+        "author_id": "984314763722219520",
+        "conversation_id": "2082104215464231087",
+        "created_at": "2026-07-28T14:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082104215464231087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKh2q6oEc0",
+              "end": 95,
+              "expanded_url": "https://x.com/GesanglovesCats/status/2082104215464231087/photo/1",
+              "media_key": "3_2082104209944518658",
+              "start": 72,
+              "url": "https://t.co/HKh2q6oEc0"
+            },
+            {
+              "display_url": "pic.x.com/HKh2q6oEc0",
+              "end": 95,
+              "expanded_url": "https://x.com/GesanglovesCats/status/2082104215464231087/photo/1",
+              "media_key": "3_2082104209957134336",
+              "start": 72,
+              "url": "https://t.co/HKh2q6oEc0"
+            },
+            {
+              "display_url": "pic.x.com/HKh2q6oEc0",
+              "end": 95,
+              "expanded_url": "https://x.com/GesanglovesCats/status/2082104215464231087/photo/1",
+              "media_key": "3_2082104209982304260",
+              "start": 72,
+              "url": "https://t.co/HKh2q6oEc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082104215464231087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1161,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦，原来这就叫“被女权打骂”…. 如果意思是我骂她了，我有带一个脏字吗？还有比我更温和的吗？ 再说打又是什么鬼？隔着网线打吗？虜虜们可真有意思 https://t.co/HKh2q6oEc0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 1447,
+          "like_count": 10216,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3421
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-12T06:18:22.000Z",
+        "description": "别关注我，没有标签，脾气不好，锁推关注会拉黑，贱蝻一律拉黑，爱蝻姐不想挨骂请离远点。",
+        "id": "984314763722219520",
+        "location": "Tromsø, Norway",
+        "name": "Gesang སྐལ་སྒྲོན་",
+        "pinned_tweet_id": "1860666918199320611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879512872708952064/SfP4q2zV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 168,
+          "like_count": 13115,
+          "listed_count": 8,
+          "media_count": 438,
+          "tweet_count": 9894
+        },
+        "url": "",
+        "username": "GesanglovesCats",
+        "verified": false
+      }
+    ]
+  }
+}

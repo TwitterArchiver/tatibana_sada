@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2055959498251280467",
+    "created_at": "2026-05-17T10:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055959498251280467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1647980508297719815",
+          "start": 3,
+          "username": "yanyejilennon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055959498251280467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055677691492237711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanyejilennon: 习近平和小三特朗普私会，远在千里的正宫普京急匆匆5月20日跑来宣示主权"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2055959498251280467",
+        "created_at": "2026-05-17T10:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055959498251280467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1647980508297719815",
+              "start": 3,
+              "username": "yanyejilennon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055959498251280467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055677691492237711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanyejilennon: 习近平和小三特朗普私会，远在千里的正宫普京急匆匆5月20日跑来宣示主权"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647980508297719815",
+        "conversation_id": "2055677691492237711",
+        "created_at": "2026-05-16T15:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055677691492237711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055677691492237711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4090,
+          "like_count": 127,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "习近平和小三特朗普私会，远在千里的正宫普京急匆匆5月20日跑来宣示主权"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1107,
+          "like_count": 7804,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2568
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:09:18.000Z",
+        "description": "握紧我矛盾密布的手",
+        "id": "1647980508297719815",
+        "location": "Liverpool, England",
+        "name": "21st Century Schizoid Man",
+        "pinned_tweet_id": "2051709632058380563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041206438568296448/01syet9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 315,
+          "like_count": 38551,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 3357
+        },
+        "username": "yanyejilennon",
+        "verified": false
+      }
+    ]
+  }
+}

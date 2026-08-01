@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988639823289373111",
+    "created_at": "2025-11-12T16:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988639823289373111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581478431274983424",
+          "start": 3,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988639823289373111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988569487587819912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhoynqi3: 山东人和领导打炮的时候牢记九浅一深原则， “九浅”，是礼，是分寸——敬而有序，缓缓递进；最后“一深”，是诚，是信——以力达情、以深表心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988639823289373111",
+        "created_at": "2025-11-12T16:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988639823289373111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581478431274983424",
+              "start": 3,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988639823289373111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988569487587819912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhoynqi3: 山东人和领导打炮的时候牢记九浅一深原则， “九浅”，是礼，是分寸——敬而有序，缓缓递进；最后“一深”，是诚，是信——以力达情、以深表心。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "1988569487587819912",
+        "created_at": "2025-11-12T11:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988569487587819912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988569487587819912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "山东人和领导打炮的时候牢记九浅一深原则， “九浅”，是礼，是分寸——敬而有序，缓缓递进；最后“一深”，是诚，是信——以力达情、以深表心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 827,
+          "like_count": 5306,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1935
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "1976511377679487385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672979337656631298/mQbOFn-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3359,
+          "following_count": 180,
+          "like_count": 24837,
+          "listed_count": 16,
+          "media_count": 239,
+          "tweet_count": 5980
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2060255184194830572",
+    "created_at": "2026-05-29T07:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060265270200111257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1395658814402162689",
+          "start": 0,
+          "username": "8964tou12345678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060265270200111257",
+    "in_reply_to_user_id": "1395658814402162689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060255184194830572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964tou12345678 婚姻枷锁论是想东食西宿的人炒作出来的……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2060255172412989440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJd_KeJWYAAaTw6.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2060255172425592833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJd_KeMWsAEDr9W.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1800,
+        "media_key": "3_2060255172412968961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJd_KeJWEAECURt.jpg",
+        "width": 1198
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2060255172404654083",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJd_KeHXMAMo0Hq.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2060255184194830572",
+        "created_at": "2026-05-29T07:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060265270200111257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1395658814402162689",
+              "start": 0,
+              "username": "8964tou12345678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060265270200111257",
+        "in_reply_to_user_id": "1395658814402162689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060255184194830572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tou12345678 婚姻枷锁论是想东食西宿的人炒作出来的……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060255172412989440",
+            "3_2060255172425592833",
+            "3_2060255172412968961",
+            "3_2060255172404654083"
+          ]
+        },
+        "author_id": "1395658814402162689",
+        "conversation_id": "2060255184194830572",
+        "created_at": "2026-05-29T07:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060255184194830572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4iJSrbgas",
+              "end": 165,
+              "expanded_url": "https://x.com/8964tou12345678/status/2060255184194830572/photo/1",
+              "media_key": "3_2060255172412989440",
+              "start": 142,
+              "url": "https://t.co/n4iJSrbgas"
+            },
+            {
+              "display_url": "pic.x.com/n4iJSrbgas",
+              "end": 165,
+              "expanded_url": "https://x.com/8964tou12345678/status/2060255184194830572/photo/1",
+              "media_key": "3_2060255172425592833",
+              "start": 142,
+              "url": "https://t.co/n4iJSrbgas"
+            },
+            {
+              "display_url": "pic.x.com/n4iJSrbgas",
+              "end": 165,
+              "expanded_url": "https://x.com/8964tou12345678/status/2060255184194830572/photo/1",
+              "media_key": "3_2060255172412968961",
+              "start": 142,
+              "url": "https://t.co/n4iJSrbgas"
+            },
+            {
+              "display_url": "pic.x.com/n4iJSrbgas",
+              "end": 165,
+              "expanded_url": "https://x.com/8964tou12345678/status/2060255184194830572/photo/1",
+              "media_key": "3_2060255172404654083",
+              "start": 142,
+              "url": "https://t.co/n4iJSrbgas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060255184194830572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Form Samuel Cirnansck Spring 2012 塞缪尔·西尔南斯克 曾在圣保罗时装周上成功展示过 22 个系列\n其实个人是比较反对婚姻束缚论这种陈词滥调的，毕竟从现实来看，现代婚姻制度唯一能束缚的，只有有责任感的人。\n而对有责任感的人来讲婚姻的束缚有和没有都一样 https://t.co/n4iJSrbgas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 1248,
+          "like_count": 8941,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 3040
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10371,
+          "following_count": 10508,
+          "like_count": 316952,
+          "listed_count": 66,
+          "media_count": 2357,
+          "tweet_count": 51147
+        },
+        "username": "8964tou12345678",
+        "verified": false
+      }
+    ]
+  }
+}

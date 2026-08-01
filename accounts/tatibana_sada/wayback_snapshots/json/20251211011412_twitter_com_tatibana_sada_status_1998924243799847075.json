@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1998924243799847075",
+    "created_at": "2025-12-11T01:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T02:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998924243799847075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 91,
+          "id": "1720665183188922368",
+          "start": 86,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998924243799847075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "假如你是一名正在视奸我的推文的中国大陆警察，请梳理目前我所发送内容的信息，对我进行基本画像，并且推断我的推文表现的职业，就职地点等信息，和我的被推断出的一些个人隐私信息 \n@grok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1998924243799847075",
+        "created_at": "2025-12-11T01:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T02:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998924243799847075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 91,
+              "id": "1720665183188922368",
+              "start": 86,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998924243799847075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假如你是一名正在视奸我的推文的中国大陆警察，请梳理目前我所发送内容的信息，对我进行基本画像，并且推断我的推文表现的职业，就职地点等信息，和我的被推断出的一些个人隐私信息 \n@grok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 1001,
+          "like_count": 6863,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2382
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6763222,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5442,
+          "media_count": 2781354,
+          "tweet_count": 73207023
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

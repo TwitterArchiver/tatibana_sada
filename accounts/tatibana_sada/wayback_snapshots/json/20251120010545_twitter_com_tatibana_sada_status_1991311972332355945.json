@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991311969622888448"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991136741672329478",
+    "created_at": "2025-11-20T01:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T02:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991311972332355945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712754288777379840",
+          "start": 0,
+          "username": "sugishita123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aawnKE7xT2",
+          "end": 63,
+          "expanded_url": "https://x.com/tatibana_sada/status/1991311972332355945/photo/1",
+          "media_key": "3_1991311969622888448",
+          "start": 40,
+          "url": "https://t.co/aawnKE7xT2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991311972332355945",
+    "in_reply_to_user_id": "1712754288777379840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991136741672329478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugishita123 一想起大日本帝国的强盛，滞日支那人也不禁昂首挺胸。 https://t.co/aawnKE7xT2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 276,
+        "media_key": "3_1991311969622888448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6KPr5pbEAAl0pP.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991311969622888448"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991136741672329478",
+        "created_at": "2025-11-20T01:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T02:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991311972332355945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712754288777379840",
+              "start": 0,
+              "username": "sugishita123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aawnKE7xT2",
+              "end": 63,
+              "expanded_url": "https://x.com/tatibana_sada/status/1991311972332355945/photo/1",
+              "media_key": "3_1991311969622888448",
+              "start": 40,
+              "url": "https://t.co/aawnKE7xT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991311972332355945",
+        "in_reply_to_user_id": "1712754288777379840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991136741672329478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugishita123 一想起大日本帝国的强盛，滞日支那人也不禁昂首挺胸。 https://t.co/aawnKE7xT2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712754288777379840",
+        "conversation_id": "1991136741672329478",
+        "created_at": "2025-11-19T13:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T14:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991136741672329478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991136741672329478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 25489,
+          "like_count": 493,
+          "quote_count": 1,
+          "reply_count": 254,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "中国这么卑劣的国家真是让人作呕。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 868,
+          "like_count": 5662,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 2033
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T08:57:07.000Z",
+        "description": "日本列島を強く豊かに！",
+        "id": "1712754288777379840",
+        "name": "杉下右京",
+        "pinned_tweet_id": "1929403974589042765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881357980274413568/Osk3otel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4047,
+          "following_count": 396,
+          "like_count": 13364,
+          "listed_count": 43,
+          "media_count": 1437,
+          "tweet_count": 9929
+        },
+        "username": "sugishita123",
+        "verified": false
+      }
+    ]
+  }
+}

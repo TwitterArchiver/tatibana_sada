@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2055887295295983815",
+    "created_at": "2026-05-17T21:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T22:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056118588772397227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033579978684878848",
+          "start": 0,
+          "username": "stellasin134981"
+        },
+        {
+          "end": 33,
+          "id": "1889206585152741376",
+          "start": 17,
+          "username": "ChanaWeins89377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056118588772397227",
+    "in_reply_to_user_id": "2033579978684878848",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056117216777851226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stellasin134981 @ChanaWeins89377 😍😍😍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2055887295295983815",
+        "created_at": "2026-05-17T21:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T22:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056118588772397227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033579978684878848",
+              "start": 0,
+              "username": "stellasin134981"
+            },
+            {
+              "end": 33,
+              "id": "1889206585152741376",
+              "start": 17,
+              "username": "ChanaWeins89377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056118588772397227",
+        "in_reply_to_user_id": "2033579978684878848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056117216777851226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stellasin134981 @ChanaWeins89377 😍😍😍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033579978684878848",
+        "conversation_id": "2055887295295983815",
+        "created_at": "2026-05-17T20:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T21:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056117216777851226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 31,
+              "id": "1889206585152741376",
+              "start": 15,
+              "username": "ChanaWeins89377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056117216777851226",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056100080575521170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @ChanaWeins89377 有没有一种可能，那个文就是推主写的（……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 1128,
+          "like_count": 7939,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2610
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T16:24:06.000Z",
+        "description": "A prudent man concealeth knowledge; but the heart of fools proclaimeth foolishness.                         \n我草美国人中国人啊，草。此地中国人浓度高。我很爱用取关和关注键。",
+        "id": "2033579978684878848",
+        "location": "Virginia, USA",
+        "name": "stellasin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051259347183992832/BwJ0A0S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 111,
+          "like_count": 1864,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 557
+        },
+        "username": "stellasin134981",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:56:59.000Z",
+        "description": "大陆文科高中生，社交能力很糟 精神状态堪忧 道德底线几乎没有，如果让你不高兴了对不起我没有恶意真的，欢迎所有人来找我玩。中⌚博爱。最大属性周飞辱追，看见他挨骂（各种意义上的）我都会很开心😋",
+        "id": "1889206585152741376",
+        "name": "Ender桓桓",
+        "pinned_tweet_id": "2013950943281529003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928588169009836034/cjk9Jz-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 123,
+          "like_count": 4295,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 701
+        },
+        "username": "ChanaWeins89377",
+        "verified": false
+      }
+    ]
+  }
+}

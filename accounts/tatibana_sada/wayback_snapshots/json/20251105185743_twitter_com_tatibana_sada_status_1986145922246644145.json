@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1982443919452610704",
+    "created_at": "2025-11-05T18:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T19:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986145922246644145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750060586178842624",
+          "start": 0,
+          "username": "eren19noth"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "zhuanlan.zhihu.com/p/469369116",
+          "end": 48,
+          "expanded_url": "https://zhuanlan.zhihu.com/p/469369116",
+          "start": 25,
+          "unwound_url": "https://zhuanlan.zhihu.com/p/469369116",
+          "url": "https://t.co/ogm4aUvta7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986145922246644145",
+    "in_reply_to_user_id": "1750060586178842624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986143291486917014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eren19noth 也许你可以读读绢师的这篇。https://t.co/ogm4aUvta7\n我不觉得你会完全认同，但是这一篇在深度和广度上都是极有价值，能点出很多关键性的点的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1982443919452610704",
+        "created_at": "2025-11-05T18:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T19:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986145922246644145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750060586178842624",
+              "start": 0,
+              "username": "eren19noth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "zhuanlan.zhihu.com/p/469369116",
+              "end": 48,
+              "expanded_url": "https://zhuanlan.zhihu.com/p/469369116",
+              "start": 25,
+              "unwound_url": "https://zhuanlan.zhihu.com/p/469369116",
+              "url": "https://t.co/ogm4aUvta7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986145922246644145",
+        "in_reply_to_user_id": "1750060586178842624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986143291486917014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eren19noth 也许你可以读读绢师的这篇。https://t.co/ogm4aUvta7\n我不觉得你会完全认同，但是这一篇在深度和广度上都是极有价值，能点出很多关键性的点的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750060586178842624",
+        "conversation_id": "1982443919452610704",
+        "created_at": "2025-11-05T18:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T19:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986143291486917014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986143291486917014",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986138024867254524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 我不会根据一个人的生物学配置就对他有什么偏见，这番话的含义，最开始的出发点，只是想要攻击我的一些已经不再联系的前任女性朋友。（她们也不会看到这一条）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 757,
+          "like_count": 4804,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1820
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T07:39:06.000Z",
+        "description": "He/him 他",
+        "id": "1750060586178842624",
+        "name": "ForcedVanilla",
+        "pinned_tweet_id": "1750889188978024744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966813145428881411/4CvVhlRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 159,
+          "like_count": 1262,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 482
+        },
+        "username": "eren19noth",
+        "verified": false
+      }
+    ]
+  }
+}

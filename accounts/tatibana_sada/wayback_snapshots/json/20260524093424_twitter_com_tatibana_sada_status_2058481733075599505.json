@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2058242454722408652",
+    "created_at": "2026-05-24T09:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058481733075599505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851166889655091202",
+          "start": 0,
+          "username": "DEERJU2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058481733075599505",
+    "in_reply_to_user_id": "1851166889655091202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058242454722408652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DEERJU2024 1700开始就是燧发枪大兵团压路机开起来的时候了。我看边防说不定在阿拉木图和鄂毕河。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058242454722408652",
+        "created_at": "2026-05-24T09:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058481733075599505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851166889655091202",
+              "start": 0,
+              "username": "DEERJU2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058481733075599505",
+        "in_reply_to_user_id": "1851166889655091202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058242454722408652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DEERJU2024 1700开始就是燧发枪大兵团压路机开起来的时候了。我看边防说不定在阿拉木图和鄂毕河。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851166889655091202",
+        "conversation_id": "2058242454722408652",
+        "created_at": "2026-05-23T17:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058242454722408652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/heron_lii/stat…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/heron_lii/status/2058196492087607299",
+              "start": 51,
+              "url": "https://t.co/2oYaYUw4eH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058242454722408652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2786,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058196492087607299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没满清就换左边那套衣服签割地赔款的丧权辱国的条约\n然后出了长城就不是中国\n长城以外的人就不会是中国人 https://t.co/2oYaYUw4eH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 1193,
+          "like_count": 8446,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2803
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T07:39:32.000Z",
+        "description": "辩证法是实在世界中一切运动、一切生命、一切事业之推动的原则/\n我在他中直观到作为自我的我自己，然而在他中又直观到一个直接现存着的、作为自我而与我对立的、绝对独立的另一个客体。——黑格尔\n\n/要么是列宁主义，要么不是马克思主义。/Carry the revolution through the end.",
+        "id": "1851166889655091202",
+        "name": "Durkey德耳击（哈基米主义）",
+        "pinned_tweet_id": "2005364586413998209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050459393192525824/O21ijSHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992,
+          "following_count": 61,
+          "like_count": 699,
+          "listed_count": 14,
+          "media_count": 620,
+          "tweet_count": 9217
+        },
+        "username": "DEERJU2024",
+        "verified": false
+      }
+    ]
+  }
+}

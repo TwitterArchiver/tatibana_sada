@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2054412246814769455",
+    "created_at": "2026-05-13T07:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054469050772894129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986828541930119168",
+          "start": 0,
+          "username": "shigure07288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054469050772894129",
+    "in_reply_to_user_id": "1986828541930119168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054412246814769455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigure07288 Incel lives matter!党和政府应该合法化性交易，然后给incel下发嫖娼国补。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_2054412231191011328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIK9Ch5boAAYG1n.png",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2054412246814769455",
+        "created_at": "2026-05-13T07:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054469050772894129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986828541930119168",
+              "start": 0,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054469050772894129",
+        "in_reply_to_user_id": "1986828541930119168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054412246814769455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigure07288 Incel lives matter!党和政府应该合法化性交易，然后给incel下发嫖娼国补。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054412231191011328"
+          ]
+        },
+        "author_id": "1986828541930119168",
+        "conversation_id": "2054412246814769455",
+        "created_at": "2026-05-13T04:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T05:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054412246814769455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSjLdTDuB3",
+              "end": 48,
+              "expanded_url": "https://x.com/shigure07288/status/2054412246814769455/photo/1",
+              "media_key": "3_2054412231191011328",
+              "start": 25,
+              "url": "https://t.co/JSjLdTDuB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054412246814769455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 511,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "incel为什么也有骄傲旗，他们是不是想要特权？ https://t.co/JSjLdTDuB3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 1047,
+          "like_count": 7589,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2503
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“马克思主义或列宁主义”\n📕🌈|INTP-A|自发毛主义|左翼共产主义|自由意志社会主义|民主社会主义|左翼平民主义|反资本主义|反帝国主义|反修正主义|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "location": "中华公社",
+        "name": "時雨☭𝕷𝖊𝖋𝖙𝖈𝖔𝖒🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037543089099915264/LekdR7Q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 607,
+          "like_count": 5201,
+          "listed_count": 7,
+          "media_count": 513,
+          "tweet_count": 6615
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2081465727958278475",
+    "created_at": "2026-07-26T19:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T20:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081465727958278475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tangbaiqiao/st…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/tangbaiqiao/status/2081427583728816296",
+          "start": 23,
+          "url": "https://t.co/C9KvQGXEFX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081465727958278475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081427583728816296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家记得多活动脑子，不然老了会变成这种睿智。 https://t.co/C9KvQGXEFX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 639,
+        "media_key": "3_2081427580188774400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOK3WzbaUAAbDQR.jpg",
+        "width": 480
+      },
+      {
+        "height": 625,
+        "media_key": "3_2081427580159447042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOK3WzUa0AITgS4.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2081465727958278475",
+        "created_at": "2026-07-26T19:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T20:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081465727958278475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tangbaiqiao/st…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/tangbaiqiao/status/2081427583728816296",
+              "start": 23,
+              "url": "https://t.co/C9KvQGXEFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081465727958278475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081427583728816296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家记得多活动脑子，不然老了会变成这种睿智。 https://t.co/C9KvQGXEFX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081427580188774400",
+            "3_2081427580159447042"
+          ]
+        },
+        "author_id": "192662752",
+        "conversation_id": "2081427583728816296",
+        "created_at": "2026-07-26T17:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081427583728816296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByNDUOzLdi",
+              "end": 51,
+              "expanded_url": "https://x.com/tangbaiqiao/status/2081427583728816296/photo/1",
+              "media_key": "3_2081427580188774400",
+              "start": 28,
+              "url": "https://t.co/ByNDUOzLdi"
+            },
+            {
+              "display_url": "pic.x.com/ByNDUOzLdi",
+              "end": 51,
+              "expanded_url": "https://x.com/tangbaiqiao/status/2081427583728816296/photo/1",
+              "media_key": "3_2081427580159447042",
+              "start": 28,
+              "url": "https://t.co/ByNDUOzLdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081427583728816296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国社会已经进入全面衰退和枯竭状态。我随便说几个例子：\n\n一，全中国都在怀旧。最明显的标志就是八九十年代的港台明星只要说得出名字的，不管是阿猫阿狗都在大陆插一杆子，最后大捞一把。我每次看到那些几十年没有出现的老七老八的人突然又跑出来揾食，哭笑不得。有些人已经老得变形了，连路都走不稳了，但是大家还把他们当成青春偶像。全世界应该没有第二国是这样子。更令人感叹的是，八九十年代大陆内地的明星基本都成为历史了，就算想出来再捞一把也没有市场了。这是什么原因？简单说有两点：一，那个时代的港台明星普遍比同时代的大陆明星素质要高，知名度也更大。这是向那个时代致敬，也说明现在两岸三地尤其是大陆文艺界已经青黄不接，全面走向枯竭。一个很简单的例子：八九十代有几个人会去追六七十年代的明星？因为那个时代在进步，而现在是在倒退。美国情况其实也有点类似，但没有那么严重。前段时间马克杰克逊的纪实电影疯卖，就是一种怀旧。现在已经无人能超越这位八九十年代的天皇巨星。二，中共暗中强推，出于统战工作的需要。他们用强权搞不定港台，就通过这种方式收买港台明星为他们站台发声。而后者也愿意配合给他们强奸，反正不拿白不拿。至于颜面和尊严，在中国社会值几个钱？我其实挺可怜那些老七老八还在台上卖弄风骚的过气明星的。如果没有中共在背后强推，估计也不至于会在中国那么“红火”。最令我印象深刻的是林子祥和叶倩文夫妇。林子祥都八十高寿了，还出来揾食，除非真的开不了锅了。否则真的没必要这么卖命。我曾经对这对夫妇非常有好感，现在也不反感他们，只是同情他们。配合中共强奸的滋味其实并不好受。他们应该知道。真没必要到了即将入土的年龄，还去做违心的事情。什么护旗手，什么我是中国人，什么重温长征路，这都是当众翘起屁股让中共这个老流氓操。我都挺他们感到害臊！\n\n二，中国出个屁大的事或人，就大肆炒作。前段时间炒一个教学生填高考志愿的张雪峰，接着炒一家摩托车行老板张雪。张峰不就因为替他的品牌代言的车手拿了个WSBK某站赛车冠军吗？这跟美国NASCAR和IndyCar赛车比，还差远了。这要是在NASCAR或MotoGP拿个冠军，不得吹上天呀！最近则是谢贤的死和两位中国籍学者获得菲尔茨奖。谢贤确实是一个挺传奇的明星，红了大半辈子。但是香港这样的明星真不少。要是死一个就捧一个，今后不得每天都拿死人来炒作？而王虹和邓煜获奖，确实是一件可喜可贺的事情。但是至于激动到这样吗？首先，人家都离开中国了。如此优秀的人才中共都留不住，或者说中共环境下出不了如此优秀的人才。这不仅不是什么光彩的事情，而且应该反思。中共真是把丧事当喜事办的高手。他们这一吹，很多人就迷迷糊糊真的觉得中共牛掰，脑子被洗坏了。其次，真正值得骄傲的是美国和法国。他们能吸引其他国家最优秀的人才，或者培养出最优秀的人才。虽然他们都在国内北大上过学，但是更高的学业和学术研究是在美国和法国完成的。而这才是奠定今天的成就的关键。可是人家也并没有怎么吹。美国这一次就有三个学者获得此奖，包括这两位在美国任教和从事研究工作的中国籍学者。再次，这正说明中国目前跟世界还有很大的差距。等中共什么时间不再因为有几个中国人拿了科学奖就得瑟的时候，中国就真的进步了。\n\n三，全面禁声不许谈论中国经济走向衰退。这说明中国经济真的全面衰退了。前段时间清华大学教授郑毓煌在一次讲座中谈到中国经济状况时说：“宏观悲观，微观乐观”，结果遭到举报。警方到场盘查。随后全网遭到封杀，所有社交平台账号清零。现在任何关于中国负面的信息都会遭到封杀，连房地产下跌都不能公开讲。可想而知问题有多严重。\n\n。。。。。。\n\n我想这三个例子已经足够说明问题了吧！出路在哪里？当然不是都跑出来。越是衰退，越来跑出来。最好的办法就是大家一起努力，扭转局势。而要做到这一点，前提是中国必须成为自由的国度。因此，推动中国走向自由民主是国人的当务之急！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1212,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "中国社会已经进入全面衰退和枯竭状态。我随便说几个例子： https://t.co/ByNDUOzLdi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 1445,
+          "like_count": 10181,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3412
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-19T20:13:04.000Z",
+        "description": "Student leader of 1989 democracy movement. In 2024, visited over 50 countries. Author of Anthems of Defeat and My Two Chinas.",
+        "id": "192662752",
+        "location": "Florida, USA",
+        "name": "唐柏桥",
+        "pinned_tweet_id": "2079821504577982714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1052120840966291456/6b15dDFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105725,
+          "following_count": 4294,
+          "like_count": 36248,
+          "listed_count": 442,
+          "media_count": 8485,
+          "tweet_count": 30853
+        },
+        "url": "",
+        "username": "tangbaiqiao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2073618110201114932",
+    "created_at": "2026-07-05T04:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073618110201114932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Justice53_07_2…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Justice53_07_27/status/2073594701186486486",
+          "start": 27,
+          "url": "https://t.co/ZhAuLJPvFG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073618110201114932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073594701186486486",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美国也有美国神友在黑屁美国嘛。都一样，环球同此凉热。 https://t.co/ZhAuLJPvFG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073594697571082241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbjZBzboAEwQTP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 544,
+        "media_key": "3_2073594696400863232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbjY9cbgAAfBey.jpg",
+        "width": 780
+      },
+      {
+        "height": 908,
+        "media_key": "3_2073594697310982144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbjZA1a0AA9ecN.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1362,
+        "media_key": "3_2073594698661572608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbjZF3bMAA5S1m.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2073618110201114932",
+        "created_at": "2026-07-05T04:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073618110201114932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Justice53_07_2…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Justice53_07_27/status/2073594701186486486",
+              "start": 27,
+              "url": "https://t.co/ZhAuLJPvFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073618110201114932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073594701186486486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美国也有美国神友在黑屁美国嘛。都一样，环球同此凉热。 https://t.co/ZhAuLJPvFG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073594697571082241",
+            "3_2073594696400863232",
+            "3_2073594697310982144",
+            "3_2073594698661572608"
+          ]
+        },
+        "author_id": "1845607538512797696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073594701186486486",
+        "created_at": "2026-07-05T02:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073594701186486486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V7WpoBVAWI",
+              "end": 96,
+              "expanded_url": "https://x.com/Justice53_07_27/status/2073594701186486486/photo/1",
+              "media_key": "3_2073594697571082241",
+              "start": 73,
+              "url": "https://t.co/V7WpoBVAWI"
+            },
+            {
+              "display_url": "pic.x.com/V7WpoBVAWI",
+              "end": 96,
+              "expanded_url": "https://x.com/Justice53_07_27/status/2073594701186486486/photo/1",
+              "media_key": "3_2073594696400863232",
+              "start": 73,
+              "url": "https://t.co/V7WpoBVAWI"
+            },
+            {
+              "display_url": "pic.x.com/V7WpoBVAWI",
+              "end": 96,
+              "expanded_url": "https://x.com/Justice53_07_27/status/2073594701186486486/photo/1",
+              "media_key": "3_2073594697310982144",
+              "start": 73,
+              "url": "https://t.co/V7WpoBVAWI"
+            },
+            {
+              "display_url": "pic.x.com/V7WpoBVAWI",
+              "end": 96,
+              "expanded_url": "https://x.com/Justice53_07_27/status/2073594701186486486/photo/1",
+              "media_key": "3_2073594698661572608",
+              "start": 73,
+              "url": "https://t.co/V7WpoBVAWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073594701186486486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "7月4号是美国独立日，家家户户门口都飘着星条旗，街头的皮卡也插着蓝白红，到处都是穿着蓝白红甚至纹身的小粉红，连商店里的甜甜圈都有星条旗的特别版；\n\n但是这时候狗子们却异常的安静，没有人出来抨击美国在煽动民族主义，搞民粹，搞军国主义，玩基本盘，搞宏大叙事，给屁民洗脑画饼，真是好奇怪啊，怎么美国人爱国没事，中国人爱国就马上变成老鼠过街人人喊打了呢？\n\n这些年不断对外发动战争，但是国内生活水平在不断下降的到底是哪个国家？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 314,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "7月4号是美国独立日，家家户户门口都飘着星条旗，街头的皮卡也插着蓝白红，到处都是穿着蓝白红甚至纹身的小粉红，连商店里的甜甜圈都有星条旗的特别版； https://t.co/V7WpoBVAWI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 1390,
+          "like_count": 9655,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3298
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T23:28:34.000Z",
+        "description": "Sharing my 2 cents,   理科男，事实的帮运工，正义必胜，蓝V必回粉",
+        "id": "1845607538512797696",
+        "location": "SoCal",
+        "name": "谣言终结者",
+        "pinned_tweet_id": "2072051137986154581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041199539512836096/lor_xCDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4456,
+          "following_count": 808,
+          "like_count": 2282,
+          "listed_count": 44,
+          "media_count": 1525,
+          "tweet_count": 5123
+        },
+        "url": "",
+        "username": "Justice53_07_27",
+        "verified": true
+      }
+    ]
+  }
+}

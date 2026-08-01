@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1981067741898346549",
+    "created_at": "2025-10-23T04:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T05:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981212812497371433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1194183532010098688",
+          "start": 0,
+          "username": "kfcfk05v50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981212812497371433",
+    "in_reply_to_user_id": "1194183532010098688",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981067741898346549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kfcfk05v50 let me see see"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1981067741898346549",
+        "created_at": "2025-10-23T04:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T05:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981212812497371433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1194183532010098688",
+              "start": 0,
+              "username": "kfcfk05v50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981212812497371433",
+        "in_reply_to_user_id": "1194183532010098688",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981067741898346549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kfcfk05v50 let me see see"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194183532010098688",
+        "conversation_id": "1981067741898346549",
+        "created_at": "2025-10-22T18:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T19:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981067741898346549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981067741898346549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想发自拍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 607,
+          "like_count": 3387,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1583
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T09:22:08.000Z",
+        "description": "PhD (Medicine) @ Norman Bethune College of Medicine, JLU, previously @ JLU undergrad, @ Changchun No.1 High School, @ Northeast Yucai Middle School",
+        "id": "1194183532010098688",
+        "location": "Sewer",
+        "name": "Dongbeinese HIT Mighty HahaCat",
+        "pinned_tweet_id": "1769772833322725858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955676683199021060/472wUJ2E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 1025,
+          "like_count": 1598,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 2511
+        },
+        "username": "kfcfk05v50",
+        "verified": false
+      }
+    ]
+  }
+}

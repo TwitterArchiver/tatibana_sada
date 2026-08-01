@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1992905287867814271",
+    "created_at": "2025-11-25T15:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T16:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993342185199354372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1723967055345360897",
+          "start": 0,
+          "username": "SaorsaOne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993342185199354372",
+    "in_reply_to_user_id": "1723967055345360897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992905287867814271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaorsaOne 谁告诉你我们资本主义者不为文革招魂的？我们绝对支持毛匪泽东文化大革命，因为这场革命既打击了黄鹅匪谍列宁党，又放出了各地小老板自谋生路开厂，我们要的，是更激烈的，具有不妥协政治动能的反共救国大革命！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992905287867814271",
+        "created_at": "2025-11-25T15:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993342185199354372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1723967055345360897",
+              "start": 0,
+              "username": "SaorsaOne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993342185199354372",
+        "in_reply_to_user_id": "1723967055345360897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992905287867814271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaorsaOne 谁告诉你我们资本主义者不为文革招魂的？我们绝对支持毛匪泽东文化大革命，因为这场革命既打击了黄鹅匪谍列宁党，又放出了各地小老板自谋生路开厂，我们要的，是更激烈的，具有不妥协政治动能的反共救国大革命！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723967055345360897",
+        "conversation_id": "1992905287867814271",
+        "created_at": "2025-11-24T10:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992905287867814271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992905287867814271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2526,
+          "like_count": 39,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我真是没想到还会有人招魂文革，上一个甚至不是真心只是表演了自己招魂文革的人是老薄。\n\n现在已秦城养老中。\n\n至于燕妮和网左，带着你们的弱水三千dj0.8x吃大份去吧💌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 939,
+          "like_count": 6209,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2249
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T07:32:36.000Z",
+        "description": "不键政，全职性骚扰薄熙来中。",
+        "id": "1723967055345360897",
+        "location": "秦城监狱",
+        "name": "白雪楼",
+        "pinned_tweet_id": "1993156768135102762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991516792141852672/6yo1za_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 134,
+          "like_count": 884,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 1269
+        },
+        "username": "SaorsaOne",
+        "verified": false
+      }
+    ]
+  }
+}

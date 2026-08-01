@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986150966044028928"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986143257324363813",
+    "created_at": "2025-11-05T19:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T20:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986150969110061508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1924283193169215488",
+          "start": 0,
+          "username": "7b4twomenriseup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/55XPBjskuN",
+          "end": 40,
+          "expanded_url": "https://x.com/tatibana_sada/status/1986150969110061508/photo/1",
+          "media_key": "3_1986150966044028928",
+          "start": 17,
+          "url": "https://t.co/55XPBjskuN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986150969110061508",
+    "in_reply_to_user_id": "1924283193169215488",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986150211157471415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7b4twomenriseup https://t.co/55XPBjskuN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 662,
+        "media_key": "3_1986150966044028928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5A5x9FacAA8lum.jpg",
+        "width": 654
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1986150204417130496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5A5FnzaQAATbor.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986150966044028928"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986143257324363813",
+        "created_at": "2025-11-05T19:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T20:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986150969110061508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1924283193169215488",
+              "start": 0,
+              "username": "7b4twomenriseup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/55XPBjskuN",
+              "end": 40,
+              "expanded_url": "https://x.com/tatibana_sada/status/1986150969110061508/photo/1",
+              "media_key": "3_1986150966044028928",
+              "start": 17,
+              "url": "https://t.co/55XPBjskuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986150969110061508",
+        "in_reply_to_user_id": "1924283193169215488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986150211157471415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7b4twomenriseup https://t.co/55XPBjskuN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986150204417130496"
+          ]
+        },
+        "author_id": "1924283193169215488",
+        "conversation_id": "1986143257324363813",
+        "created_at": "2025-11-05T19:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T20:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986150211157471415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o7U7phkevK",
+              "end": 38,
+              "expanded_url": "https://x.com/7b4twomenriseup/status/1986150211157471415/photo/1",
+              "media_key": "3_1986150204417130496",
+              "start": 15,
+              "url": "https://t.co/o7U7phkevK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986150211157471415",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986143257324363813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada https://t.co/o7U7phkevK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 760,
+          "like_count": 4810,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1822
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T01:57:34.000Z",
+        "description": "姒婣新號，整理中",
+        "id": "1924283193169215488",
+        "name": "姜姒婣7b4t（ㄋㄧˇㄉㄧㄝㄙˇㄌㄜ·）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947980450221473792/e2VwBhZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 199,
+          "like_count": 2020,
+          "listed_count": 4,
+          "media_count": 220,
+          "tweet_count": 755
+        },
+        "username": "7b4twomenriseup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060269358665093120"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059795356003733902",
+    "created_at": "2026-05-29T07:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060269361559175238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957812160421400576",
+          "start": 0,
+          "username": "canton_ss"
+        },
+        {
+          "end": 22,
+          "id": "1647197602717515776",
+          "start": 11,
+          "username": "canton_c_s"
+        },
+        {
+          "end": 35,
+          "id": "1879015064751288320",
+          "start": 23,
+          "username": "shhlh134789"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xjsV0m2Uyw",
+          "end": 63,
+          "expanded_url": "https://x.com/tatibana_sada/status/2060269361559175238/photo/1",
+          "media_key": "3_2060269358665093120",
+          "start": 40,
+          "url": "https://t.co/xjsV0m2Uyw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060269361559175238",
+    "in_reply_to_user_id": "1957812160421400576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060268116194803946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canton_ss @canton_c_s @shhlh134789 这挺好 https://t.co/xjsV0m2Uyw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1328,
+        "media_key": "3_2060269358665093120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeMEODa0AANNTV.jpg",
+        "width": 1290
+      },
+      {
+        "height": 808,
+        "media_key": "3_2060268105272844288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeK7Qza4AAn0Bk.jpg",
+        "width": 1211
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060269358665093120"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059795356003733902",
+        "created_at": "2026-05-29T07:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060269361559175238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957812160421400576",
+              "start": 0,
+              "username": "canton_ss"
+            },
+            {
+              "end": 22,
+              "id": "1647197602717515776",
+              "start": 11,
+              "username": "canton_c_s"
+            },
+            {
+              "end": 35,
+              "id": "1879015064751288320",
+              "start": 23,
+              "username": "shhlh134789"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjsV0m2Uyw",
+              "end": 63,
+              "expanded_url": "https://x.com/tatibana_sada/status/2060269361559175238/photo/1",
+              "media_key": "3_2060269358665093120",
+              "start": 40,
+              "url": "https://t.co/xjsV0m2Uyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060269361559175238",
+        "in_reply_to_user_id": "1957812160421400576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060268116194803946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canton_ss @canton_c_s @shhlh134789 这挺好 https://t.co/xjsV0m2Uyw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060268105272844288"
+          ]
+        },
+        "author_id": "1957812160421400576",
+        "conversation_id": "2059795356003733902",
+        "created_at": "2026-05-29T07:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060268116194803946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 26,
+              "id": "1647197602717515776",
+              "start": 15,
+              "username": "canton_c_s"
+            },
+            {
+              "end": 41,
+              "id": "1707741005490049024",
+              "start": 27,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 54,
+              "id": "1879015064751288320",
+              "start": 42,
+              "username": "shhlh134789"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHZyJOFqvS",
+              "end": 89,
+              "expanded_url": "https://x.com/canton_ss/status/2060268116194803946/photo/1",
+              "media_key": "3_2060268105272844288",
+              "start": 66,
+              "url": "https://t.co/jHZyJOFqvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060268116194803946",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060076869215728127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @canton_c_s @tatibana_sada @shhlh134789 你們怎麼看這個嶺南省 https://t.co/jHZyJOFqvS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 1248,
+          "like_count": 8947,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 3045
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T14:29:36.000Z",
+        "description": "Cantonese\nFirst Worldist, Traditionalist, Tridemist\nRevolt against the Global Zimbabwe\n最愛@Jocelynfloresjk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "Jocelynfloresjk"
+              }
+            ]
+          }
+        },
+        "id": "1957812160421400576",
+        "name": "宋岑臨",
+        "pinned_tweet_id": "2005304782421135680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053458768265183232/YjlC4jbv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 794,
+          "like_count": 57975,
+          "listed_count": 10,
+          "media_count": 626,
+          "tweet_count": 9357
+        },
+        "username": "canton_ss",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T11:18:17.000Z",
+        "description": "本會成立於2025年12月15日成立\n主席是宋岑臨，副主席是黃量甫\n本會旨在透過海外拓殖來保存廣府人的語言、文化和民族精神，以及建立一個共享地利的社區\n有意入會者，敬請留言\n若然各位有意見同睇法，歡迎投稿",
+        "id": "1647197602717515776",
+        "name": "廣府拓殖協會 CRS",
+        "pinned_tweet_id": "2044077027553317294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041111195000995841/QO0toERm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 139,
+          "like_count": 3526,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 674
+        },
+        "username": "canton_c_s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T03:58:08.000Z",
+        "description": "",
+        "id": "1879015064751288320",
+        "name": "笑笑生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879015258880376832/FInHFDMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 5,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 661
+        },
+        "username": "shhlh134789",
+        "verified": false
+      }
+    ]
+  }
+}

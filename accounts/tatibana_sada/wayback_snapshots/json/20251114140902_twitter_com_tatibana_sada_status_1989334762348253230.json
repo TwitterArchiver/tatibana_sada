@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1989268918972907592",
+    "created_at": "2025-11-14T14:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T15:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989334762348253230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1395658814402162689",
+          "start": 0,
+          "username": "8964tou12345678"
+        },
+        {
+          "end": 29,
+          "id": "111942564",
+          "start": 17,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989334762348253230",
+    "in_reply_to_user_id": "1395658814402162689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989310185978961994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964tou12345678 @boiledwater 担心马上开S3，然后准备援出几十个来修地堡呢。\ntbh我最信刘仲敬的时候真是这样子想的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1989268918972907592",
+        "created_at": "2025-11-14T14:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989334762348253230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1395658814402162689",
+              "start": 0,
+              "username": "8964tou12345678"
+            },
+            {
+              "end": 29,
+              "id": "111942564",
+              "start": 17,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989334762348253230",
+        "in_reply_to_user_id": "1395658814402162689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989310185978961994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tou12345678 @boiledwater 担心马上开S3，然后准备援出几十个来修地堡呢。\ntbh我最信刘仲敬的时候真是这样子想的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395658814402162689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "1989268918972907592",
+        "created_at": "2025-11-14T12:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989310185978961994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "111942564",
+              "start": 0,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989310185978961994",
+        "in_reply_to_user_id": "111942564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989268918972907592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boiledwater 我觉得平等的歧视两者最能消灭这个行业，不过如果是因为穷做这个，那不是她的错，是社会的悲哀和责任。如果是因为零花钱不够买ipad，那倒霉就有点活该了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 849,
+          "like_count": 5436,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1965
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10063,
+          "following_count": 7778,
+          "like_count": 267404,
+          "listed_count": 59,
+          "media_count": 2246,
+          "tweet_count": 44698
+        },
+        "username": "8964tou12345678",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sverige",
+        "name": "Jess",
+        "pinned_tweet_id": "1940516537993252971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983445356277841920/TJ0mJFDl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42640,
+          "following_count": 1749,
+          "like_count": 31587,
+          "listed_count": 160,
+          "media_count": 5032,
+          "tweet_count": 38440
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

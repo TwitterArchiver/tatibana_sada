@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1985983016834089429",
+    "created_at": "2025-11-05T08:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T09:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985983016834089429"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tang_Shuoyang/…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/Tang_Shuoyang/status/1985735509902266383",
+          "start": 139,
+          "url": "https://t.co/msR4Pl7WFK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985983016834089429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985735509902266383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说起来，我记得很久之前至圣平师和至圣奈师确实讨论过，「希腊健美」vs「汉官威仪」。这个论题对于一个大地土著的劳保是莫名其妙的，唯独放在灵知派的「衣袍论」语境才能检索出其来龙去脉和意义。\n所以在这里我仍然是霍布斯的继承者——英雄血气，自然状态，「孤独、贫困、卑污、残忍、短寿」。 https://t.co/msR4Pl7WFK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1985983016834089429",
+        "created_at": "2025-11-05T08:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T09:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985983016834089429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tang_Shuoyang/…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/Tang_Shuoyang/status/1985735509902266383",
+              "start": 139,
+              "url": "https://t.co/msR4Pl7WFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985983016834089429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985735509902266383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来，我记得很久之前至圣平师和至圣奈师确实讨论过，「希腊健美」vs「汉官威仪」。这个论题对于一个大地土著的劳保是莫名其妙的，唯独放在灵知派的「衣袍论」语境才能检索出其来龙去脉和意义。\n所以在这里我仍然是霍布斯的继承者——英雄血气，自然状态，「孤独、贫困、卑污、残忍、短寿」。 https://t.co/msR4Pl7WFK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1011298125225422848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1985735509902266383",
+        "created_at": "2025-11-04T15:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T16:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985735509902266383"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "c5518704462595fe"
+        },
+        "id": "1985735509902266383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得，老保就是要有老保审美，尤其是对那种丰腴的肌肉线条，健康的肉体形态，有一种全然的肯定和赞美。正是启蒙，我们才认识到保守主义被认可时的那种意识形态审美。审美一旦要投射到生活上，首先引发老保的己欲立而立人，行有不得反求诸己的反思——道路之上怎么还有饿的人呢？是我们没推行仁导致的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 赐同驴权出身\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 733,
+          "like_count": 4653,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1753
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-25T17:20:36.000Z",
+        "description": "吉林大学→BOCHK→名古屋大学(M2)/Political Phenomenology、政治過程論、西マ。\n絶対王政/神道文献訓詁（君主主義者役）左翼研究(本人) \n【不要以为到资本主义日本就没有儒了！😤👎】\n#ブルアカ #艦これ  (退役) #pjsk (通販)随缘フォロバ\n要回关请✉️🥺🌹",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 106,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 116,
+                "start": 112,
+                "tag": "艦これ"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "pjsk"
+              }
+            ]
+          }
+        },
+        "id": "1011298125225422848",
+        "location": "豊葦原中国",
+        "name": "Nicholas Don",
+        "pinned_tweet_id": "1648348923785003008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929953311429668867/2eZF6dcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 202,
+          "like_count": 32459,
+          "listed_count": 10,
+          "media_count": 954,
+          "tweet_count": 4081
+        },
+        "username": "Tang_Shuoyang",
+        "verified": false
+      }
+    ]
+  }
+}

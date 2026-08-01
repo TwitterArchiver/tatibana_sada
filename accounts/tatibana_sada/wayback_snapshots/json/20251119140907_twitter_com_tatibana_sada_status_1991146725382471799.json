@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991146725382471799",
+    "created_at": "2025-11-19T14:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T15:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991146725382471799"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NmsleseResearc…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/NmsleseResearch/status/1990967312980324391",
+          "start": 38,
+          "url": "https://t.co/wfQ8v7mUts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991146725382471799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990967312980324391",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鄙国人民自古以来光荣伟大善于对付洋人，千岛湖大捷沉重打击了台巴子的嚣张气焰 https://t.co/wfQ8v7mUts"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 544,
+        "media_key": "3_1990967307934605312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FWN8zboAAdoL5.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991146725382471799",
+        "created_at": "2025-11-19T14:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T15:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991146725382471799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NmsleseResearc…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/NmsleseResearch/status/1990967312980324391",
+              "start": 38,
+              "url": "https://t.co/wfQ8v7mUts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991146725382471799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990967312980324391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鄙国人民自古以来光荣伟大善于对付洋人，千岛湖大捷沉重打击了台巴子的嚣张气焰 https://t.co/wfQ8v7mUts"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990967307934605312"
+          ]
+        },
+        "author_id": "1640674561980260354",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990967312980324391",
+        "created_at": "2025-11-19T02:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T03:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990967312980324391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Vst2UrPp3",
+              "end": 23,
+              "expanded_url": "https://x.com/NmsleseResearch/status/1990967312980324391/photo/1",
+              "media_key": "3_1990967307934605312",
+              "start": 0,
+              "url": "https://t.co/0Vst2UrPp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990967312980324391",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 21421,
+          "like_count": 256,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0Vst2UrPp3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 864,
+          "like_count": 5622,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2017
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T11:17:59.000Z",
+        "description": "推特兔友的迷惑行為收集處（晚安推除外）丨歡迎投稿",
+        "id": "1640674561980260354",
+        "location": "Nmslese City",
+        "name": "熊老大 🔬 兔友研究院B🐻t",
+        "pinned_tweet_id": "1939673186796548497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866832536816795648/rAEgM1H5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16180,
+          "following_count": 2716,
+          "like_count": 437984,
+          "listed_count": 78,
+          "media_count": 8683,
+          "tweet_count": 24628
+        },
+        "username": "NmsleseResearch",
+        "verified": false
+      }
+    ]
+  }
+}

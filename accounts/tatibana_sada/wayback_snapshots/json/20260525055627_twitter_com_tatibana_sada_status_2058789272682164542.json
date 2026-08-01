@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2058661819452174562",
+    "created_at": "2026-05-25T05:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T06:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058789272682164542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1260960972119740420",
+          "start": 0,
+          "username": "l862BtipvsckKcu"
+        },
+        {
+          "end": 29,
+          "id": "970116645413900290",
+          "start": 17,
+          "username": "lug61929145"
+        },
+        {
+          "end": 45,
+          "id": "1260553941714186241",
+          "start": 30,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058789272682164542",
+    "in_reply_to_user_id": "1260960972119740420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058778099316310315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l862BtipvsckKcu @lug61929145 @whyyoutouzhele 谢谢你，为了振兴中国制造我正走在健康工作五十年的路上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2058661819452174562",
+        "created_at": "2026-05-25T05:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058789272682164542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1260960972119740420",
+              "start": 0,
+              "username": "l862BtipvsckKcu"
+            },
+            {
+              "end": 29,
+              "id": "970116645413900290",
+              "start": 17,
+              "username": "lug61929145"
+            },
+            {
+              "end": 45,
+              "id": "1260553941714186241",
+              "start": 30,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058789272682164542",
+        "in_reply_to_user_id": "1260960972119740420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058778099316310315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l862BtipvsckKcu @lug61929145 @whyyoutouzhele 谢谢你，为了振兴中国制造我正走在健康工作五十年的路上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260960972119740420",
+        "conversation_id": "2058661819452174562",
+        "created_at": "2026-05-25T05:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058778099316310315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            },
+            {
+              "end": 27,
+              "id": "970116645413900290",
+              "start": 15,
+              "username": "lug61929145"
+            },
+            {
+              "end": 43,
+              "id": "1260553941714186241",
+              "start": 28,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058778099316310315",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058775399338009077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada @lug61929145 @whyyoutouzhele 别整天海参崴了宏大叙事了，关心点你的私权吧，奴才，天天关心老共的家底？贱不贱呐？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 1199,
+          "like_count": 8547,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 2854
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-14T15:51:57.000Z",
+        "description": "相変わらずなのね",
+        "id": "1260960972119740420",
+        "name": "negan",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 25,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 147
+        },
+        "username": "l862BtipvsckKcu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-04T02:00:06.000Z",
+        "description": "",
+        "id": "970116645413900290",
+        "location": "Narita-shi, Chiba",
+        "name": "lug",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 210,
+          "like_count": 317,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 2547
+        },
+        "username": "lug61929145",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2233763,
+          "following_count": 1065,
+          "like_count": 9595,
+          "listed_count": 8773,
+          "media_count": 47384,
+          "tweet_count": 54512
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

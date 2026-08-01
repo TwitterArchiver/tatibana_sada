@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2074211647409836290",
+    "created_at": "2026-07-06T19:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T20:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074211647409836290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074211647409836290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074117625102364959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 一个广西浪友发信息跟我说，这是他人生中最美好的一个夏天…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2074211647409836290",
+        "created_at": "2026-07-06T19:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074211647409836290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074211647409836290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074117625102364959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: 一个广西浪友发信息跟我说，这是他人生中最美好的一个夏天…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103830967163117568",
+        "conversation_id": "2074117625102364959",
+        "created_at": "2026-07-06T13:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074117625102364959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074117625102364959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个广西浪友发信息跟我说，这是他人生中最美好的一个夏天\n早上醒来一开自家大门就能咖啡喝到饱，还能顺便在里边与幺幺玩水畅游锻炼身体；中午玩累了回家不用做饭就能看见被水冲进来的大鱼，也不用生火直接拿来做我们广西猴最爱的鲜美鱼生；晚上再在咖啡边蹲守兴许没过一会就能遇到个咖啡喝太多都变浮肿了的广西集美，不仅能直接捞上来用，用腻了还能当场做成广c特色美食两脚羊纪念一下韦国清将军；最后再发一段抖音说感谢国家感谢党，在拍打着的河浪声中安然入睡"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 7793,
+          "like_count": 142,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一个广西浪友发信息跟我说，这是他人生中最美好的一个夏天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 1395,
+          "like_count": 9714,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3316
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15577,
+          "following_count": 1044,
+          "like_count": 124890,
+          "listed_count": 75,
+          "media_count": 3187,
+          "tweet_count": 30150
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

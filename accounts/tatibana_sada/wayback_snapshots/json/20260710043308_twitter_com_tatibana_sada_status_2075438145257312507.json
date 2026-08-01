@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075091346998837248"
+      ],
+      "media_source_tweet_id": [
+        "2075091794547888310"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1220824190619545601",
+          "name": "Tinder"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1220824190619545601",
+          "name": "Tinder"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1433125517692002306",
+          "name": "Dating Apps"
+        }
+      }
+    ],
+    "conversation_id": "2075438145257312507",
+    "created_at": "2026-07-10T04:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T05:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075438145257312507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1432351612182229001",
+          "start": 3,
+          "username": "Merlyn_Void"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EqhHAaZpfX",
+          "end": 62,
+          "expanded_url": "https://x.com/Merlyn_Void/status/2075091794547888310/video/1",
+          "media_key": "13_2075091346998837248",
+          "start": 39,
+          "url": "https://t.co/EqhHAaZpfX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075438145257312507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075091794547888310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Merlyn_Void: 刷tinder中（刷到毛泽东了2分50秒） https://t.co/EqhHAaZpfX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 191090,
+        "height": 2622,
+        "media_key": "13_2075091346998837248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075091346998837248/img/tI1aOs0YsBWSzC9f.jpg",
+        "public_metrics": {
+          "view_count": 114417
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075091346998837248/vid/avc1/720x1564/0IxG39qwrjkQg6ux.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075091346998837248/vid/avc1/1206x2622/7towGlJHurGoSoGa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075091346998837248/pl/oKXgWBSNPP1KEVgp.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075091346998837248/vid/avc1/480x1042/HldBsihQaPEXBgrE.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075091346998837248/vid/avc1/320x694/x4h6-otBgpi00ajJ.mp4"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075091346998837248"
+          ],
+          "media_source_tweet_id": [
+            "2075091794547888310"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433125517692002306",
+              "name": "Dating Apps"
+            }
+          }
+        ],
+        "conversation_id": "2075438145257312507",
+        "created_at": "2026-07-10T04:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075438145257312507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1432351612182229001",
+              "start": 3,
+              "username": "Merlyn_Void"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqhHAaZpfX",
+              "end": 62,
+              "expanded_url": "https://x.com/Merlyn_Void/status/2075091794547888310/video/1",
+              "media_key": "13_2075091346998837248",
+              "start": 39,
+              "url": "https://t.co/EqhHAaZpfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075438145257312507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075091794547888310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Merlyn_Void: 刷tinder中（刷到毛泽东了2分50秒） https://t.co/EqhHAaZpfX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075091346998837248"
+          ]
+        },
+        "author_id": "1432351612182229001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433125517692002306",
+              "name": "Dating Apps"
+            }
+          }
+        ],
+        "conversation_id": "2075091794547888310",
+        "created_at": "2026-07-09T05:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075091794547888310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqhHAaZpfX",
+              "end": 45,
+              "expanded_url": "https://x.com/Merlyn_Void/status/2075091794547888310/video/1",
+              "media_key": "13_2075091346998837248",
+              "start": 22,
+              "url": "https://t.co/EqhHAaZpfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075091794547888310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 185973,
+          "like_count": 464,
+          "quote_count": 3,
+          "reply_count": 38,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "刷tinder中（刷到毛泽东了2分50秒） https://t.co/EqhHAaZpfX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 1421,
+          "like_count": 9905,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3370
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-30T14:37:00.000Z",
+        "description": "Queer，顺直勿扰。\n喜欢的动物是信天翁\n@Merlyn27781069",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "Merlyn27781069"
+              }
+            ]
+          }
+        },
+        "id": "1432351612182229001",
+        "location": "🚪288",
+        "name": "黄徵灏",
+        "pinned_tweet_id": "2049105797842665732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002420892949983232/XXFwiCyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25126,
+          "following_count": 279,
+          "like_count": 14125,
+          "listed_count": 53,
+          "media_count": 107,
+          "tweet_count": 4450
+        },
+        "url": "",
+        "username": "Merlyn_Void",
+        "verified": true
+      }
+    ]
+  }
+}

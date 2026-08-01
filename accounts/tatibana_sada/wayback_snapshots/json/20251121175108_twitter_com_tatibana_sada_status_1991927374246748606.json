@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991885300143104017",
+    "created_at": "2025-11-21T17:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T18:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991927374246748606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771507250080948224",
+          "start": 0,
+          "username": "ninaRich1991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991927374246748606",
+    "in_reply_to_user_id": "1771507250080948224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991885300143104017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ninaRich1991 鄙国小登核心出装：煊赫门"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991885278114660352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6SZG2NawAA96sI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991885300143104017",
+        "created_at": "2025-11-21T17:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991927374246748606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771507250080948224",
+              "start": 0,
+              "username": "ninaRich1991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991927374246748606",
+        "in_reply_to_user_id": "1771507250080948224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991885300143104017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ninaRich1991 鄙国小登核心出装：煊赫门"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991885278114660352"
+          ]
+        },
+        "author_id": "1771507250080948224",
+        "conversation_id": "1991885300143104017",
+        "created_at": "2025-11-21T15:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991885300143104017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AdJ3Ls0fI",
+              "end": 54,
+              "expanded_url": "https://x.com/ninaRich1991/status/1991885300143104017/photo/1",
+              "media_key": "3_1991885278114660352",
+              "start": 31,
+              "url": "https://t.co/7AdJ3Ls0fI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991885300143104017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 670,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天遇到了點爛事\n事情結束後舍友發的煙成了我人生的第一支菸🚬 https://t.co/7AdJ3Ls0fI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 891,
+          "like_count": 5871,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2125
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T12:00:25.000Z",
+        "description": "僕は世界を理解することに情熱を燃やし、健全な人格を持ち、自由意志を追求する人間だ🇺🇦🇨🇳フォロバは基本100%/#ウマ娘/#ガンダム/#ZARD/#MyGo/#トゲナシトゲアリ/日本のポップ/ロック/友好LGBTQor意識形態/不反共/無言フォロー失礼します🙇/🎸エレキギターを練習中です",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 56,
+                "tag": "ウマ娘"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "ガンダム"
+              },
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "ZARD"
+              },
+              {
+                "end": 78,
+                "start": 73,
+                "tag": "MyGo"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "tag": "トゲナシトゲアリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@ninazxrich78",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@ninazxrich78",
+                "start": 0,
+                "url": "https://t.co/VQoAKpwGue"
+              }
+            ]
+          }
+        },
+        "id": "1771507250080948224",
+        "location": "トレセン学園",
+        "name": "🎤我即井芹仁菜🐴🎸",
+        "pinned_tweet_id": "1832280227806113946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985305386174533632/yvt5IJnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3370,
+          "following_count": 3134,
+          "like_count": 68108,
+          "listed_count": 27,
+          "media_count": 4101,
+          "tweet_count": 38189
+        },
+        "url": "https://t.co/VQoAKpwGue",
+        "username": "ninaRich1991",
+        "verified": false
+      }
+    ]
+  }
+}

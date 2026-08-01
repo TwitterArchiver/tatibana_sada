@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060267369906507776"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2060267372767023284",
+    "created_at": "2026-05-29T07:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060267372767023284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jreQQRl65e",
+          "end": 39,
+          "expanded_url": "https://x.com/tatibana_sada/status/2060267372767023284/photo/1",
+          "media_key": "3_2060267369906507776",
+          "start": 16,
+          "url": "https://t.co/jreQQRl65e"
+        },
+        {
+          "display_url": "x.com/karo269640607/…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/karo269640607/status/2059918312356917519",
+          "start": 40,
+          "url": "https://t.co/wDDqT8c6jL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060267372767023284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059918312356917519",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "露大雷，原则上不符合周礼，，， https://t.co/jreQQRl65e https://t.co/wDDqT8c6jL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 497,
+        "media_key": "3_2060267369906507776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeKQdWbEAAjoN5.jpg",
+        "width": 402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060267369906507776"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2060267372767023284",
+        "created_at": "2026-05-29T07:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060267372767023284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jreQQRl65e",
+              "end": 39,
+              "expanded_url": "https://x.com/tatibana_sada/status/2060267372767023284/photo/1",
+              "media_key": "3_2060267369906507776",
+              "start": 16,
+              "url": "https://t.co/jreQQRl65e"
+            },
+            {
+              "display_url": "x.com/karo269640607/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/karo269640607/status/2059918312356917519",
+              "start": 40,
+              "url": "https://t.co/wDDqT8c6jL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060267372767023284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059918312356917519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "露大雷，原则上不符合周礼，，， https://t.co/jreQQRl65e https://t.co/wDDqT8c6jL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937073350750466048",
+        "conversation_id": "2059918312356917519",
+        "created_at": "2026-05-28T08:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059918312356917519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2059891680699117741",
+              "start": 106,
+              "url": "https://t.co/8mAyTigdi6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059918312356917519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 808,
+          "like_count": 19,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059891680699117741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操你们的妈，傻逼鸡女，激女都死妈了还打厨子，咋。骂小画师挺骄傲是不？我草我要笑死了，不让女的露奶子是啥逼规定。我是女的我就是不支持鸡女我就是反女权我就喜欢看女的露奶子你管得着吗😂吃饭打厨子是我见过最傻逼的事情 https://t.co/8mAyTigdi6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 1248,
+          "like_count": 8947,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3044
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 使用英文和简体中文|讨厌一切宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切 衛拓拒拆逆、生化里昂右向全肯定| 骂我的全家替我挡灾",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2039982674664960247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 614,
+          "like_count": 29367,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 5507
+        },
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

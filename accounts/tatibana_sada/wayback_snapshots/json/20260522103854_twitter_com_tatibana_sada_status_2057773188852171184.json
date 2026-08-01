@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2057752153935183900",
+    "created_at": "2026-05-22T10:38:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:38:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057773188852171184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782932905419046912",
+          "start": 0,
+          "username": "ratshelprats"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057773188852171184",
+    "in_reply_to_user_id": "1782932905419046912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057752153935183900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ratshelprats 我愿意倒贴钱干鼠王"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1435,
+        "media_key": "3_2057752151288680449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6ard1bkAE4ofN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2057752153935183900",
+        "created_at": "2026-05-22T10:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057773188852171184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782932905419046912",
+              "start": 0,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057773188852171184",
+        "in_reply_to_user_id": "1782932905419046912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057752153935183900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratshelprats 我愿意倒贴钱干鼠王"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057752151288680449"
+          ]
+        },
+        "author_id": "1782932905419046912",
+        "conversation_id": "2057752153935183900",
+        "created_at": "2026-05-22T09:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057752153935183900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eNrA8UC0om",
+              "end": 44,
+              "expanded_url": "https://x.com/ratshelprats/status/2057752153935183900/photo/1",
+              "media_key": "3_2057752151288680449",
+              "start": 21,
+              "url": "https://t.co/eNrA8UC0om"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057752153935183900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5175,
+          "like_count": 115,
+          "quote_count": 1,
+          "reply_count": 49,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "因为家里蹲，我爹准备花钱从社会上找人干我 https://t.co/eNrA8UC0om"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 1172,
+          "like_count": 8309,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2737
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "2019659610031026320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105641,
+          "following_count": 490,
+          "like_count": 91889,
+          "listed_count": 160,
+          "media_count": 616,
+          "tweet_count": 1519
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

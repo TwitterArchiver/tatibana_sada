@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2059210048333840392",
+    "created_at": "2026-05-26T09:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T10:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059210483119648897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955503492145283072",
+          "start": 0,
+          "username": "QWQ73416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059210483119648897",
+    "in_reply_to_user_id": "1955503492145283072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059210048333840392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QWQ73416 应活尽活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2059210048333840392",
+        "created_at": "2026-05-26T09:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059210483119648897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955503492145283072",
+              "start": 0,
+              "username": "QWQ73416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059210483119648897",
+        "in_reply_to_user_id": "1955503492145283072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059210048333840392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQ73416 应活尽活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2059210048333840392",
+        "created_at": "2026-05-26T09:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059210048333840392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatibana_sada/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/tatibana_sada/status/2058910468329394675",
+              "start": 37,
+              "url": "https://t.co/hfbtPodOnL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059210048333840392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058910468329394675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以大家千万不能死，知道吗？因为你死了，甚至会有人不允许大家悼念你🫥🫥🫥 https://t.co/hfbtPodOnL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 1215,
+          "like_count": 8696,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2910
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "|GAHT/HRT:2025.10.7|\n我已经不想说任何了\n这里烂透了\n新推 @QWQ1885",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米BAYER❄️",
+        "pinned_tweet_id": "2059195074991550825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 326,
+          "like_count": 6496,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1725
+        },
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

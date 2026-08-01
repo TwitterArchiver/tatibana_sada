@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2063966916864250289",
+    "created_at": "2026-06-08T16:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T17:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064016688295854187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820843841190256640",
+          "start": 0,
+          "username": "kirakira5th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064016688295854187",
+    "in_reply_to_user_id": "1820843841190256640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063966916864250289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira5th 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2063966916864250289",
+        "created_at": "2026-06-08T16:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064016688295854187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820843841190256640",
+              "start": 0,
+              "username": "kirakira5th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064016688295854187",
+        "in_reply_to_user_id": "1820843841190256640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063966916864250289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira5th 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820843841190256640",
+        "conversation_id": "2063966916864250289",
+        "created_at": "2026-06-08T12:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063966916864250289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063966916864250289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有哥哥想干小夏\n好寂寞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 1278,
+          "like_count": 9105,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3113
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T15:26:26.000Z",
+        "description": "纯良萌萌人",
+        "id": "1820843841190256640",
+        "location": "天国",
+        "name": "哈基夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019505350790017024/uMN1KxA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 823,
+          "like_count": 4982,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 1820
+        },
+        "username": "kirakira5th",
+        "verified": false
+      }
+    ]
+  }
+}

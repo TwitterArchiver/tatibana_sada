@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2058178118121336931",
+    "created_at": "2026-05-24T08:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058465463190069487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1654297647518466048",
+          "start": 0,
+          "username": "AngeloMcna6787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058465463190069487",
+    "in_reply_to_user_id": "1654297647518466048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058178118121336931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngeloMcna6787 「谁成想连骂人都能外包」？如果一个用ai批判另一个再用ai反驳，那也太有泔水感了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2058178118121336931",
+        "created_at": "2026-05-24T08:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058465463190069487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654297647518466048",
+              "start": 0,
+              "username": "AngeloMcna6787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058465463190069487",
+        "in_reply_to_user_id": "1654297647518466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058178118121336931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngeloMcna6787 「谁成想连骂人都能外包」？如果一个用ai批判另一个再用ai反驳，那也太有泔水感了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654297647518466048",
+        "conversation_id": "2058178118121336931",
+        "created_at": "2026-05-23T13:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058178118121336931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058178118121336931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 928,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在感觉，网上批判他人的稍微长一点的言论，十有八九都是AI生成的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 1193,
+          "like_count": 8435,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2800
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T01:31:17.000Z",
+        "description": "康米",
+        "id": "1654297647518466048",
+        "location": "？",
+        "name": "Jamie Hume二代目",
+        "pinned_tweet_id": "2054321124281074074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660967912289751041/T6cHfnhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 164,
+          "like_count": 11975,
+          "listed_count": 22,
+          "media_count": 1508,
+          "tweet_count": 23288
+        },
+        "username": "AngeloMcna6787",
+        "verified": false
+      }
+    ]
+  }
+}

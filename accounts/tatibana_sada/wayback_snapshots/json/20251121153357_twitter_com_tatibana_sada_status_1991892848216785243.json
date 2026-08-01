@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1991892848216785243",
+    "created_at": "2025-11-21T15:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T16:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991892848216785243"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1991892848216785243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们别黑屁老鸭粥了，，，我老人家也是老鸭粥哇。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1991892848216785243",
+        "created_at": "2025-11-21T15:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991892848216785243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991892848216785243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们别黑屁老鸭粥了，，，我老人家也是老鸭粥哇。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（征募精神爹）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 889,
+          "like_count": 5843,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2122
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1992885473447190780",
+    "created_at": "2025-11-24T14:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T15:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992967490943832249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1505851491734720515",
+          "start": 0,
+          "username": "momo_yu_Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992967490943832249",
+    "in_reply_to_user_id": "1505851491734720515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992885473447190780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momo_yu_Apple 你以为顺女都很好看吗，，，特批你下辈子当东北雨姐了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1992885473447190780",
+        "created_at": "2025-11-24T14:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T15:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992967490943832249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1505851491734720515",
+              "start": 0,
+              "username": "momo_yu_Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992967490943832249",
+        "in_reply_to_user_id": "1505851491734720515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992885473447190780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momo_yu_Apple 你以为顺女都很好看吗，，，特批你下辈子当东北雨姐了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505851491734720515",
+        "conversation_id": "1992885473447190780",
+        "created_at": "2025-11-24T09:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992885473447190780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992885473447190780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5975,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨女究竟要多瘦才能看起来和顺女一样好看？\n\n来自痛苦减肥期间的我belike🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 928,
+          "like_count": 6153,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2225
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T10:19:23.000Z",
+        "description": "04年大龄||178/70(减肥中)/80a||终身不可srs||🚪60接线下实习圆角||有个爱我的父母已经很幸福了||部分言论不要太较真||学习化妆ing",
+        "id": "1505851491734720515",
+        "name": "玉茉茉喵🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983747427325898869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982279720688320512/fMn-1YUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 302,
+          "like_count": 471,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 1080
+        },
+        "username": "momo_yu_Apple",
+        "verified": false
+      }
+    ]
+  }
+}

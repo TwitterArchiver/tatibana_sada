@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2063901974588993649",
+    "created_at": "2026-06-08T10:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063930703159669011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2062347448971141120",
+          "start": 0,
+          "username": "LCyberfa58187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063930703159669011",
+    "in_reply_to_user_id": "2062347448971141120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063901974588993649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LCyberfa58187 那咋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1818,
+        "media_key": "3_2063901972152164352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRz6J1boAA31fM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2063901974588993649",
+        "created_at": "2026-06-08T10:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063930703159669011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2062347448971141120",
+              "start": 0,
+              "username": "LCyberfa58187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063930703159669011",
+        "in_reply_to_user_id": "2062347448971141120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063901974588993649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LCyberfa58187 那咋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063901972152164352"
+          ]
+        },
+        "author_id": "2062347448971141120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Reality TV",
+              "id": "847523721065537536",
+              "name": "Reality TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          }
+        ],
+        "conversation_id": "2063901974588993649",
+        "created_at": "2026-06-08T08:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063901974588993649"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 251,
+              "start": 238,
+              "tag": "TheFireRises"
+            },
+            {
+              "end": 256,
+              "start": 252,
+              "tag": "TFR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u9yrupqxWn",
+              "end": 280,
+              "expanded_url": "https://x.com/LCyberfa58187/status/2063901974588993649/photo/1",
+              "media_key": "3_2063901972152164352",
+              "start": 257,
+              "url": "https://t.co/u9yrupqxWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063901974588993649",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "The reality shows that as long as TheFireRises adds nationalist elements to the Chinese playable storylines, it will attract hordes of \"cloud gamers\" domestically—some of whom haven't even played the game and mix up timelines and maps. 😅\n#TheFireRises\n#TFR https://t.co/u9yrupqxWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 1273,
+          "like_count": 9081,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3102
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T01:37:01.000Z",
+        "description": "I only draw for fun, without any political intention. I hope not to overinterpret",
+        "id": "2062347448971141120",
+        "location": "China",
+        "name": "Fa皇にゃん",
+        "pinned_tweet_id": "2062494759382593720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063103966570000385/569qylm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 167,
+          "like_count": 1096,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 112
+        },
+        "username": "LCyberfa58187",
+        "verified": false
+      }
+    ]
+  }
+}

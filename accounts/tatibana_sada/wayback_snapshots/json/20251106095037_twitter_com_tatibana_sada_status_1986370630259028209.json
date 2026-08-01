@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1986365993971818533",
+    "created_at": "2025-11-06T09:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T10:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986370630259028209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1807235564015689728",
+          "start": 0,
+          "username": "fei_hsveh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986370630259028209",
+    "in_reply_to_user_id": "1807235564015689728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986366997467439491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fei_hsveh 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1986365993971818533",
+        "created_at": "2025-11-06T09:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T10:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986370630259028209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1807235564015689728",
+              "start": 0,
+              "username": "fei_hsveh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986370630259028209",
+        "in_reply_to_user_id": "1807235564015689728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986366997467439491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fei_hsveh 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807235564015689728",
+        "conversation_id": "1986365993971818533",
+        "created_at": "2025-11-06T09:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T10:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986366997467439491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986366997467439491",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986365993971818533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 阿？！ 那么QQ的话还能上线吗 希望能和您多说说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 773,
+          "like_count": 4881,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1833
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T02:12:12.000Z",
+        "description": "重力系/疑似ASD/很烦人建议b",
+        "id": "1807235564015689728",
+        "name": "费雪",
+        "pinned_tweet_id": "1949346278183235652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917603035049779204/oz7mDX4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 95,
+          "like_count": 1150,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 1394
+        },
+        "username": "fei_hsveh",
+        "verified": false
+      }
+    ]
+  }
+}

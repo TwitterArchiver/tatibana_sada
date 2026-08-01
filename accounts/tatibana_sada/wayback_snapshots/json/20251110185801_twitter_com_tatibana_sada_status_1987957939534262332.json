@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1987815439708377093",
+    "created_at": "2025-11-10T18:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T19:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987957939534262332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1952682144889024512",
+          "start": 0,
+          "username": "JHebrb40566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987957939534262332",
+    "in_reply_to_user_id": "1952682144889024512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987815439708377093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JHebrb40566 世事无常天落红雨社会在进步"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1987815439708377093",
+        "created_at": "2025-11-10T18:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T19:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987957939534262332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1952682144889024512",
+              "start": 0,
+              "username": "JHebrb40566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987957939534262332",
+        "in_reply_to_user_id": "1952682144889024512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987815439708377093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JHebrb40566 世事无常天落红雨社会在进步"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952682144889024512",
+        "conversation_id": "1987815439708377093",
+        "created_at": "2025-11-10T09:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987815439708377093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987815439708377093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "客观来讲感觉社会是在变好的，从马斯洛需求模型上说，很多人满足了金字塔前面的一部分需求所以开始想追求尊重需求，但是一般来说尊重需求被满足人才有求知需求，这就是造成同态复仇的原因。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 795,
+          "like_count": 5007,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1851
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T10:44:47.000Z",
+        "description": "💉ftm|gnc\n💝女友@HaruChan_kumono\n🥰希望在这个社群里能让大家都安心🌱这个社群是大家一起努力搭建的🥺每个人的存在都很有意义🍀我看到了很多人都在男性觉醒🌻认识自我成长的重要性🎉好棒\n🚫拒绝极端仇恨主义 如果你们放下仇恨 我愿意支持你们（无关性别）\n✉️休息暂停更新几天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "HaruChan_kumono"
+              }
+            ]
+          }
+        },
+        "id": "1952682144889024512",
+        "location": "菲耶尔652",
+        "name": "Perkr🩶🤍💜🏳️‍⚧️",
+        "pinned_tweet_id": "1987720359177834636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986713527214829569/BiMOze3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 147,
+          "like_count": 675,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 277
+        },
+        "username": "JHebrb40566",
+        "verified": false
+      }
+    ]
+  }
+}

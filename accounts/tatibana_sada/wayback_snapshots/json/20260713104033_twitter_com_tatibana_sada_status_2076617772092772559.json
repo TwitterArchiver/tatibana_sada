@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075946129011965952"
+      ],
+      "media_source_tweet_id": [
+        "2075946303008457035"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2076617772092772559",
+    "created_at": "2026-07-13T10:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076617772092772559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1254605353838231553",
+          "start": 3,
+          "username": "sss_1713"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EqSuZAFm2u",
+          "end": 65,
+          "expanded_url": "https://x.com/sss_1713/status/2075946303008457035/photo/1",
+          "media_key": "3_2075946129011965952",
+          "start": 42,
+          "url": "https://t.co/EqSuZAFm2u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076617772092772559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075946303008457035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sss_1713: 我他妈还说当睡前读物看，朋友们你们说我看完还能睡着吗。 https://t.co/EqSuZAFm2u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2122,
+        "media_key": "3_2075946129011965952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8-AWibAAAEJpp.jpg",
+        "width": 1346
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075946129011965952"
+          ],
+          "media_source_tweet_id": [
+            "2075946303008457035"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2076617772092772559",
+        "created_at": "2026-07-13T10:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076617772092772559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1254605353838231553",
+              "start": 3,
+              "username": "sss_1713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqSuZAFm2u",
+              "end": 65,
+              "expanded_url": "https://x.com/sss_1713/status/2075946303008457035/photo/1",
+              "media_key": "3_2075946129011965952",
+              "start": 42,
+              "url": "https://t.co/EqSuZAFm2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076617772092772559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075946303008457035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sss_1713: 我他妈还说当睡前读物看，朋友们你们说我看完还能睡着吗。 https://t.co/EqSuZAFm2u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075946129011965952"
+          ]
+        },
+        "author_id": "1254605353838231553",
+        "conversation_id": "2075946303008457035",
+        "created_at": "2026-07-11T14:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:11:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075946165384994934",
+          "2075946303008457035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqSuZAFm2u",
+              "end": 51,
+              "expanded_url": "https://x.com/sss_1713/status/2075946303008457035/photo/1",
+              "media_key": "3_2075946129011965952",
+              "start": 28,
+              "url": "https://t.co/EqSuZAFm2u"
+            },
+            {
+              "display_url": "x.com/sss_1713/statu…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/sss_1713/status/2075863478859084001",
+              "start": 52,
+              "url": "https://t.co/I1sGm9Z1Ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075946303008457035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 79826,
+          "like_count": 693,
+          "quote_count": 10,
+          "reply_count": 64,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075863478859084001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈还说当睡前读物看，朋友们你们说我看完还能睡着吗。 https://t.co/EqSuZAFm2u https://t.co/I1sGm9Z1Ir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 1427,
+          "like_count": 9980,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3384
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-27T02:56:50.000Z",
+        "description": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭",
+        "id": "1254605353838231553",
+        "location": "    Regnum Caelorum",
+        "name": "1713✝️❤️‍🔥",
+        "pinned_tweet_id": "2057299489778499665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5978,
+          "following_count": 795,
+          "like_count": 54618,
+          "listed_count": 18,
+          "media_count": 1086,
+          "tweet_count": 9473
+        },
+        "url": "",
+        "username": "sss_1713",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1982138507284865165",
+    "created_at": "2025-10-26T23:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T00:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982597231040692566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1702156499781591040",
+          "start": 0,
+          "username": "Revo_Revi"
+        },
+        {
+          "end": 26,
+          "id": "1455052587145723904",
+          "start": 11,
+          "username": "MizukiWorkshop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982597231040692566",
+    "in_reply_to_user_id": "1702156499781591040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982232481450328539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Revo_Revi @MizukiWorkshop duce，能回fo我吗🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1982138507284865165",
+        "created_at": "2025-10-26T23:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T00:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982597231040692566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1702156499781591040",
+              "start": 0,
+              "username": "Revo_Revi"
+            },
+            {
+              "end": 26,
+              "id": "1455052587145723904",
+              "start": 11,
+              "username": "MizukiWorkshop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982597231040692566",
+        "in_reply_to_user_id": "1702156499781591040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982232481450328539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Revo_Revi @MizukiWorkshop duce，能回fo我吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702156499781591040",
+        "conversation_id": "1982138507284865165",
+        "created_at": "2025-10-25T23:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T00:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982232481450328539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1455052587145723904",
+              "start": 0,
+              "username": "MizukiWorkshop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982232481450328539",
+        "in_reply_to_user_id": "1455052587145723904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 313,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982138507284865165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizukiWorkshop 这不是我们法西斯与法团院吗，当上法团院长，意大利科学院长还能自动获得法西斯大委员会资格呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 631,
+          "like_count": 3517,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1611
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T03:05:17.000Z",
+        "description": "以节目效果为纲",
+        "id": "1702156499781591040",
+        "location": "小护士体内",
+        "name": "真列宁党",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974968137440546817/KYgvxLGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 250,
+          "like_count": 11894,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 4568
+        },
+        "username": "Revo_Revi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 1048,
+          "like_count": 104801,
+          "listed_count": 9,
+          "media_count": 1385,
+          "tweet_count": 19823
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      }
+    ]
+  }
+}

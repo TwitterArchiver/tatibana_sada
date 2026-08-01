@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988549548159930514",
+    "created_at": "2025-11-12T15:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T16:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988627876619362775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988627876619362775",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988549548159930514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayOrange 墨迹的勿扰 懂得看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988549548159930514",
+        "created_at": "2025-11-12T15:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T16:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988627876619362775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988627876619362775",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988549548159930514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 墨迹的勿扰 懂得看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1988549548159930514",
+        "created_at": "2025-11-12T10:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988549548159930514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988549548159930514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2594,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我的帖子一直吸引片姐。\n而没有人类来和我贴贴😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 823,
+          "like_count": 5286,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1926
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1988520564370161874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8167,
+          "following_count": 3210,
+          "like_count": 64076,
+          "listed_count": 14,
+          "media_count": 1321,
+          "tweet_count": 14744
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

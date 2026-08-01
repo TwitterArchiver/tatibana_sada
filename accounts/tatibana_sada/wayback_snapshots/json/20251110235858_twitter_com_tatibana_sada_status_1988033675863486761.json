@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1988033301677023341",
+    "created_at": "2025-11-10T23:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T00:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988033675863486761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "768756228570906624",
+          "start": 0,
+          "username": "LiuZhongjing"
+        },
+        {
+          "end": 27,
+          "id": "768756228570906624",
+          "start": 14,
+          "username": "LiuZhongjing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988033675863486761",
+    "in_reply_to_user_id": "1707741005490049024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988033301677023341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuZhongjing @LiuZhongjing 大总统阁下，诸夏是真的出圈了，时与势都在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988033301677023341",
+        "created_at": "2025-11-10T23:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T00:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988033675863486761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "768756228570906624",
+              "start": 0,
+              "username": "LiuZhongjing"
+            },
+            {
+              "end": 27,
+              "id": "768756228570906624",
+              "start": 14,
+              "username": "LiuZhongjing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988033675863486761",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988033301677023341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuZhongjing @LiuZhongjing 大总统阁下，诸夏是真的出圈了，时与势都在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1988033301677023341",
+        "created_at": "2025-11-10T23:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T00:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988033301677023341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "768756228570906624",
+              "start": 15,
+              "username": "LiuZhongjing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bunburyoudoujp…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/bunburyoudoujp/status/1987814666098421765",
+              "start": 29,
+              "url": "https://t.co/Y5FTgzXIYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988033301677023341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987814666098421765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草，精日洋鬼子都学会诸夏了\n@LiuZhongjing https://t.co/Y5FTgzXIYJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "荣誉顺直男 编外真激女 纯血公散解 精神宅男割 查冬丽免许 懂支民真传 赐同驴权出身\n\n浑噩长为太古民",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 798,
+          "like_count": 5050,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1874
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-25T10:25:42.000Z",
+        "description": "大蜀民國流亡政府 https://t.co/pk36QtbpGF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "freebasuria.org",
+                "end": 32,
+                "expanded_url": "https://freebasuria.org/",
+                "start": 9,
+                "url": "https://t.co/pk36QtbpGF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "medium.com/@LiuZhongjing",
+                "end": 23,
+                "expanded_url": "http://medium.com/@LiuZhongjing",
+                "start": 0,
+                "url": "https://t.co/umc5N421fn"
+              }
+            ]
+          }
+        },
+        "id": "768756228570906624",
+        "location": "Anglosphere",
+        "name": "Zhongjing Liu | 劉仲敬",
+        "pinned_tweet_id": "1060767246518284289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/769078428150689792/tR-VKqUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85757,
+          "following_count": 244,
+          "like_count": 76169,
+          "listed_count": 592,
+          "media_count": 1012,
+          "tweet_count": 106549
+        },
+        "url": "https://t.co/umc5N421fn",
+        "username": "LiuZhongjing",
+        "verified": true
+      }
+    ]
+  }
+}

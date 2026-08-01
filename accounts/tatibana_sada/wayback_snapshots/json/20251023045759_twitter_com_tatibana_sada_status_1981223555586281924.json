@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980981218729656333",
+    "created_at": "2025-10-23T04:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T05:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981223555586281924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1247123754158702593",
+          "start": 0,
+          "username": "Rokumi_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981223555586281924",
+    "in_reply_to_user_id": "1247123754158702593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980981218729656333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rokumi_desu 主权是公民权的总和，人权则是「世界公民」的公民权，因此这是个共同体构建的问题。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980981218729656333",
+        "created_at": "2025-10-23T04:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T05:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981223555586281924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1247123754158702593",
+              "start": 0,
+              "username": "Rokumi_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981223555586281924",
+        "in_reply_to_user_id": "1247123754158702593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980981218729656333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rokumi_desu 主权是公民权的总和，人权则是「世界公民」的公民权，因此这是个共同体构建的问题。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247123754158702593",
+        "conversation_id": "1980981218729656333",
+        "created_at": "2025-10-22T12:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980981218729656333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980981218729656333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 507,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人权高于主权和主权高于人权，这两句话都有明显的逻辑漏洞，，，到底是谁想到把“人权”和“主权”切割成两个对立的上层建筑附属物呢，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 609,
+          "like_count": 3398,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1585
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T11:27:44.000Z",
+        "description": "头在鞋上几千次，鞋在头上第一次。本人毛主义者但是不接待腊肉崇拜者，你被b了说明你的弱智发言被我发现了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rokuuuunanami",
+                "end": 23,
+                "expanded_url": "https://t.me/rokuuuunanami",
+                "start": 0,
+                "url": "https://t.co/KvIHmQr4jg"
+              }
+            ]
+          }
+        },
+        "id": "1247123754158702593",
+        "name": "海うみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963335765573902336/bn-zMV-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2941,
+          "following_count": 696,
+          "like_count": 91310,
+          "listed_count": 10,
+          "media_count": 473,
+          "tweet_count": 8936
+        },
+        "url": "https://t.co/KvIHmQr4jg",
+        "username": "Rokumi_desu",
+        "verified": false
+      }
+    ]
+  }
+}

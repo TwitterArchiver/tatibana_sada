@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1999236506670760014",
+    "created_at": "2025-12-12T00:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T01:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999276252990177521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1224033596249382912",
+          "start": 0,
+          "username": "Uturo_Bune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999276252990177521",
+    "in_reply_to_user_id": "1224033596249382912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999236506670760014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uturo_Bune 哲奥做题区味有点浓…我综合看了一圈，语奥人士是鄙国整体的素质最高的一群人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1999236506670760014",
+        "created_at": "2025-12-12T00:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T01:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999276252990177521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224033596249382912",
+              "start": 0,
+              "username": "Uturo_Bune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999276252990177521",
+        "in_reply_to_user_id": "1224033596249382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999236506670760014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uturo_Bune 哲奥做题区味有点浓…我综合看了一圈，语奥人士是鄙国整体的素质最高的一群人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224033596249382912",
+        "conversation_id": "1999236506670760014",
+        "created_at": "2025-12-11T21:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T22:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999236506670760014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999236506670760014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想资助一位哲学爱好者去名校上学，或者帮打哲学奥赛的做指导。。。钱够了，学问也够了，人呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 999,
+          "like_count": 6975,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2398
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T18:15:59.000Z",
+        "description": "因此，时间将来到，他们眼睛上的鳞片将脱落｜妹妹@suwanzi2333｜导师@CMWither｜宠物@Kraehe_YukI & @xiaogozz｜伊曾在此@200x0x1x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "suwanzi2333"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "CMWither"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Kraehe_YukI"
+              },
+              {
+                "end": 74,
+                "start": 65,
+                "username": "xiaogozz"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "username": "200x0x1x"
+              }
+            ]
+          }
+        },
+        "id": "1224033596249382912",
+        "location": "Narrenschiff",
+        "name": "兔兔牌皇室贵族小点心🥕（水晶萝卜版）",
+        "pinned_tweet_id": "1998836053730537479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959725077286854656/BR6dJPAQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 285,
+          "like_count": 35231,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 8488
+        },
+        "username": "Uturo_Bune",
+        "verified": true
+      }
+    ]
+  }
+}

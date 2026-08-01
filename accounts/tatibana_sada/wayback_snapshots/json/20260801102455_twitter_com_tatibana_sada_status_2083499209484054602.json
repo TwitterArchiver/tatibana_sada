@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2083499209484054602",
+    "created_at": "2026-08-01T10:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083499209484054602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anblk984/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/anblk984/status/2083498352944308598",
+          "start": 8,
+          "url": "https://t.co/HpJ8pEfc4A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083499209484054602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083498352944308598",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁把我挂网上了 https://t.co/HpJ8pEfc4A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1842,
+        "media_key": "3_2083498347768483840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoStVzakAAGzBp.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2083499209484054602",
+        "created_at": "2026-08-01T10:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083499209484054602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anblk984/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/anblk984/status/2083498352944308598",
+              "start": 8,
+              "url": "https://t.co/HpJ8pEfc4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083499209484054602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083498352944308598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁把我挂网上了 https://t.co/HpJ8pEfc4A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083498347768483840"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2083498352944308598",
+        "created_at": "2026-08-01T10:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083498352944308598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKqZz7t6mi",
+              "end": 28,
+              "expanded_url": "https://x.com/anblk984/status/2083498352944308598/photo/1",
+              "media_key": "3_2083498347768483840",
+              "start": 5,
+              "url": "https://t.co/NKqZz7t6mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083498352944308598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁😁 https://t.co/NKqZz7t6mi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 1460,
+          "like_count": 10324,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3443
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15969,
+          "following_count": 1064,
+          "like_count": 127564,
+          "listed_count": 78,
+          "media_count": 3404,
+          "tweet_count": 30843
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

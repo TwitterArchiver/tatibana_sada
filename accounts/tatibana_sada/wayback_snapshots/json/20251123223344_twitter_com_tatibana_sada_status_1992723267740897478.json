@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1992649865785114692",
+    "created_at": "2025-11-23T22:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T23:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992723267740897478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1553953384159657984",
+          "start": 0,
+          "username": "fengsu48033128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992723267740897478",
+    "in_reply_to_user_id": "1553953384159657984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992649865785114692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fengsu48033128 来跟我念：习近平"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992649772415778818",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dQaRabAAIYaaX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1992649865785114692",
+        "created_at": "2025-11-23T22:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T23:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992723267740897478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1553953384159657984",
+              "start": 0,
+              "username": "fengsu48033128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992723267740897478",
+        "in_reply_to_user_id": "1553953384159657984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992649865785114692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengsu48033128 来跟我念：习近平"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992649772415778818"
+          ]
+        },
+        "author_id": "1553953384159657984",
+        "conversation_id": "1992649865785114692",
+        "created_at": "2025-11-23T17:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992649865785114692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4wO1QaTDFI",
+              "end": 58,
+              "expanded_url": "https://x.com/fengsu48033128/status/1992649865785114692/photo/1",
+              "media_key": "3_1992649772415778818",
+              "start": 35,
+              "url": "https://t.co/4wO1QaTDFI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992649865785114692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36613,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在知道有那么多的人关心我啊，哈哈…井底之蛙咋这么多，笑死我了😂😂😂 https://t.co/4wO1QaTDFI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "貴方と共に何処までも　参りましょう",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 919,
+          "like_count": 6097,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2216
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T03:59:18.000Z",
+        "description": "Record the beauty of life and enjoy the fun of life. Artistic youth who love music🎸🎤",
+        "id": "1553953384159657984",
+        "location": "XinJiang China",
+        "name": "扎扎江",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824825138959011840/yjZ-zzHs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5759,
+          "following_count": 7501,
+          "like_count": 7091,
+          "listed_count": 15,
+          "media_count": 1700,
+          "tweet_count": 3307
+        },
+        "username": "fengsu48033128",
+        "verified": true
+      }
+    ]
+  }
+}

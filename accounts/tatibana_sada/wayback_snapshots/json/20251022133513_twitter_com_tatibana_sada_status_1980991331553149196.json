@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980636582823760288",
+    "created_at": "2025-10-22T13:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T14:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980991331553149196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1459453832",
+          "start": 0,
+          "username": "sauricat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980991331553149196",
+    "in_reply_to_user_id": "1459453832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980636582823760288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sauricat 没有一点主体性的家伙啊。\n为什么不敢说，女权应该支持跨运，不支持跨运的女权是假女权呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980636582823760288",
+        "created_at": "2025-10-22T13:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T14:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980991331553149196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459453832",
+              "start": 0,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980991331553149196",
+        "in_reply_to_user_id": "1459453832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980636582823760288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sauricat 没有一点主体性的家伙啊。\n为什么不敢说，女权应该支持跨运，不支持跨运的女权是假女权呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459453832",
+        "conversation_id": "1980636582823760288",
+        "created_at": "2025-10-21T14:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T15:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980636582823760288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sauricat/statu…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/sauricat/status/1980631485297066485",
+              "start": 48,
+              "url": "https://t.co/wLEfo1yJr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980636582823760288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7174,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980631485297066485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一边说基女也是女权，一边说跨运必须支持女权，是犯了逻辑不清的错误。背后当然有更深层的心理诱因。 https://t.co/wLEfo1yJr4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 600,
+          "like_count": 3305,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1571
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) 北雁书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauri.ca",
+                "end": 23,
+                "expanded_url": "https://sauri.ca",
+                "start": 0,
+                "url": "https://t.co/Q8ag0EHWU5"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "B.-Y. Shu",
+        "pinned_tweet_id": "1879406089600704784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11146,
+          "following_count": 927,
+          "like_count": 33788,
+          "listed_count": 36,
+          "media_count": 587,
+          "tweet_count": 11662
+        },
+        "url": "https://t.co/Q8ag0EHWU5",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

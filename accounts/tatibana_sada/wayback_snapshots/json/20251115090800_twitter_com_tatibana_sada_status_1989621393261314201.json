@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1989621393261314201",
+    "created_at": "2025-11-15T09:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T10:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989621393261314201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 3,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989621393261314201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989538274843730058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaDF: 我爷爷80+了，没事就好上网冲浪。\n\n上次家庭聚会的时候，爷爷冒出一句“你知道习近平和国际象棋那个女的有个私生子的事吗”，全家中年的那批中登应该都没料到这个老登会聊这个，瞬间全部哑火。他还爱聊“齐心是个小三上位不要脸”，“谷开来把情敌做标本“之类的话…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1989621393261314201",
+        "created_at": "2025-11-15T09:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T10:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989621393261314201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790370144755351552",
+              "start": 3,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989621393261314201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989538274843730058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurinaDF: 我爷爷80+了，没事就好上网冲浪。\n\n上次家庭聚会的时候，爷爷冒出一句“你知道习近平和国际象棋那个女的有个私生子的事吗”，全家中年的那批中登应该都没料到这个老登会聊这个，瞬间全部哑火。他还爱聊“齐心是个小三上位不要脸”，“谷开来把情敌做标本“之类的话…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790370144755351552",
+        "conversation_id": "1989538274843730058",
+        "created_at": "2025-11-15T03:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989538274843730058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989538274843730058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 75702,
+          "like_count": 393,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我爷爷80+了，没事就好上网冲浪。\n\n上次家庭聚会的时候，爷爷冒出一句“你知道习近平和国际象棋那个女的有个私生子的事吗”，全家中年的那批中登应该都没料到这个老登会聊这个，瞬间全部哑火。他还爱聊“齐心是个小三上位不要脸”，“谷开来把情敌做标本“之类的话题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "可叹忠信的城",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1980552565336248829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 856,
+          "like_count": 5563,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1998
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "你好呀@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1989004136562766313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61583,
+          "following_count": 2367,
+          "like_count": 29843,
+          "listed_count": 175,
+          "media_count": 7613,
+          "tweet_count": 12212
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

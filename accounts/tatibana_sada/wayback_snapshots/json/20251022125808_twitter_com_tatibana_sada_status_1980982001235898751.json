@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "1980948023837626381",
+    "created_at": "2025-10-22T12:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T13:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980982001235898751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773662555300671488",
+          "start": 0,
+          "username": "Wtr_ePiansoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980982001235898751",
+    "in_reply_to_user_id": "1773662555300671488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980948023837626381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wtr_ePiansoo 这才是有党性的好党员"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 237,
+        "media_key": "3_1980948021295673345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G329utfXcAEuI6t.jpg",
+        "width": 288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "1980948023837626381",
+        "created_at": "2025-10-22T12:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980982001235898751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773662555300671488",
+              "start": 0,
+              "username": "Wtr_ePiansoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980982001235898751",
+        "in_reply_to_user_id": "1773662555300671488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980948023837626381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wtr_ePiansoo 这才是有党性的好党员"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980948021295673345"
+          ]
+        },
+        "author_id": "1773662555300671488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980948023837626381",
+        "created_at": "2025-10-22T10:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980948023837626381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HtQgbOuHkv",
+              "end": 31,
+              "expanded_url": "https://x.com/Wtr_ePiansoo/status/1980948023837626381/photo/1",
+              "media_key": "3_1980948021295673345",
+              "start": 8,
+              "url": "https://t.co/HtQgbOuHkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980948023837626381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "這就很有原則了 https://t.co/HtQgbOuHkv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "浑噩长为太古民",
+        "id": "1707741005490049024",
+        "name": "小橘春定",
+        "pinned_tweet_id": "1738276180057600327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 600,
+          "like_count": 3302,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1567
+        },
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T10:44:56.000Z",
+        "description": "—To̍k Li̍p——Êng Kng——Chek Jīm—\n.\nmainly English: @wtr_drawing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "wtr_drawing"
+              }
+            ]
+          }
+        },
+        "id": "1773662555300671488",
+        "location": "From Hunlim County, Formosa",
+        "name": "🌴ѡатаɾо🐢 (⁠^⁠.⁠⁠ѡ.⁠^⁠)⁠ﾉ🏔️🌳🍃",
+        "pinned_tweet_id": "1979395683737309222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974859137789087744/4sZa6nZx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 268,
+          "like_count": 18830,
+          "listed_count": 6,
+          "media_count": 2022,
+          "tweet_count": 8095
+        },
+        "username": "Wtr_ePiansoo",
+        "verified": false
+      }
+    ]
+  }
+}
