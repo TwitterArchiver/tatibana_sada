@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T00:03:58",
+  "last_updated": "2026-08-02T00:04:25",
   "html": {
     "https://web.archive.org/web/20241007203059if_/https://twitter.com/tatibana_sada/status/1843388575532101835": {
       "status": "done",
@@ -15098,9 +15098,9 @@
       "referenced_by": [
         "20251105112024_twitter_com_tatibana_sada_status_1986030837167800377.json"
       ],
-      "last_updated": "2026-08-01T23:14:26",
+      "last_updated": "2026-08-02T00:04:25",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251105112024/https://video.twimg.com/amplify_video/1985839494743068672/vid/avc1/1062x916/udxYswwsNUk28ZWE.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/G5mVWT5acAAit-k.mp4": {
       "status": "done",
