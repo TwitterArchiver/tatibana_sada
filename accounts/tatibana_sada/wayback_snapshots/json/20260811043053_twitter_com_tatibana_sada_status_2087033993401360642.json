@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086756113035165697"
+      ],
+      "media_source_tweet_id": [
+        "2086756207134425127"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      }
+    ],
+    "conversation_id": "2087033993401360642",
+    "created_at": "2026-08-11T04:30:53.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T05:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087033993401360642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1887854084394278912",
+          "start": 3,
+          "username": "valeradx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QzYnoop5oq",
+          "end": 74,
+          "expanded_url": "https://x.com/valeradx/status/2086756207134425127/photo/1",
+          "media_key": "3_2086756113035165697",
+          "start": 51,
+          "url": "https://t.co/QzYnoop5oq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087033993401360642",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2086756113035165697"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 799
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086756207134425127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @valeradx: never forget what they took from you https://t.co/QzYnoop5oq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 315,
+        "media_key": "3_2086756113035165697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWloPJWAAEFK6g.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086756113035165697"
+          ]
+        },
+        "author_id": "1887854084394278912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2086756207134425127",
+        "created_at": "2026-08-10T10:07:04.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086756207134425127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QzYnoop5oq",
+              "end": 60,
+              "expanded_url": "https://x.com/valeradx/status/2086756207134425127/photo/1",
+              "media_key": "3_2086756113035165697",
+              "start": 37,
+              "url": "https://t.co/QzYnoop5oq"
+            },
+            {
+              "display_url": "x.com/LinusMixson/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/LinusMixson/status/2086689649024708762",
+              "start": 61,
+              "url": "https://t.co/znFRIcK243"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086756207134425127",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086756113035165697"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1090,
+          "impression_count": 199712,
+          "like_count": 10101,
+          "quote_count": 29,
+          "reply_count": 44,
+          "retweet_count": 799
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086689649024708762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "never forget what they took from you https://t.co/QzYnoop5oq https://t.co/znFRIcK243"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086756113035165697"
+          ],
+          "media_source_tweet_id": [
+            "2086756207134425127"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2087033993401360642",
+        "created_at": "2026-08-11T04:30:53.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087033993401360642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887854084394278912",
+              "start": 3,
+              "username": "valeradx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QzYnoop5oq",
+              "end": 74,
+              "expanded_url": "https://x.com/valeradx/status/2086756207134425127/photo/1",
+              "media_key": "3_2086756113035165697",
+              "start": 51,
+              "url": "https://t.co/QzYnoop5oq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087033993401360642",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086756113035165697"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 799
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086756207134425127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @valeradx: never forget what they took from you https://t.co/QzYnoop5oq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2087033993401360642",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 1477,
+          "like_count": 10528,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3482
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-07T13:21:18.000Z",
+        "description": "ai entrepreneurn't | the pincher | old guns fandom | like botter",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sixshooter.org",
+                "end": 23,
+                "expanded_url": "http://sixshooter.org",
+                "start": 0,
+                "url": "https://t.co/8niA9mFTro"
+              }
+            ]
+          }
+        },
+        "id": "1887854084394278912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086901690985316656",
+        "name": "quantumv(aleradx)",
+        "pinned_tweet_id": "2078946547178389592",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887854084394278912/1776676292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082536788367720448/Ha96tt8B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 208,
+          "like_count": 29574,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 3160
+        },
+        "url": "https://t.co/8niA9mFTro",
+        "username": "valeradx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

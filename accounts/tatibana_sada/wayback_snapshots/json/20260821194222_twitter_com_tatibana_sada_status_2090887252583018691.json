@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2090887252583018691",
+    "created_at": "2026-08-21T19:42:22.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T20:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090887252583018691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Julieusddq/sta…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/Julieusddq/status/2090884299755282715",
+          "start": 80,
+          "url": "https://t.co/RUJgnlgogY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090887252583018691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090884299755282715",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我搓一个连贯的说法。男的更强，更聪明，因此男性天生应该过的更好。而社会体系要求男性承担了太多压力，因此男性反而过的更差。\n这个路子可以连贯的接到女本位的话术。 https://t.co/RUJgnlgogY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2090887252583018691",
+        "created_at": "2026-08-21T19:42:22.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090887252583018691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Julieusddq/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/Julieusddq/status/2090884299755282715",
+              "start": 80,
+              "url": "https://t.co/RUJgnlgogY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090887252583018691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090884299755282715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我搓一个连贯的说法。男的更强，更聪明，因此男性天生应该过的更好。而社会体系要求男性承担了太多压力，因此男性反而过的更差。\n这个路子可以连贯的接到女本位的话术。 https://t.co/RUJgnlgogY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509203130889617408",
+        "conversation_id": "2090860723115347988",
+        "created_at": "2026-08-21T19:30:38.000Z",
+        "display_text_range": [
+          15,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090884299755282715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090884299755282715",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090860723115347988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada 别被他绕进去了，所谓特权男比特权女有更多特权这句话根本就没有任何依据。男的平均寿命比女的低，消费力比女的低 ， 自杀率还高。如果Amber潘泽豪管这种叫特权的话建议她多享受"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2090887252583018691",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 1496,
+          "like_count": 11346,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3617
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-30T16:17:44.000Z",
+        "description": "",
+        "id": "1509203130889617408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090884872214855696",
+        "name": "Inevitable Indian",
+        "pinned_tweet_id": "1887813094434300099",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887741664950951943/M3lfZxiS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 694,
+          "like_count": 96292,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 19990
+        },
+        "url": "",
+        "username": "Julieusddq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

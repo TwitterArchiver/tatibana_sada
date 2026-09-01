@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2089977689985921508",
+    "created_at": "2026-08-19T07:28:05.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089977689985921508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bqd2r/status/2…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/bqd2r/status/2089736373721002102",
+          "start": 13,
+          "url": "https://t.co/ps770Ies9M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089977689985921508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089736373721002102",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "乐的我发抖啊这群勇敢爷们 https://t.co/ps770Ies9M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2089977689985921508",
+        "created_at": "2026-08-19T07:28:05.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089977689985921508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bqd2r/status/2…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/bqd2r/status/2089736373721002102",
+              "start": 13,
+              "url": "https://t.co/ps770Ies9M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089977689985921508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089736373721002102",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "乐的我发抖啊这群勇敢爷们 https://t.co/ps770Ies9M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018998926943440896",
+        "conversation_id": "2089736373721002102",
+        "created_at": "2026-08-18T15:29:11.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089736373721002102"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089736373721002102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6077,
+          "like_count": 74,
+          "quote_count": 2,
+          "reply_count": 126,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "气得我发抖啊这群死妈男的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2089977689985921508",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 1478,
+          "like_count": 10866,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 3529
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-04T10:44:00.000Z",
+        "description": "",
+        "id": "2018998926943440896",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089963138548646063",
+        "name": "长大会失去你吗",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018998926943440896/1770204065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019007942897610752/OavMsWec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 33,
+          "like_count": 544,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 532
+        },
+        "url": "",
+        "username": "bqd2r",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

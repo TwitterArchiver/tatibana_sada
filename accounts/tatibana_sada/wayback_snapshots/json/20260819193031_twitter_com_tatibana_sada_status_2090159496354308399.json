@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "2090159496354308399",
+    "created_at": "2026-08-19T19:30:31.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T20:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090159496354308399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuRain_Is_Doll…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/YuRain_Is_Doll/status/2090146214125986072",
+          "start": 12,
+          "url": "https://t.co/WsnBj01CJK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090159496354308399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090146214125986072",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "生生世世共和国公民来了 https://t.co/WsnBj01CJK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22166,
+        "height": 1248,
+        "media_key": "13_2090146169733480448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090146169733480448/img/RP48_ztOJUDDwDpz.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090146169733480448/vid/avc1/320x554/MuWtdyB4mKZaUpig.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090146169733480448/vid/avc1/480x832/C2MqzD22DCnXHjSA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090146169733480448/vid/avc1/720x1248/Dc3bzIpCjfS_Wx7W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090146169733480448/pl/BOjBFusthE27xhUR.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 804,
+        "media_key": "3_2090146169720827904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGw3gbacAATRXg.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2090159496354308399",
+        "created_at": "2026-08-19T19:30:31.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T20:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090159496354308399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuRain_Is_Doll…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/YuRain_Is_Doll/status/2090146214125986072",
+              "start": 12,
+              "url": "https://t.co/WsnBj01CJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090159496354308399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090146214125986072",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生生世世共和国公民来了 https://t.co/WsnBj01CJK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090146169733480448",
+            "3_2090146169720827904"
+          ]
+        },
+        "author_id": "1508408540360507393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2090146214125986072",
+        "created_at": "2026-08-19T18:37:45.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090146214125986072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qpPnG1j2no",
+              "end": 96,
+              "expanded_url": "https://x.com/YuRain_Is_Doll/status/2090146214125986072/video/1",
+              "media_key": "13_2090146169733480448",
+              "start": 73,
+              "url": "https://t.co/qpPnG1j2no"
+            },
+            {
+              "display_url": "pic.x.com/qpPnG1j2no",
+              "end": 96,
+              "expanded_url": "https://x.com/YuRain_Is_Doll/status/2090146214125986072/video/1",
+              "media_key": "3_2090146169720827904",
+              "start": 73,
+              "url": "https://t.co/qpPnG1j2no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090146214125986072",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090146169733480448"
+          },
+          {
+            "media_key": "3_2090146169720827904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Incel和李老畜的「民主運動」素質：\n一個媽媽帶著未成年女兒到重慶 然後被一大群暴民圍毆獵巫\n\n我有生以來還是第一次說出支持中國警方嚴正執法的 https://t.co/qpPnG1j2no"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2090159496354308399",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 1483,
+          "like_count": 11012,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3553
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-28T11:40:34.000Z",
+        "description": "一個幽幽子，共產主義的幽幽子，在幻想鄉遊蕩。名字的鯨魚是台灣獨立的意思。一隻摺耳貓，MtX，雙相/焦慮/P-DID/亞斯/CPTSD。小說作者、會點歌詞創作，需要的可以合作",
+        "id": "1508408540360507393",
+        "is_identity_verified": false,
+        "location": "臺灣、高砂及金馬群島蘇維埃公社聯邦",
+        "most_recent_tweet_id": "2090157385633665476",
+        "name": "🏳️‍⚧️ꨄ︎共產主義的幽々子☭🌏🐋🇵🇸🇪🇭🇺🇦🇨🇺",
+        "pinned_tweet_id": "1897527739915362642",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1508408540360507393/1708959034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895006997944078336/0Nnvy5Ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 4713,
+          "like_count": 18325,
+          "listed_count": 10,
+          "media_count": 3585,
+          "tweet_count": 68209
+        },
+        "url": "",
+        "username": "YuRain_Is_Doll",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

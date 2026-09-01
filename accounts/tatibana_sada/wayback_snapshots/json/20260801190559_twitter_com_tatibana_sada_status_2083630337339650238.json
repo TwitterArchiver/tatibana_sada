@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2083630337339650238",
+    "created_at": "2026-08-01T19:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083630337339650238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zoemdza/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/zoemdza/status/2082119750688137316",
+          "start": 3,
+          "url": "https://t.co/M1f88Bvpzo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083630337339650238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082119750688137316",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已撸 https://t.co/M1f88Bvpzo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 96640,
+        "height": 1280,
+        "media_key": "13_1935379687838203913",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935379687838203913/img/NErDvd6Xx7_fGEFC.jpg",
+        "public_metrics": {
+          "view_count": 20383139
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935379687838203913/vid/avc1/320x568/DmKKSe_cS2ETMC1b.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935379687838203913/vid/avc1/480x852/euUFCvAB8juk5Dd0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935379687838203913/vid/avc1/720x1280/S8QcZ6auH-pJHbSk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935379687838203913/pl/sS5cB_9lUfK8M9dX.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2083630337339650238",
+        "created_at": "2026-08-01T19:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083630337339650238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zoemdza/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/zoemdza/status/2082119750688137316",
+              "start": 3,
+              "url": "https://t.co/M1f88Bvpzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083630337339650238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082119750688137316",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已撸 https://t.co/M1f88Bvpzo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1935379687838203913"
+          ],
+          "media_source_tweet_id": [
+            "1935380402887430553"
+          ]
+        },
+        "author_id": "1427724028308070416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082119750688137316",
+        "created_at": "2026-07-28T15:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082119750688137316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2AtJChDKj8",
+              "end": 95,
+              "expanded_url": "https://x.com/UvgtdERt4PWmcjF/status/1935380402887430553/video/1",
+              "media_key": "13_1935379687838203913",
+              "start": 72,
+              "url": "https://t.co/2AtJChDKj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082119750688137316",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6805,
+          "impression_count": 15759473,
+          "like_count": 17042,
+          "quote_count": 468,
+          "reply_count": 172,
+          "retweet_count": 953
+        },
+        "reply_settings": "everyone",
+        "text": "Alguna vez viste los clips de concientización sobre seguridad chinos??  https://t.co/2AtJChDKj8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 1460,
+          "like_count": 10333,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3449
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T20:08:40.000Z",
+        "description": "• 21 •",
+        "id": "1427724028308070416",
+        "name": "zo.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062294431575707648/0M_jrVVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4094,
+          "following_count": 1591,
+          "like_count": 39722,
+          "listed_count": 8,
+          "media_count": 1369,
+          "tweet_count": 12190
+        },
+        "url": "",
+        "username": "zoemdza",
+        "verified": true
+      }
+    ]
+  }
+}

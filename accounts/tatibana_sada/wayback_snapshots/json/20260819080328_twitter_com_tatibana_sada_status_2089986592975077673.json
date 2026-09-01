@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2089986592975077673",
+    "created_at": "2026-08-19T08:03:28.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T09:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089986592975077673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Akhromeyev_CCC…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Akhromeyev_CCCP/status/2089804782521446836",
+          "start": 8,
+          "url": "https://t.co/2VyumEzpsf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089986592975077673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089804782521446836",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那咋啦？受着！ https://t.co/2VyumEzpsf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2089986592975077673",
+        "created_at": "2026-08-19T08:03:28.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089986592975077673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Akhromeyev_CCC…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Akhromeyev_CCCP/status/2089804782521446836",
+              "start": 8,
+              "url": "https://t.co/2VyumEzpsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089986592975077673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089804782521446836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那咋啦？受着！ https://t.co/2VyumEzpsf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1232837627939676160",
+        "conversation_id": "2089804782521446836",
+        "created_at": "2026-08-18T20:01:01.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T21:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089804782521446836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bolckAshley/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/bolckAshley/status/2089773328001270108",
+              "start": 31,
+              "url": "https://t.co/K46X34gqfK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089804782521446836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1137,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089773328001270108",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "追星女的行为也许离谱，但和这帮蝻的一比我只能说小巫见大巫了💧 https://t.co/K46X34gqfK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2089986592975077673",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 1479,
+          "like_count": 10874,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 3532
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-27T01:19:39.000Z",
+        "description": "—Жила бы страна родная,И нету других забот.願親愛的家鄉美好，願祖國呀萬年長。/反資本，建制，父權與保守/Le lâche accablé d'ans n'a point connu la vie！被歲月所壓垮的懦夫，永遠無法理解什麼叫活著！",
+        "id": "1232837627939676160",
+        "is_identity_verified": false,
+        "location": "苏联乌克兰苏维埃社会主义共和国 基辅军区",
+        "most_recent_tweet_id": "2089986216028705262",
+        "name": "🇷🇺🕊️🇺🇦🚩📕☭阿赫羅梅耶夫元帥歸來，看戈爾巴喬夫蘇修叛徒集團土崩瓦解🏳️🏁",
+        "pinned_tweet_id": "2033206698597658682",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232837627939676160/1747505597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923670349356417024/Y9SYAV7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 2096,
+          "like_count": 149360,
+          "listed_count": 16,
+          "media_count": 4022,
+          "tweet_count": 29440
+        },
+        "url": "",
+        "username": "Akhromeyev_CCCP",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

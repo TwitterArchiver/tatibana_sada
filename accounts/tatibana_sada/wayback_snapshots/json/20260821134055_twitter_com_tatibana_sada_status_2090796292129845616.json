@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090747588035383296"
+      ],
+      "media_source_tweet_id": [
+        "2090747592523284531"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2090796292129845616",
+    "created_at": "2026-08-21T13:40:55.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090796292129845616"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "バニーの日"
+        },
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "放浪者"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1977603595995676672",
+          "start": 3,
+          "username": "ai_x1031"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uyifZqns6u",
+          "end": 49,
+          "expanded_url": "https://x.com/ai_x1031/status/2090747592523284531/photo/1",
+          "media_key": "3_2090747588035383296",
+          "start": 26,
+          "url": "https://t.co/uyifZqns6u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090796292129845616",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2090747588035383296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090747592523284531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ai_x1031: #バニーの日 #放浪者 https://t.co/uyifZqns6u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090747588035383296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPT2qPakAA3lkh.jpg",
+        "width": 1362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090747588035383296"
+          ],
+          "media_source_tweet_id": [
+            "2090747592523284531"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2090796292129845616",
+        "created_at": "2026-08-21T13:40:55.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090796292129845616"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "バニーの日"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "放浪者"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1977603595995676672",
+              "start": 3,
+              "username": "ai_x1031"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uyifZqns6u",
+              "end": 49,
+              "expanded_url": "https://x.com/ai_x1031/status/2090747592523284531/photo/1",
+              "media_key": "3_2090747588035383296",
+              "start": 26,
+              "url": "https://t.co/uyifZqns6u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090796292129845616",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090747588035383296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090747592523284531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ai_x1031: #バニーの日 #放浪者 https://t.co/uyifZqns6u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090747588035383296"
+          ]
+        },
+        "author_id": "1977603595995676672",
+        "conversation_id": "2090747592523284531",
+        "created_at": "2026-08-21T10:27:24.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090747592523284531"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "バニーの日"
+            },
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "放浪者"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uyifZqns6u",
+              "end": 35,
+              "expanded_url": "https://x.com/ai_x1031/status/2090747592523284531/photo/1",
+              "media_key": "3_2090747588035383296",
+              "start": 12,
+              "url": "https://t.co/uyifZqns6u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090747592523284531",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090747588035383296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 418,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "#バニーの日 #放浪者 https://t.co/uyifZqns6u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2090796292129845616",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 1496,
+          "like_count": 11287,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3597
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-13T05:14:53.000Z",
+        "description": "原神/ゼンゼロ",
+        "id": "1977603595995676672",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2090747592523284531",
+        "name": "紫電",
+        "pinned_tweet_id": "1980930279058645042",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1977603595995676672/1785846293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083900761185157120/JvQwq9SL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 49,
+          "like_count": 9307,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "ai_x1031",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

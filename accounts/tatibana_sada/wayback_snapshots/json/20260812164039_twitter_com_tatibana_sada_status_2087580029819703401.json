@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2087580029819703401",
+    "created_at": "2026-08-12T16:40:39.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087580029819703401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1957812160421400576",
+          "start": 11,
+          "username": "canton_ss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/BasilTheGreat/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/BasilTheGreat/status/2087401980490584567",
+          "start": 22,
+          "url": "https://t.co/Tq8tUmjtRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087580029819703401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087401980490584567",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全网呼叫宋主席图沙鬼佬@canton_ss https://t.co/Tq8tUmjtRW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75255,
+        "height": 1920,
+        "media_key": "13_2087229876025647104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087229876025647104/img/_gtU5gjrGK42USB-.jpg",
+        "public_metrics": {
+          "view_count": 541761
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087229876025647104/vid/avc1/480x852/Szf-xo-TByuQ4RTl.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087229876025647104/vid/avc1/320x568/wFHNmYuWBCZ2DPLr.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087229876025647104/vid/avc1/1080x1920/9zu951atDQLeRo7e.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087229876025647104/vid/avc1/720x1280/BgbgclephKEoHEym.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087229876025647104/pl/NPFJW1xxaCNqhlqr.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2087580029819703401",
+        "created_at": "2026-08-12T16:40:39.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087580029819703401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1957812160421400576",
+              "start": 11,
+              "username": "canton_ss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/BasilTheGreat/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/BasilTheGreat/status/2087401980490584567",
+              "start": 22,
+              "url": "https://t.co/Tq8tUmjtRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087580029819703401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087401980490584567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全网呼叫宋主席图沙鬼佬@canton_ss https://t.co/Tq8tUmjtRW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087229876025647104"
+          ],
+          "media_source_tweet_id": [
+            "2087230394634571835"
+          ]
+        },
+        "author_id": "1722014154322575360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087401980490584567",
+        "created_at": "2026-08-12T04:53:08.000Z",
+        "display_text_range": [
+          0,
+          182
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087401980490584567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbOHX8sMuq",
+              "end": 182,
+              "expanded_url": "https://x.com/europa/status/2087230394634571835/video/1",
+              "media_key": "13_2087229876025647104",
+              "start": 159,
+              "url": "https://t.co/zbOHX8sMuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087401980490584567",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2087229876025647104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1606,
+          "impression_count": 653992,
+          "like_count": 28098,
+          "quote_count": 551,
+          "reply_count": 2744,
+          "retweet_count": 7475
+        },
+        "reply_settings": "everyone",
+        "text": "A knife wielding member of the religion of peace started randomly stabbing people in Hong Kong\n\nIs there anywhere in the world you are safe from these people? https://t.co/zbOHX8sMuq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2087580029819703401",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2087148538115527008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 1484,
+          "like_count": 10611,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 3490
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-19T14:29:36.000Z",
+        "description": "Cantonese \nFirst Worldist, Traditionalist, Tridemist\n最愛@Jocelynfloresjk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "Jocelynfloresjk"
+              }
+            ]
+          }
+        },
+        "id": "1957812160421400576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2084195925380231319",
+        "name": "宋岑臨",
+        "pinned_tweet_id": "2005304782421135680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957812160421400576/1778409825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060353828915175424/qoeYdfng_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 811,
+          "like_count": 66446,
+          "listed_count": 12,
+          "media_count": 811,
+          "tweet_count": 11019
+        },
+        "url": "",
+        "username": "canton_ss",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T22:12:31.000Z",
+        "description": "--//-- Restore Britain --//--\n\nDM for submissions/credit/deletion",
+        "id": "1722014154322575360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087575970874040691",
+        "name": "Basil the Great",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1722014154322575360/1771182598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870853024798715904/f7G0cKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344218,
+          "following_count": 5061,
+          "like_count": 113378,
+          "listed_count": 1064,
+          "media_count": 28604,
+          "tweet_count": 69358
+        },
+        "url": "",
+        "username": "BasilTheGreat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

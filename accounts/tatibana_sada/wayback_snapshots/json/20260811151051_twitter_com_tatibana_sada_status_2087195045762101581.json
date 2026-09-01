@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086600465655975936"
+      ],
+      "media_source_tweet_id": [
+        "2086600492814139500"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2087195045762101581",
+    "created_at": "2026-08-11T15:10:51.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T16:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087195045762101581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2062543008382255104",
+          "start": 3,
+          "username": "Studnicki_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l3CzsXI0X5",
+          "end": 69,
+          "expanded_url": "https://x.com/Studnicki_/status/2086600492814139500/video/1",
+          "media_key": "13_2086600465655975936",
+          "start": 46,
+          "url": "https://t.co/l3CzsXI0X5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087195045762101581",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2086600465655975936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 416
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086600492814139500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Studnicki_: HELLO!!??!?? THIS EDIT!?!!?!? https://t.co/l3CzsXI0X5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21455,
+        "height": 1038,
+        "media_key": "13_2086600465655975936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086600465655975936/img/Xy3mcqnSyINTcGUb.jpg",
+        "public_metrics": {
+          "view_count": 56305
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086600465655975936/vid/avc1/320x460/DSKJl69J8JfSQ6YU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086600465655975936/vid/avc1/480x692/wS0xFIh-56GeILN3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086600465655975936/vid/avc1/720x1038/esYd1IvHyrTU5iNP.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086600465655975936/pl/DmNA7H0f7SbEtho5.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086600465655975936"
+          ]
+        },
+        "author_id": "2062543008382255104",
+        "conversation_id": "2086600492814139500",
+        "created_at": "2026-08-09T23:48:19.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T00:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086600492814139500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l3CzsXI0X5",
+              "end": 53,
+              "expanded_url": "https://x.com/Studnicki_/status/2086600492814139500/video/1",
+              "media_key": "13_2086600465655975936",
+              "start": 30,
+              "url": "https://t.co/l3CzsXI0X5"
+            },
+            {
+              "display_url": "x.com/Salayley/statu…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/Salayley/status/2084187562495656171",
+              "start": 54,
+              "url": "https://t.co/Wf2ZgJXLiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086600492814139500",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086600465655975936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2282,
+          "impression_count": 140961,
+          "like_count": 7592,
+          "quote_count": 11,
+          "reply_count": 49,
+          "retweet_count": 416
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084187562495656171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "HELLO!!??!?? THIS EDIT!?!!?!? https://t.co/l3CzsXI0X5 https://t.co/Wf2ZgJXLiy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086600465655975936"
+          ],
+          "media_source_tweet_id": [
+            "2086600492814139500"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2087195045762101581",
+        "created_at": "2026-08-11T15:10:51.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087195045762101581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2062543008382255104",
+              "start": 3,
+              "username": "Studnicki_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l3CzsXI0X5",
+              "end": 69,
+              "expanded_url": "https://x.com/Studnicki_/status/2086600492814139500/video/1",
+              "media_key": "13_2086600465655975936",
+              "start": 46,
+              "url": "https://t.co/l3CzsXI0X5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087195045762101581",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086600465655975936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 416
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086600492814139500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Studnicki_: HELLO!!??!?? THIS EDIT!?!!?!? https://t.co/l3CzsXI0X5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2087195045762101581",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2087148538115527008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 1482,
+          "like_count": 10582,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3488
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-04T14:34:50.000Z",
+        "description": "Formerly PiłsudskiCultist",
+        "id": "2062543008382255104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087192952900608073",
+        "name": "Polish Hitler (Formerly Piłsudski_Cultist)",
+        "pinned_tweet_id": "2084719886383628404",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062543008382255104/1781650506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062544850906435584/yC7uVe-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 85,
+          "like_count": 2146,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1177
+        },
+        "url": "",
+        "username": "Studnicki_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

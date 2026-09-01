@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2090164122898088037",
+    "created_at": "2026-08-19T19:48:54.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T20:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090164122898088037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ididnothinglqz…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Ididnothinglqz/status/2089999516728746204",
+          "start": 24,
+          "url": "https://t.co/qIn662VNHR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090164122898088037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089999516728746204",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "娘们比上面的所有事情都可恶，娘们，你们要反思！ https://t.co/qIn662VNHR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 722,
+        "media_key": "13_2089999474177503232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089999474177503232/img/axng2OFjfU9o5rMx.jpg",
+        "public_metrics": {
+          "view_count": 214068
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089999474177503232/vid/avc1/320x402/gx_VX-qPMkXIHKJI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089999474177503232/vid/avc1/480x602/oVqhVjoa8VbD0e7u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089999474177503232/vid/avc1/574x722/77M1GTUleqZo1NcM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089999474177503232/pl/ALGBuiNNvML1exK7.m3u8?v=cfc"
+          }
+        ],
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2090164122898088037",
+        "created_at": "2026-08-19T19:48:54.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T20:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090164122898088037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ididnothinglqz…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Ididnothinglqz/status/2089999516728746204",
+              "start": 24,
+              "url": "https://t.co/qIn662VNHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090164122898088037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089999516728746204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "娘们比上面的所有事情都可恶，娘们，你们要反思！ https://t.co/qIn662VNHR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089999474177503232"
+          ]
+        },
+        "author_id": "2086838732741885952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2089999516728746204",
+        "created_at": "2026-08-19T08:54:49.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089999516728746204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NOQoZGBcsg",
+              "end": 91,
+              "expanded_url": "https://x.com/Ididnothinglqz/status/2089999516728746204/video/1",
+              "media_key": "13_2089999474177503232",
+              "start": 68,
+              "url": "https://t.co/NOQoZGBcsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089999516728746204",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089999474177503232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 247,
+          "impression_count": 313395,
+          "like_count": 2919,
+          "quote_count": 30,
+          "reply_count": 453,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "工作时长14小时，我忍，\n欠我工资拖我工资，我忍，\n工厂兄弟姐妹跳楼，我忍，\n冻我银行卡改我健康码，我忍，\n\n娘们欠打了？妈的上街！！ https://t.co/NOQoZGBcsg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2090164122898088037",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 1483,
+          "like_count": 11019,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3557
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T15:39:27.000Z",
+        "description": "秽土转生？！ 推友寻回中 前世前前世昵称撒旦子民 本账号将发表温和言论以避免对线及举报 \n顺性别男趋近非二元  无取向\n友左友右友跨友同友非二元，你包容我我包容你，原则上不ban少ban，新注册号除外看黄男除外魔人除外\n咀嚼一些腊肉，吐沙一些蜘蛛，笑话一些顺治，点赞一些男裱字",
+        "id": "2086838732741885952",
+        "is_identity_verified": false,
+        "location": "美国菏泽曹县",
+        "most_recent_tweet_id": "2090156115493605832",
+        "name": "蚂蚁操龙8964",
+        "pinned_tweet_id": "2086849075186680028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086838732741885952/1786377026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089708250635935744/H9CfsHhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 234,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1249
+        },
+        "url": "",
+        "username": "Ididnothinglqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

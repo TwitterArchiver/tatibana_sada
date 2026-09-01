@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "125th Emperor of Japan (reign 1989-2019)",
+          "id": "1109143548853551105",
+          "name": "Akihito (明仁)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324117227465891840",
+          "name": "Japanese imperial family"
+        }
+      }
+    ],
+    "conversation_id": "2088595630918979894",
+    "created_at": "2026-08-15T11:56:17.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T12:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088595630918979894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/47news_officia…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/47news_official/status/2088462694043328796",
+          "start": 8,
+          "url": "https://t.co/bCnrrCTa3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088595630918979894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088462694043328796",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "陛下何故谋反？ https://t.co/bCnrrCTa3r"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "125th Emperor of Japan (reign 1989-2019)",
+              "id": "1109143548853551105",
+              "name": "Akihito (明仁)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "2088595630918979894",
+        "created_at": "2026-08-15T11:56:17.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088595630918979894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/47news_officia…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/47news_official/status/2088462694043328796",
+              "start": 8,
+              "url": "https://t.co/bCnrrCTa3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088595630918979894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088462694043328796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "陛下何故谋反？ https://t.co/bCnrrCTa3r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072373414029971456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "125th Emperor of Japan (reign 1989-2019)",
+              "id": "1109143548853551105",
+              "name": "Akihito (明仁)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "2088462694043328796",
+        "created_at": "2026-08-15T03:08:02.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088462694043328796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "　天皇陛下は全国戦没者追悼式のお言葉で「戦中・戦後の苦難を今後とも語り継ぎ」という昨年 ...",
+              "display_url": "47news.jp/14793051.html?…",
+              "end": 46,
+              "expanded_url": "https://www.47news.jp/14793051.html?utm_source=twitter&utm_medium=social&utm_campaign=api",
+              "images": [
+                {
+                  "height": 198,
+                  "url": "https://pbs.twimg.com/news_img/2088511876518862848/Kh4lVJ7v?format=png&name=orig",
+                  "width": 406
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2088511876518862848/Kh4lVJ7v?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 23,
+              "status": 200,
+              "title": "【速報】天皇陛下、お言葉で今年も「深い反省」",
+              "unwound_url": "https://www.47news.jp/14793051.html?utm_source=twitter&utm_medium=social&utm_campaign=api",
+              "url": "https://t.co/ZrfA3Idqmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088462694043328796",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 532,
+          "impression_count": 743136,
+          "like_count": 14504,
+          "quote_count": 172,
+          "reply_count": 75,
+          "retweet_count": 2921
+        },
+        "reply_settings": "everyone",
+        "text": "【速報】天皇陛下、お言葉で今年も「深い反省」\nhttps://t.co/ZrfA3Idqmg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2088595630918979894",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2087148538115527008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 1485,
+          "like_count": 10678,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3502
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-11T06:12:00.000Z",
+        "description": "47NEWS(よんななニュース)の公式アカウントです。地域から国際情勢まで、全国52新聞社と共同通信の速報やニュースをお届け。特集47リポーターズ も配信中。 FBは https://t.co/RZqXrfnx2y、ウェブはhttps://t.co/wJkzP2PIbY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "facebook.com/47news",
+                "end": 107,
+                "expanded_url": "https://facebook.com/47news",
+                "start": 84,
+                "url": "https://t.co/RZqXrfnx2y"
+              },
+              {
+                "display_url": "47news.jp",
+                "end": 135,
+                "expanded_url": "http://47news.jp",
+                "start": 112,
+                "url": "https://t.co/wJkzP2PIbY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "47news.jp",
+                "end": 23,
+                "expanded_url": "https://www.47news.jp/",
+                "start": 0,
+                "url": "https://t.co/zwPkXHY8bL"
+              }
+            ]
+          }
+        },
+        "id": "1072373414029971456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088581481496973813",
+        "name": "47NEWS",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072373414029971456/1633061871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1072374944007364608/aaL1xS7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100022,
+          "following_count": 65,
+          "like_count": 260,
+          "listed_count": 1444,
+          "media_count": 3260,
+          "tweet_count": 542879
+        },
+        "url": "https://t.co/zwPkXHY8bL",
+        "username": "47news_official",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2084705027013357700",
+    "created_at": "2026-08-04T18:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T19:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084705027013357700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/louie78740778/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/louie78740778/status/2084527199915552973",
+          "start": 6,
+          "url": "https://t.co/qdg36Bk78Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084705027013357700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084527199915552973",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "！？强？！ https://t.co/qdg36Bk78Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 543,
+        "media_key": "3_2084527177400557568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO26bG2boAAfbK_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 790,
+        "media_key": "3_2084527184409137152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO26bg9aEAA1USV.jpg",
+        "width": 1080
+      },
+      {
+        "height": 778,
+        "media_key": "3_2084527192227319808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO26b-FaEAATkMY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2084705027013357700",
+        "created_at": "2026-08-04T18:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084705027013357700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/louie78740778/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/louie78740778/status/2084527199915552973",
+              "start": 6,
+              "url": "https://t.co/qdg36Bk78Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084705027013357700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084527199915552973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "！？强？！ https://t.co/qdg36Bk78Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084527177400557568",
+            "3_2084527184409137152",
+            "3_2084527192227319808"
+          ]
+        },
+        "author_id": "1131492641181278208",
+        "conversation_id": "2084527199915552973",
+        "created_at": "2026-08-04T06:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084527199915552973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l1qZiwRCBv",
+              "end": 43,
+              "expanded_url": "https://x.com/louie78740778/status/2084527199915552973/photo/1",
+              "media_key": "3_2084527177400557568",
+              "start": 20,
+              "url": "https://t.co/l1qZiwRCBv"
+            },
+            {
+              "display_url": "pic.x.com/l1qZiwRCBv",
+              "end": 43,
+              "expanded_url": "https://x.com/louie78740778/status/2084527199915552973/photo/1",
+              "media_key": "3_2084527184409137152",
+              "start": 20,
+              "url": "https://t.co/l1qZiwRCBv"
+            },
+            {
+              "display_url": "pic.x.com/l1qZiwRCBv",
+              "end": 43,
+              "expanded_url": "https://x.com/louie78740778/status/2084527199915552973/photo/1",
+              "media_key": "3_2084527192227319808",
+              "start": 20,
+              "url": "https://t.co/l1qZiwRCBv"
+            },
+            {
+              "display_url": "x.com/MEvwQlFP3O5241…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/MEvwQlFP3O52414/status/2084479322413556017",
+              "start": 44,
+              "url": "https://t.co/rt1mn7Q711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084527199915552973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5779,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084479322413556017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Sis并不同意你的说法，而且涉嫌辱女了 https://t.co/l1qZiwRCBv https://t.co/rt1mn7Q711"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 1468,
+          "like_count": 10432,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3469
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-23T09:30:42.000Z",
+        "description": "最尊重女拳的人",
+        "id": "1131492641181278208",
+        "location": "Sydney, New South Wales",
+        "name": "看不到黄文的国产femcel应激上热搜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074815042886029312/Zf0NekPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 1083,
+          "like_count": 28378,
+          "listed_count": 8,
+          "media_count": 716,
+          "tweet_count": 14133
+        },
+        "url": "",
+        "username": "louie78740778",
+        "verified": false
+      }
+    ]
+  }
+}

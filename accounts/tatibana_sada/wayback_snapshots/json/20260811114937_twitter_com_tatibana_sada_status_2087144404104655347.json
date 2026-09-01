@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2087144404104655347",
+    "created_at": "2026-08-11T11:49:37.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087144404104655347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iUnTX1AhcsgZ0p…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/iUnTX1AhcsgZ0pX/status/2085153913796464861",
+          "start": 50,
+          "url": "https://t.co/SEoBakY5em"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087144404104655347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085153913796464861",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太有幽默感了，，，这还不是贬义。法拉盛人手一个党和国家领导人呢，为大家的欢笑做出了不可估量的贡献。 https://t.co/SEoBakY5em"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2087144404104655347",
+        "created_at": "2026-08-11T11:49:37.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087144404104655347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iUnTX1AhcsgZ0p…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/iUnTX1AhcsgZ0pX/status/2085153913796464861",
+              "start": 50,
+              "url": "https://t.co/SEoBakY5em"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087144404104655347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085153913796464861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太有幽默感了，，，这还不是贬义。法拉盛人手一个党和国家领导人呢，为大家的欢笑做出了不可估量的贡献。 https://t.co/SEoBakY5em"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613447654121566209",
+        "conversation_id": "2085129472618246166",
+        "created_at": "2026-08-06T00:00:07.000Z",
+        "display_text_range": [
+          9,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-06T01:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085153913796464861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1614908025369944067",
+              "start": 0,
+              "username": "jlaw520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085153913796464861",
+        "in_reply_to_user_id": "1614908025369944067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8845,
+          "like_count": 29,
+          "quote_count": 6,
+          "reply_count": 27,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085129472618246166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlaw520 我對這位夏某人沒有成見，但看不慣他的胡言亂語與對年青人的欺騙。中國985大學的徐教授來了美國才吃上了牛排，更有很多人到了美國已經當上了總統、總理、黨主席，有的選議員，有的是議會義長，造就了一大批黨和國家領導人，在中國能有這樣的機會嗎？！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2087144404104655347",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 1478,
+          "like_count": 10547,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 3491
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-12T08:08:28.000Z",
+        "description": "",
+        "id": "1613447654121566209",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087113667703963896",
+        "name": "軍門左",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613447808207708167/QsIGIRER_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 36,
+          "like_count": 468,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 1538
+        },
+        "url": "",
+        "username": "iUnTX1AhcsgZ0pX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

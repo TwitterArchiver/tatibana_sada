@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2089733909294752187",
+    "created_at": "2026-08-18T15:19:24.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T16:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089733909294752187"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2089729033387012484",
+          "start": 31,
+          "url": "https://t.co/jAL2DK3frF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089733909294752187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089729033387012484",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这次重庆的造反绩效堪比白纸。反贼们，你们有什么理由不打男拳？ https://t.co/jAL2DK3frF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 112134,
+        "height": 1280,
+        "media_key": "13_2089726394263617536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089726394263617536/img/BwLplvONOsJlMz3d.jpg",
+        "public_metrics": {
+          "view_count": 3858
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089726394263617536/vid/avc1/320x624/CTd1U4apNCwU3iWU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089726394263617536/vid/avc1/480x936/AzFgon3CQ0fUbLbA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089726394263617536/vid/avc1/656x1280/OlE67snXR4KWmmqM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089726394263617536/pl/M1dlYCiUE6EIEfpt.m3u8?v=cfc"
+          }
+        ],
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2089733909294752187",
+        "created_at": "2026-08-18T15:19:24.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089733909294752187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2089729033387012484",
+              "start": 31,
+              "url": "https://t.co/jAL2DK3frF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089733909294752187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089729033387012484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这次重庆的造反绩效堪比白纸。反贼们，你们有什么理由不打男拳？ https://t.co/jAL2DK3frF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089726394263617536"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2089729033387012484",
+        "created_at": "2026-08-18T15:00:01.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089729033387012484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R5rsWyDAHN",
+              "end": 45,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2089729033387012484/video/1",
+              "media_key": "13_2089726394263617536",
+              "start": 22,
+              "url": "https://t.co/R5rsWyDAHN"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2089725254297915689",
+              "start": 46,
+              "url": "https://t.co/agM12HRKg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089729033387012484",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089726394263617536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11124,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089725254297915689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续：在现场发表演讲的男子被赶来的警方问询 https://t.co/R5rsWyDAHN https://t.co/agM12HRKg7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2089733909294752187",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 1486,
+          "like_count": 10793,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 3520
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2089731545137389740",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250729,
+          "following_count": 1082,
+          "like_count": 9989,
+          "listed_count": 8886,
+          "media_count": 52220,
+          "tweet_count": 59523
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

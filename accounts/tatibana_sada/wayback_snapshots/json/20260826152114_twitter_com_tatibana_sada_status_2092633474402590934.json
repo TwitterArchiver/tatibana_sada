@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092612611061989376"
+      ],
+      "media_source_tweet_id": [
+        "2092612630112522474"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2092633474402590934",
+    "created_at": "2026-08-26T15:21:14.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T16:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092633474402590934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1447499448649601025",
+          "start": 3,
+          "username": "LVTGW666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xIbSpPyCVZ",
+          "end": 56,
+          "expanded_url": "https://x.com/LVTGW666/status/2092612630112522474/photo/1",
+          "media_key": "3_2092612611061989376",
+          "start": 33,
+          "url": "https://t.co/xIbSpPyCVZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092633474402590934",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092612611061989376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092612630112522474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LVTGW666: 这是不是有点太猎奇了，苦也，这也有牛 https://t.co/xIbSpPyCVZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1532,
+        "media_key": "3_2092612611061989376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQp0FSbaQAAEyHs.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092612611061989376"
+          ],
+          "media_source_tweet_id": [
+            "2092612630112522474"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2092633474402590934",
+        "created_at": "2026-08-26T15:21:14.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092633474402590934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1447499448649601025",
+              "start": 3,
+              "username": "LVTGW666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xIbSpPyCVZ",
+              "end": 56,
+              "expanded_url": "https://x.com/LVTGW666/status/2092612630112522474/photo/1",
+              "media_key": "3_2092612611061989376",
+              "start": 33,
+              "url": "https://t.co/xIbSpPyCVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092633474402590934",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092612611061989376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092612630112522474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LVTGW666: 这是不是有点太猎奇了，苦也，这也有牛 https://t.co/xIbSpPyCVZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092612611061989376"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "conversation_id": "2092612630112522474",
+        "created_at": "2026-08-26T13:58:24.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092612630112522474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xIbSpPyCVZ",
+              "end": 42,
+              "expanded_url": "https://x.com/LVTGW666/status/2092612630112522474/photo/1",
+              "media_key": "3_2092612611061989376",
+              "start": 19,
+              "url": "https://t.co/xIbSpPyCVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092612630112522474",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092612611061989376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 892,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是不是有点太猎奇了，苦也，这也有牛 https://t.co/xIbSpPyCVZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2092633474402590934",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 1504,
+          "like_count": 11585,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3652
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77mrq4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 87,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 64,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "is_identity_verified": true,
+        "location": "Yokohama-shi Kanagawa",
+        "most_recent_tweet_id": "2092612630112522474",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2008518971486806332",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1447499448649601025/1634922805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74647,
+          "following_count": 1016,
+          "like_count": 15431,
+          "listed_count": 313,
+          "media_count": 6286,
+          "tweet_count": 14143
+        },
+        "url": "https://t.co/wPvV77mrq4",
+        "username": "LVTGW666",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

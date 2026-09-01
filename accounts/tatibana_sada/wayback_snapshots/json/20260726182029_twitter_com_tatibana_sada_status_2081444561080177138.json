@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2081444561080177138",
+    "created_at": "2026-07-26T18:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081444561080177138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1719299899597234176",
+          "start": 3,
+          "username": "huiyiyi638216"
+        },
+        {
+          "end": 35,
+          "id": "1709393467871461376",
+          "start": 19,
+          "username": "xenocosmography"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081444561080177138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081350842733740117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huiyiyi638216: @xenocosmography 尼克兰德:好了，去研究点汉族种族主义的有趣问题，不要再讨论洋鬼子学了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2081444561080177138",
+        "created_at": "2026-07-26T18:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081444561080177138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1719299899597234176",
+              "start": 3,
+              "username": "huiyiyi638216"
+            },
+            {
+              "end": 35,
+              "id": "1709393467871461376",
+              "start": 19,
+              "username": "xenocosmography"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081444561080177138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081350842733740117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huiyiyi638216: @xenocosmography 尼克兰德:好了，去研究点汉族种族主义的有趣问题，不要再讨论洋鬼子学了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719299899597234176",
+        "conversation_id": "2081238776907534796",
+        "created_at": "2026-07-26T12:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081350842733740117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1709393467871461376",
+              "start": 0,
+              "username": "xenocosmography"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081350842733740117",
+        "in_reply_to_user_id": "1709393467871461376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081238776907534796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xenocosmography 尼克兰德:好了，去研究点汉族种族主义的有趣问题，不要再讨论洋鬼子学了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 1446,
+          "like_count": 10176,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3411
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T10:27:10.000Z",
+        "description": "",
+        "id": "1719299899597234176",
+        "name": "huiyiyi",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 61,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "huiyiyi638216",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T02:23:01.000Z",
+        "description": "Anglotheosophical Oblique Escalation\nhttps://t.co/zYwV8LwOQg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerophilosophy.substack.com",
+                "end": 60,
+                "expanded_url": "http://zerophilosophy.substack.com",
+                "start": 37,
+                "url": "https://t.co/zYwV8LwOQg"
+              }
+            ]
+          }
+        },
+        "id": "1709393467871461376",
+        "name": "Xenocosmography",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709394184837451776/4xkaiTS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63673,
+          "following_count": 870,
+          "like_count": 109629,
+          "listed_count": 363,
+          "media_count": 200,
+          "tweet_count": 19488
+        },
+        "url": "",
+        "username": "xenocosmography",
+        "verified": true
+      }
+    ]
+  }
+}

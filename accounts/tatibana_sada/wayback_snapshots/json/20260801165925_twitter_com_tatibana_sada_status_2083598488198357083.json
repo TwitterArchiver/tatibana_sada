@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083114928869957632"
+      ],
+      "media_source_tweet_id": [
+        "2083114941469302845"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2083598488198357083",
+    "created_at": "2026-08-01T16:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083598488198357083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1362075269368979458",
+          "start": 3,
+          "username": "asashiki_"
+        },
+        {
+          "end": 24,
+          "id": "1699797396589588480",
+          "start": 15,
+          "username": "MaxForAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ErfQlmnEqV",
+          "end": 53,
+          "expanded_url": "https://x.com/asashiki_/status/2083114941469302845/photo/1",
+          "media_key": "3_2083114928869957632",
+          "start": 30,
+          "url": "https://t.co/ErfQlmnEqV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083598488198357083",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083114941469302845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asashiki_: @MaxForAI 改了一下 https://t.co/ErfQlmnEqV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2083114928869957632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi1_bGbYAAyzjb.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083114928869957632"
+          ]
+        },
+        "author_id": "1362075269368979458",
+        "conversation_id": "2083101503083155492",
+        "created_at": "2026-07-31T08:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083114941469302845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699797396589588480",
+              "start": 0,
+              "username": "MaxForAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ErfQlmnEqV",
+              "end": 38,
+              "expanded_url": "https://x.com/asashiki_/status/2083114941469302845/photo/1",
+              "media_key": "3_2083114928869957632",
+              "start": 15,
+              "url": "https://t.co/ErfQlmnEqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083114941469302845",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7760,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083101503083155492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI 改了一下 https://t.co/ErfQlmnEqV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083114928869957632"
+          ],
+          "media_source_tweet_id": [
+            "2083114941469302845"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2083598488198357083",
+        "created_at": "2026-08-01T16:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083598488198357083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1362075269368979458",
+              "start": 3,
+              "username": "asashiki_"
+            },
+            {
+              "end": 24,
+              "id": "1699797396589588480",
+              "start": 15,
+              "username": "MaxForAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ErfQlmnEqV",
+              "end": 53,
+              "expanded_url": "https://x.com/asashiki_/status/2083114941469302845/photo/1",
+              "media_key": "3_2083114928869957632",
+              "start": 30,
+              "url": "https://t.co/ErfQlmnEqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083598488198357083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083114941469302845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asashiki_: @MaxForAI 改了一下 https://t.co/ErfQlmnEqV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 1458,
+          "like_count": 10325,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3444
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-17T16:23:55.000Z",
+        "description": "僕は日本人ではないので、もし変なことを言ったり、それとも敬語の使い方を間違えたりしたら、その時は許してください",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/asashiki",
+                "end": 23,
+                "expanded_url": "https://github.com/asashiki",
+                "start": 0,
+                "url": "https://t.co/OsyjLMLXna"
+              }
+            ]
+          }
+        },
+        "id": "1362075269368979458",
+        "location": "卡拉村",
+        "name": "asashiki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758111102943297536/Mr3TU3QN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 1426,
+          "like_count": 32486,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 906
+        },
+        "url": "https://t.co/OsyjLMLXna",
+        "username": "asashiki_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "listenhub"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23913,
+          "following_count": 2606,
+          "like_count": 18698,
+          "listed_count": 213,
+          "media_count": 1133,
+          "tweet_count": 8473
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

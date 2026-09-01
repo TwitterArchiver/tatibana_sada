@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      }
+    ],
+    "conversation_id": "2090814695540428927",
+    "created_at": "2026-08-21T14:54:03.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T15:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090814695540428927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "178794303",
+          "start": 3,
+          "username": "internation0501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090814695540428927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090598440351023578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @internation0501: 在以马姆达尼同志为核心的市政府坚强领导下，在各方面共同努力下，布朗克斯河的环境得到睽违已久的改善，成效之显著前所未有，污染防治攻坚战阶段性目标任务圆满完成，人民群众获得感显著增强，厚植了全面建成纽约生态文明社会的绿色底色和质量成色。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          }
+        ],
+        "conversation_id": "2090814695540428927",
+        "created_at": "2026-08-21T14:54:03.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090814695540428927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "178794303",
+              "start": 3,
+              "username": "internation0501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090814695540428927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090598440351023578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @internation0501: 在以马姆达尼同志为核心的市政府坚强领导下，在各方面共同努力下，布朗克斯河的环境得到睽违已久的改善，成效之显著前所未有，污染防治攻坚战阶段性目标任务圆满完成，人民群众获得感显著增强，厚植了全面建成纽约生态文明社会的绿色底色和质量成色。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "178794303",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          }
+        ],
+        "conversation_id": "2090598440351023578",
+        "created_at": "2026-08-21T00:34:44.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T01:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090598440351023578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DemzDeliver/st…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/DemzDeliver/status/2090536732739441009",
+              "start": 117,
+              "url": "https://t.co/msFnlzenc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090598440351023578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4762,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090536732739441009",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在以马姆达尼同志为核心的市政府坚强领导下，在各方面共同努力下，布朗克斯河的环境得到睽违已久的改善，成效之显著前所未有，污染防治攻坚战阶段性目标任务圆满完成，人民群众获得感显著增强，厚植了全面建成纽约生态文明社会的绿色底色和质量成色。 https://t.co/msFnlzenc3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2090814695540428927",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 1496,
+          "like_count": 11303,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3603
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-08-15T18:25:03.000Z",
+        "description": "普通的存在主义者，自认为。资本主义终将灭亡，这一趋势是自《九十五条论纲》始。彻底的解放即是叙事灭亡的开始，这一点毫无质疑。存在先于本质，先有鸡再有鸡蛋；先有资本主义精神，才有资本主义，后有《资本论》。在讨论自由等自然法时，先想想天赋人权的天在哪？人真正的不自由，就是永远都无法摆脱自由。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/zhongwen/trad/…",
+                "end": 23,
+                "expanded_url": "https://www.bbc.com/zhongwen/trad/world/2015/04/150411_ukraine_ban_communism",
+                "start": 0,
+                "url": "https://t.co/BGeLzlbfif"
+              }
+            ]
+          }
+        },
+        "id": "178794303",
+        "is_identity_verified": false,
+        "location": "上海市",
+        "most_recent_tweet_id": "2090805007943930317",
+        "name": "華盛頓革委",
+        "pinned_tweet_id": "1650332348355846144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/178794303/1663835580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600447410068942849/7JlFQQNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4336,
+          "following_count": 599,
+          "like_count": 43246,
+          "listed_count": 30,
+          "media_count": 5606,
+          "tweet_count": 33844
+        },
+        "url": "https://t.co/BGeLzlbfif",
+        "username": "internation0501",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

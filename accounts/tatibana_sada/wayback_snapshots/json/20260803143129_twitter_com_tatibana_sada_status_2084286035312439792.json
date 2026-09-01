@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078521289644630016"
+      ],
+      "media_source_tweet_id": [
+        "2078521298725294554"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2084286035312439792",
+    "created_at": "2026-08-03T14:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084286035312439792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832373853542055936",
+          "start": 3,
+          "username": "Deepaklawde"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zE2dr2uXvz",
+          "end": 73,
+          "expanded_url": "https://x.com/Deepaklawde/status/2078521298725294554/photo/1",
+          "media_key": "3_2078521289644630016",
+          "start": 50,
+          "url": "https://t.co/zE2dr2uXvz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084286035312439792",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078521298725294554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Deepaklawde: POV: Every foreign girl's dream. https://t.co/zE2dr2uXvz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2078521289644630016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhkGbda4AAJkp1.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078521289644630016"
+          ]
+        },
+        "author_id": "1832373853542055936",
+        "conversation_id": "2078521298725294554",
+        "created_at": "2026-07-18T16:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078521298725294554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zE2dr2uXvz",
+              "end": 56,
+              "expanded_url": "https://x.com/Deepaklawde/status/2078521298725294554/photo/1",
+              "media_key": "3_2078521289644630016",
+              "start": 33,
+              "url": "https://t.co/zE2dr2uXvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078521298725294554",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 1403775,
+          "like_count": 426,
+          "quote_count": 83,
+          "reply_count": 215,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "POV: Every foreign girl's dream. https://t.co/zE2dr2uXvz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078521289644630016"
+          ],
+          "media_source_tweet_id": [
+            "2078521298725294554"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2084286035312439792",
+        "created_at": "2026-08-03T14:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084286035312439792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1832373853542055936",
+              "start": 3,
+              "username": "Deepaklawde"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zE2dr2uXvz",
+              "end": 73,
+              "expanded_url": "https://x.com/Deepaklawde/status/2078521298725294554/photo/1",
+              "media_key": "3_2078521289644630016",
+              "start": 50,
+              "url": "https://t.co/zE2dr2uXvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084286035312439792",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078521298725294554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Deepaklawde: POV: Every foreign girl's dream. https://t.co/zE2dr2uXvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 1466,
+          "like_count": 10407,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3465
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T11:03:00.000Z",
+        "description": "Triggered already? Good\nSouth Asian and aware\nRacism isn’t a joke here\nRead that again\nDigital Soldier for my Bharat 🇮🇳🪖\nFighting against anti-nationals 🚫",
+        "id": "1832373853542055936",
+        "location": "India, Mumbai ",
+        "name": "Deepak lawde 🇮🇳",
+        "pinned_tweet_id": "2059219831422091377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043531193493471232/GxPiCOSx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3053,
+          "following_count": 585,
+          "like_count": 10258,
+          "listed_count": 64,
+          "media_count": 326,
+          "tweet_count": 1015
+        },
+        "url": "",
+        "username": "Deepaklawde",
+        "verified": false
+      }
+    ]
+  }
+}

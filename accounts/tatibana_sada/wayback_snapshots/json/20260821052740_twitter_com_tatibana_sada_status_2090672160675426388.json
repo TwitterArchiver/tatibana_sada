@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090569066549309440"
+      ],
+      "media_source_tweet_id": [
+        "2090569405759365124"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090672160675426388",
+    "created_at": "2026-08-21T05:27:40.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090672160675426388"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 28,
+          "tag": "dexterityboost"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1819122518223175680",
+          "start": 3,
+          "username": "shimiyuVT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rmImvgYZX7",
+          "end": 67,
+          "expanded_url": "https://x.com/shimiyuVT/status/2090569405759365124/photo/1",
+          "media_key": "3_2090569066549309440",
+          "start": 44,
+          "url": "https://t.co/rmImvgYZX7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090672160675426388",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2090569066549309440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090569405759365124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shimiyuVT: sheep boy 🖤🐑 #dexterityboost https://t.co/rmImvgYZX7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2972,
+        "media_key": "3_2090569066549309440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQMxfV4XcAAFqrP.jpg",
+        "width": 2761
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090569066549309440"
+          ],
+          "media_source_tweet_id": [
+            "2090569405759365124"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090672160675426388",
+        "created_at": "2026-08-21T05:27:40.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090672160675426388"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 28,
+              "tag": "dexterityboost"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1819122518223175680",
+              "start": 3,
+              "username": "shimiyuVT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rmImvgYZX7",
+              "end": 67,
+              "expanded_url": "https://x.com/shimiyuVT/status/2090569405759365124/photo/1",
+              "media_key": "3_2090569066549309440",
+              "start": 44,
+              "url": "https://t.co/rmImvgYZX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090672160675426388",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090569066549309440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090569405759365124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shimiyuVT: sheep boy 🖤🐑 #dexterityboost https://t.co/rmImvgYZX7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090569066549309440"
+          ]
+        },
+        "author_id": "1819122518223175680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090569405759365124",
+        "created_at": "2026-08-20T22:39:21.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090569405759365124"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 13,
+              "tag": "dexterityboost"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rmImvgYZX7",
+              "end": 52,
+              "expanded_url": "https://x.com/shimiyuVT/status/2090569405759365124/photo/1",
+              "media_key": "3_2090569066549309440",
+              "start": 29,
+              "url": "https://t.co/rmImvgYZX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090569405759365124",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090569066549309440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 410,
+          "impression_count": 16143,
+          "like_count": 3070,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 235
+        },
+        "reply_settings": "everyone",
+        "text": "sheep boy 🖤🐑 #dexterityboost https://t.co/rmImvgYZX7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2090672160675426388",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 1492,
+          "like_count": 11237,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3587
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-01T21:26:27.000Z",
+        "description": "Seal puppy boy! 🦭🐾 Artist/Cosplayer/Pre-Debut Vtuber ♡ 🔞 ♡ Commissions closed | 🌐 https://t.co/5yujK6Y7G2 | mama: @syaden8 ♡ papa: @NatsuPP3 | #miyuseum",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 152,
+                "start": 143,
+                "tag": "miyuseum"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 122,
+                "start": 114,
+                "username": "syaden8"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "NatsuPP3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/shimiyu",
+                "end": 105,
+                "expanded_url": "https://linktr.ee/shimiyu",
+                "start": 82,
+                "url": "https://t.co/5yujK6Y7G2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.com/shimiyuvt",
+                "end": 23,
+                "expanded_url": "http://twitch.com/shimiyuvt",
+                "start": 0,
+                "url": "https://t.co/QYUuMfgT3a"
+              }
+            ]
+          }
+        },
+        "id": "1819122518223175680",
+        "is_identity_verified": false,
+        "location": "ic: mazamuno b: cali_kki",
+        "most_recent_tweet_id": "2090589234386149718",
+        "name": "miyu 🦭🐾",
+        "pinned_tweet_id": "2087600004575940860",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819122518223175680/1786502110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938005921868742656/h4kzM1pz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27720,
+          "following_count": 319,
+          "like_count": 25746,
+          "listed_count": 49,
+          "media_count": 549,
+          "tweet_count": 4270
+        },
+        "url": "https://t.co/QYUuMfgT3a",
+        "username": "shimiyuVT",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

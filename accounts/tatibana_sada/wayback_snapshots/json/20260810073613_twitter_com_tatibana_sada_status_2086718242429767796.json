@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2086718242429767796",
+    "created_at": "2026-08-10T07:36:13.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T08:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086718242429767796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SnozakiSakura/…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/SnozakiSakura/status/2086683220645732530",
+          "start": 137,
+          "url": "https://t.co/ZEHIbiR6F4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086718242429767796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086683220645732530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是触发了女性的「玩回路」。小蓝书做题家讨论黄毛学，尼哥道，就是研究的这个。女性当然也是跟任何男性一样，想玩玩想找刺激的，黄毛倚着摩托说，妹子，上来兜兜风，就能触发这个，而做题力工小心翼翼一句话要打磨半天跟女的说话就触发不了。而外国身份厉害的点是本身就能触发这种玩回路了。 https://t.co/ZEHIbiR6F4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_2086683214412931072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVjU-naYAAVWM-.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2086718242429767796",
+        "created_at": "2026-08-10T07:36:13.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086718242429767796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SnozakiSakura/…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/SnozakiSakura/status/2086683220645732530",
+              "start": 137,
+              "url": "https://t.co/ZEHIbiR6F4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086718242429767796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086683220645732530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是触发了女性的「玩回路」。小蓝书做题家讨论黄毛学，尼哥道，就是研究的这个。女性当然也是跟任何男性一样，想玩玩想找刺激的，黄毛倚着摩托说，妹子，上来兜兜风，就能触发这个，而做题力工小心翼翼一句话要打磨半天跟女的说话就触发不了。而外国身份厉害的点是本身就能触发这种玩回路了。 https://t.co/ZEHIbiR6F4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086683214412931072"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2086683220645732530",
+        "created_at": "2026-08-10T05:17:03.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086683220645732530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aPjefSWa9Z",
+              "end": 58,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2086683220645732530/photo/1",
+              "media_key": "3_2086683214412931072",
+              "start": 35,
+              "url": "https://t.co/aPjefSWa9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086683220645732530",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086683214412931072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5033,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这还是中文吗？？\n\n真的完全不理解有些女生审美，这哪里来的那么大魅力 https://t.co/aPjefSWa9Z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2086718242429767796",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 1479,
+          "like_count": 10509,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3475
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "is_identity_verified": true,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2086716877011833081",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97598,
+          "following_count": 2555,
+          "like_count": 7921,
+          "listed_count": 204,
+          "media_count": 850,
+          "tweet_count": 4586
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

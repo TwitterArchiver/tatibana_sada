@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093012445698658304"
+      ],
+      "media_source_tweet_id": [
+        "2093012782698426723"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2093017793977545138",
+    "created_at": "2026-08-27T16:48:23.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T17:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093017793977545138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3065694629",
+          "start": 3,
+          "username": "PhillAndry86"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kKKhpnSOAw",
+          "end": 133,
+          "expanded_url": "https://x.com/PhillAndry86/status/2093012782698426723/photo/1",
+          "media_key": "3_2093012445698658304",
+          "start": 110,
+          "url": "https://t.co/kKKhpnSOAw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093017793977545138",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2093012445698658304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093012782698426723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PhillAndry86: We should keep in mind that men can be female worshippers regardless of political ideology. https://t.co/kKKhpnSOAw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 477,
+        "media_key": "3_2093012445698658304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvfuuhXEAAjDWL.jpg",
+        "width": 505
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093012445698658304"
+          ],
+          "media_source_tweet_id": [
+            "2093012782698426723"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2093017793977545138",
+        "created_at": "2026-08-27T16:48:23.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093017793977545138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3065694629",
+              "start": 3,
+              "username": "PhillAndry86"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKKhpnSOAw",
+              "end": 133,
+              "expanded_url": "https://x.com/PhillAndry86/status/2093012782698426723/photo/1",
+              "media_key": "3_2093012445698658304",
+              "start": 110,
+              "url": "https://t.co/kKKhpnSOAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093017793977545138",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2093012445698658304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093012782698426723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PhillAndry86: We should keep in mind that men can be female worshippers regardless of political ideology. https://t.co/kKKhpnSOAw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093012445698658304"
+          ]
+        },
+        "author_id": "3065694629",
+        "conversation_id": "2093012782698426723",
+        "created_at": "2026-08-27T16:28:28.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093012782698426723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKKhpnSOAw",
+              "end": 115,
+              "expanded_url": "https://x.com/PhillAndry86/status/2093012782698426723/photo/1",
+              "media_key": "3_2093012445698658304",
+              "start": 92,
+              "url": "https://t.co/kKKhpnSOAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093012782698426723",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2093012445698658304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 55,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "We should keep in mind that men can be female worshippers regardless of political ideology. https://t.co/kKKhpnSOAw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2093017793977545138",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 1510,
+          "like_count": 11632,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3658
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-03-01T15:41:45.000Z",
+        "description": "Let's destroy Misandry together. It'll be fun. 😎 \nLink to pro-male discords - https://t.co/nrrrJszM2l\nhttps://t.co/6css5zWxgG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/jtSbxKfuNt",
+                "end": 101,
+                "expanded_url": "https://discord.gg/jtSbxKfuNt",
+                "start": 78,
+                "url": "https://t.co/nrrrJszM2l"
+              },
+              {
+                "display_url": "discord.gg/sAkdqBM328",
+                "end": 125,
+                "expanded_url": "https://discord.gg/sAkdqBM328",
+                "start": 102,
+                "url": "https://t.co/6css5zWxgG"
+              }
+            ]
+          }
+        },
+        "id": "3065694629",
+        "is_identity_verified": false,
+        "location": "Neptune",
+        "most_recent_tweet_id": "2093012782698426723",
+        "name": "Phill Andry",
+        "pinned_tweet_id": "2082185427315036290",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3065694629/1787063936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090114809526169600/p9iPIp4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3329,
+          "following_count": 3822,
+          "like_count": 42917,
+          "listed_count": 15,
+          "media_count": 834,
+          "tweet_count": 24140
+        },
+        "url": "",
+        "username": "PhillAndry86",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

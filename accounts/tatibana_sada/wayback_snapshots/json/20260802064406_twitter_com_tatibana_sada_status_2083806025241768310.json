@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2083806025241768310",
+    "created_at": "2026-08-02T06:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083806025241768310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2083773050256851001",
+          "start": 142,
+          "url": "https://t.co/s9YZW2zAMP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083806025241768310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083773050256851001",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人文科都是奢侈品。你攒了一年工资买了一个包，蹲出租屋里意淫自己也是上流社会了，想混进名流宴会，保安看你没邀请函直接叉出去。\n富贵人家让子女读这种学科，出来怎么找工作？人家一个电话打出去，某某机构某某协会的主席过来递上合同，人家安心刷资历，到了年纪就去选议员了。\n而傻鸟们正在刷盘子。 https://t.co/s9YZW2zAMP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1850,
+        "media_key": "3_2083773047182393344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsMi83XAAA1lA-.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2083806025241768310",
+        "created_at": "2026-08-02T06:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083806025241768310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2083773050256851001",
+              "start": 142,
+              "url": "https://t.co/s9YZW2zAMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083806025241768310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083773050256851001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人文科都是奢侈品。你攒了一年工资买了一个包，蹲出租屋里意淫自己也是上流社会了，想混进名流宴会，保安看你没邀请函直接叉出去。\n富贵人家让子女读这种学科，出来怎么找工作？人家一个电话打出去，某某机构某某协会的主席过来递上合同，人家安心刷资历，到了年纪就去选议员了。\n而傻鸟们正在刷盘子。 https://t.co/s9YZW2zAMP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083773047182393344"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083773050256851001",
+        "created_at": "2026-08-02T04:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083773050256851001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rVUnnGSFNp",
+              "end": 83,
+              "expanded_url": "https://x.com/amber_digit2/status/2083773050256851001/photo/1",
+              "media_key": "3_2083773047182393344",
+              "start": 60,
+              "url": "https://t.co/rVUnnGSFNp"
+            },
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2083759902942462183",
+              "start": 84,
+              "url": "https://t.co/4jjvmlibMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083773050256851001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6144,
+          "like_count": 50,
+          "quote_count": 6,
+          "reply_count": 18,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083759902942462183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不理解，我花了几百万人民币读了你们这个排名前十的破美本美硕，然后我现在月薪一万人民币，请问我读这个东西到底有什么意义 https://t.co/rVUnnGSFNp https://t.co/4jjvmlibMi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 1460,
+          "like_count": 10339,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3453
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4261,
+          "following_count": 704,
+          "like_count": 2167,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 1935
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

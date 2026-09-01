@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2083864718717178254",
+    "created_at": "2026-08-02T10:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083864718717178254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xzzzjpl/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/xzzzjpl/status/2083860974722064440",
+          "start": 5,
+          "url": "https://t.co/njWPoFscWD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083864718717178254",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083860974722064440",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "共妻tv https://t.co/njWPoFscWD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2083864718717178254",
+        "created_at": "2026-08-02T10:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083864718717178254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xzzzjpl/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xzzzjpl/status/2083860974722064440",
+              "start": 5,
+              "url": "https://t.co/njWPoFscWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083864718717178254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083860974722064440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "共妻tv https://t.co/njWPoFscWD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575767611165798403",
+        "conversation_id": "2083860974722064440",
+        "created_at": "2026-08-02T10:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083860974722064440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083860974722064440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8936,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个党简直烂透了。2026刚过一半，公共情妇就出现了三四位，每一位平均撂倒了五六位省部级干部。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "location": "习近平床底",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2036750810533822854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 1462,
+          "like_count": 10352,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3458
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:41:01.000Z",
+        "description": "原“中日政经评论”，一个中间偏右的时政评论家。\n付费提问：https://t.co/WlmcbdgMO4\n油管加会员链接：https://t.co/B9cQ4FiL8f\n国内加会员链接：https://t.co/j3uNCxlDKR\n投稿信箱（仅供投稿，咨询勿扰：zrzjpl@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/zjlsz",
+                "end": 52,
+                "expanded_url": "http://ko-fi.com/zjlsz",
+                "start": 29,
+                "url": "https://t.co/WlmcbdgMO4"
+              },
+              {
+                "display_url": "youtube.com/@zrzjpl/join",
+                "end": 84,
+                "expanded_url": "https://youtube.com/@zrzjpl/join",
+                "start": 61,
+                "url": "https://t.co/B9cQ4FiL8f"
+              },
+              {
+                "display_url": "patreon.com/zrzjpl",
+                "end": 116,
+                "expanded_url": "http://patreon.com/zrzjpl",
+                "start": 93,
+                "url": "https://t.co/j3uNCxlDKR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@zrzjpl",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@zrzjpl",
+                "start": 0,
+                "url": "https://t.co/lL4MO2ewyi"
+              }
+            ]
+          }
+        },
+        "id": "1575767611165798403",
+        "name": "政经鲁社长",
+        "pinned_tweet_id": "2017494422070694140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032816239811375105/xQkOZmeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696032,
+          "following_count": 346,
+          "like_count": 3558,
+          "listed_count": 2213,
+          "media_count": 4063,
+          "tweet_count": 16178
+        },
+        "url": "https://t.co/lL4MO2ewyi",
+        "username": "xzzzjpl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2089360944988340445",
+    "created_at": "2026-08-17T14:37:22.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T15:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089360944988340445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oscardcdu/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/oscardcdu/status/2088913090976838043",
+          "start": 11,
+          "url": "https://t.co/mrVfKAYwot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089360944988340445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088913090976838043",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请您马上到白宫任职！ https://t.co/mrVfKAYwot"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2089360944988340445",
+        "created_at": "2026-08-17T14:37:22.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089360944988340445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oscardcdu/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/oscardcdu/status/2088913090976838043",
+              "start": 11,
+              "url": "https://t.co/mrVfKAYwot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089360944988340445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088913090976838043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请您马上到白宫任职！ https://t.co/mrVfKAYwot"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074868842954739712",
+        "conversation_id": "2088848973109047548",
+        "created_at": "2026-08-16T08:57:45.000Z",
+        "display_text_range": [
+          11,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088913090976838043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1506847564171124736",
+              "start": 0,
+              "username": "RJDAIGOGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088913090976838043",
+        "in_reply_to_user_id": "1506847564171124736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088848973109047548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RJDAIGOGO 美国人民的股票账户早就赚的盆满钵满了 还财务状况恶化了 😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2089360944988340445",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 1487,
+          "like_count": 10772,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3514
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-08T14:53:50.000Z",
+        "description": "",
+        "id": "2074868842954739712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089125174155096488",
+        "name": "oscar",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074868842954739712/1783679596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075528731016245248/tdqKj9IP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 177,
+          "like_count": 110,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 1189
+        },
+        "url": "",
+        "username": "oscardcdu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-24T04:17:40.000Z",
+        "description": "理性，中国，客气",
+        "id": "1506847564171124736",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2089349221078249529",
+        "name": "RJ",
+        "pinned_tweet_id": "2071169220373811394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506847564171124736/1681050944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645072499405881344/UX7zH8Ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39819,
+          "following_count": 4867,
+          "like_count": 46466,
+          "listed_count": 205,
+          "media_count": 7435,
+          "tweet_count": 40081
+        },
+        "url": "",
+        "username": "RJDAIGOGO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

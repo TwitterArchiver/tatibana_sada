@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088246714528636928",
+        "3_2088246721247895552",
+        "3_2088246728671838208"
+      ],
+      "media_source_tweet_id": [
+        "2088246735365898630",
+        "2088246735365898630",
+        "2088246735365898630"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2088409801109733486",
+    "created_at": "2026-08-14T23:37:52.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T00:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088409801109733486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2086838732741885952",
+          "start": 3,
+          "username": "Ididnothinglqz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HDroYoMp4q",
+          "end": 51,
+          "expanded_url": "https://x.com/Ididnothinglqz/status/2088246735365898630/photo/1",
+          "media_key": "3_2088246714528636928",
+          "start": 28,
+          "url": "https://t.co/HDroYoMp4q"
+        },
+        {
+          "display_url": "pic.x.com/HDroYoMp4q",
+          "end": 51,
+          "expanded_url": "https://x.com/Ididnothinglqz/status/2088246735365898630/photo/1",
+          "media_key": "3_2088246721247895552",
+          "start": 28,
+          "url": "https://t.co/HDroYoMp4q"
+        },
+        {
+          "display_url": "pic.x.com/HDroYoMp4q",
+          "end": 51,
+          "expanded_url": "https://x.com/Ididnothinglqz/status/2088246735365898630/photo/1",
+          "media_key": "3_2088246728671838208",
+          "start": 28,
+          "url": "https://t.co/HDroYoMp4q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088409801109733486",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088246714528636928"
+      },
+      {
+        "media_key": "3_2088246721247895552"
+      },
+      {
+        "media_key": "3_2088246728671838208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088246735365898630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ididnothinglqz: 宝宝你好恶心啊 https://t.co/HDroYoMp4q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 542,
+        "media_key": "3_2088246714528636928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrxUqbbIAAaPYz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 724,
+        "media_key": "3_2088246721247895552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrxVDda4AAdbLl.jpg",
+        "width": 1080
+      },
+      {
+        "height": 701,
+        "media_key": "3_2088246728671838208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrxVfHbQAA9szS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088246714528636928",
+            "3_2088246721247895552",
+            "3_2088246728671838208"
+          ],
+          "media_source_tweet_id": [
+            "2088246735365898630",
+            "2088246735365898630",
+            "2088246735365898630"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2088409801109733486",
+        "created_at": "2026-08-14T23:37:52.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T00:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088409801109733486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2086838732741885952",
+              "start": 3,
+              "username": "Ididnothinglqz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HDroYoMp4q",
+              "end": 51,
+              "expanded_url": "https://x.com/Ididnothinglqz/status/2088246735365898630/photo/1",
+              "media_key": "3_2088246714528636928",
+              "start": 28,
+              "url": "https://t.co/HDroYoMp4q"
+            },
+            {
+              "display_url": "pic.x.com/HDroYoMp4q",
+              "end": 51,
+              "expanded_url": "https://x.com/Ididnothinglqz/status/2088246735365898630/photo/1",
+              "media_key": "3_2088246721247895552",
+              "start": 28,
+              "url": "https://t.co/HDroYoMp4q"
+            },
+            {
+              "display_url": "pic.x.com/HDroYoMp4q",
+              "end": 51,
+              "expanded_url": "https://x.com/Ididnothinglqz/status/2088246735365898630/photo/1",
+              "media_key": "3_2088246728671838208",
+              "start": 28,
+              "url": "https://t.co/HDroYoMp4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088409801109733486",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088246714528636928"
+          },
+          {
+            "media_key": "3_2088246721247895552"
+          },
+          {
+            "media_key": "3_2088246728671838208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088246735365898630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ididnothinglqz: 宝宝你好恶心啊 https://t.co/HDroYoMp4q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088246714528636928",
+            "3_2088246721247895552",
+            "3_2088246728671838208"
+          ]
+        },
+        "author_id": "2086838732741885952",
+        "conversation_id": "2088246735365898630",
+        "created_at": "2026-08-14T12:49:54.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088246735365898630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HDroYoMp4q",
+              "end": 31,
+              "expanded_url": "https://x.com/Ididnothinglqz/status/2088246735365898630/photo/1",
+              "media_key": "3_2088246714528636928",
+              "start": 8,
+              "url": "https://t.co/HDroYoMp4q"
+            },
+            {
+              "display_url": "pic.x.com/HDroYoMp4q",
+              "end": 31,
+              "expanded_url": "https://x.com/Ididnothinglqz/status/2088246735365898630/photo/1",
+              "media_key": "3_2088246721247895552",
+              "start": 8,
+              "url": "https://t.co/HDroYoMp4q"
+            },
+            {
+              "display_url": "pic.x.com/HDroYoMp4q",
+              "end": 31,
+              "expanded_url": "https://x.com/Ididnothinglqz/status/2088246735365898630/photo/1",
+              "media_key": "3_2088246728671838208",
+              "start": 8,
+              "url": "https://t.co/HDroYoMp4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088246735365898630",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088246714528636928"
+          },
+          {
+            "media_key": "3_2088246721247895552"
+          },
+          {
+            "media_key": "3_2088246728671838208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 513,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝你好恶心啊 https://t.co/HDroYoMp4q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2088409801109733486",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2087148538115527008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 1484,
+          "like_count": 10655,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 3497
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T15:39:27.000Z",
+        "description": "秽土转生？！ 推友寻回中 前世前前世昵称撒旦子民 本账号将发表温和言论以避免对线及举报 \n顺性别男趋近非二元  无取向\n友左友右友跨友同友非二元，你包容我我包容你，原则上不ban少ban，新注册号除外看黄男除外魔人除外\n咀嚼一些腊肉，吐沙一些蜘蛛，笑话一些顺治，点赞一些男裱字",
+        "id": "2086838732741885952",
+        "is_identity_verified": false,
+        "location": "美国菏泽曹县",
+        "most_recent_tweet_id": "2088374318342480065",
+        "name": "蚂蚁操龙8964",
+        "pinned_tweet_id": "2086849075186680028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086838732741885952/1786377026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086840073727934464/LfJrPb84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 167,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 542
+        },
+        "url": "",
+        "username": "Ididnothinglqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

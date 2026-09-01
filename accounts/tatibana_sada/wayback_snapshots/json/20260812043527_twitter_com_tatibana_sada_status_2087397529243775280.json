@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087251512707670016"
+      ],
+      "media_source_tweet_id": [
+        "2087251515077529700"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2087397529243775280",
+    "created_at": "2026-08-12T04:35:27.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T05:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087397529243775280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1347702221065117696",
+          "start": 3,
+          "username": "UBERSOY1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/39AROT10pm",
+          "end": 60,
+          "expanded_url": "https://x.com/UBERSOY1/status/2087251515077529700/photo/1",
+          "media_key": "3_2087251512707670016",
+          "start": 37,
+          "url": "https://t.co/39AROT10pm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087397529243775280",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2087251512707670016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 130
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087251515077529700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UBERSOY1: Life is hierarchical 🔺 https://t.co/39AROT10pm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 615,
+        "media_key": "3_2087251512707670016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdoMSvWYAAc_is.jpg",
+        "width": 499
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087251512707670016"
+          ]
+        },
+        "author_id": "1347702221065117696",
+        "conversation_id": "2087251515077529700",
+        "created_at": "2026-08-11T18:55:15.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T19:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087251515077529700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39AROT10pm",
+              "end": 46,
+              "expanded_url": "https://x.com/UBERSOY1/status/2087251515077529700/photo/1",
+              "media_key": "3_2087251512707670016",
+              "start": 23,
+              "url": "https://t.co/39AROT10pm"
+            },
+            {
+              "display_url": "x.com/balticdanny/st…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/balticdanny/status/2087245908362555873",
+              "start": 47,
+              "url": "https://t.co/4vEeWNxMxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087251515077529700",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087251512707670016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 447,
+          "impression_count": 200201,
+          "like_count": 3338,
+          "quote_count": 6,
+          "reply_count": 44,
+          "retweet_count": 130
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087245908362555873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Life is hierarchical 🔺 https://t.co/39AROT10pm https://t.co/4vEeWNxMxY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087251512707670016"
+          ],
+          "media_source_tweet_id": [
+            "2087251515077529700"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2087397529243775280",
+        "created_at": "2026-08-12T04:35:27.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087397529243775280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1347702221065117696",
+              "start": 3,
+              "username": "UBERSOY1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/39AROT10pm",
+              "end": 60,
+              "expanded_url": "https://x.com/UBERSOY1/status/2087251515077529700/photo/1",
+              "media_key": "3_2087251512707670016",
+              "start": 37,
+              "url": "https://t.co/39AROT10pm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087397529243775280",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087251512707670016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 130
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087251515077529700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UBERSOY1: Life is hierarchical 🔺 https://t.co/39AROT10pm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”",
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2087397529243775280",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2087148538115527008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 1482,
+          "like_count": 10598,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 3488
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2081917131944243201/R9LmqrI7_bigger.jpg",
+          "description": "Æ",
+          "url": "https://twitter.com/AEL",
+          "user_id": [
+            "898671"
+          ]
+        },
+        "created_at": "2021-01-09T00:30:30.000Z",
+        "description": "🧲Russian Human Capital 🇷🇺 💯|🌍Global Minority‼️| ⚠️Creator of Right-Wing Progressivism💡|📺RW YouTuber ⏯️|📝I write here: https://t.co/KQi0K9I7mI 👈",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ubersoy.substack.com",
+                "end": 141,
+                "expanded_url": "http://ubersoy.substack.com",
+                "start": 118,
+                "url": "https://t.co/KQi0K9I7mI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCqBN8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCqBN8cSd6hfwqq0BM2biXOg",
+                "start": 0,
+                "url": "https://t.co/3IsUgBRpxk"
+              }
+            ]
+          }
+        },
+        "id": "1347702221065117696",
+        "is_identity_verified": false,
+        "location": "Toronto🍁",
+        "most_recent_tweet_id": "2087384983333662829",
+        "name": "UBERSOY",
+        "pinned_tweet_id": "2076186697100828818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1347702221065117696/1772853431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850018906271825920/bgKjC8_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30623,
+          "following_count": 639,
+          "like_count": 58443,
+          "listed_count": 284,
+          "media_count": 16702,
+          "tweet_count": 62198
+        },
+        "url": "https://t.co/3IsUgBRpxk",
+        "username": "UBERSOY1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

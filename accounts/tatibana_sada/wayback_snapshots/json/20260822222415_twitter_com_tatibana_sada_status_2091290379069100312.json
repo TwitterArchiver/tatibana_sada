@@ -1,0 +1,575 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091062726072365056"
+      ],
+      "media_source_tweet_id": [
+        "2091062811938132457"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2091290379069100312",
+    "created_at": "2026-08-22T22:24:15.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T23:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091290379069100312"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 21,
+          "tag": "GenshinImpact"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "原神"
+        },
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "流浪者"
+        },
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "放浪者"
+        },
+        {
+          "end": 59,
+          "start": 50,
+          "tag": "Wanderer"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "散兵"
+        },
+        {
+          "end": 76,
+          "start": 64,
+          "tag": "Scaramouche"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1610969938671403008",
+          "start": 3,
+          "username": "uuuulianglijing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vwyOy6tL29",
+          "end": 109,
+          "expanded_url": "https://x.com/uuuulianglijing/status/2091062811938132457/photo/1",
+          "media_key": "3_2091062726072365056",
+          "start": 86,
+          "url": "https://t.co/vwyOy6tL29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091290379069100312",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091062726072365056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 330
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091062811938132457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uuuulianglijing: #GenshinImpact #原神 #流浪者 #放浪者 #Wanderer #散兵 #Scaramouche \n给老板画的立绘 https://t.co/vwyOy6tL29"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2732,
+        "media_key": "3_2091062726072365056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTyeG6acAAN8Nk.jpg",
+        "width": 1431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091062726072365056"
+          ],
+          "media_source_tweet_id": [
+            "2091062811938132457"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2091290379069100312",
+        "created_at": "2026-08-22T22:24:15.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T23:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091290379069100312"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 21,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "原神"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "流浪者"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "放浪者"
+            },
+            {
+              "end": 59,
+              "start": 50,
+              "tag": "Wanderer"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "散兵"
+            },
+            {
+              "end": 76,
+              "start": 64,
+              "tag": "Scaramouche"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1610969938671403008",
+              "start": 3,
+              "username": "uuuulianglijing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vwyOy6tL29",
+              "end": 109,
+              "expanded_url": "https://x.com/uuuulianglijing/status/2091062811938132457/photo/1",
+              "media_key": "3_2091062726072365056",
+              "start": 86,
+              "url": "https://t.co/vwyOy6tL29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091290379069100312",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091062726072365056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 330
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091062811938132457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uuuulianglijing: #GenshinImpact #原神 #流浪者 #放浪者 #Wanderer #散兵 #Scaramouche \n给老板画的立绘 https://t.co/vwyOy6tL29"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091062726072365056"
+          ]
+        },
+        "author_id": "1610969938671403008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2091062811938132457",
+        "created_at": "2026-08-22T07:19:59.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091062811938132457"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "原神"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "流浪者"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "放浪者"
+            },
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "Wanderer"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "散兵"
+            },
+            {
+              "end": 55,
+              "start": 43,
+              "tag": "Scaramouche"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vwyOy6tL29",
+              "end": 88,
+              "expanded_url": "https://x.com/uuuulianglijing/status/2091062811938132457/photo/1",
+              "media_key": "3_2091062726072365056",
+              "start": 65,
+              "url": "https://t.co/vwyOy6tL29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091062811938132457",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091062726072365056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 13831,
+          "like_count": 2131,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 330
+        },
+        "reply_settings": "everyone",
+        "text": "#GenshinImpact #原神 #流浪者 #放浪者 #Wanderer #散兵 #Scaramouche \n给老板画的立绘 https://t.co/vwyOy6tL29"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2091290379069100312",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 1496,
+          "like_count": 11422,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3628
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-05T12:02:53.000Z",
+        "description": "大家好，叫我镜镜就好，不经常出现在推特是个中国人，可能有些语言会看不懂但是会尽量回复的！谢谢大家的喜欢！终于找回了账号，最近会更新流浪者！",
+        "id": "1610969938671403008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091062811938132457",
+        "name": "量里镜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1610969938671403008/1784634856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076173999319740416/76ke4dK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6252,
+          "following_count": 16,
+          "like_count": 4,
+          "listed_count": 15,
+          "media_count": 45,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "uuuulianglijing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2090809540745048532",
+    "created_at": "2026-08-21T14:33:34.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T15:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090809540745048532"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1Madoka11/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/1Madoka11/status/2090483440290603099",
+          "start": 7,
+          "url": "https://t.co/lnpVrjalts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090809540745048532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090483440290603099",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妓女和嫖客？ https://t.co/lnpVrjalts"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2090809540745048532",
+        "created_at": "2026-08-21T14:33:34.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090809540745048532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1Madoka11/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/1Madoka11/status/2090483440290603099",
+              "start": 7,
+              "url": "https://t.co/lnpVrjalts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090809540745048532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090483440290603099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妓女和嫖客？ https://t.co/lnpVrjalts"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749992514902487040",
+        "conversation_id": "2090483440290603099",
+        "created_at": "2026-08-20T16:57:46.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090483440290603099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090483440290603099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1870,
+          "like_count": 5,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "支持一妻多夫制"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2090809540745048532",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 1496,
+          "like_count": 11294,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3601
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-24T03:08:31.000Z",
+        "description": "🚪520，給大山裡的兄弟姐妹買包衛生巾",
+        "id": "1749992514902487040",
+        "is_identity_verified": false,
+        "location": "盧管中學",
+        "most_recent_tweet_id": "2090757386239963307",
+        "name": "Yuno",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749992514902487040/1779682814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032419364545421312/XBbOuu6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 248,
+          "like_count": 8926,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1440
+        },
+        "url": "",
+        "username": "1Madoka11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

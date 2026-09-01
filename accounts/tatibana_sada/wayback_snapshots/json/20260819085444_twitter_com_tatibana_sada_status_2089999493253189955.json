@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2089999493253189955",
+    "created_at": "2026-08-19T08:54:44.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T09:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089999493253189955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LTuzyu/status/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/LTuzyu/status/2089765334052127119",
+          "start": 18,
+          "url": "https://t.co/Pt6z6XYiBl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089999493253189955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089765334052127119",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "sis越嚎，越证明我们男的做的对😆 https://t.co/Pt6z6XYiBl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2089999493253189955",
+        "created_at": "2026-08-19T08:54:44.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089999493253189955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LTuzyu/status/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/LTuzyu/status/2089765334052127119",
+              "start": 18,
+              "url": "https://t.co/Pt6z6XYiBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089999493253189955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089765334052127119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "sis越嚎，越证明我们男的做的对😆 https://t.co/Pt6z6XYiBl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588905449352757248",
+        "conversation_id": "2089765334052127119",
+        "created_at": "2026-08-18T17:24:16.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089765334052127119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089765334052127119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1258,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这群傻逼公畜男的天天就是穷的贱的性压抑的，赶紧他妈都站成一排扫射成肉泥吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2089999493253189955",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 1479,
+          "like_count": 10886,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 3541
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-05T14:46:10.000Z",
+        "description": "讨厌土鳖，不要靠近我",
+        "id": "1588905449352757248",
+        "is_identity_verified": false,
+        "location": "West Region, Singapore",
+        "most_recent_tweet_id": "2089974346806943948",
+        "name": "帅狗奴重生",
+        "pinned_tweet_id": "1987566045968945431",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1588905449352757248/1701183066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668480228551688192/Zqi09vdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 367,
+          "like_count": 1609,
+          "listed_count": 0,
+          "media_count": 480,
+          "tweet_count": 3025
+        },
+        "url": "",
+        "username": "LTuzyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

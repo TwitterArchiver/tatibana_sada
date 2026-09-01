@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2091539450551742685",
+    "created_at": "2026-08-23T14:53:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T15:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091539450551742685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974082673095118848",
+          "start": 3,
+          "username": "tuzhilaoye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091539450551742685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091461151531979123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuzhilaoye: 南丁格尔说：“从某种意义上，我确实像我妹妹说的那样‘像个男人’。为什么？因为我更擅长同情别人。女人往往渴望被爱，而不是去爱。她们整天向别人索取理解和同情，却很难反过来理解别人，甚至无法准确记住和传递对方的事情。难道这一切，不正是因为缺乏真正的同理…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2091539450551742685",
+        "created_at": "2026-08-23T14:53:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091539450551742685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974082673095118848",
+              "start": 3,
+              "username": "tuzhilaoye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091539450551742685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091461151531979123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuzhilaoye: 南丁格尔说：“从某种意义上，我确实像我妹妹说的那样‘像个男人’。为什么？因为我更擅长同情别人。女人往往渴望被爱，而不是去爱。她们整天向别人索取理解和同情，却很难反过来理解别人，甚至无法准确记住和传递对方的事情。难道这一切，不正是因为缺乏真正的同理…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974082673095118848",
+        "conversation_id": "2091461151531979123",
+        "created_at": "2026-08-23T09:42:50.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T10:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091461151531979123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alerius210231/…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/alerius210231/status/2091361092081483874",
+              "start": 140,
+              "url": "https://t.co/jiootOEoks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091461151531979123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 781,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091361092081483874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "南丁格尔说：“从某种意义上，我确实像我妹妹说的那样‘像个男人’。为什么？因为我更擅长同情别人。女人往往渴望被爱，而不是去爱。她们整天向别人索取理解和同情，却很难反过来理解别人，甚至无法准确记住和传递对方的事情。难道这一切，不正是因为缺乏真正的同理心吗？”\n——弗洛伦斯·南丁格尔 https://t.co/jiootOEoks"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2091539450551742685",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 1497,
+          "like_count": 11501,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3641
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-03T12:02:49.000Z",
+        "description": "文洁· 秽土转生版 继续不定期普及#反出生主义 思想。",
+        "id": "1974082673095118848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091486365414248538",
+        "name": "叶文洁",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974083039274688513/PqtChwQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 480,
+          "like_count": 31296,
+          "listed_count": 21,
+          "media_count": 198,
+          "tweet_count": 6301
+        },
+        "url": "",
+        "username": "tuzhilaoye",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

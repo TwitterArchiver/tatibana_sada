@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2090003795975770569",
+    "created_at": "2026-08-19T09:11:50.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090003795975770569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qingmu2778/sta…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/qingmu2778/status/2089935313745375296",
+          "start": 65,
+          "url": "https://t.co/nV0Rltspor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090003795975770569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089935313745375296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们男的敢闹事，能量巨大，我们男的真是太强了！民逗马上生生世世共和国公民支持共产党，能量微小，反共志士们，你们有什么理由不打男拳 https://t.co/nV0Rltspor"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2090003795975770569",
+        "created_at": "2026-08-19T09:11:50.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090003795975770569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingmu2778/sta…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/qingmu2778/status/2089935313745375296",
+              "start": 65,
+              "url": "https://t.co/nV0Rltspor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090003795975770569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089935313745375296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们男的敢闹事，能量巨大，我们男的真是太强了！民逗马上生生世世共和国公民支持共产党，能量微小，反共志士们，你们有什么理由不打男拳 https://t.co/nV0Rltspor"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058226692599238656",
+        "conversation_id": "2089935313745375296",
+        "created_at": "2026-08-19T04:39:42.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T05:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089935313745375296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089935313745375296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 480,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "对于时代峰峻事件，我只有一个评价女的固然是有错的，但是男的被抓绝不无辜，拿着恋童理由就想掩盖自己打烧闹事的暴徒本质，还骂警察不公正，他们对公正的概念都认识不正确，还是对这群暴徒太和善了😓"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2090003795975770569",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 1479,
+          "like_count": 10895,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 3543
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-23T16:42:02.000Z",
+        "description": "坚守你对个人自由的珍视，这是你对抗这种混乱喧嚣最强大的护盾\n爱人：@quasarne",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "quasarne"
+              }
+            ]
+          }
+        },
+        "id": "2058226692599238656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089985728675709257",
+        "name": "🏳️‍🌈Aoki Rimii🏳️‍⚧️",
+        "pinned_tweet_id": "2064412364544569827",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058226692599238656/1785317309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082397603279642624/yan6_yeR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 105,
+          "like_count": 1222,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 401
+        },
+        "url": "",
+        "username": "qingmu2778",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

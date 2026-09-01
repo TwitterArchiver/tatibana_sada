@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088613312414052352"
+      ],
+      "media_source_tweet_id": [
+        "2088633761286000920"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2088726715254423984",
+    "created_at": "2026-08-15T20:37:10.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T21:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088726715254423984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "250945227",
+          "start": 3,
+          "username": "HidamariSneed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bGBMawq3Up",
+          "end": 76,
+          "expanded_url": "https://x.com/HidamariSneed/status/2088633761286000920/photo/1",
+          "media_key": "3_2088613312414052352",
+          "start": 53,
+          "url": "https://t.co/bGBMawq3Up"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088726715254423984",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2088613312414052352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088633761286000920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HidamariSneed: It's always a low effort shitpost https://t.co/bGBMawq3Up"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1050,
+        "media_key": "3_2088613312414052352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPw-vd-XcAASE5n.jpg",
+        "width": 2130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088613312414052352"
+          ],
+          "media_source_tweet_id": [
+            "2088633761286000920"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2088726715254423984",
+        "created_at": "2026-08-15T20:37:10.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T21:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088726715254423984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "250945227",
+              "start": 3,
+              "username": "HidamariSneed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bGBMawq3Up",
+              "end": 76,
+              "expanded_url": "https://x.com/HidamariSneed/status/2088633761286000920/photo/1",
+              "media_key": "3_2088613312414052352",
+              "start": 53,
+              "url": "https://t.co/bGBMawq3Up"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088726715254423984",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088613312414052352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088633761286000920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HidamariSneed: It's always a low effort shitpost https://t.co/bGBMawq3Up"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088613312414052352"
+          ]
+        },
+        "author_id": "250945227",
+        "conversation_id": "2088633761286000920",
+        "created_at": "2026-08-15T14:27:48.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088633761286000920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bGBMawq3Up",
+              "end": 57,
+              "expanded_url": "https://x.com/HidamariSneed/status/2088633761286000920/photo/1",
+              "media_key": "3_2088613312414052352",
+              "start": 34,
+              "url": "https://t.co/bGBMawq3Up"
+            },
+            {
+              "display_url": "x.com/Cybrid101/stat…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Cybrid101/status/2087634679545389398",
+              "start": 58,
+              "url": "https://t.co/fe2G2JHbgO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088633761286000920",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088613312414052352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 4451,
+          "like_count": 554,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087634679545389398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "It's always a low effort shitpost https://t.co/bGBMawq3Up https://t.co/fe2G2JHbgO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2088726715254423984",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 1484,
+          "like_count": 10703,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3506
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-02-12T03:46:30.000Z",
+        "description": "I post anime, opinions, and draw sometimes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/yunoposter",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/yunoposter",
+                "start": 0,
+                "url": "https://t.co/dAHoVkcL7k"
+              }
+            ]
+          }
+        },
+        "id": "250945227",
+        "is_identity_verified": false,
+        "location": "in your screen",
+        "most_recent_tweet_id": "2088691344722080159",
+        "name": "Yuno Poster",
+        "pinned_tweet_id": "2086106723941511198",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/250945227/1763761297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588039132126842880/-2CWL8BD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35286,
+          "following_count": 499,
+          "like_count": 158993,
+          "listed_count": 67,
+          "media_count": 13583,
+          "tweet_count": 34137
+        },
+        "url": "https://t.co/dAHoVkcL7k",
+        "username": "HidamariSneed",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2089364563238297766",
+    "created_at": "2026-08-17T14:51:45.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T15:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089364563238297766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1824764938641887232",
+          "start": 3,
+          "username": "yh9401700442687"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089364563238297766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088974778249937127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yh9401700442687: 分享一个实习时候听到的小故事，图一乐听就得：\n\n今天单位组织我们实习生看《江泽民》，看到老蛤心系广西人民两次跑来下乡调研，我们领导说：\n\n“当年电视台梳理过跟拍江主席的镜头素材，发现一个都用不了，因为随行领导全落马了，当时的电视台领导锐…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 654,
+        "media_key": "3_2088974768741466112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2He_uWwAA67Be.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2089364563238297766",
+        "created_at": "2026-08-17T14:51:45.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089364563238297766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1824764938641887232",
+              "start": 3,
+              "username": "yh9401700442687"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089364563238297766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088974778249937127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yh9401700442687: 分享一个实习时候听到的小故事，图一乐听就得：\n\n今天单位组织我们实习生看《江泽民》，看到老蛤心系广西人民两次跑来下乡调研，我们领导说：\n\n“当年电视台梳理过跟拍江主席的镜头素材，发现一个都用不了，因为随行领导全落马了，当时的电视台领导锐…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088974768741466112"
+          ]
+        },
+        "author_id": "1824764938641887232",
+        "conversation_id": "2088974778249937127",
+        "created_at": "2026-08-16T13:02:53.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088974778249937127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISrCrn1Fqx",
+              "end": 165,
+              "expanded_url": "https://x.com/yh9401700442687/status/2088974778249937127/photo/1",
+              "media_key": "3_2088974768741466112",
+              "start": 142,
+              "url": "https://t.co/ISrCrn1Fqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088974778249937127",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088974768741466112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 60416,
+          "like_count": 513,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "分享一个实习时候听到的小故事，图一乐听就得：\n\n今天单位组织我们实习生看《江泽民》，看到老蛤心系广西人民两次跑来下乡调研，我们领导说：\n\n“当年电视台梳理过跟拍江主席的镜头素材，发现一个都用不了，因为随行领导全落马了，当时的电视台领导锐评道：‘他妈的，总书记身边一个好人都没有’。” https://t.co/ISrCrn1Fqx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2089364563238297766",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 1487,
+          "like_count": 10775,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3515
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-17T11:07:36.000Z",
+        "description": "五帝三皇神圣事，骗了无涯过客",
+        "id": "1824764938641887232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089282988693496166",
+        "name": "渊泉",
+        "pinned_tweet_id": "2026235506481418435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824764938641887232/1770886864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068151758103457792/htaoe-Xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 128,
+          "like_count": 1421,
+          "listed_count": 2,
+          "media_count": 542,
+          "tweet_count": 2537
+        },
+        "url": "",
+        "username": "yh9401700442687",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2089765482337579051",
+    "created_at": "2026-08-18T17:24:51.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T18:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089765482337579051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Blueboyuwu88/s…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Blueboyuwu88/status/2089708541460283846",
+          "start": 21,
+          "url": "https://t.co/amvtDkd2HY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089765482337579051",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089708541460283846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Both will be BLACKED https://t.co/amvtDkd2HY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1945,
+        "media_key": "3_2089708536162918400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAi14YXoAAJEcq.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1128,
+        "media_key": "3_2089708536070582272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAi14CWsAAgrUN.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2089765482337579051",
+        "created_at": "2026-08-18T17:24:51.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089765482337579051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Blueboyuwu88/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Blueboyuwu88/status/2089708541460283846",
+              "start": 21,
+              "url": "https://t.co/amvtDkd2HY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089765482337579051",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089708541460283846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Both will be BLACKED https://t.co/amvtDkd2HY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089708536162918400",
+            "3_2089708536070582272"
+          ]
+        },
+        "author_id": "2062477719271518208",
+        "conversation_id": "2089708541460283846",
+        "created_at": "2026-08-18T13:38:35.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T14:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089708541460283846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVKeogw7op",
+              "end": 107,
+              "expanded_url": "https://x.com/Blueboyuwu88/status/2089708541460283846/photo/1",
+              "media_key": "3_2089708536162918400",
+              "start": 84,
+              "url": "https://t.co/VVKeogw7op"
+            },
+            {
+              "display_url": "pic.x.com/VVKeogw7op",
+              "end": 107,
+              "expanded_url": "https://x.com/Blueboyuwu88/status/2089708541460283846/photo/1",
+              "media_key": "3_2089708536070582272",
+              "start": 84,
+              "url": "https://t.co/VVKeogw7op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089708541460283846",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089708536162918400"
+          },
+          {
+            "media_key": "3_2089708536070582272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1240,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "The white man has two sides and they are damn beautiful and that is our superiority https://t.co/VVKeogw7op"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2089765482337579051",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 1487,
+          "like_count": 10797,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 3521
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-04T10:16:48.000Z",
+        "description": "New Deal DemoKKKrat from 1860s | Social Fascist | Herrenvolk Socdem | Woodrow Wilson Was Right \n\nFallen Warrior: @Ethereals68\nPrivate: @Homodixiecrat88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "Ethereals68"
+              },
+              {
+                "end": 151,
+                "start": 135,
+                "username": "Homodixiecrat88"
+              }
+            ]
+          }
+        },
+        "id": "2062477719271518208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089749235595972754",
+        "name": "BlueboyUwU🏳️‍🌈🇪🇺🌹▐┛",
+        "pinned_tweet_id": "2078194001262317836",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062477719271518208/1784576107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086535725810343936/toveksFc_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 323,
+          "like_count": 6849,
+          "listed_count": 12,
+          "media_count": 489,
+          "tweet_count": 1019
+        },
+        "url": "",
+        "username": "Blueboyuwu88",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

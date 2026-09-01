@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090806399525949440"
+      ],
+      "media_source_tweet_id": [
+        "2090806405137875293"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2090874595645784081",
+    "created_at": "2026-08-21T18:52:04.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T19:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090874595645784081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1544683197857800192",
+          "start": 3,
+          "username": "usura7tonkachi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xyk4EnX2OE",
+          "end": 50,
+          "expanded_url": "https://x.com/usura7tonkachi/status/2090806405137875293/photo/1",
+          "media_key": "3_2090806399525949440",
+          "start": 27,
+          "url": "https://t.co/Xyk4EnX2OE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090874595645784081",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090806399525949440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 467
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090806405137875293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usura7tonkachi: バ二〜の日🐰 https://t.co/Xyk4EnX2OE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090806399525949440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQJV8HbkAAlPut.jpg",
+        "width": 1570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090806399525949440"
+          ],
+          "media_source_tweet_id": [
+            "2090806405137875293"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2090874595645784081",
+        "created_at": "2026-08-21T18:52:04.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090874595645784081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1544683197857800192",
+              "start": 3,
+              "username": "usura7tonkachi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xyk4EnX2OE",
+              "end": 50,
+              "expanded_url": "https://x.com/usura7tonkachi/status/2090806405137875293/photo/1",
+              "media_key": "3_2090806399525949440",
+              "start": 27,
+              "url": "https://t.co/Xyk4EnX2OE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090874595645784081",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090806399525949440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 467
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090806405137875293",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usura7tonkachi: バ二〜の日🐰 https://t.co/Xyk4EnX2OE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090806399525949440"
+          ]
+        },
+        "author_id": "1544683197857800192",
+        "conversation_id": "2090806405137875293",
+        "created_at": "2026-08-21T14:21:06.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090806405137875293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xyk4EnX2OE",
+              "end": 30,
+              "expanded_url": "https://x.com/usura7tonkachi/status/2090806405137875293/photo/1",
+              "media_key": "3_2090806399525949440",
+              "start": 7,
+              "url": "https://t.co/Xyk4EnX2OE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090806405137875293",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090806399525949440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 754,
+          "impression_count": 36356,
+          "like_count": 6338,
+          "quote_count": 26,
+          "reply_count": 8,
+          "retweet_count": 467
+        },
+        "reply_settings": "everyone",
+        "text": "バ二〜の日🐰 https://t.co/Xyk4EnX2OE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2090874595645784081",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 1496,
+          "like_count": 11339,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3616
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-06T14:02:39.000Z",
+        "description": "20↑ 🍥🥷🍅⚠️未成年閲覧禁止🔞",
+        "id": "1544683197857800192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090829562041229444",
+        "name": "ェ！",
+        "pinned_tweet_id": "1982019266057801924",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1544683197857800192/1762818578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971962381002756096/PUriZc7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4355,
+          "following_count": 5,
+          "like_count": 444,
+          "listed_count": 10,
+          "media_count": 30,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "usura7tonkachi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090977852946821120"
+      ],
+      "media_source_tweet_id": [
+        "2090977869690548646"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1401962477756162049",
+          "name": "Visual kei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1401962477756162049",
+          "name": "Visual kei"
+        }
+      }
+    ],
+    "conversation_id": "2091080686660936176",
+    "created_at": "2026-08-22T08:31:00.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T09:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091080686660936176"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "男装"
+        },
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "中性"
+        },
+        {
+          "end": 36,
+          "start": 30,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "V系"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "おすすめ"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "日系"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1500203551494225921",
+          "start": 3,
+          "username": "unihai_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wapSKRjPlh",
+          "end": 74,
+          "expanded_url": "https://x.com/unihai_0/status/2090977869690548646/photo/1",
+          "media_key": "3_2090977852946821120",
+          "start": 51,
+          "url": "https://t.co/wapSKRjPlh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091080686660936176",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2090977852946821120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090977869690548646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @unihai_0: ^_-_^ #男装  #中性  #自撮り界隈 #V系 #おすすめ #日系 https://t.co/wapSKRjPlh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2090977852946821120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSlR14asAAzpKp.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090977852946821120"
+          ],
+          "media_source_tweet_id": [
+            "2090977869690548646"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          }
+        ],
+        "conversation_id": "2091080686660936176",
+        "created_at": "2026-08-22T08:31:00.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T09:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091080686660936176"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男装"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "中性"
+            },
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "V系"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "おすすめ"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "日系"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1500203551494225921",
+              "start": 3,
+              "username": "unihai_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wapSKRjPlh",
+              "end": 74,
+              "expanded_url": "https://x.com/unihai_0/status/2090977869690548646/photo/1",
+              "media_key": "3_2090977852946821120",
+              "start": 51,
+              "url": "https://t.co/wapSKRjPlh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091080686660936176",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2090977852946821120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090977869690548646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @unihai_0: ^_-_^ #男装  #中性  #自撮り界隈 #V系 #おすすめ #日系 https://t.co/wapSKRjPlh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090977852946821120"
+          ]
+        },
+        "author_id": "1500203551494225921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          }
+        ],
+        "conversation_id": "2090977869690548646",
+        "created_at": "2026-08-22T01:42:27.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090977869690548646"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "男装"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "中性"
+            },
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "V系"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "おすすめ"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "日系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wapSKRjPlh",
+              "end": 60,
+              "expanded_url": "https://x.com/unihai_0/status/2090977869690548646/photo/1",
+              "media_key": "3_2090977852946821120",
+              "start": 37,
+              "url": "https://t.co/wapSKRjPlh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090977869690548646",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2090977852946821120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 9791,
+          "like_count": 1206,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "^_-_^ #男装  #中性  #自撮り界隈 #V系 #おすすめ #日系 https://t.co/wapSKRjPlh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n桓大司马乘雪欲猎，先过王、刘诸人许。真长见其装束单急，问：“老贼欲持此何作？”\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2091080686660936176",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 1498,
+          "like_count": 11382,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3623
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-05T20:16:23.000Z",
+        "description": "🇺🇸✈️- 🇯🇵一緒に幸せを探しに行こう。",
+        "id": "1500203551494225921",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091071616071368743",
+        "name": "ゆうた",
+        "pinned_tweet_id": "2090606874471117116",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500203551494225921/1781073076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090858742342373377/u2IQopdO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19726,
+          "following_count": 512,
+          "like_count": 9468,
+          "listed_count": 76,
+          "media_count": 8,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "unihai_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
