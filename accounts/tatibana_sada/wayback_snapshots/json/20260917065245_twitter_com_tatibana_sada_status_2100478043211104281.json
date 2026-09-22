@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100422109168349185"
+      ],
+      "media_source_tweet_id": [
+        "2100422120673337690"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2100478043211104281",
+    "created_at": "2026-09-17T06:52:45.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T07:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100478043211104281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2100135560585302016",
+          "start": 3,
+          "username": "MacArthurLegend"
+        },
+        {
+          "end": 37,
+          "id": "1857379373663256576",
+          "start": 21,
+          "username": "HomuraVera44731"
+        },
+        {
+          "end": 53,
+          "id": "1889764595796934656",
+          "start": 38,
+          "username": "FemboyArtworks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LuVhzS7XOC",
+          "end": 111,
+          "expanded_url": "https://x.com/MacArthurLegend/status/2100422120673337690/photo/1",
+          "media_key": "3_2100422109168349185",
+          "start": 88,
+          "url": "https://t.co/LuVhzS7XOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100478043211104281",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2100422109168349185"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100422120673337690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MacArthurLegend: @HomuraVera44731 @FemboyArtworks She is also a Britain Fascist fan https://t.co/LuVhzS7XOC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2100422109168349185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYyx59bMAEGdss.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100422109168349185"
+          ],
+          "media_source_tweet_id": [
+            "2100422120673337690"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2100478043211104281",
+        "created_at": "2026-09-17T06:52:45.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T07:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100478043211104281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2100135560585302016",
+              "start": 3,
+              "username": "MacArthurLegend"
+            },
+            {
+              "end": 37,
+              "id": "1857379373663256576",
+              "start": 21,
+              "username": "HomuraVera44731"
+            },
+            {
+              "end": 53,
+              "id": "1889764595796934656",
+              "start": 38,
+              "username": "FemboyArtworks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LuVhzS7XOC",
+              "end": 111,
+              "expanded_url": "https://x.com/MacArthurLegend/status/2100422120673337690/photo/1",
+              "media_key": "3_2100422109168349185",
+              "start": 88,
+              "url": "https://t.co/LuVhzS7XOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100478043211104281",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2100422109168349185"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100422120673337690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MacArthurLegend: @HomuraVera44731 @FemboyArtworks She is also a Britain Fascist fan https://t.co/LuVhzS7XOC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100422109168349185"
+          ]
+        },
+        "author_id": "2100135560585302016",
+        "conversation_id": "2100344496324063322",
+        "created_at": "2026-09-17T03:10:32.000Z",
+        "display_text_range": [
+          33,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100422120673337690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1857379373663256576",
+              "start": 0,
+              "username": "HomuraVera44731"
+            },
+            {
+              "end": 32,
+              "id": "1889764595796934656",
+              "start": 17,
+              "username": "FemboyArtworks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LuVhzS7XOC",
+              "end": 90,
+              "expanded_url": "https://x.com/MacArthurLegend/status/2100422120673337690/photo/1",
+              "media_key": "3_2100422109168349185",
+              "start": 67,
+              "url": "https://t.co/LuVhzS7XOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100422120673337690",
+        "in_reply_to_user_id": "1857379373663256576",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2100422109168349185"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100414668976099524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HomuraVera44731 @FemboyArtworks She is also a Britain Fascist fan https://t.co/LuVhzS7XOC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n介尔景福，介尔昭明，猗欤缉熙，允怀多福。\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 72,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2100478043211104281",
+        "name": "小餅思定",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 1512,
+          "like_count": 11965,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3714
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-16T08:12:25.000Z",
+        "description": "i'm a legend and sekaifan ragebaiter",
+        "id": "2100135560585302016",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100475892808192186",
+        "name": "MacArthur Legend",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100136043714682880/jTBXBT5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "MacArthurLegend",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-15T11:05:50.000Z",
+        "description": "",
+        "id": "1857379373663256576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100414668976099524",
+        "name": "Kaedeeh",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857379373663256576/1788133253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100405456552267776/5BNJ8sGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "HomuraVera44731",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-02-12T19:52:53.000Z",
+        "description": "Posts femboy artwork, memes, cosplay, etc.\nDisclaimer: this account is automated. Follow the link in the replies to find the original source for the artworks.",
+        "id": "1889764595796934656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100444352468160646",
+        "name": "Femboy Artworks",
+        "pinned_tweet_id": "1944376809358827968",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062355511203205121/oBWU6cIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50613,
+          "following_count": 629,
+          "like_count": 13019,
+          "listed_count": 77,
+          "media_count": 4784,
+          "tweet_count": 11486
+        },
+        "url": "",
+        "username": "FemboyArtworks",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

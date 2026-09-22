@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2096640070409478445",
+    "created_at": "2026-09-06T16:42:01.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T17:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096640070409478445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tatibana_sada/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/tatibana_sada/status/2096636171422220429",
+          "start": 20,
+          "url": "https://t.co/DgidTQTcQr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096640070409478445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096636171422220429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "介尔景福，介尔昭明，猗欤缉熙，允怀多福 https://t.co/DgidTQTcQr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2096640070409478445",
+        "created_at": "2026-09-06T16:42:01.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096640070409478445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatibana_sada/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/tatibana_sada/status/2096636171422220429",
+              "start": 20,
+              "url": "https://t.co/DgidTQTcQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096640070409478445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096636171422220429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "介尔景福，介尔昭明，猗欤缉熙，允怀多福 https://t.co/DgidTQTcQr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2096636171422220429",
+        "created_at": "2026-09-06T16:26:31.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096636171422220429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096636171422220429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既然有承诺，就应当勉励精神。如果不记得了的话可能会让你吃惊，但是我现在也不相信有额外的力气去打破承诺了，那也可能只能很抱歉了。所谓承诺说不定也只是止损的说辞吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n往时辽东有豕，生子白头，异而献之。行至河东，见群豕皆白，怀惭而还。\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2096640070409478445",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 1516,
+          "like_count": 11743,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3679
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2096300760388804753",
+    "created_at": "2026-09-05T18:13:43.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T19:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096300760388804753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MasaoYamato001…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/MasaoYamato001/status/2096294406446018857",
+          "start": 93,
+          "url": "https://t.co/YpgeYZgED9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096300760388804753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096294406446018857",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然我不知道你们在干啥，但是「不要妄圖用幼稚的梗圖來跟我們的逆統戰對抗」真的给我抠出三室一厅了。感觉像那种初中小屁孩在网上瞎骂然后说我背后的靠山可是很大的，是个几百人的群的群主那样尬。 https://t.co/YpgeYZgED9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1141,
+        "media_key": "3_2096294360484909056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HReInT1bkAAnULm.jpg",
+        "width": 1378
+      },
+      {
+        "height": 1376,
+        "media_key": "3_2096294389551341568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HReIpAHaIAAJSjR.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2096300760388804753",
+        "created_at": "2026-09-05T18:13:43.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T19:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096300760388804753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MasaoYamato001…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/MasaoYamato001/status/2096294406446018857",
+              "start": 93,
+              "url": "https://t.co/YpgeYZgED9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096300760388804753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096294406446018857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我不知道你们在干啥，但是「不要妄圖用幼稚的梗圖來跟我們的逆統戰對抗」真的给我抠出三室一厅了。感觉像那种初中小屁孩在网上瞎骂然后说我背后的靠山可是很大的，是个几百人的群的群主那样尬。 https://t.co/YpgeYZgED9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096294360484909056",
+            "3_2096294389551341568"
+          ]
+        },
+        "author_id": "1621876953619001344",
+        "conversation_id": "2096294406446018857",
+        "created_at": "2026-09-05T17:48:28.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096294406446018857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 66,
+              "id": "4313176880",
+              "start": 56,
+              "username": "fake_fuji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n17U8HdwUy",
+              "end": 171,
+              "expanded_url": "https://x.com/MasaoYamato001/status/2096294406446018857/photo/1",
+              "media_key": "3_2096294360484909056",
+              "start": 148,
+              "url": "https://t.co/n17U8HdwUy"
+            },
+            {
+              "display_url": "pic.x.com/n17U8HdwUy",
+              "end": 171,
+              "expanded_url": "https://x.com/MasaoYamato001/status/2096294406446018857/photo/1",
+              "media_key": "3_2096294389551341568",
+              "start": 148,
+              "url": "https://t.co/n17U8HdwUy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096294406446018857",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096294360484909056"
+          },
+          {
+            "media_key": "3_2096294389551341568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "鬼仔藤發的搞笑漫畫假扮受害者試圖醜化我們的逆統戰\n🤣😂😆\n沒關係，統戰漫畫不配上逆統戰海報，這怎麼可以呢鬼仔？\n@fake_fuji \n不要妄圖用幼稚的梗圖來跟我們的逆統戰對抗，奶茶大小姐給我的這幅畫比你這張卡通畫準確多了😆😂🤣\n只要你敢發一次統戰文，我們就逆統戰一次，直到你無法說話為止🤣😂😆 https://t.co/n17U8HdwUy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n往时辽东有豕，生子白头，异而献之。行至河东，见群豕皆白，怀惭而还。\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2096300760388804753",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 1515,
+          "like_count": 11714,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3676
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-04T14:23:46.000Z",
+        "description": "台湾の魂、大和の魂、中国の卑しい動物を排除することが私の使命です。すべての中国人は死ななければなりません、台湾万歳！ 大日本帝国万歳！\n一代目：@YamatoArmy01（已陣亡）\n一生守護大小姐：@Shirasu8964228\n🇯🇵🤜🇨🇳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "YamatoArmy01"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "Shirasu8964228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/Q9GvMsn5",
+                "end": 23,
+                "expanded_url": "https://discord.gg/Q9GvMsn5",
+                "start": 0,
+                "url": "https://t.co/p5KsaRtLYX"
+              }
+            ]
+          }
+        },
+        "id": "1621876953619001344",
+        "is_identity_verified": false,
+        "location": "大日本帝國高雄州",
+        "most_recent_tweet_id": "2096294406446018857",
+        "name": "大日本帝國台灣總督府",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1621876953619001344/1725764736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832616252516478976/zATzUtq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 358,
+          "like_count": 1492,
+          "listed_count": 5,
+          "media_count": 403,
+          "tweet_count": 1314
+        },
+        "url": "https://t.co/p5KsaRtLYX",
+        "username": "MasaoYamato001",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

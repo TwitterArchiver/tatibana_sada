@@ -1,0 +1,576 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Kendrick Lamar",
+          "id": "807285677863759872",
+          "name": "Kendrick Lamar"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Kendrick Lamar",
+          "id": "807285677863759872",
+          "name": "Kendrick Lamar"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Kendrick Lamar",
+          "id": "807285677863759872",
+          "name": "Kendrick Lamar"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "2095534564110479631",
+    "created_at": "2026-09-03T15:29:07.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095534564110479631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WordFromKdot/s…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/WordFromKdot/status/2094719296844775497",
+          "start": 47,
+          "url": "https://t.co/1dt7Hknut7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095534564110479631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094719296844775497",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "韩国人正在主动承接西海岸尼哥的小丑生态位。事已至此，必须开除韩国人的东亚籍了，不然太丢脸了。 https://t.co/1dt7Hknut7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 196046,
+        "height": 1080,
+        "media_key": "13_2094718790143451137",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094718790143451137/img/u9CdZJVwwwgXCpgZ.jpg",
+        "public_metrics": {
+          "view_count": 8747092
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094718790143451137/vid/avc1/480x270/MROnzD3KSLiAxJEb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094718790143451137/pl/xBT9s0yTPNXMaTdC.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094718790143451137/vid/avc1/1280x720/rvKhuS--S5HkvzZp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094718790143451137/vid/avc1/640x360/CLt3JNRO1tIUNhvV.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094718790143451137/vid/avc1/1920x1080/cSjOl3D_HjfPN23G.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kendrick Lamar",
+              "id": "807285677863759872",
+              "name": "Kendrick Lamar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Kendrick Lamar",
+              "id": "807285677863759872",
+              "name": "Kendrick Lamar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kendrick Lamar",
+              "id": "807285677863759872",
+              "name": "Kendrick Lamar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2095534564110479631",
+        "created_at": "2026-09-03T15:29:07.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095534564110479631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WordFromKdot/s…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/WordFromKdot/status/2094719296844775497",
+              "start": 47,
+              "url": "https://t.co/1dt7Hknut7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095534564110479631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094719296844775497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "韩国人正在主动承接西海岸尼哥的小丑生态位。事已至此，必须开除韩国人的东亚籍了，不然太丢脸了。 https://t.co/1dt7Hknut7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094718790143451137"
+          ]
+        },
+        "author_id": "1707561334361976832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kendrick Lamar",
+              "id": "807285677863759872",
+              "name": "Kendrick Lamar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Kendrick Lamar",
+              "id": "807285677863759872",
+              "name": "Kendrick Lamar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kendrick Lamar",
+              "id": "807285677863759872",
+              "name": "Kendrick Lamar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2094719296844775497",
+        "created_at": "2026-09-01T09:29:33.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T10:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094719296844775497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0qq9CDA45d",
+              "end": 100,
+              "expanded_url": "https://x.com/WordFromKdot/status/2094719296844775497/video/1",
+              "media_key": "13_2094718790143451137",
+              "start": 77,
+              "url": "https://t.co/0qq9CDA45d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094719296844775497",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2094718790143451137"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12890,
+          "impression_count": 26809643,
+          "like_count": 45767,
+          "quote_count": 4298,
+          "reply_count": 1019,
+          "retweet_count": 3849
+        },
+        "reply_settings": "everyone",
+        "text": "South Korean Air Force covers Kendrick Lamar's \"Not Like Us\" and \"tv off\" 🇰🇷 https://t.co/0qq9CDA45d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n往时辽东有豕，生子白头，异而献之。行至河东，见群豕皆白，怀惭而还。\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2095534564110479631",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 1514,
+          "like_count": 11674,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3670
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T01:02:15.000Z",
+        "description": "Official @KendrickLamar Lyric & Quote Page\nThe impact. Fan stories. Real moments.\n\n📩 WordFromKdot@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "KendrickLamar"
+              }
+            ]
+          }
+        },
+        "id": "1707561334361976832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095113910734962724",
+        "name": "kendrick Lyrics",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707561334361976832/1780552499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812521761444941824/3fsMP-fD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77202,
+          "following_count": 146,
+          "like_count": 2396,
+          "listed_count": 58,
+          "media_count": 4651,
+          "tweet_count": 6244
+        },
+        "url": "",
+        "username": "WordFromKdot",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1828102132739801088",
+          "name": "2024 US Presidential Debate 2"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      }
+    ],
+    "conversation_id": "2100628170789826844",
+    "created_at": "2026-09-17T16:49:18.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T17:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100628170789826844"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GarbageHuman24…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/GarbageHuman24/status/2100375573214437753",
+          "start": 34,
+          "url": "https://t.co/BvCHI5D3wY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100628170789826844",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100375573214437753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Plot twist abdul is his boyfriend https://t.co/BvCHI5D3wY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1958,
+        "media_key": "3_2100375563508862976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYIcl3bUAAyvU_.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1828102132739801088",
+              "name": "2024 US Presidential Debate 2"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          }
+        ],
+        "conversation_id": "2100628170789826844",
+        "created_at": "2026-09-17T16:49:18.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100628170789826844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GarbageHuman24…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/GarbageHuman24/status/2100375573214437753",
+              "start": 34,
+              "url": "https://t.co/BvCHI5D3wY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100628170789826844",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100375573214437753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Plot twist abdul is his boyfriend https://t.co/BvCHI5D3wY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100375563508862976"
+          ]
+        },
+        "author_id": "973471717937967104",
+        "conversation_id": "2100375573214437753",
+        "created_at": "2026-09-17T00:05:34.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100375573214437753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FfRk6lg4sE",
+              "end": 23,
+              "expanded_url": "https://x.com/GarbageHuman24/status/2100375573214437753/photo/1",
+              "media_key": "3_2100375563508862976",
+              "start": 0,
+              "url": "https://t.co/FfRk6lg4sE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100375573214437753",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100375563508862976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 439,
+          "impression_count": 179664,
+          "like_count": 23404,
+          "quote_count": 14,
+          "reply_count": 57,
+          "retweet_count": 835
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FfRk6lg4sE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n介尔景福，介尔昭明，猗欤缉熙，允怀多福。\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 72,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2100628170789826844",
+        "name": "小餅思定",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 1512,
+          "like_count": 11978,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3719
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-03-13T08:11:58.000Z",
+        "description": "Monitoring and documenting the collapse in real time",
+        "id": "973471717937967104",
+        "is_identity_verified": false,
+        "location": "Perth, Western Australia",
+        "most_recent_tweet_id": "2100588679953854849",
+        "name": "Garbage Human",
+        "pinned_tweet_id": "2085357105457070116",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/973471717937967104/1753694085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803201277633163264/7aC4RYIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457418,
+          "following_count": 981,
+          "like_count": 17243,
+          "listed_count": 1295,
+          "media_count": 18748,
+          "tweet_count": 28181
+        },
+        "url": "",
+        "username": "GarbageHuman24",
+        "verified": true,
+        "verified_type": "blue",
+        "withheld": {
+          "country_codes": [
+            "IN"
+          ]
+        }
+      }
+    ]
+  }
+}

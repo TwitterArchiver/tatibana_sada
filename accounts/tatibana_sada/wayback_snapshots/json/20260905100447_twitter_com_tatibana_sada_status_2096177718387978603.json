@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2096177718387978603",
+    "created_at": "2026-09-05T10:04:47.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096177718387978603"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XZdRbRugCrJNzR…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/XZdRbRugCrJNzRD/status/2095771504197992678",
+          "start": 141,
+          "url": "https://t.co/L0Cg4tnlZo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096177718387978603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095771504197992678",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这倒真算事实。虽然评论区很跳脚，但是average集美的trigger点会很小，那种黏黏腻腻，因为很小的事情就记恨或者喜爱，分不清大小的那种。而相对男性就是，大的，也就是根本利益冲突了，小的怎么样缓和也没用，大的不冲突，小的你只需要说句软话就还是好兄弟，还得请你顿烧烤好好喝几口。 https://t.co/L0Cg4tnlZo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 533,
+        "media_key": "3_2095771494026813440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWtEefboAAS-jx.jpg",
+        "width": 809
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2096177718387978603",
+        "created_at": "2026-09-05T10:04:47.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096177718387978603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XZdRbRugCrJNzR…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/XZdRbRugCrJNzRD/status/2095771504197992678",
+              "start": 141,
+              "url": "https://t.co/L0Cg4tnlZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096177718387978603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095771504197992678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这倒真算事实。虽然评论区很跳脚，但是average集美的trigger点会很小，那种黏黏腻腻，因为很小的事情就记恨或者喜爱，分不清大小的那种。而相对男性就是，大的，也就是根本利益冲突了，小的怎么样缓和也没用，大的不冲突，小的你只需要说句软话就还是好兄弟，还得请你顿烧烤好好喝几口。 https://t.co/L0Cg4tnlZo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095771494026813440"
+          ]
+        },
+        "author_id": "1609183710330630145",
+        "conversation_id": "2095771504197992678",
+        "created_at": "2026-09-04T07:10:38.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095771504197992678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h4IE8feM3z",
+              "end": 48,
+              "expanded_url": "https://x.com/XZdRbRugCrJNzRD/status/2095771504197992678/photo/1",
+              "media_key": "3_2095771494026813440",
+              "start": 25,
+              "url": "https://t.co/h4IE8feM3z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095771504197992678",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095771494026813440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 83703,
+          "like_count": 2517,
+          "quote_count": 13,
+          "reply_count": 377,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "每隔一段时间和这种顺顺对话感觉大脑褶皱都被抚平了 https://t.co/h4IE8feM3z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n往时辽东有豕，生子白头，异而献之。行至河东，见群豕皆白，怀惭而还。\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2096177718387978603",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 1514,
+          "like_count": 11694,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3672
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-31T13:45:12.000Z",
+        "description": "脑子不好，抑郁症，智力低下",
+        "id": "1609183710330630145",
+        "is_identity_verified": false,
+        "location": "unknown",
+        "most_recent_tweet_id": "2096166583458828765",
+        "name": ".942",
+        "pinned_tweet_id": "2095494751260934507",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609183710330630145/1776523119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059314305045270528/dfVEkO0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 835,
+          "like_count": 21146,
+          "listed_count": 1,
+          "media_count": 723,
+          "tweet_count": 9190
+        },
+        "url": "",
+        "username": "XZdRbRugCrJNzRD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

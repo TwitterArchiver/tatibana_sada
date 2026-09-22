@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096730997236830208"
+      ],
+      "media_source_tweet_id": [
+        "2096731158029775162"
+      ]
+    },
+    "author_id": "1707741005490049024",
+    "conversation_id": "2096821129537314967",
+    "created_at": "2026-09-07T04:41:28.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096821129537314967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991715418994851840",
+          "start": 3,
+          "username": "comibawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BAggNVPOVa",
+          "end": 101,
+          "expanded_url": "https://x.com/comibawa/status/2096731158029775162/photo/1",
+          "media_key": "3_2096730997236830208",
+          "start": 78,
+          "url": "https://t.co/BAggNVPOVa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096821129537314967",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2096730997236830208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096731158029775162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @comibawa: and rightly so, you're a horrible bitch and you deserve nothing https://t.co/BAggNVPOVa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 359,
+        "media_key": "3_2096730997236830208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkVu6faEAAzoSG.png",
+        "width": 877
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096730997236830208"
+          ],
+          "media_source_tweet_id": [
+            "2096731158029775162"
+          ]
+        },
+        "author_id": "1707741005490049024",
+        "conversation_id": "2096821129537314967",
+        "created_at": "2026-09-07T04:41:28.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096821129537314967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991715418994851840",
+              "start": 3,
+              "username": "comibawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BAggNVPOVa",
+              "end": 101,
+              "expanded_url": "https://x.com/comibawa/status/2096731158029775162/photo/1",
+              "media_key": "3_2096730997236830208",
+              "start": 78,
+              "url": "https://t.co/BAggNVPOVa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096821129537314967",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096730997236830208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096731158029775162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @comibawa: and rightly so, you're a horrible bitch and you deserve nothing https://t.co/BAggNVPOVa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096730997236830208"
+          ]
+        },
+        "author_id": "1991715418994851840",
+        "conversation_id": "2096731158029775162",
+        "created_at": "2026-09-06T22:43:58.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096731158029775162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BAggNVPOVa",
+              "end": 87,
+              "expanded_url": "https://x.com/comibawa/status/2096731158029775162/photo/1",
+              "media_key": "3_2096730997236830208",
+              "start": 64,
+              "url": "https://t.co/BAggNVPOVa"
+            },
+            {
+              "display_url": "x.com/AdolphsonFalkk…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/AdolphsonFalkk/status/2096487112036012459",
+              "start": 88,
+              "url": "https://t.co/mtnko1krvD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096731158029775162",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096730997236830208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 96521,
+          "like_count": 5016,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096487112036012459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "and rightly so, you're a horrible bitch and you deserve nothing https://t.co/BAggNVPOVa https://t.co/mtnko1krvD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n介尔景福，介尔昭明，猗欤缉熙，允怀多福。\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 72,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2096821129537314967",
+        "name": "小餅思定",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 1515,
+          "like_count": 11748,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3679
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:49:42.000Z",
+        "description": "",
+        "id": "1991715418994851840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096770302478807415",
+        "name": "cosmic",
+        "pinned_tweet_id": "2094804682908819939",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991715418994851840/1780393596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061745565663428608/Wwc9RoIu_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 503,
+          "like_count": 5392,
+          "listed_count": 6,
+          "media_count": 199,
+          "tweet_count": 1231
+        },
+        "url": "",
+        "username": "comibawa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

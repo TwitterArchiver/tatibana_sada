@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2100368507049595143",
+    "created_at": "2026-09-16T23:37:29.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T00:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100368507049595143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "985193666552541185",
+          "start": 3,
+          "username": "RemoteHittite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100368507049595143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100075210938765502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RemoteHittite: 我服了，我的这个翻译里为什么会出现“每个大支那狗的末日到了！”，差点以为刷出来一个以色列支黑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2100368507049595143",
+        "created_at": "2026-09-16T23:37:29.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T00:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100368507049595143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "985193666552541185",
+              "start": 3,
+              "username": "RemoteHittite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100368507049595143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100075210938765502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RemoteHittite: 我服了，我的这个翻译里为什么会出现“每个大支那狗的末日到了！”，差点以为刷出来一个以色列支黑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "985193666552541185",
+        "conversation_id": "2100075210938765502",
+        "created_at": "2026-09-16T04:12:02.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100075210938765502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YosephHaddad/s…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/YosephHaddad/status/2099966250600353843",
+              "start": 48,
+              "url": "https://t.co/eoHXM7Z0tr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100075210938765502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 29883,
+          "like_count": 266,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099966250600353843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我服了，我的这个翻译里为什么会出现“每个大支那狗的末日到了！”，差点以为刷出来一个以色列支黑了 https://t.co/eoHXM7Z0tr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n介尔景福，介尔昭明，猗欤缉熙，允怀多福。\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 72,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2100368507049595143",
+        "name": "小餅思定",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 1512,
+          "like_count": 11960,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3713
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-14T16:30:48.000Z",
+        "description": "加速主义者。",
+        "id": "985193666552541185",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100247458865643782",
+        "name": "RemoteCos🇺🇦",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1064077820962332672/MC1TY3Fs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 399,
+          "like_count": 15184,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 9986
+        },
+        "url": "",
+        "username": "RemoteHittite",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

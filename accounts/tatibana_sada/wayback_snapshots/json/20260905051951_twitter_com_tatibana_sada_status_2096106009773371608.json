@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2096106009773371608",
+    "created_at": "2026-09-05T05:19:51.000Z",
+    "display_text_range": [
+      0,
+      150
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T06:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096106009773371608"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smokeHead01/st…",
+          "end": 174,
+          "expanded_url": "https://twitter.com/smokeHead01/status/2095967238255947886",
+          "start": 151,
+          "url": "https://t.co/ZcxwKzbHgT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096106009773371608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095967238255947886",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如此一来只能当作恐怖分子论处了。\n问题不再是父权，而是吞噬性母亲。那种你是我身上掉下来的一块肉，我对你拥有绝对的处置权的语境。这在个体上可以说是一种病态的关系和情感，但是意识形态化了就是恐怖分子，婴儿lives matter。Lindsay的支持者是国内那些杀杀杀的激女文学爱好者的同系物。社会公敌。 https://t.co/ZcxwKzbHgT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2096106009773371608",
+        "created_at": "2026-09-05T05:19:51.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096106009773371608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smokeHead01/st…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/smokeHead01/status/2095967238255947886",
+              "start": 151,
+              "url": "https://t.co/ZcxwKzbHgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096106009773371608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095967238255947886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如此一来只能当作恐怖分子论处了。\n问题不再是父权，而是吞噬性母亲。那种你是我身上掉下来的一块肉，我对你拥有绝对的处置权的语境。这在个体上可以说是一种病态的关系和情感，但是意识形态化了就是恐怖分子，婴儿lives matter。Lindsay的支持者是国内那些杀杀杀的激女文学爱好者的同系物。社会公敌。 https://t.co/ZcxwKzbHgT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "373883202",
+        "conversation_id": "2095967238255947886",
+        "created_at": "2026-09-04T20:08:25.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T21:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095967238255947886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y_talkroom/sta…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/y_talkroom/status/2095602734909288607",
+              "start": 125,
+              "url": "https://t.co/TI6P2FxEeZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095967238255947886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4221,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095602734909288607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果从政治权就是杀人权 权力必以暴力为基础的角度来看 女权想独立于父权体系之外 就必须行使暴力 由于女性本身生理上的限制 其暴力行使对象只能是未出生或刚出生的婴儿 视频中所做其实是堕胎权的延申 既然能杀死足月婴儿 杀死刚出生的婴儿与前者并无本质区别 https://t.co/TI6P2FxEeZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n往时辽东有豕，生子白头，异而献之。行至河东，见群豕皆白，怀惭而还。\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2096106009773371608",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 1515,
+          "like_count": 11684,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3670
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-09-15T10:21:11.000Z",
+        "description": "没人能逃脱自己给自己下达的判决。 锁推必ban🇺🇸",
+        "id": "373883202",
+        "is_identity_verified": false,
+        "location": "Senatus Populusque Americanus",
+        "most_recent_tweet_id": "2096076803932913676",
+        "name": "smokeHead",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/373883202/1461782645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1249966074583367681/FwMPjYNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 472,
+          "like_count": 18363,
+          "listed_count": 21,
+          "media_count": 1290,
+          "tweet_count": 12941
+        },
+        "url": "",
+        "username": "smokeHead01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

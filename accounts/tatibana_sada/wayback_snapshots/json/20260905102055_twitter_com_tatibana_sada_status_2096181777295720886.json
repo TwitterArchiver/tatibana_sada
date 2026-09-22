@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Illinois",
+          "id": "1004437399626080256",
+          "name": "Illinois"
+        }
+      }
+    ],
+    "conversation_id": "2096181777295720886",
+    "created_at": "2026-09-05T10:20:55.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096181777295720886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CollinRugg/sta…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/CollinRugg/status/2095972043410047023",
+          "start": 140,
+          "url": "https://t.co/mX7Q7i2mkI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096181777295720886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095972043410047023",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这真的有点骇人听闻了。\n看起来老中的杀婴激女这次当了先遣服。打法铺开还是看阿美。这有更大的动能也会激起更大的阻力。这要是铺开怎么办？只能是：杀婴恐怖分子已经崛起，亿万洋人男性必须剥夺女性人权，，，老实说就算是效仿吉哈德炸什么大楼也不会这么恶劣，杀婴儿就不行了，得按恐怖分子论处。 https://t.co/mX7Q7i2mkI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26133,
+        "height": 1080,
+        "media_key": "13_2095971992327634944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095971992327634944/img/WsYDSRm0IURMXTu6.jpg",
+        "public_metrics": {
+          "view_count": 3190740
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095971992327634944/vid/avc1/320x320/4XMTd6ZW58OziYvl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095971992327634944/pl/B4zghACqoGcj9cKO.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095971992327634944/vid/avc1/720x720/X7NA1IDc0kACa4mo.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095971992327634944/vid/avc1/540x540/Se_ZwlIMcMAjlAOB.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095971992327634944/vid/avc1/1080x1080/EdcmOiOiTIRhO6AJ.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Illinois",
+              "id": "1004437399626080256",
+              "name": "Illinois"
+            }
+          }
+        ],
+        "conversation_id": "2096181777295720886",
+        "created_at": "2026-09-05T10:20:55.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096181777295720886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CollinRugg/sta…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/CollinRugg/status/2095972043410047023",
+              "start": 140,
+              "url": "https://t.co/mX7Q7i2mkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096181777295720886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095972043410047023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这真的有点骇人听闻了。\n看起来老中的杀婴激女这次当了先遣服。打法铺开还是看阿美。这有更大的动能也会激起更大的阻力。这要是铺开怎么办？只能是：杀婴恐怖分子已经崛起，亿万洋人男性必须剥夺女性人权，，，老实说就算是效仿吉哈德炸什么大楼也不会这么恶劣，杀婴儿就不行了，得按恐怖分子论处。 https://t.co/mX7Q7i2mkI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095971992327634944"
+          ]
+        },
+        "author_id": "890061634181373952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Illinois",
+              "id": "1004437399626080256",
+              "name": "Illinois"
+            }
+          }
+        ],
+        "conversation_id": "2095972043410047023",
+        "created_at": "2026-09-04T20:27:31.000Z",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T21:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095972043410047023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eMWfhD2Orp",
+              "end": 298,
+              "expanded_url": "https://x.com/CollinRugg/status/2095972043410047023/video/1",
+              "media_key": "13_2095971992327634944",
+              "start": 275,
+              "url": "https://t.co/eMWfhD2Orp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095972043410047023",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095971992327634944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Illinois woman who was “very interested” in the Lindsay Clancy trial, allegedly hanged her 2 year old child from the rafters in the basement of her $1M home.\n\n2-year-old Barrett Walsh was found hanging with his feet off the ground.\n\nHis mother, Corie Walsh, immediately told investigators she thought he was the “devil” and the “anti-Christ.”\n\nOne witness says Walsh was “very interested” with the Clancy trial.\n\nAbsolutely horrific. The female true crime cult has their new hero."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4496,
+          "impression_count": 5349871,
+          "like_count": 34145,
+          "quote_count": 1574,
+          "reply_count": 2550,
+          "retweet_count": 8746
+        },
+        "reply_settings": "everyone",
+        "text": "Illinois woman who was “very interested” in the Lindsay Clancy trial, allegedly hanged her 2 year old child from the rafters in the basement of her $1M home.\n\n2-year-old Barrett Walsh was found hanging with his feet off the ground.\n\nHis mother, Corie Walsh, immediately told https://t.co/eMWfhD2Orp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n往时辽东有豕，生子白头，异而献之。行至河东，见群豕皆白，怀惭而还。\n//@CaramelAster00 虯龍鸞鳳，以託君子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2096181777295720886",
+        "name": "小橘春定（求愛性孤独）",
+        "pinned_tweet_id": "2088702392909095095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 1514,
+          "like_count": 11694,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 3673
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-07-26T04:10:04.000Z",
+        "description": "Co-Owner of Trending Politics | Investor | American 🇺🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "trendingpoliticsnews.com",
+                "end": 23,
+                "expanded_url": "https://trendingpoliticsnews.com",
+                "start": 0,
+                "url": "https://t.co/MbpH1fNere"
+              }
+            ]
+          }
+        },
+        "id": "890061634181373952",
+        "is_identity_verified": true,
+        "location": "United States",
+        "most_recent_tweet_id": "2096034465902694909",
+        "name": "Collin Rugg",
+        "pinned_tweet_id": "1965879334322987478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/890061634181373952/1613522799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325087660428447746/4DL2iq76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2877972,
+          "following_count": 872,
+          "like_count": 13321,
+          "listed_count": 6025,
+          "media_count": 12429,
+          "tweet_count": 36583
+        },
+        "url": "https://t.co/MbpH1fNere",
+        "username": "CollinRugg",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
