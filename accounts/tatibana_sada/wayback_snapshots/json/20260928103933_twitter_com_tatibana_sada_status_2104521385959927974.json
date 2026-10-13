@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2104521385959927974",
+    "created_at": "2026-09-28T10:39:33.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104521385959927974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FarmdickJokes/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/FarmdickJokes/status/2104518510315499645",
+          "start": 24,
+          "url": "https://t.co/ZST2JcV5pK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104521385959927974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104518510315499645",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操死你，你就是一个劣等的支那猪，我要让你怀孕 https://t.co/ZST2JcV5pK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2104521385959927974",
+        "created_at": "2026-09-28T10:39:33.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104521385959927974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FarmdickJokes/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/FarmdickJokes/status/2104518510315499645",
+              "start": 24,
+              "url": "https://t.co/ZST2JcV5pK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104521385959927974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104518510315499645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操死你，你就是一个劣等的支那猪，我要让你怀孕 https://t.co/ZST2JcV5pK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088779835841888256",
+        "conversation_id": "2104516829582606366",
+        "created_at": "2026-09-28T10:28:07.000Z",
+        "display_text_range": [
+          15,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104518510315499645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707741005490049024",
+              "start": 0,
+              "username": "tatibana_sada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104518510315499645",
+        "in_reply_to_user_id": "1707741005490049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104516829582606366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatibana_sada ？我靠，你這是在罵U尊師嗎，如果真是這樣的話那老子就不跟你吵了，老子真得謝謝你替老子出頭😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n介尔景福，介尔昭明，猗欤缉熙，允怀多福。\n//虯龍鸞鳳，以託君子 @CaramelAster00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2104521385959927974",
+        "name": "小餅思定",
+        "pinned_tweet_id": "2100962988446675262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 1523,
+          "like_count": 12141,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 3747
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T00:08:56.000Z",
+        "description": "採獵-遊牧遊俠男性主義，無集權、無壟斷性情感關係、無男女分責雄競女德制的原始共產主義社群你值得擁有，農屌雄競順直公畜和農屄寄生順直母畜最嚴厲的父親 | 秩序消費者形態：@Lucius_Serius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Lucius_Serius"
+              }
+            ]
+          }
+        },
+        "id": "2088779835841888256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104518510315499645",
+        "name": "農屌笑話社 🐺🦅🦉（🚫：🐵🐷🐗）",
+        "pinned_tweet_id": "2092491596545573002",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088779835841888256/1787019123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089535752669700096/gELsXjYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 34,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "FarmdickJokes",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

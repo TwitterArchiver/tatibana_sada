@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2104283732685496339",
+    "created_at": "2026-09-27T18:55:12.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T19:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104283732685496339"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/blackSbullet/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/blackSbullet/status/2104096440071135512",
+          "start": 6,
+          "url": "https://t.co/xiy1D2pM92"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104283732685496339",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104096440071135512",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "集美一思考 https://t.co/xiy1D2pM92"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2104283732685496339",
+        "created_at": "2026-09-27T18:55:12.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104283732685496339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blackSbullet/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/blackSbullet/status/2104096440071135512",
+              "start": 6,
+              "url": "https://t.co/xiy1D2pM92"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104283732685496339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104096440071135512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "集美一思考 https://t.co/xiy1D2pM92"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450676883629096960",
+        "conversation_id": "2104096440071135512",
+        "created_at": "2026-09-27T06:30:58.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T07:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104096440071135512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104096440071135512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4059,
+          "like_count": 136,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "男人总拿动物世界说事，实际上动物世界正因为没有男权搞出来的这些法律，纯粹弱肉强食看实力，所以雌性说了算。男权社会的法律是为了保护男性而存在的。都搞出男权社会了，怎么可能会设立对自己无利的规则？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n介尔景福，介尔昭明，猗欤缉熙，允怀多福。\n//虯龍鸞鳳，以託君子 @CaramelAster00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2104283732685496339",
+        "name": "小餅思定",
+        "pinned_tweet_id": "2100962988446675262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 1518,
+          "like_count": 12113,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3734
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-20T04:15:30.000Z",
+        "description": "所有疑问都在以前的推里写了，自己翻答案。看不懂是你的问题。至于傻到一定程度的杠精，被我损被我屏蔽被我无视您也别急，不针对您的言论内容，只是本人不想和蟑螂有交集",
+        "id": "1450676883629096960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104102813425074618",
+        "name": "bu lle t",
+        "pinned_tweet_id": "1642406476743585795",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1450676883629096960/1636005585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456136218086109184/UGxLiHix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 1,
+          "like_count": 5070,
+          "listed_count": 5,
+          "media_count": 17,
+          "tweet_count": 3962
+        },
+        "url": "",
+        "username": "blackSbullet",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2104272937092305005",
+    "created_at": "2026-09-27T18:12:18.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T19:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104272937092305005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Claudewyi8/sta…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/Claudewyi8/status/2104168788451311752",
+          "start": 67,
+          "url": "https://t.co/Ab5olLbZ2P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104272937092305005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104168788451311752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真没什么好处，但是可以练兵。我相信很多人之前从来没有关心过这件事情，只是对号入座进了男女阵营。而性别斗争又真实存在，所以不打不行啊。 https://t.co/Ab5olLbZ2P"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2104272937092305005",
+        "created_at": "2026-09-27T18:12:18.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104272937092305005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Claudewyi8/sta…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/Claudewyi8/status/2104168788451311752",
+              "start": 67,
+              "url": "https://t.co/Ab5olLbZ2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104272937092305005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104168788451311752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真没什么好处，但是可以练兵。我相信很多人之前从来没有关心过这件事情，只是对号入座进了男女阵营。而性别斗争又真实存在，所以不打不行啊。 https://t.co/Ab5olLbZ2P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095053321690394624",
+        "conversation_id": "2104168788451311752",
+        "created_at": "2026-09-27T11:18:27.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104168788451311752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vincent_ainote…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/vincent_ainotes/status/2103707857464311840",
+              "start": 59,
+              "url": "https://t.co/d6HZWXFdMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104168788451311752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2356,
+          "like_count": 100,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103707857464311840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想问一下，争赢了有什么好处吗？一个就是女性爱好者比较多，另一个就是男性爱好者比较多，这有什么可以争辩的，甚至打厨子 https://t.co/d6HZWXFdMr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n介尔景福，介尔昭明，猗欤缉熙，允怀多福。\n//虯龍鸞鳳，以託君子 @CaramelAster00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2104272937092305005",
+        "name": "小餅思定",
+        "pinned_tweet_id": "2100962988446675262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 1517,
+          "like_count": 12101,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3729
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-02T07:38:34.000Z",
+        "description": "",
+        "id": "2095053321690394624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104234326464626769",
+        "name": "芥末",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095867494020071424/GobgGp8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 18,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "Claudewyi8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

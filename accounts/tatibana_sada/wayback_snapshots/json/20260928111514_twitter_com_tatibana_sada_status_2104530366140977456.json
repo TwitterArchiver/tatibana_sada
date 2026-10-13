@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2104530366140977456",
+    "created_at": "2026-09-28T11:15:14.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T12:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104530366140977456"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kokuralia/stat…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/kokuralia/status/1984996832892883185",
+          "start": 61,
+          "url": "https://t.co/6g1k4Y0DgO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104530366140977456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984996832892883185",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝sry我现在的推特设备没办法回复也没办法私信只能这样但是我有个事情分享给你你见到了回一下我我把我qq号推你就马上删🥹 https://t.co/6g1k4Y0DgO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2104530366140977456",
+        "created_at": "2026-09-28T11:15:14.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104530366140977456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kokuralia/stat…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/kokuralia/status/1984996832892883185",
+              "start": 61,
+              "url": "https://t.co/6g1k4Y0DgO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104530366140977456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984996832892883185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝sry我现在的推特设备没办法回复也没办法私信只能这样但是我有个事情分享给你你见到了回一下我我把我qq号推你就马上删🥹 https://t.co/6g1k4Y0DgO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906297778483150848",
+        "conversation_id": "1984996832892883185",
+        "created_at": "2025-11-02T14:51:39.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2025-11-02T15:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984996832892883185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kokuralia/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/kokuralia/status/1935719238767096312",
+              "start": 34,
+              "url": "https://t.co/PuN3Ypl9N9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984996832892883185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6373,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935719238767096312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本推会掉落以下内容：\n激进观点输出\n涩图转发\n无意义文字\n性瘾发作 https://t.co/PuN3Ypl9N9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n介尔景福，介尔昭明，猗欤缉熙，允怀多福。\n//虯龍鸞鳳，以託君子 @CaramelAster00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2104530366140977456",
+        "name": "小餅思定",
+        "pinned_tweet_id": "2100962988446675262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 1524,
+          "like_count": 12143,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 3749
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T10:49:53.000Z",
+        "description": "FTM跨性别男性/同性浪漫倾向和双性性吸引/尝试关注中推所有transmasc",
+        "id": "1906297778483150848",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2104001926136529225",
+        "name": "Kriemhild_Gretchen💎♂️🏳️‍⚧️",
+        "pinned_tweet_id": "1984996832892883185",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906316722287812609/19sei3cf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 188,
+          "like_count": 10100,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1624
+        },
+        "url": "",
+        "username": "kokuralia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

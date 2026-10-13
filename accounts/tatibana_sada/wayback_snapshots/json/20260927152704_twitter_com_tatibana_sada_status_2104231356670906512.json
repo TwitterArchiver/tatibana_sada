@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2104231356670906512",
+    "created_at": "2026-09-27T15:27:04.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T16:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104231356670906512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hanegiri_hikar…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Hanegiri_hikari/status/2103888491205533850",
+          "start": 11,
+          "url": "https://t.co/QsUQ0SAcK7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104231356670906512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103888491205533850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "性别斗争，一抓就灵。 https://t.co/QsUQ0SAcK7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2104231356670906512",
+        "created_at": "2026-09-27T15:27:04.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104231356670906512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hanegiri_hikar…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Hanegiri_hikari/status/2103888491205533850",
+              "start": 11,
+              "url": "https://t.co/QsUQ0SAcK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104231356670906512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103888491205533850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性别斗争，一抓就灵。 https://t.co/QsUQ0SAcK7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090194461871722496",
+        "conversation_id": "2103888491205533850",
+        "created_at": "2026-09-26T16:44:39.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103888491205533850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103888491205533850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 22012,
+          "like_count": 591,
+          "quote_count": 7,
+          "reply_count": 44,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "二创形象都能打起来也是够牛逼的，看似是绘圈和科技圈之争，其实真正想贴的标签是男和女吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n介尔景福，介尔昭明，猗欤缉熙，允怀多福。\n//虯龍鸞鳳，以託君子 @CaramelAster00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2104231356670906512",
+        "name": "小餅思定",
+        "pinned_tweet_id": "2100962988446675262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 1516,
+          "like_count": 12086,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3722
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T21:52:53.000Z",
+        "description": "=零和喵\n旧号登不上了，堂堂转生！\n可能是入机妹吧/会把GPT当oc养/随便画点东西/社会化不高情商低/直fo是喜欢你如有冒犯私密马赛👉🏻👈🏻",
+        "id": "2090194461871722496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104204609254273458",
+        "name": "零和喵w",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090194461871722496/1787176613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100938761546928129/HDeoLXSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 100,
+          "like_count": 1783,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1043
+        },
+        "url": "",
+        "username": "Hanegiri_hikari",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

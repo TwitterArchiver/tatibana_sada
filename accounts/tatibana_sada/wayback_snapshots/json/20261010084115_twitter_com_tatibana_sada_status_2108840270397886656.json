@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2108840270397886656",
+    "created_at": "2026-10-10T08:41:15.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T09:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108840270397886656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ctct1927/statu…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/ctct1927/status/2108838017221709949",
+          "start": 69,
+          "url": "https://t.co/E7CFeqgeGs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108840270397886656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108838017221709949",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这倒不算啥，英美这条脉络自己也是想承接「日耳曼尼亚森林民的自由苗裔」的。\n不过老实说，感觉像是识别出了「新教西方」，然后用日耳曼来统称。 https://t.co/E7CFeqgeGs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2794,
+        "media_key": "3_2108838011848871936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUQY_6kX0AAQY_q.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2108840270397886656",
+        "created_at": "2026-10-10T08:41:15.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T09:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108840270397886656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ctct1927/statu…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/ctct1927/status/2108838017221709949",
+              "start": 69,
+              "url": "https://t.co/E7CFeqgeGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108840270397886656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108838017221709949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这倒不算啥，英美这条脉络自己也是想承接「日耳曼尼亚森林民的自由苗裔」的。\n不过老实说，感觉像是识别出了「新教西方」，然后用日耳曼来统称。 https://t.co/E7CFeqgeGs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108838011848871936"
+          ]
+        },
+        "author_id": "1293926136645394435",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2108838017221709949",
+        "created_at": "2026-10-10T08:32:18.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T09:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108838017221709949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zoejLFhU42",
+              "end": 89,
+              "expanded_url": "https://x.com/ctct1927/status/2108838017221709949/photo/1",
+              "media_key": "3_2108838011848871936",
+              "start": 66,
+              "url": "https://t.co/zoejLFhU42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108838017221709949",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108838011848871936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到现在都不知道日耳曼赢学到底是什么，于是我检索了一下\n然后Google ai给我的回答让我非常失望。\n英美什么时候变成日耳曼了。 https://t.co/zoejLFhU42"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n介尔景福，介尔昭明，猗欤缉熙，允怀多福。\n//虯龍鸞鳳，以託君子 @CaramelAster00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2108840270397886656",
+        "name": "小餅思定",
+        "pinned_tweet_id": "2100962988446675262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 1534,
+          "like_count": 12377,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 3762
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-13T15:03:35.000Z",
+        "description": "in exile\nDeutsch English Nederlands\n\nRome catholic",
+        "id": "1293926136645394435",
+        "is_identity_verified": false,
+        "location": "Cantonia",
+        "most_recent_tweet_id": "2108838017221709949",
+        "name": "Athanas urbis aquensis",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1293926136645394435/1650377850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923317668704116736/sssIvr0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 1244,
+          "like_count": 21477,
+          "listed_count": 3,
+          "media_count": 4895,
+          "tweet_count": 24263
+        },
+        "url": "",
+        "username": "ctct1927",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

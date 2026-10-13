@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2104281623307161780",
+    "created_at": "2026-09-27T18:46:49.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T19:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104281623307161780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SeaKO117/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/SeaKO117/status/2103949860122861918",
+          "start": 13,
+          "url": "https://t.co/XKFDyenvhV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104281623307161780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103949860122861918",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男的太酷辣，我也要当男的 https://t.co/XKFDyenvhV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2104281623307161780",
+        "created_at": "2026-09-27T18:46:49.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104281623307161780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SeaKO117/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/SeaKO117/status/2103949860122861918",
+              "start": 13,
+              "url": "https://t.co/XKFDyenvhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104281623307161780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103949860122861918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男的太酷辣，我也要当男的 https://t.co/XKFDyenvhV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873046439385022469",
+        "conversation_id": "2103949860122861918",
+        "created_at": "2026-09-26T20:48:30.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T21:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103949860122861918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103949860122861918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4014,
+          "like_count": 281,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男的继续保持高傲吧。吃着AI生成的图片和别人手绘出来的作品还觉得自己很牛，好想这么没脸没皮地活一次啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n介尔景福，介尔昭明，猗欤缉熙，允怀多福。\n//虯龍鸞鳳，以託君子 @CaramelAster00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2104281623307161780",
+        "name": "小餅思定",
+        "pinned_tweet_id": "2100962988446675262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 1518,
+          "like_count": 12107,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3733
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-28T16:41:09.000Z",
+        "description": "你希望我做什么",
+        "id": "1873046439385022469",
+        "is_identity_verified": false,
+        "location": "Sydney, New South Wales",
+        "most_recent_tweet_id": "2104248836260798582",
+        "name": "青天大老爷舟舟资源看片网真的没有月男同",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1873046439385022469/1735404874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024387190827241472/7TyD0yxA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 102,
+          "like_count": 7645,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 366
+        },
+        "url": "",
+        "username": "SeaKO117",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

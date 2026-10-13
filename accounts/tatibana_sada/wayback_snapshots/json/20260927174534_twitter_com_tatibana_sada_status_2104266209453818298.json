@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707741005490049024",
+    "conversation_id": "2104266209453818298",
+    "created_at": "2026-09-27T17:45:34.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T18:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104266209453818298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JohnnnSina/sta…",
+          "end": 151,
+          "expanded_url": "https://twitter.com/JohnnnSina/status/2104131064751169706",
+          "start": 128,
+          "url": "https://t.co/mpn8dzgsgP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104266209453818298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104131064751169706",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实非常集美，，，船货崇拜的符号学空转。\n我们假设一个情景，二战的时候美军在某个太平洋小岛上因为后勤不够只能抽一种劣质烟，烟盒子被土著岛民看到了，然后以为上面的图案是什么神祗，于是美军走了以后天天画这个图想把美军召唤回来。这大概就是集美的心态，符号学空转 https://t.co/mpn8dzgsgP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2104131017124802560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNgAwya8AAMsjT.jpg",
+        "width": 1240
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2104131027363151872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNgBW7bwAA6JdH.jpg",
+        "width": 1376
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2104131041430757376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNgCLVaYAA1Cp2.jpg",
+        "width": 872
+      },
+      {
+        "height": 1774,
+        "media_key": "3_2104131051169984512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNgCvnbMAAXcx-.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707741005490049024",
+        "conversation_id": "2104266209453818298",
+        "created_at": "2026-09-27T17:45:34.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104266209453818298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JohnnnSina/sta…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/JohnnnSina/status/2104131064751169706",
+              "start": 128,
+              "url": "https://t.co/mpn8dzgsgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104266209453818298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104131064751169706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实非常集美，，，船货崇拜的符号学空转。\n我们假设一个情景，二战的时候美军在某个太平洋小岛上因为后勤不够只能抽一种劣质烟，烟盒子被土著岛民看到了，然后以为上面的图案是什么神祗，于是美军走了以后天天画这个图想把美军召唤回来。这大概就是集美的心态，符号学空转 https://t.co/mpn8dzgsgP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104131017124802560",
+            "3_2104131027363151872",
+            "3_2104131041430757376",
+            "3_2104131051169984512"
+          ]
+        },
+        "author_id": "1899096713329324032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104131064751169706",
+        "created_at": "2026-09-27T08:48:33.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104131064751169706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KGNUJNVDM8",
+              "end": 114,
+              "expanded_url": "https://x.com/JohnnnSina/status/2104131064751169706/photo/1",
+              "media_key": "3_2104131017124802560",
+              "start": 91,
+              "url": "https://t.co/KGNUJNVDM8"
+            },
+            {
+              "display_url": "pic.x.com/KGNUJNVDM8",
+              "end": 114,
+              "expanded_url": "https://x.com/JohnnnSina/status/2104131064751169706/photo/1",
+              "media_key": "3_2104131027363151872",
+              "start": 91,
+              "url": "https://t.co/KGNUJNVDM8"
+            },
+            {
+              "display_url": "pic.x.com/KGNUJNVDM8",
+              "end": 114,
+              "expanded_url": "https://x.com/JohnnnSina/status/2104131064751169706/photo/1",
+              "media_key": "3_2104131041430757376",
+              "start": 91,
+              "url": "https://t.co/KGNUJNVDM8"
+            },
+            {
+              "display_url": "pic.x.com/KGNUJNVDM8",
+              "end": 114,
+              "expanded_url": "https://x.com/JohnnnSina/status/2104131064751169706/photo/1",
+              "media_key": "3_2104131051169984512",
+              "start": 91,
+              "url": "https://t.co/KGNUJNVDM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104131064751169706",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104131017124802560"
+          },
+          {
+            "media_key": "3_2104131027363151872"
+          },
+          {
+            "media_key": "3_2104131041430757376"
+          },
+          {
+            "media_key": "3_2104131051169984512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 889,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直不知道大肥鱼总是一副笨笨的但很努力的还经常爆典出来的样子是怎么被绘圈∩人机恋的femcel国奻当成高智的意淫对象的，你们不会真的一点也不把llm当成生产力的吧？不会吧不会吧？ https://t.co/KGNUJNVDM8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T12:56:06.000Z",
+        "description": "My dm function is broken don't dm me\n私信功能坏了不要私信。\n介尔景福，介尔昭明，猗欤缉熙，允怀多福。\n//虯龍鸞鳳，以託君子 @CaramelAster00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "CaramelAster00"
+              }
+            ]
+          }
+        },
+        "id": "1707741005490049024",
+        "is_identity_verified": false,
+        "location": "习近平床底",
+        "most_recent_tweet_id": "2104266209453818298",
+        "name": "小餅思定",
+        "pinned_tweet_id": "2100962988446675262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707741005490049024/1696535076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749059743040364544/kuCee5LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 1517,
+          "like_count": 12098,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3727
+        },
+        "url": "",
+        "username": "tatibana_sada",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-10T13:55:22.000Z",
+        "description": "全网最尊重傻福的人，无差别爱傻福。一击脱离的你拉黑你爸爸之前先把你冯送来孝敬一下",
+        "id": "1899096713329324032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104240816797712658",
+        "name": "爱傻福tv",
+        "pinned_tweet_id": "2099377584605909395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1899096713329324032/1789366103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103705542736924672/LGrDzTod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 54,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 637
+        },
+        "url": "",
+        "username": "JohnnnSina",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
